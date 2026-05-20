@@ -1,0 +1,23 @@
+2026-05-20 06:11:05,853 - INFO - 正在处理 2026-05-20 的论文数据
+2026-05-20 06:11:05,853 - INFO - 读取到 4 篇论文数据
+2026-05-20 06:11:05,853 - INFO - 正在处理第 1/4 篇论文
+2026-05-20 06:11:05,853 - INFO - 正在评审/翻译第 1 篇论文 (尝试 1/3)
+2026-05-20 06:11:05,854 - INFO - 使用模型: DeepSeek Chat
+2026-05-20 06:11:06,720 - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-20 06:11:11,520 - INFO - 第 1 篇论文处理成功
+2026-05-20 06:11:14,520 - INFO - 第 2 篇论文已处理过，跳过
+2026-05-20 06:11:14,520 - INFO - 第 3 篇论文已处理过，跳过
+2026-05-20 06:11:14,520 - INFO - 第 4 篇论文已处理过，跳过
+2026-05-20 06:11:14,521 - INFO - 论文处理统计：总数 4，成功 1，失败 0
+2026-05-20 06:11:14,898 - INFO - 开始分析论文数据，时间范围：2026-05-13 至 2026-05-20
+2026-05-20 06:11:14,911 - INFO - 处理 2026-05-20 的数据：找到 1 篇论文
+2026-05-20 06:11:14,911 - DEBUG - Building prefix dict from the default dictionary ...
+2026-05-20 06:11:15,441 - DEBUG - Dumping model to file cache /tmp/jieba.cache
+2026-05-20 06:11:15,479 - DEBUG - Loading model cost 0.567 seconds.
+2026-05-20 06:11:15,479 - DEBUG - Prefix dict has been built successfully.
+2026-05-20 06:11:15,499 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-20 06:11:15,500 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-20 06:11:15,502 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-20 06:11:15,503 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-20 06:11:18,294 - INFO - 统计图表生成完成
+2026-05-20 06:11:18,302 - INFO - 日报已生成：newsletters/2026-05-20_daily_paper.md
