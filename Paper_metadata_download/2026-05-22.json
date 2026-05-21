@@ -1,0 +1,243 @@
+[
+  {
+    "paper": {
+      "id": "42163557",
+      "title": "Self-management of patients with chronic obstructive pulmonary disease: a best practice implementation project.",
+      "summary": "BACKGROUND: People with chronic obstructive pulmonary disease (COPD) experience high prevalence and mortality rates, along with episodes of exacerbation, poorer quality of life, and increased hospital readmission. These aspects place a considerable burden on the economy and society. Despite the availability of COPD self-management guidelines, a gap between recommendations and practice persists.\nOBJECTIVE: This project aimed to improve self-management among patients with COPD by implementing evidence-based practices in a tertiary hospital in China.\nMETHODS: The JBI Evidence Implementation Framework was used to structure this project into three phases of work. Phase 1 focused on contextual issues related to barriers and understanding roles and readiness for change. Phase 2 consisted of a baseline audit of six evidence-based criteria. Strategies were implemented to improve patient self-management plans, patient education, application of action planning tools, cognitive behavior related to dyspnea fear, and inter-disciplinary teamwork. Phase 3 comprised follow-up audits to determine any improvements.\nRESULTS: Five of the six criteria demonstrated significant improvement in the follow-up results, increasing from 86.25% to 100%. This included self-management plans (95%), symptom control and exacerbation management instructions (100%), comprehensive patient education (91.25%), action plans (86.25%), and incorporation of cognitive-behavioral strategies (90%). The last criterion on prescribing corticosteroids and antibiotics for patients at risk of exacerbation showed a smaller improvement (16.25%).\nCONCLUSION: This best practice implementation project significantly improved adherence to COPD self-management practices. The findings demonstrate that the JBI Evidence Implementation Framework is a feasible and effective approach for strengthening COPD self-management and has strong potential for wider implementation and sustainability in clinical practice.\nSPANISH ABSTRACT: http://links.lww.com/IJEBH/A572.",
+      "authors": [
+        {
+          "name": "Liping Liao"
+        },
+        {
+          "name": "Qiuhong Guo"
+        },
+        {
+          "name": "Yansi Luo"
+        },
+        {
+          "name": "Qing Yuan"
+        },
+        {
+          "name": "Tingting He"
+        },
+        {
+          "name": "Zhen Xiao"
+        },
+        {
+          "name": "Lifen Wang"
+        },
+        {
+          "name": "Ping Wang"
+        },
+        {
+          "name": "Ping Li"
+        },
+        {
+          "name": "Lijuan Qiu"
+        },
+        {
+          "name": "Yan Guo"
+        },
+        {
+          "name": "Xia Shu"
+        },
+        {
+          "name": "Jing Zhong"
+        },
+        {
+          "name": "Yun-Hua Li"
+        },
+        {
+          "name": "Ju Wu"
+        }
+      ],
+      "publishedAt": "2026-05-21",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42163032",
+      "title": "A Comparative Analysis of Cortical Thickness in Female Youth With Non-Suicidal Self-Injury.",
+      "summary": "OBJECTIVE: Non-suicidal self-injury (NSSI), prevalent among children and youth, is a risk factor for future suicidal behavior. Nonetheless, the neurobiological mechanisms of NSSI remain under-explored. This study compares the cortical thickness in female youth with NSSI and a healthy control (HC) group using brain magnetic resonance imaging (MRI) and ascertains its associations with relevant factors.\nMETHODS: The NSSI group comprised inpatients meeting NSSI diagnostic criteria according to Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition, while the HC group included youth without psychiatric symptoms. Both groups included female adolescents and young adults aged 9-24 years. Clinical data were collected for the NSSI group, and brain MRIs were obtained for both groups. Cortical thickness differences between groups were explored, adjusting for age, and correlations between cortical thickness and clinical variables in the NSSI group were analyzed.\nRESULTS: Both groups included 32 participants, with no statistically significant difference in average age (NSSI group: mean age 15.47± 3.20 years; HC group: mean age 15.56±4.83 years; p>0.05). Significant intergroup differences in mean cortical thickness were observed in both the left and right hemispheres (both p=0.001). Specifically, the NSSI group exhibited significantly thinner cortical thickness in the right cingulate cortex compared to the healthy HC group (corrected p<0.05). However, correlation analysis between the cortical thickness of the right cingulate cortex and anxiety (State Anxiety Inventory for Children: r=-0.547, p=0.053) (Trait Anxiety Inventory for Children: r=-0.257, p=0.396) and Children's Depression Inventory (r=-0.231, p=0.447) scales in the NSSI group did not reveal statistically significant correlations.\nCONCLUSION: The study identified a noteworthy reduction in cortical thickness in the right cingulate cortex in the NSSI group.",
+      "authors": [
+        {
+          "name": "Hyanghee Jeong"
+        },
+        {
+          "name": "Tae Young Choi"
+        },
+        {
+          "name": "Sujin Bae"
+        },
+        {
+          "name": "Jung Yeon Moon"
+        }
+      ],
+      "publishedAt": "2026-05-21",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42160438",
+      "title": "Systemic-to-local nanorobot thrombolysis.",
+      "summary": "Magnetic micro/nanorobots hold promise for targeted thrombolysis, yet face challenges of rapid immune clearance and poor degradability, often necessitating invasive localized deployment and retrieval. Here, we present safe and versatile systemic-to-local thrombolysis enabled by magnetic nanorobots constructed from polyvinyl pyrrolidone-shielded porous Fe3O4 colloidal nanocrystal clusters (p-Fe3O4@PVP CNCs). In this building block design, the PVP coating facilitates efficient tPA (tissue plasminogen activator) loading while ensuring prolonged circulation following systemic injection. The p-Fe3O4 core provides a strong collective magnetic moment necessary for sequential magnetic collection (via gradient field H) and actuation into navigating nanorobots [via precessing field Hp(t)] for targeted thrombolysis. Following thrombolysis, removal of Hp(t) disassemble the nanorobots into dispersed CNCs that, owing to their porous structure and ultrasmall primary nanocrystals (<5 nanometers), undergo rapid lysosomal degradation and are cleared primarily via the liver-bile-intestine axis, resulting in no long-term toxicity. This platform overcomes key translational challenges for nanorobotic thrombolytic therapy.",
+      "authors": [
+        {
+          "name": "Di Zhang"
+        },
+        {
+          "name": "Ouling Zhu"
+        },
+        {
+          "name": "Fangzhi Mou"
+        },
+        {
+          "name": "Xinyi Wang"
+        },
+        {
+          "name": "Chuan Cao"
+        },
+        {
+          "name": "Wei Yi"
+        },
+        {
+          "name": "Manyi Yang"
+        },
+        {
+          "name": "Yun Liu"
+        },
+        {
+          "name": "Xinkang Du"
+        },
+        {
+          "name": "Xiao Wang"
+        },
+        {
+          "name": "Jianfeng Liu"
+        },
+        {
+          "name": "Ding Wang"
+        },
+        {
+          "name": "Wei Luo"
+        },
+        {
+          "name": "Zhi Li"
+        },
+        {
+          "name": "Jianguo Guan"
+        }
+      ],
+      "publishedAt": "2026-05-20",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42044611",
+      "title": "Factors influencing vaccination staff willingness to vaccinate children with medical conditions: A cross-sectional study in China.",
+      "summary": "BACKGROUND: Children with medical conditions face elevated risks from vaccine-preventable diseases, yet their vaccination coverage remains suboptimal. This study examines vaccination staff's willingness to immunize this special population, guided by the Theory of Planned Behavior (TPB) conceptual framework.\nMETHODS: We conducted a cross-sectional questionnaire-based survey of vaccination staff working at any of 416 vaccination clinics that were selected at random from three exemplar cities of China. TPB-guided analyses included regression and structural equation modeling to examine predictors of vaccination willingness.\nRESULTS: A total of 428 vaccinating clinicians participated in the survey (response rate, 91.45%); 94.63% of respondents were female. The overall average score of willingness to vaccinate children with special health needs was 3.893 ± 0.795 points out of 5 points, indicating moderately-high willingness, with 50.9% of respondents having high willingness (≥4 points). Respondents' clinic type being a hospital clinic, position being the head of the clinic, and more frequent training were positively associated with willingness to vaccinate this special population. The structural equation model had good fit (CFI = 0.932, TLI = 0.920, χ2/df = 2.868). The structural equation model showed that perceived behavioral control had both a direct effect (β = 0.465, P < 0.001) and an indirect effect through subjective norms (β = 0.128, P = 0.001) on behavioral intention (willingness). Subjective norms (β = 0.323, P < 0.001) and behavioral attitudes (β = 0.095, P = 0.032) also exerted direct positive effects on behavioral intention. The total effects, ranked in descending order of influence, were perceived behavioral control, subjective norms, and behavioral attitudes.\nCONCLUSIONS: The willingness of vaccination staff to vaccinate children with medical conditions is generally acceptable but has room for improvement. Perceived behavioral control emerged as the most critical influencing factor. We recommend (1) case-oriented practical training to boost competence; (2) unified, operable technical guidelines; (3) leadership engagement and social-support networks.",
+      "authors": [
+        {
+          "name": "Zuyao Cheng"
+        },
+        {
+          "name": "Yudan Song"
+        },
+        {
+          "name": "Meng Liu"
+        },
+        {
+          "name": "Yuxiao Wu"
+        },
+        {
+          "name": "Yamin Wang"
+        },
+        {
+          "name": "Junhong Li"
+        },
+        {
+          "name": "Ying Xu"
+        },
+        {
+          "name": "Xindan Wang"
+        },
+        {
+          "name": "Xueqing Peng"
+        },
+        {
+          "name": "Zundong Yin"
+        },
+        {
+          "name": "Chao Ma"
+        }
+      ],
+      "publishedAt": "2026-05-08",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42013593",
+      "title": "The role of misinformation in COVID-19 vaccine hesitancy in low- & middle-income countries.",
+      "summary": "BACKGROUND: During the COVID-19 pandemic, timely vaccination was crucial in acquiring herd immunity. While high-income countries typically had better access to vaccines, interventions were implemented to improve accessibility for low and middle-income countries (LMICs). Vaccine uptake presented major barriers to achieving herd immunity globally and was more significant in LMICs. Vaccine hesitancy was amplified by misinformation, including but not limited to social media misinformation. This scoping review aims to: (1) explore the role of misinformation in COVID-19 vaccine hesitancy in LMICs and (2) identify primary sources, key themes, and dissemination channels of this misinformation, encompassing all relevant sources but with an emphasis on social media, given the infodemic context which proved to be particularly significant during the COVID-19 pandemic.\nMETHODS: This scoping review was conducted using the Arksey and O'Malley framework and PRISMA-ScR guidelines. Five databases (Scopus, Embase, PubMed, CINAHL, and PsycINFO) were searched using predefined search terms. All identified articles underwent a rigorous screening process, and if eligible, proceeded to data extraction.\nRESULTS: In total, 119 studies were included in this review. Primary dissemination platforms included Facebook, WhatsApp, X, YouTube, Instagram, TikTok, Telegram, Pinterest, LinkedIn, and Zalo. Key themes of misinformation identified included (1) malicious intent, (2) fear of side effects, (3) concerns about vaccine development and safety, (4) religious and cultural beliefs, and (5) natural immunity.\nCONCLUSION: Overall, this scoping review addresses the literature gap in the role of misinformation pertaining to COVID-19 vaccine hesitancy and suggests investing in misinformation-mitigation interventions to reduce public harms and disruptions.",
+      "authors": [
+        {
+          "name": "Aryan Yogesh Sarnaik"
+        },
+        {
+          "name": "Ziyad Uddin Khan"
+        },
+        {
+          "name": "Thenugaa Rajeswaran"
+        },
+        {
+          "name": "Aditi Majoe"
+        },
+        {
+          "name": "Joy Zeng"
+        },
+        {
+          "name": "Lakshna Ponrajah"
+        },
+        {
+          "name": "Zaara Kastura"
+        },
+        {
+          "name": "Labiqah Iftikhar"
+        },
+        {
+          "name": "Md Akhtarul Islam"
+        },
+        {
+          "name": "Naumana Basharat"
+        },
+        {
+          "name": "Mariam Hassan"
+        },
+        {
+          "name": "Jasleen Kaur"
+        },
+        {
+          "name": "Daliana Lobo Torres"
+        },
+        {
+          "name": "Dipika Shankar Bhattacharyya"
+        },
+        {
+          "name": "Bara' Abdallah AlShurman"
+        },
+        {
+          "name": "Nuzhat Namiha"
+        },
+        {
+          "name": "Zahid Ahmad Butt"
+        }
+      ],
+      "publishedAt": "2026-05-08",
+      "source": "PubMed"
+    }
+  }
+]
