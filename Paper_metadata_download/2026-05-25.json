@@ -1,0 +1,178 @@
+[
+  {
+    "paper": {
+      "id": "42176700",
+      "title": "Migration status and urologic health inequities: a scoping review.",
+      "summary": "PURPOSE OF REVIEW: Migration is an increasingly important determinant of health and healthcare access. Migrants often face language barriers, socioeconomic vulnerability, administrative obstacles, and reduced access to preventive and specialist services. This review summarizes current evidence on migration-related inequities in urologic care.\nRECENT FINDINGS: Available evidence suggests that migrant populations experience disparities across the continuum of urologic care, including screening, diagnostic work-up, access to specialist evaluation, treatment receipt, and follow-up. In urologic oncology, migrants are less likely to participate in screening programs and may present with more advanced disease. Structural barriers, language discordance, low health literacy, cultural beliefs, medical mistrust, and insurance or legal insecurity all contribute to delayed care. Similar inequities are seen in nonmalignant urologic conditions, including lower urinary tract symptoms, overactive bladder, urinary incontinence, and nephrolithiasis, where symptoms are often underreported and undertreated.\nSUMMARY: Migration is an important but under-studied determinant of inequity in urologic care. The current literature remains heterogeneous and often fails to distinguish between migration status and race or ethnicity. Future research should use standardized migration-related variables and focus on actionable strategies to improve equitable access, communication, early diagnosis, and high-quality treatment for migrant populations.",
+      "authors": [
+        {
+          "name": "Kimia Goodarzi"
+        },
+        {
+          "name": "Marcin Miszczyk"
+        },
+        {
+          "name": "Pierre I Karakiewicz"
+        },
+        {
+          "name": "Leonardo O Reis"
+        },
+        {
+          "name": "Shahrokh F Shariat"
+        }
+      ],
+      "publishedAt": "2026-05-24",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "41905712",
+      "title": "Resting-state quantitative electroencephalography in men and women college athletes before and after sport-related concussion.",
+      "summary": "This study aimed to determine whether sex-related differences exist in resting-state quantitative electroencephalography (rs-QEEG), along with post-concussion symptoms and psychological health indicators, at baseline and within 72 h following a sport-related concussion. Baseline visit included 115 (31 women) student-athletes aged 16-22 years old where self-reported measures of psychological health and post-concussion symptoms, as well as 10 min of rs-QEEG (five minutes eyes-closed, five minutes eyes-open) were recorded. 30 athletes (8 women) subsequently sustained a sport-related concussion during training or competition of the 2019-2020 season and were reassessed with the same post-concussion symptoms scale and 10 min of rs-QEEG. Primary rs-QEEG outcomes included absolute and relative power across standard frequency bands. At baseline, women exhibited higher beta1 power (absolute and relative) and higher beta2 power (absolute), primarily in the eyes-open condition, after Benjamini-Hochberg corrections were applied. They also reported greater scores for anxiety, sleep-arousal, affective and total symptoms. No significant associations between rs-QEEG power and symptoms were observed after adjustment for multiple comparisons. Following a concussion, no statistically significant main effect of time on rs-QEEG measures was observed after correction for multiple comparisons. However, theta absolute power showed a decrease across regions in the eyes-open condition at the unadjusted level. Additionally, women continued to show higher beta2 power (absolute and relative) than men. An association between alpha absolute power and affective symptoms was observed in women at the post-concussion assessment but did not remain significant in sensitivity analyses. Overall, these findings indicate sex-related differences across rs-QEEG parameters and symptom profiles, both before and after a concussion. Although the clinical utility of rs-QEEG has not yet been established, our findings underscore the importance of considering biological sex when interpreting rs-QEEG metrics and evaluating post-concussion symptomatology.",
+      "authors": [
+        {
+          "name": "Mariane Doucet"
+        },
+        {
+          "name": "Hélène Brisebois"
+        },
+        {
+          "name": "Anne-Catherine Gauthier-Lamer"
+        },
+        {
+          "name": "Michelle McKerral"
+        }
+      ],
+      "publishedAt": "2026-04-21",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "41887595",
+      "title": "Convolutional neural networks detected changes in facial expressions of mice that had conditioned fear stress.",
+      "summary": "Animal models are essential for studying aversive states such as fear and pain. Facial expressions may provide non-invasive readouts of aversive states in animals. This study investigated whether changes in facial expressions, which are potentially consistent between humans and mice, can serve as objective indicators of fear responses and distinguish fear from pain. We analyzed changes in the facial expressions of mice associated with conditioned fear stress (CFS) using convolutional neural networks (CNNs). Photographs of CFS and control mice were analyzed using four advanced CNN models: VGG16, ResNet50, DenseNet121, and InceptionV3. The CNNs identified CFS mice from facial images under contrasts: control/non-freezing vs CFS/freezing and control/non-freezing vs CFS/non-freezing, with consistently high performance (Control/non-freezing vs CFS/freezing: sensitivity 0.942, specificity 0.929, accuracy 0.935, precision 0.929, AUC 0.966; Control/non-freezing vs CFS/non-freezing: sensitivity 0.912, specificity 0.900, accuracy 0.906, precision 0.902, AUC 0.950). The ability to detect CFS without freezing decreased as stress intensity weakened, from an AUC of 0.950 to 0.701, suggesting that CNNs can detect facial changes depending on the degree of stress exposure. Facial changes were particularly pronounced in freezing mice, further supporting their association with CFS-related emotional responses. During testing, mice were returned to the conditioning chamber without shock; therefore, this facial expression could reflect fear response rather than pain response. These findings demonstrate the potential of CNNs to serve as non-invasive tools for detecting stress-induced affective changes in mice.",
+      "authors": [
+        {
+          "name": "Takatoshi Sakata"
+        },
+        {
+          "name": "Atsushi Teramoto"
+        },
+        {
+          "name": "Ryoya Tada"
+        },
+        {
+          "name": "Masaya Hasegawa"
+        },
+        {
+          "name": "Hitomi Kurahashi"
+        },
+        {
+          "name": "Kazuo Kunisawa"
+        },
+        {
+          "name": "Toshitaka Nabeshima"
+        },
+        {
+          "name": "Akihiro Mouri"
+        }
+      ],
+      "publishedAt": "2026-04-21",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "41876056",
+      "title": "Modelling social fear in mice: advancements in social fear conditioning and social defeat paradigms.",
+      "summary": "Social anxiety disorder (SAD) is a common and chronic mental illness whose pathogenesis is not yet fully understood, and treatment responses are often suboptimal. Animal models play a crucial role in elucidating its neurobiological mechanisms and developing novel therapeutic approaches. This article systematically reviews two primary mouse modelling paradigms: social fear conditioning (SFC) and social defeat. The SFC model induces specific social fear behaviors by pairing a social stimulus with an aversive event, whereas the social defeat model, by simulating social conflict and psychological stress, more closely mirrors the ecological validity of human SAD. This review also examines recent advancements in these models, including automation, standardization, behavioral specificity, and the enhancement of psychological components. Furthermore, it outlines future directions for model development, including modelling genetic susceptibility, investigating the role of gut microbiota in conjunction with genetic factors, and examining sex differences. The continuous refinement of these models provides powerful tools for deepening our understanding of the neural mechanisms underlying SAD and for screening effective interventions.",
+      "authors": [
+        {
+          "name": "Haifeng Xu"
+        }
+      ],
+      "publishedAt": "2026-04-21",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "41865828",
+      "title": "The effects of acute psychosocial stress on binge urges, inhibitory control, negative urgency and eating pathology in Binge Eating Disorder.",
+      "summary": "Stress is frequently reported as a trigger for binge episodes, yet it remains unclear how subjective and physiological stress responses interact with cognitive and affective mechanisms to increase binge eating risk. The present study investigated the effects of acute psychosocial stress on binge urges, focusing on the role of state- and trait-level vulnerabilities. Twenty-eight individuals with BED were randomized to either a Stress condition (n = 14) or No-Stress condition (n = 14). Following an acute psychosocial stressor, participants completed the Stop-Signal Task to behaviourally assess inhibitory control. Self-reported mood, binge urge ratings and saliva samples for stress biomarker detection were collected at three timepoints throughout the experimental session. Results demonstrated that acute psychosocial stress elicited marked increases in total mood disturbance, without corresponding physiological stress responses and significantly impaired inhibitory control. Notably, only subjective stress responses were associated with greater binge urges, whereas physiological stress responses were not. This dissociation highlights subjective stress reactivity as a clinically meaningful mechanism of risk in BED, underscoring the potential value of interventions that target stress perception and regulation to reduce binge eating vulnerability.",
+      "authors": [
+        {
+          "name": "S L Brassard"
+        },
+        {
+          "name": "K Punia"
+        },
+        {
+          "name": "M Laliberte"
+        },
+        {
+          "name": "H Liu"
+        },
+        {
+          "name": "K M Lucibello"
+        },
+        {
+          "name": "S Potter"
+        },
+        {
+          "name": "I M Balodis"
+        }
+      ],
+      "publishedAt": "2026-04-21",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "41786020",
+      "title": "Autonomic and resting-state effective connectivity signatures of binge eating behavior.",
+      "summary": "Autonomic dysfunction, measured by heart rate variability (HRV) is implicated in the manifestation of binge eating (BE) behaviors. Aberrant resting-state functional connectivity among brain regions involved in reward processing, affect regulation, and cognitive control have been implicated in BE. However, the co-influence of brain regions involved in central autonomic control and BE behavior remains unclear. The current study examines whether effective connectivity (EC) patterns in neural networks supporting the afore-mentioned motivational, emotional, and cognitive processes moderates the relationship between HRV and BE behaviors. Resting-state fMRI data from an a priori-defined eating regulation network was analyzed in 158 healthy adults (BE = 30; Control = 128) using spectral dynamic causal modeling. Leave-one-out cross-validation (LOOCV) evaluated the predictive utility of EC patterns on BE group status. Although 20 EC connections were associated with BE (posterior probability > 0.99), EC from the left posterior cingulate cortex to the hypothalamus predicted group membership above chance (AUC = 0.622, 95% CI [0.508, 0.731]). Approximate entropy was a significant predictor of binge eating behavior (ß = -6.625; p < 0.05) in a subset of 114 participants with usable photoplethysmography data (BE = 24; Control = 90). This relationship was significantly moderated by ventral tegmental area to hypothalamus EC (ß = -6.529; p < 0.05). These findings uncover novel directional information flow from brain regions involved in reward processing and emotion regulation to those involved in food-seeking behavior is mitigated by autonomic tone, offering promising targets for future intervention strategies for BE.",
+      "authors": [
+        {
+          "name": "Etienne Atangana"
+        },
+        {
+          "name": "Maria Di Bello"
+        },
+        {
+          "name": "Roger McIntosh"
+        }
+      ],
+      "publishedAt": "2026-04-21",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "41627899",
+      "title": "Neurocognitive performance and depressive mood in people with HIV: The role of prescription opioids use.",
+      "summary": "BACKGROUND: The issue of potential adverse reactions or toxicities of pharmacotherapies used for chronic diseases in people with HIV (PWH) is still to be clarified.\nMETHODS: This study targeted potential effects on neurocognition and mood from prescription opioids, alone or in combination with other classes of drugs, using cross-sectional data from 400 participants in the multicenter CHARTER study.\nRESULTS: We found that prescription opioid use alone was not associated with neurocognitive performance (β=-1.05, SE=0.80, p =0.18) or depressive mood (β=-0.08, SE=0.19, p =0.65). However, if used in combination with antidepressants, prescription opioid use significantly correlated with reduced neurocognitive performance (β=-2.58, SE=1.17, p =0.03). Also, combinations of prescription opioids and antidepressants with statins (β=-2.87, SE=1.49, p =0.05) or lipid-lowering agents other than statins (β=-2.88, SE=1.39, p =0.04) were associated with lower neurocognitive performance. The interaction of prescription opioid use with the presence of distal sensory polyneuropathy (DSP) was significant ( p =0.03). In those without DSP, prescription opioid use was associated with better neurocognitive performance (β=4.25, SE=2.13, p =0.04); by contrast, in those with DSP, the direction of the effect was reversed. No modifying effect on neurocognition was obtained considering distal neuropathic pain, lifetime substance disorder, lifetime major depression diagnosis, or detectable viral load.\nCONCLUSION: These findings underscore the importance of neurocognition impact from drug combinations and careful consideration of opioid prescriptions in combination with other medications in the management of PWH.",
+      "authors": [
+        {
+          "name": "Enrico Ripamonti"
+        },
+        {
+          "name": "Qing Ma"
+        },
+        {
+          "name": "Anya Umlauf"
+        },
+        {
+          "name": "Scott Letendre"
+        },
+        {
+          "name": "Ronald J Ellis"
+        }
+      ],
+      "publishedAt": "2026-02-02",
+      "source": "PubMed"
+    }
+  }
+]
