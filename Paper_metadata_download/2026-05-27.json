@@ -1,0 +1,28 @@
+[
+  {
+    "paper": {
+      "id": "42172430",
+      "title": "Position-Dependent External Load Management in Professional Football: An Exploratory Observational Study on the Effects of Microcycle Length.",
+      "summary": "Galiano, C, Nakamura, FY, Ribeiro, J, Asín-Izquierdo, I, and Asian-Clemente, JA. Position-dependent external load management in professional football: an exploratory observational study on the effects of microcycle length. J Strength Cond Res XX(X): 000-000, 2026-The literature shows that professional football players face different external loads during matches based on their playing positions, but it remains unclear whether their weekly accumulated load reflects their specific roles or remains consistent regardless of position. The objectives of this study were to analyze how microcycle length affects the external load ratio across different playing positions in professional football players, and to examine differences in the ratio values depending on players' specific positions and microcycle length. Global Positioning System-based metrics from a professional football club were collected for 2 consecutive seasons, covering a total of 92 matches (68 regular season, 12 European competitions, and 12 national cup). The external load ratio was defined as the accumulated load in the microcycle/match load in competition. The results of the study show that, in most cases, longer microcycles are associated with higher external load ratios across all playing positions and variables analyzed (p < 0.001). However, except for total distance, all external load variables showed similar ratios between 3-day and 4-day microcycles. Furthermore, the ratios between positions remained similar across all playing positions and microcycle lengths evaluated, except for high decelerations in 3- and 6-day microcycles (p < 0.040) and high accelerations in 3-day microcycles (p < 0.001). In conclusion, longer microcycles increase external load ratios across all playing positions, with training loads generally aligned with match demands regardless of position or microcycle length. Effective load monitoring and individualization are essential to optimize performance and reduce injury risk in professional football.",
+      "authors": [
+        {
+          "name": "Carlos Galiano"
+        },
+        {
+          "name": "Fábio Yuzo Nakamura"
+        },
+        {
+          "name": "João Ribeiro"
+        },
+        {
+          "name": "Iván Asín-Izquierdo"
+        },
+        {
+          "name": "Jose Antonio Asian-Clemente"
+        }
+      ],
+      "publishedAt": "2026-05-22",
+      "source": "PubMed"
+    }
+  }
+]
