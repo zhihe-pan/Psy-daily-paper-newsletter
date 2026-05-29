@@ -1,0 +1,128 @@
+[
+  {
+    "paper": {
+      "id": "41962857",
+      "title": "The exposure to the air pollutant fine particulate matter (PM2.5) slightly enhances high-fat diet-induced anxiety-like behavior and impairs brain redox balance in female rats.",
+      "summary": "INTRODUCTION: Obesity is a major risk factor for mood disorders. Additionally, the pollutant fine particulate matter (PM2.5) has effects on central nervous system (CNS) that demand elucidation.\nOBJECTIVE: To evaluate if PM2.5 potentiates the neuropsychological and oxidative effects of obesity.\nMETHODS: Female Wistar rats received high-fat (HFD) or standard diet ad libitum for 24 weeks and were daily exposed to 250 µg of PM2.5, or saline (50 µL), via intranasal instillation. In the last two days, animals underwent open field and elevated plus maze tests. Brain structures were collected for oxidative stress evaluation.\nRESULTS: HFD and PM2.5 had independent and cumulative effects on anxiety-like behaviors. HFD reduced exploration in the open field, whereas PM2.5 enhanced the time spent in the closed arms of the elevated plus maze. Additionally, animals exposed to pollution were more susceptible to the effects of diet in reducing rearing frequency, suggesting subtle cumulative effects. Obese rats exposed to PM2.5 presented higher lipoperoxidation in hippocampus. Conversely, HFD decreased lipoperoxidation and SOD defense in the cortex, while PM2.5 primarily affected the cerebellum's antioxidant defense.\nCONCLUSION: PM2.5 and obesity have independent effects, and their association increases vulnerability to each other's neurobehavioral and oxidative impacts.",
+      "authors": [
+        {
+          "name": "Lílian Corrêa Costa-Beber"
+        },
+        {
+          "name": "Eloísa Gabriela de Pelegrin Basso"
+        },
+        {
+          "name": "Paula Taís Friske"
+        },
+        {
+          "name": "Jaíne Borges Dos Santos"
+        },
+        {
+          "name": "Lucas Machado Sulzbacher"
+        },
+        {
+          "name": "Samara Nicole Friske"
+        },
+        {
+          "name": "Felipe Rafael Passos"
+        },
+        {
+          "name": "Mirna Stela Ludwig"
+        },
+        {
+          "name": "Pauline Brendler Goettems-Fiorin"
+        },
+        {
+          "name": "Cláudia Ramos Rhoden"
+        },
+        {
+          "name": "Thiago Gomes Heck"
+        }
+      ],
+      "publishedAt": "2026-05-13",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "41875766",
+      "title": "Green strategies for pesticide residue removal in fruits and vegetables: Mechanistic insights and comparative evaluation.",
+      "summary": "The persistence of pesticide (PS) residues in fruits and vegetables continues to challenge global food safety. Natural degradation processes such as hydrolysis, photolysis, and microbial transformation are often insufficient to meet regulatory limits. Advanced removal technologies including physical treatments, oxidative processes, and enzymatic strategies accelerate residue reduction but face limitations in stability, selectivity, and applicability. This review provides a mechanism-focused and comparative analysis of these approaches, linking pesticide physicochemical properties, matrix interactions, and operational parameters to removal efficiency. Key findings on degradation pathways, processing outcomes, and combined-treatment effects are highlighted. By critically evaluating efficiency, practical feasibility, and remaining challenges, this review clarifies gaps in current knowledge and guides the development of effective and industrially implementable strategies for pesticide mitigation in food systems.",
+      "authors": [
+        {
+          "name": "Mengge Li"
+        },
+        {
+          "name": "Zhilong Du"
+        },
+        {
+          "name": "Mengqiang Zhang"
+        },
+        {
+          "name": "Haiyun Song"
+        },
+        {
+          "name": "Yalin Guo"
+        },
+        {
+          "name": "Zhaojin Chen"
+        }
+      ],
+      "publishedAt": "2026-05-04",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "41796893",
+      "title": "A multi-omics comparison unveils convergent and divergent antidepressant mechanisms of fluoxetine and St. John's wort extract.",
+      "summary": "Fluoxetine (Flx), a selective serotonin reuptake inhibitor, and St. John's Wort extract (SJW), a herbal remedy, are common treatments for depression. However, a comprehensive comparison of their molecular mechanisms remains elusive. This study aimed to systematically elucidate and compare their therapeutic actions using an integrated proteomics and metabolomics approach. Behavioral and pharmacological effects of both treatments were assessed through behavioral tests. Proteomics and metabolomics analyses were performed on cortical tissue to identify differentially expressed proteins and metabolites. Furthermore, Mass Spectrometry Imaging (MSI) was employed to visualize the spatial distribution of key metabolites within the cortex. Bioinformatic analysis and integrated multi-omics analysis were used to map the signaling pathways and key molecular targets. Both Flx and SJW induced behavioral changes in locomotor activity as observed through behavioral tests. Multi-omics analysis revealed that both treatments share common regulatory patterns involving neuroplasticity-related pathways and Nicotinate and nicotinamide metabolism. Flx showed a more focused effect on synaptic plasticity. In contrast, SJW exhibited a broader modulation involving inflammatory pathways and amino acid metabolism. MSI analysis confirmed the localized accumulation of key differential metabolites, such as N-Acetyl-l-aspartate, ADP and l-Glutamine. Integrated analysis identified Rhoa, Scn1a, and Camk2a as key shared hub proteins. SIGNIFICANCE: Flx and SJW are widely used antidepressants in clinical practice. This multi-omics study deciphers the convergent and divergent molecular modulations of Flx and SJW, providing insight into their potential mechanisms relevant to depression treatment. While both promote neuroplasticity, Flx's action is more centered on synaptic remodeling, whereas SJW possesses additional strong anti-inflammatory and amino acid metabolism-modulating properties. These findings provide a detailed molecular basis for their clinical efficacy and suggest distinct therapeutic strengths.",
+      "authors": [
+        {
+          "name": "Jiale Zhang"
+        },
+        {
+          "name": "Yuhang Cai"
+        },
+        {
+          "name": "Panpan Zhang"
+        },
+        {
+          "name": "Xurui Hao"
+        },
+        {
+          "name": "Bowen Guo"
+        },
+        {
+          "name": "Wanning Zhang"
+        },
+        {
+          "name": "Yiying Wu"
+        },
+        {
+          "name": "Jiawen Sun"
+        },
+        {
+          "name": "Xiang Xu"
+        },
+        {
+          "name": "Wanting Li"
+        },
+        {
+          "name": "Bowen Zhang"
+        },
+        {
+          "name": "Shuai Zhang"
+        },
+        {
+          "name": "Wei Zhang"
+        },
+        {
+          "name": "Dezhi Kong"
+        }
+      ],
+      "publishedAt": "2026-03-31",
+      "source": "PubMed"
+    }
+  }
+]
