@@ -1,0 +1,48 @@
+[
+  {
+    "paper": {
+      "id": "42234621",
+      "title": "Assessment and treatment of adolescent hair loss.",
+      "summary": "PURPOSE OF REVIEW: Hair loss in adolescents carries significant psychosocial impact, and it is often underrecognized and managed without adolescent-specific approaches. This review describes recent advances in diagnostics, pathophysiology, and therapies to improve diagnosis and management of adolescent alopecia.\nRECENT FINDINGS: Trichoscopy and ultraviolet-enhanced follicular dermoscopy improve diagnostic accuracy and reduce invasive testing. Androgenetic alopecia is linked to obesity and genetic predisposition; topical minoxidil remains first-line with low-dose oral minoxidil use supported in some cases. Alopecia areata severity frameworks now include chronicity, relapse, nonscalp involvement, refractoriness, and psychosocial burden. Systemic JAK inhibitors have emerged as treatment options for adolescents with sustained regrowth and patient-reported improvements. Psychogenic hair loss is often comorbid with anxiety, obsessive-compulsive disorder, or attention-deficit/hyperactivity disorder.\nSUMMARY: Early, etiology-driven assessment and multidisciplinary care are critical for adolescent hair loss. Adolescent-specific data support more individualized systemic treatments for some types of hair loss, while gaps remain in preventive strategies and long-term outcomes, highlighting priorities for future research.",
+      "authors": [
+        {
+          "name": "Adrienne Conza"
+        },
+        {
+          "name": "Nujood Alzahrani"
+        },
+        {
+          "name": "Yasin Damji"
+        }
+      ],
+      "publishedAt": "2026-06-03",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "41932113",
+      "title": "Comparison of transcriptional activation by corticosteroids of human MR (Ile-180) and haplotype (Val-180).",
+      "summary": "While the human mineralocorticoid receptor (MR) regulates electrolyte homeostasis through aldosterone activation of the kidney MR, the MR also is highly expressed in the brain, where the MR is activated by cortisol. Here, we report the half-maximal response (EC50) and fold-activation by cortisol, aldosterone and other corticosteroids of human MR rs5522, a haplotype containing valine at codon 180 instead of isoleucine found in wild-type MR (Ile-180). MR rs5522 (Val-180) has been studied for actions in the human brain involving coping with stress and depression. We compared the EC50 and fold-activation by corticosteroids of MR rs5522 and wild-type MR transfected into HEK293 cells with either the TAT3 promoter or the MMTV promoter. Parallel studies investigated the binding of MR antagonists, spironolactone and progesterone, to MR rs5522 to investigate their use as antagonists of MR rs5522. In HEK293 cells with the MMTV promoter, MR rs5522 had a slightly higher EC50 compared to wild-type MR and a similar fold-activation for all corticosteroids. In contrast, in HEK293 cells with the TAT3 promoter, MR rs5522 had a higher EC50 (lower affinity) and fold-activation for cortisol compared to wild-type MR (Ile-180), while compared to wild-type MR, the EC50s of MR rs5522 for aldosterone and corticosterone were slightly lower and fold-activation was higher. Spironolactone and progesterone had similar antagonist activity for MR rs5522 and MR (Ile-180) in the presence of MMTV and TAT3 promoters in HEK293 cells indicating these antagonists are potential regulators of brain MR rs5522 to treat hyperactivity that contributes to chronic fatigue syndrome.",
+      "authors": [
+        {
+          "name": "Yoshinao Katsu"
+        },
+        {
+          "name": "Jiawen Zhang"
+        },
+        {
+          "name": "Ya Ao"
+        },
+        {
+          "name": "Patricia Donnellan"
+        },
+        {
+          "name": "Michael E Baker"
+        }
+      ],
+      "publishedAt": "2026-04-21",
+      "source": "PubMed"
+    }
+  }
+]
