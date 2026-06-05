@@ -1,0 +1,95 @@
+[
+  {
+    "paper": {
+      "id": "42070553",
+      "title": "Who's really in the loop? Rethinking oversight in AI-assisted health care.",
+      "summary": "Human-in-the-loop oversight is widely invoked as a safeguard against potential harm from artificial intelligence (AI) used in health care, yet it functions more as symbolic reassurance than substantive protection. We argue that human-in-the-loop fails for three interconnected reasons: AI used in health care can amplify existing structural inequities at unprecedented scale, intersectional harms elude detection by oversight models premised on neutral singular reviewers, and clinicians operate under constraints that preclude meaningful interrogation of algorithmic outputs. Drawing on actor-network theory, feminist epistemology, and political philosopher Iris Marion Young's social connection model of justice, we show that current governance individualises responsibility while obscuring institutional complicity. We propose three pathways towards more substantive accountability: co-reasoning frameworks that position AI as one voice in clinical deliberation, community-owned governance with authority to suspend harmful systems, and institutional liability structures that redistribute responsibility from clinicians to the organisations that design and deploy these tools.",
+      "authors": [
+        {
+          "name": "Rawan Abulibdeh"
+        },
+        {
+          "name": "Gift Osei Agyemang"
+        },
+        {
+          "name": "Leo Anthony Celi"
+        },
+        {
+          "name": "Rahul Gorijavolu"
+        },
+        {
+          "name": "Nai Lee Kalema"
+        },
+        {
+          "name": "Ricardo Kleinlein"
+        },
+        {
+          "name": "Kaushik Madapati"
+        },
+        {
+          "name": "Seyed Reza Salarikia"
+        },
+        {
+          "name": "Alaa Youssef"
+        }
+      ],
+      "publishedAt": "2026-05-04",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "41876084",
+      "title": "Neural network disruptions and their impact on emotion regulation and executive functioning in children treated for brain tumors.",
+      "summary": "The interplay between emotion and cognition is essential for understanding behavior and mental health. Emotional and cognitive processes are linked through neural circuits, with brain networks such as the limbic system, default mode network, and executive control network modulating emotional responses and cognitive functions. Disruptions to these networks can impact emotion regulation and executive functioning. Children with acquired brain injuries, including pediatric brain tumor survivors (PBTS), may be especially vulnerable to such disruptions. This study explores how network disruptions affect emotion regulation and executive functioning. Participants included 18 typically developing children, 16 PBTS treated with surgery only, and 19 PBTS treated with surgery and radiation (13.14 ± 2.65 years). Structural connectivity was examined using tractography, and resting state functional connectivity was assessed using magnetoencephalography (MEG). Emotion regulation and executive functioning were measured through the Behavior Rating Inventory of Executive Function and Cambridge Neuropsychological Test Automated Battery. Statistical modeling assessed the impact of connectivity on behavioral outcomes. Compared to healthy controls, PBTS showed greater differences in emotion regulation than executive functioning, structural compromise, and aberrant neural synchrony. No significant differences emerged between PBTS treated with surgery versus radiation. Structural connectivity influenced neural synchrony, emotion regulation, and executive functioning. Emotion regulation and executive functioning were interrelated, with structural compromise resulting in poorer outcomes through disrupted neural synchrony. These findings highlight the critical role of network connectivity in supporting emotion regulation and executive functioning, and underscore the importance of considering these processes as interconnected domains influenced by the organization of brain networks.",
+      "authors": [
+        {
+          "name": "Noor Z Al Dahhan"
+        },
+        {
+          "name": "Iska Moxon-Emre"
+        },
+        {
+          "name": "Julie Tseng"
+        },
+        {
+          "name": "Cynthia B de Medeiros"
+        },
+        {
+          "name": "Suzanne Laughlin"
+        },
+        {
+          "name": "Eric Bouffet"
+        },
+        {
+          "name": "Donald J Mabbott"
+        }
+      ],
+      "publishedAt": "2026-05-08",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "41831824",
+      "title": "First-person perspective gesture observation in virtual reality: A novel approach for anomia rehabilitation in post-stroke aphasia.",
+      "summary": "According to the embodied cognition framework, language is closely linked to the motor system and rehabilitation programs should stimulate language processing through the activation of motor and perceptual systems. In this study, we present an innovative training program based on the embodied cognition framework, using immersive technology to stimulate the perceptual-motor system through gesture observation from a first-person perspective. Post-stroke aphasic patients, in the post-acute phase and presenting with naming deficits, were assigned to one of two training conditions. The experimental group (EG) viewed videos of everyday gestures (i.e., pouring water, cutting carrots) from a first-person perspective, enhancing motor resonance, while the active control group (AC) viewed the same gestures from a third-person perspective. During video playback, the action was named by a female voice and the patient had to repeat it after video completion. The training was administered three times per week for four weeks. Naming abilities, along with other language and quality of life measures, were assessed pre- and post-intervention. Bayesian analysis of the primary outcome - percentage of rehabilitated items - yielded a Bayes factor BF+0 = 2.86, providing anecdotal-to-moderate evidence in favour of the first-person perspective group. The EG showed a higher mean percentage of rehabilitated items (M = 85.5%, SD = 22.5%) compared to the AC group (M = 50.5%, SD = 33.4%). No between-group differences were observed for broader language or quality-of-life measures. These preliminary, hypothesis-generating findings suggest greater efficacy of immersive, embodied gesture observation in promoting word retrieval recovery, and warrant replication in larger, adequately powered studies.",
+      "authors": [
+        {
+          "name": "Alice Cancer"
+        },
+        {
+          "name": "Alessandra Maietti"
+        },
+        {
+          "name": "Michella Caldana"
+        },
+        {
+          "name": "Claudia Repetto"
+        }
+      ],
+      "publishedAt": "2026-05-08",
+      "source": "PubMed"
+    }
+  }
+]
