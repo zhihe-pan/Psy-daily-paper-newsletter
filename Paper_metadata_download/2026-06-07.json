@@ -1,0 +1,19 @@
+[
+  {
+    "paper": {
+      "id": "42223098",
+      "title": "Structure-resolved free-energy estimation of the 38-atom Lennard-Jones cluster via population annealing.",
+      "summary": "We systematically investigate the thermodynamic landscape of the 38-atom Lennard-Jones cluster LJ38 using Population Annealing (PA), a method suited for systems with challenging double-funnel energy landscapes. By employing an adaptive temperature schedule, we demonstrate that thermodynamic observables, such as internal energy and heat capacity, converge robustly when the population size is sufficiently large. To gain deeper insights into the competing basins, we introduce an integrated framework that combines PA reweighting factors with structure-resolved analysis. Using quenched configurations characterized by potential energy and Steinhardt's bond-orientational order parameters, we identify three structural basins, face-centered cubic-like, icosahedral, and liquid-like, via dimensionality reduction and clustering. This framework enables the direct computation of structure-resolved free energy differences from population fractions, providing a quantitative mapping of the thermodynamic competition between the funnels. The resulting structural crossovers are consistent with the heat-capacity peak, demonstrating PA as a promising and scalable framework for structure-resolved thermodynamics in complex molecular systems.",
+      "authors": [
+        {
+          "name": "Akie Kowaguchi"
+        },
+        {
+          "name": "Koji Hukushima"
+        }
+      ],
+      "publishedAt": "2026-06-01",
+      "source": "PubMed"
+    }
+  }
+]
