@@ -1,0 +1,65 @@
+[
+  {
+    "paper": {
+      "id": "42267494",
+      "title": "Urbanization, wildfire exposure, and youth mental health: a narrative review.",
+      "summary": "PURPOSE OF REVIEW: This narrative review synthesizes recent empirical studies on the mental health impacts of wildfires on children and adolescents, with specific attention to how urbanization modifies risk, access, and recovery. It addresses a critical gap in the literature by examining spatial and infrastructural inequities in post-disaster mental health outcomes while identifying key gaps in this emerging research domain.\nRECENT FINDINGS: Youth exposed to wildfires exhibit high rates of PTSD, depression, and anxiety, often persisting well beyond the acute event. Urbanization intensifies these risks by expanding the wildland-urban interface and stratifying access to care. Rural and peri-urban youth face the most significant disruption, from displacement to delayed service access, yet are the least likely to receive sustained, culturally responsive interventions. This review identified a limited evidence base: among studies published since June 2024 that explicitly examined youth mental health and urbanization in wildfire contexts, only three peer-reviewed empirical studies met inclusion criteria. Among the broader wildfire-youth literature, only one employed longitudinal tracking, none used systematic geospatial mapping, and few included Indigenous or marginalized populations. Intervention models such as telehealth, allied health services, and trauma-informed school support show promise but remain unevenly implemented.\nSUMMARY: The psychological burden of wildfires on youth is enhanced by trauma exposure and spatial inequity. The scarcity of research explicitly addressing urbanization's role in youth wildfire mental health represents a critical gap. Urban planning and mental health policy must be integrated to ensure that services reach underserved regions. Future research should incorporate urban-rural typologies, geospatial analysis, cultural dimensions, and developmental trajectories to inform equitable, place-based interventions for wildfire-exposed youth.",
+      "authors": [
+        {
+          "name": "Zeyu He"
+        },
+        {
+          "name": "Rongrong Wang"
+        },
+        {
+          "name": "Andy Hickner"
+        },
+        {
+          "name": "Yunyu Xiao"
+        }
+      ],
+      "publishedAt": "2026-06-10",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42266045",
+      "title": "Immune dysregulation in children with Down syndrome: clinical implications and emerging therapies.",
+      "summary": "PURPOSE OF REVIEW: People with Down syndrome experience significant immune dysregulation, conferring elevated risk of autoimmune and inflammatory conditions. Despite the growing prevalence of adults living with Down syndrome, significant gaps remain in understanding and treating immune-mediated disease in this population. This review synthesizes current knowledge of immune dysregulation in Down syndrome, with focus on rheumatic manifestations and emerging therapeutic approaches.\nRECENT FINDINGS: Trisomy 21 drives constitutive, global immune remodeling characterized by mixed interferon hyperactivation, hypercytokinemia, and myeloid and lymphoid subset remodeling toward an autoimmunity-prone, pro-inflammatory state. Down syndrome associated arthritis is a distinct and aggressive entity warranting recognition separate from juvenile idiopathic and rheumatoid arthritis. People with Down syndrome face elevated risk of SJIA-associated lung disease and diffuse alveolar hemorrhage. Medication tolerance is a significant consideration, including intolerance to methotrexate and diminished response to TNF inhibitors. Early clinical trials of JAK inhibitors demonstrate promising results across multiple immune-mediated manifestations, including skin disease, arthritis, and Down syndrome regression disorder.\nSUMMARY: Immune dysregulation in Down syndrome is pervasive and mechanistically distinct, with interferon signaling as a central therapeutic target. Clinicians should be aware of Down syndrome specific diagnostic and management considerations, and future research should prioritize rigorous placebo-controlled trials and Down syndrome informed outcome measures.",
+      "authors": [
+        {
+          "name": "Jessica L Bloom"
+        },
+        {
+          "name": "Indira Sriram"
+        }
+      ],
+      "publishedAt": "2026-06-10",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42085748",
+      "title": "Cost-effectiveness of ongoing COVID-19 vaccination in the context of high population immunity: A structured review of international economic evidence.",
+      "summary": "BACKGROUND: In the context of ongoing SARS-CoV-2 circulation and high population immunity, jurisdictions face decisions about which population groups should receive ongoing annual vaccination. Economic evaluations are increasingly central to these deliberations but the growing body of global cost-effectiveness evidence has not been synthesized.\nOBJECTIVE: To summarize cost-effectiveness evidence for COVID-19 vaccination from 2023 onwards, organized by population groups of policy relevance.\nMETHODS: We conducted a structured literature search in December 2025 across MEDLINE, Embase, and EconLit, supplemented by grey literature searches of National Immunization Technical Advisory Group (NITAG) websites. From 644 screened references, 21 studies met inclusion criteria: economic evaluations of COVID-19 vaccination from 2023 onwards reporting cost-effectiveness of annual vaccination compared to no additional vaccination in quality-adjusted life years (QALYs) or disability-adjusted life years (DALYs). Results were synthesized by population group.\nRESULTS: Annual COVID-19 vaccination was economically favourable for older adults (≥60-65 years) across all 18 contributing studies spanning 12 countries and using diverse analytic approaches. For individuals with underlying conditions or comorbidities, results were more variable, with cost-effectiveness depending on age, specific conditions, and vaccine price. Vaccination of healthy working-age adults (3 of 4 studies) and children (2 of 3 studies) was generally unfavourable at standard cost-effectiveness thresholds. Limited evidence was identified for healthcare workers and no economic evaluations from 2023 onwards were identified for pregnancy. The evidence base was geographically concentrated in high-income countries, with approximately half of included studies reporting industry funding. Sequential US economic evaluations demonstrated progressive declines in cost-effectiveness as disease burden decreased over time.\nCONCLUSIONS: The economic evidence supports a risk-stratified approach to COVID-19 vaccination, with the strongest economic value observed for older adults and individuals with comorbidities. Cost-effectiveness is dynamic, sensitive to disease burden, vaccine price, and population characteristics, and should be reassessed regularly as epidemiological conditions evolve.",
+      "authors": [
+        {
+          "name": "Ashleigh R Tuite"
+        },
+        {
+          "name": "Nicole Forbes"
+        },
+        {
+          "name": "Marina I Salvadori"
+        },
+        {
+          "name": "Matthew Tunis"
+        }
+      ],
+      "publishedAt": "2026-05-16",
+      "source": "PubMed"
+    }
+  }
+]
