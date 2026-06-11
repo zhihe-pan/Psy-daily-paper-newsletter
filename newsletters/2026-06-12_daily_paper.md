@@ -1,0 +1,34 @@
+
+# 心理学相关论文日报 (2026-06-12)
+
+## 📊 今日论文统计
+- 总论文数：1
+- 热门领域：综合领域
+
+## 📝 论文详情
+
+
+### 1. 柴胡疏肝散通过抑制海马IL-6并激活cAMP-CaMKII-BDNF通路在小鼠中发挥抗抑郁作用
+
+**原文标题：** Chaihu Shugan San exerts antidepressant effects in female mice by suppressing hippocampal IL-6 and activating the cAMP-CaMKII-BDNF pathway.
+
+**摘要：**
+民族药理学相关性：柴胡疏肝散（CSS）是一种经典的中药方剂，最早记载于《景岳全书》（公元1624年），用于治疗“肝气郁结”（郁证），这是一种类似于现代情绪障碍的中医诊断模式。尽管CSS用于情绪困扰、易怒和抑郁症状已有数百年历史，但其抗抑郁作用的神经生物学机制，特别是在性别特异性病理背景下的机制，仍不明确。研究目的：本研究探讨了CSS在雌性小鼠中的抗抑郁作用，并阐明了其涉及海马神经炎症和神经可塑性的潜在分子机制。我们假设CSS通过抑制白细胞介素-6（IL-6）来逆转慢性应激诱导的抑郁表型，进而促进海马中的cAMP-CaMKII-BDNF信号通路。材料与方法：成年雌性C57BL/6J小鼠接受为期5周的慢性不可预测温和应激（CUMS）方案以诱发抑郁样行为。在方案的最后2周，CSS以0.5、1.0或1.5 g/kg的剂量灌胃给药，氟西汀（10 mg/kg）作为阳性对照。行为评估包括强迫游泳实验（FST）、糖水偏好实验（SPT）、旷场实验（OFT）和悬尾实验（TST）。通过ELISA定量海马中IL-6、cAMP、CaMKII和BDNF的水平。机制验证采用海马急性微量注射重组IL-6（1 μg/位点）和全身给予CaMKII抑制剂KN-93（6 mg/kg）。化学成分为通过UHPLC-QTOF MS鉴定。结果：CSS以剂量依赖的方式缓解CUMS诱导的抑郁样行为，减少TST/FST中的不动时间并恢复糖水偏好，效果类似氟西汀。CSS显著抑制海马IL-6，同时上调cAMP、CaMKII活性和BDNF表达。急性IL-6升高完全消除了CSS的行为抗抑郁效应和分子作用。CaMKII的药理抑制阻断了CSS诱导的行为改善及其对cAMP-BDNF信号的上调，但不影响基础行为。CSS未表现出致焦虑或运动副作用。结论：CSS通过协同抑制海马IL-6和激活cAMP-CaMKII-BDNF神经可塑性相关通路，在雌性小鼠中发挥强效抗抑郁作用，其中CaMKII在此过程中起关键作用。这些发现为CSS传统上用于治疗情绪障碍提供了科学证据，并突显了其作为针对女性抑郁的多靶点抗炎植物药的潜在治疗价值。
+
+**关键词：** 柴胡疏肝散；抑郁；海马；IL-6；cAMP-CaMKII-BDNF通路
+
+**论文链接：** [PubMed](https://pubmed.ncbi.nlm.nih.gov/41802506/)
+
+
+
+---
+
+
+## 🔍 关键词云图
+![关键词云图](../images/keywords_wordcloud.png)
+
+## 📈 近期论文趋势
+![论文趋势](../images/daily_papers.png)
+
+## 🎙️ 语音播报
+- [收听今日论文解读](../audio/2026-06-12_daily_papers.mp3)
