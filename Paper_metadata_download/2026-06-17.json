@@ -1,0 +1,185 @@
+[
+  {
+    "paper": {
+      "id": "42299885",
+      "title": "The Impact of the 2024 Election on Sleep, Psychological Well-being and Political Cognitive-emotional Burden Among First-time Young Adult Voters.",
+      "summary": "OBJECTIVE: To examine the sleep, psychological well-being, and political cognitive-emotional burden of the 2024 United States presidential election on first-time young adult voters.\nMETHODS: First-time young adult voters (N=186, mean age 20.57 y, SD=0.85) completed an 11-day daily diary and actigraphy protocol spanning the days before, of, and after the November 2024 U.S. presidential election. Daily measures included sleep efficiency (actigraphy), positive and negative affect, distress, rumination, and political concealment. The majority of participants voted for Harris (n=153); a smaller subset reported voting for other candidates.\nRESULTS: Across the full sample, sleep efficiency and positive affect declined and distress, negative affect, rumination, and political concealment increased in the days leading up to the election. Negative health effects intensified on the day after the election, with non-Harris voters reporting better health than Harris voters during this period. Most health indicators returned to pre-election levels by the end of the study; positive mood, however, remained lower and negative mood remained higher than pre-election baselines.\nCONCLUSIONS: The 2024 national election was associated with measurable, time-limited declines in sleep and mental health among first-time young adult voters, with election-day and post-election effects patterning by candidate preference. Most indicators recovered within days, but mood disturbances persisted beyond the study window, suggesting that elections function as acute political-cognitive stressors with lingering affective consequences for newly enfranchised young adults.",
+      "authors": [
+        {
+          "name": "Tiffany Yip"
+        },
+        {
+          "name": "Enrique Dimagiba"
+        },
+        {
+          "name": "Zhenqiang Zhao"
+        },
+        {
+          "name": "Angela Zhao"
+        },
+        {
+          "name": "Kyle Lorenzo"
+        },
+        {
+          "name": "Jinjin Yan"
+        },
+        {
+          "name": "Heining Cham"
+        },
+        {
+          "name": "David Chae"
+        },
+        {
+          "name": "Cindy Liu"
+        },
+        {
+          "name": "Mona El Sheikh"
+        }
+      ],
+      "publishedAt": "2026-06-16",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42299838",
+      "title": "Biopsychosocial Determinants of Frailty in Older People Living With HIV in China: A Bayesian Network Analysis.",
+      "summary": "People living with HIV (PWH) experience accelerated aging and elevated frailty risk, representing the convergence of biological and psychosocial aging processes. We enrolled 665 PWH ages ≥50 years in a multicenter study in China. We examined the intersection of biological factors (e.g., CD4+ T-cell count, comorbidities), psychological factors (i.e., depression, anxiety), and social determinants in frailty development. A Bayesian network model was developed to characterize these complex interactions. Frailty prevalence was 17.1%. The Bayesian network identified depression as a central node connecting immune dysfunction to frailty through a CD4→anxiety→depression pathway. The model achieved robust performance (area under the curve = 0.879). Probability of frailty ranged from 1.4% in individuals aged 50-59 years without risk factors to 74.0% in those ages ≥70 years with depression and multiple comorbidities. This model offers clinicians a practical risk assessment tool for aging PWH and highlights depression as a modifiable target, supporting the integration of mental health screening in HIV geriatric care.",
+      "authors": [
+        {
+          "name": "Xiangming Zhan"
+        },
+        {
+          "name": "Meijia Song"
+        },
+        {
+          "name": "Chad E Forbes"
+        },
+        {
+          "name": "Jun Chen"
+        },
+        {
+          "name": "Hongzhou Lu"
+        },
+        {
+          "name": "Angel B Algarin"
+        }
+      ],
+      "publishedAt": "2026-06-16",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42299832",
+      "title": "Resilience and Quality of Life in Mild Traumatic Brain Injury: Serial Mediating Role of Sleep Quality and Depression.",
+      "summary": "OBJECTIVE: To investigate the influence of resilience on quality of life (QoL) in patients with mild traumatic brain injury (mTBI), and to evaluate the mediating roles of sleep quality and depression in the relationship. Setting: Emergency and neurosurgical outpatient departments in regional medical center in northern Taiwan.\nPARTICIPANTS: A total of 310 adults patients diagnosed with mTBI were recruited between 3 and 12 months postinjury.\nDESIGN: A cross-sectional observational study using self-report measures and serial-mediation analysis.\nMAIN MEASURES: Participants completed the Resilience Scale for Adults, Pittsburgh Sleep Quality Index, Beck Depression Inventory-II, and the WHO Quality of Life-BREF. Data were analyzed using PROCESS Model 6 with 5000 bootstrap resamples.\nRESULTS: Resilience was associated with improved QoL, both directly and indirectly through sleep quality and depression. In particular, resilience predicted higher sleep quality and fewer depressive symptoms. Poor sleep quality was associated with greater depressive symptoms, which in turn predicted lower QoL. All direct and indirect pathways in the serial mediation model were significant (P < 0.001), and the model explained 54% of the variance in QoL.\nCONCLUSION: Our findings suggest that resilience influences QoL through sleep quality and depression. Enhancing resilience and sleep quality may reduce depressive symptoms and improve overall well-being in patients recovering from mTBI.",
+      "authors": [
+        {
+          "name": "Ya-Wen Hsiao"
+        },
+        {
+          "name": "Hsiang-Yun Lan"
+        },
+        {
+          "name": "Ching-Yuan Ma"
+        },
+        {
+          "name": "Dueng-Yuan Hueng"
+        },
+        {
+          "name": "Yun-Cune Chang"
+        },
+        {
+          "name": "Hui-Hsun Chiang"
+        }
+      ],
+      "publishedAt": "2026-06-16",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42299823",
+      "title": "Factors Associated With an LLM Arriving at the Same Diagnosis as a Musculoskeletal Specialist.",
+      "summary": "INTRODUCTION: Large language models (LLMs) can generate plausible diagnoses from patient symptom descriptions and convey complex medical information in conversational, empathetic language. Given that LLMs may struggle with the vague symptom descriptions characteristic of less healthy mindsets, discordance between LLM and clinician diagnoses might signal misinterpretation of sensations. Among new musculoskeletal outpatients, we studied factors associated with (1) diagnostic discordance between an LLM and a clinician and (2) patient rating of experience interacting with the LLM.\nMETHODS: One hundred forty English-speaking patients described their symptoms to an LLM prompted to provide a single most likely diagnosis. Clinician diagnoses were recorded after the visit. Patients completed a survey assessing perceptions of the LLM interaction, demographics, and psychosocial factors-including measures of unhelpful thoughts and distress (eg, catastrophic thinking, misperception of pain as necessarily signifying injury, rumination about pain, and fear of losing cherished roles). Linear regression sought associations between personal factors, diagnostic concordance, and experience with the LLM.\nRESULTS: Discordance between clinician and LLM diagnoses was common 45% (67 of 140), but was not associated with any factors. Discordance often reflected diagnostic ambiguity (eg, knee osteoarthritis and meniscal tear) or clinician use of specific diagnoses for nonspecific symptoms (eg, myofascial pain syndrome, complex regional pain syndrome, and piriformis syndrome). Hispanic ethnicity, unmarried status, lower educational attainment, and lower annual income were associated with more favorable patient-rated experience with the LLM.\nCONCLUSION: Clinician use of speculative and ambiguous diagnostic labels may limit the usefulness of LLM-clinician discordance as a signal of patient unhelpful thinking and distress. LLMs may support personal health agency, particularly in the setting of social disadvantage.",
+      "authors": [
+        {
+          "name": "Alexander Drost"
+        },
+        {
+          "name": "Emily H Jaarsma"
+        },
+        {
+          "name": "David Ring"
+        },
+        {
+          "name": "Aydin Azarpey"
+        }
+      ],
+      "publishedAt": "2026-06-16",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42299483",
+      "title": "Expectations Versus Experience in Urogynecologic Surgery: A Qualitative Study.",
+      "summary": "IMPORTANCE: Studies suggest that patients often do not feel fully prepared for surgery and may experience feelings of apprehension, fear, and distress. More information is needed about exactly how patients' preoperative expectations diverge from surgical experience and postoperative course.\nOBJECTIVES: The objectives of this study were to explore patient perspectives of the surgical experience, characterize areas of dissonance between expectations and reality, and to identify opportunities to improve perioperative care in urogynecology.\nSTUDY DESIGN: We conducted a qualitative study of patients 6 weeks to 12 months after a hysterectomy with apical suspension. Patients were recruited from a 4-surgeon academic urogynecology practice between December 2022 and May 2024. Participants completed a 1:1 semistructured interview. Thematic analysis was performed using the grounded theory method, and Dedoose Software was used to produce descriptive reports.\nRESULTS: Twenty-one interviews were completed. Five key themes emerged: (1) preoperative preparations, (2) interpersonal interactions, (3) perioperative stressors, (4) postoperative expectations, and (5) validation of surgical decision. Preoperative concerns included fear of anesthesia, anxiety surrounding voiding trials, and unease about the recovery process. Positive experiences were linked to supportive interactions with surgeons, nursing staff, and loved ones. Unexpected stressors included difficulties with medication access, understaffing, and unanticipated pain (eg, dysuria, shoulder pain, throat pain). Perceptions of recovery varied, but all participants agreed that they would recommend surgery to others, citing improvements in quality of life as a key factor in their satisfaction.\nCONCLUSIONS: This study identified discrepancies between preoperative expectations and patients' perioperative experiences. Addressing these gaps through enhanced education and communication may reduce preoperative anxiety and improve patient satisfaction.",
+      "authors": [
+        {
+          "name": "Antonella M D'Ascanio"
+        },
+        {
+          "name": "Helen Y Zhang"
+        },
+        {
+          "name": "Dominique Malacarne Pape"
+        },
+        {
+          "name": "Cara L Grimes"
+        },
+        {
+          "name": "Sarah E Andiman"
+        }
+      ],
+      "publishedAt": "2026-06-16",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42286136",
+      "title": "Ventrolateral prefrontal-amygdala repetitive transcranial magnetic stimulation (rTMS) modulation of impulsivity in borderline personality disorder: a proof-of-concept study.",
+      "summary": "Impulsivity and emotional dysregulation are core symptoms of Borderline Personality Disorder (BPD) for which therapeutic options are very limited. Prior neuroimaging studies suggest that BPD symptoms may be related to fronto-amygdala circuit dysfunction. This proof-of-concept study examined whether individualized ventrolateral prefrontal cortex (VLPFC)-amygdala circuit modulation with Repetitive Transcranial Magnetic Stimulation (rTMS) could alter impulsivity and emotional dysregulation in BPD. Eleven participants with BPD underwent resting-state functional Magnetic Resonance Imaging (rsfMRI) scans to identify individualized right and left VLPFC targets with the strongest functional connectivity to the ipsilateral amygdala. They then performed delayed discounting and emotional reactivity to social exclusion tasks to assess impulsivity and emotional reactivity, respectively, followed by a single session of intermittent Theta Burst Stimulation (iTBS) administered to left and/or right VLPFC targets. Tasks were repeated after stimulation to assess change in impulsivity and reactivity. Mixed-model linear regression analysis showed that right VLPFC, but not the left or bilateral VLPFC stimulation, was associated with a significant reduction of impulsivity (χ2(2) = 7.76, p = 0.02) but not emotional reactivity. No subjects experienced significant adverse events. These results suggest that the right VLPFC iTBS is a safe, tolerable, and promising procedure for modulating impulsivity in BPD.",
+      "authors": [
+        {
+          "name": "Reza Tadayonnejad"
+        },
+        {
+          "name": "Rani Gera"
+        },
+        {
+          "name": "Stephanie A Chu"
+        },
+        {
+          "name": "Hope Hawkins"
+        },
+        {
+          "name": "Emmily Hovhannisyan"
+        },
+        {
+          "name": "Thuc Doan P Ngo"
+        },
+        {
+          "name": "Juliana Corlier"
+        },
+        {
+          "name": "Andrew F Leuchter"
+        }
+      ],
+      "publishedAt": "2026-06-13",
+      "source": "PubMed"
+    }
+  }
+]
