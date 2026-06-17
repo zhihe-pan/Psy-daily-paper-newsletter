@@ -1,0 +1,332 @@
+[
+  {
+    "paper": {
+      "id": "42308110",
+      "title": "A rare missense variant in Bruton's tyrosine kinase is associated with bipolar disorder accompanied by psychosis.",
+      "summary": "INTRODUCTION: Bipolar disorder is a mental disorder associated with extreme mood shifts. Psychosis (hallucinations, delusions, and thought disorder) can also co-occur in some patients. Although highly heritable, the genetic etiology of bipolar disorder remains unclear.\nMETHODS: We visited outpatient departments of mental hospitals and recruited all members of a consanguineous family in which multiple siblings had psychosis. Clinical assessments using standardized rating tools were administered. Whole-exome sequencing was performed for all participants.\nRESULTS: Three male siblings were identified to have bipolar disorder with psychosis, while their sister was affected with bipolar disorder without psychosis. Other relatives were unaffected. Analysis of exome data identified six variants segregating with psychosis. Only one hemizygous variant, Bruton's tyrosine kinase (BTK) c.410A>G, p.(Asp137Gly), was predicted deleterious. The variant was rare in all publicly available databases (gnomAD allele frequency = 0.00001094) and was absent from the DNA of at least 400 unrelated ethnically matched controls. The amino acid affected by this variant was conserved among orthologs. The mutated BTK p.Gly137 residue was predicted to lack the interacting bond with p.Ser136.\nDISCUSSION: Most reported BTK variants are known to cause agammaglobulinemia. A de-novo variant in BTK p.(Arg255Gln) was previously associated with schizophrenia in one female patient. Multigenic deletions, including BTK, can cause deafness-dystonia-optic neuropathy syndrome, sometimes accompanied by psychosis. Taken together, these studies indicate that BTK may have a role in some mental disorders that needs to be investigated further. Use of animal models may elucidate any BTK function in the brain.",
+      "authors": [
+        {
+          "name": "Ambreen Kanwal"
+        },
+        {
+          "name": "Husnain Arshad Cheema"
+        },
+        {
+          "name": "Nauman Jabbar"
+        },
+        {
+          "name": "Amina Iftikhar"
+        },
+        {
+          "name": "Jose V Pardo"
+        },
+        {
+          "name": "Sadaf Naz"
+        }
+      ],
+      "publishedAt": "2026-06-17",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42307972",
+      "title": "The role of pro-inflammatory cytokine gene polymorphisms in major depressive disorder: a systematic review.",
+      "summary": "Major depressive disorder (MDD) is a multifactorial psychiatric disorder increasingly associated with immune-inflammatory mechanisms. Pro-inflammatory cytokines, particularly tumor necrosis factor-alpha (TNF-α) and interleukin-1 beta (IL-1β), have been implicated in the pathophysiology of MDD through their influence on neuroinflammation, neurotransmitter regulation, and hypothalamic-pituitary-adrenal (HPA) axis dysfunction. This systematic review aimed to evaluate the association between TNF-α and IL-1β gene polymorphisms and susceptibility to MDD, treatment response, and related clinical outcomes. A systematic literature search was conducted in PubMed, Embase, and ScienceDirect databases from inception to March 2026, following Preferred Reporting Items for Systematic Reviews and Meta-Analyses guidelines. Studies investigating TNF-α and IL-1β gene polymorphisms in clinically diagnosed MDD patients were included. Case-control studies published in English involving adult human participants were considered eligible. Data regarding study design, population, polymorphisms, and clinical outcomes were extracted and qualitatively synthesized. A total of 172 records were identified, of which nine studies met the inclusion criteria. Included studies primarily investigated TNF-α rs1800629 and IL-1β rs16944 polymorphisms across diverse populations. Several studies reported significant associations between these polymorphisms and increased susceptibility to MDD, suicide risk, severity of depressive symptoms, age of onset, and antidepressant treatment response. However, some studies reported no statistically significant associations, indicating heterogeneity across ethnic groups and study populations. Variability in age, medication status, and environmental stressors may have contributed to inconsistent findings. The findings of this systematic review support the involvement of inflammatory cytokine gene polymorphisms in the pathophysiology of MDD, particularly TNF-α and IL-1β variants. These polymorphisms may contribute to depression susceptibility and treatment response through immune-inflammatory mechanisms. Further large-scale, ethnically diverse studies incorporating gene-environment interactions and next-generation sequencing approaches are needed to validate cytokine-related genetic biomarkers in MDD.",
+      "authors": [
+        {
+          "name": "Yuvapriya Kalidasan"
+        },
+        {
+          "name": "Vettriselvi Venkatesan"
+        },
+        {
+          "name": "Suvarna Jyothi Kantipudi"
+        },
+        {
+          "name": "Ilangovan Ramachandran"
+        }
+      ],
+      "publishedAt": "2026-06-17",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42307478",
+      "title": "Impact of Kangaroo Care and Lullaby Intervention on Maternal Anxiety and Physiological Stability of Mothers and Preterm Infants: A Randomized Controlled Study.",
+      "summary": "BACKGROUND: Preterm infants experience physiological instability and mothers often experience heightened anxiety in the neonatal intensive care unit (NICU), prompting growing interest in combining kangaroo mother care (KMC) with auditory interventions such as lullaby singing to enhance maternal-infant well-being.\nPURPOSE: This study aimed to examine the added effect of maternal lullaby singing during KMC on maternal state anxiety and the physiological parameters of mothers and their preterm infants.\nMETHODS: This randomized controlled trial was conducted with 61 mother-preterm infant dyads in the NICU of a state hospital in southern Türkiye. Participants were allocated to either the KMC-only group (n = 31) or the KMC + lullaby group (n = 30). Maternal state anxiety was assessed at baseline and after the intervention period. Maternal and infant physiological parameters were monitored for 3 consecutive days. The study was registered at ClinicalTrials.gov (NCT06964204).\nRESULTS: Maternal state anxiety decreased significantly over time in the KMC + lullaby group compared with the KMC-only group (P < .05). Among infants, time-dependent significant differences were observed in respiratory rate and oxygen saturation. For mothers, significant between-group and time effects were found in heart rate, respiratory rate, and oxygen saturation (P < .05).\nIMPLICATIONS FOR RESEARCH: Given their low cost and feasibility, incorporating lullaby singing into routine KMC may enhance both psychological and physiological outcomes for mothers and preterm infants. Integration of this combined approach into NICU care protocols is recommended, alongside further research to validate these additive effects.",
+      "authors": [
+        {
+          "name": "Edanur Tar Bolacali"
+        },
+        {
+          "name": "Sibel Kücükoğlu"
+        },
+        {
+          "name": "Ebru Aksu"
+        }
+      ],
+      "publishedAt": "2026-06-17",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42305092",
+      "title": "Personalized protein delivery in critical care: from phenotyping and endotyping to post-ICU recovery.",
+      "summary": "PURPOSE OF REVIEW: This review examines the importance of optimizing protein delivery during and in the convalescence of critical illness, with a focus on the challenges associated with individual protein dosing strategies.\nRECENT FINDINGS: Muscle mass depletion often begins within the first days of intensive care unit (ICU) admission, emphasizing the need for adequate protein intake. However, many ICU patients fail to meet recommended targets. Large-scale studies have shown mixed results on high-protein intake, with some suggesting no added benefit or even harm in certain groups. This review highlights the need for individualized protein dosing guided by phenotyping and endotyping and discusses the challenges in assessing body composition, illustrated by a case study. The potential role of biomarkers in optimizing protein dosing is also explored, alongside factors that hinder adequate protein intake.\nSUMMARY: Further research is needed to determine the optimal protein strategy for critically ill patients, with a focus on enhancing functional outcomes and quality of life, particularly for survivors who face long-term physical and cognitive challenges. Future guidelines should incorporate individualized approaches, leveraging emerging technologies and patient-centred data to tailor protein delivery and enhance recovery outcomes.",
+      "authors": [
+        {
+          "name": "Noortje Maria Petronella Overwater"
+        },
+        {
+          "name": "Michelle Carmen Paulus"
+        },
+        {
+          "name": "Lara Schepers"
+        },
+        {
+          "name": "Arthur Raymond Hubert van Zanten"
+        }
+      ],
+      "publishedAt": "2026-06-17",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42305068",
+      "title": "Safety of Adjunct Low-Dose Methylphenidate Extended-Release for Cognitive Deficits in Stable Schizophrenia: Results From an Open-Label, Randomized Crossover Trial.",
+      "summary": "BACKGROUND: Cognitive deficits in schizophrenia significantly impair functional outcomes, yet no approved pharmacological treatments exist. Low-dose psychostimulants, such as methylphenidate extended-release (ER), have shown preliminary promise for cognitive enhancement but raise concerns about psychosis exacerbation. This study evaluates the safety of low-dose methylphenidate ER in clinically stable schizophrenia patients.\nMETHODS: An open-label, randomized, fixed-dose crossover trial (NCT05414058) was conducted at the Royal Ottawa Mental Health Centre from September 2022 to October 2024, enrolling 24 participants with schizophrenia spectrum disorders. Participants received 4 weeks of methylphenidate ER (18 mg for wk 1, 36 mg for wk 2 to 4) and 4 weeks of treatment-as-usual in a crossover design, with a follow-up at week 12.\nRESULTS: No serious adverse events occurred, and there was no evidence of psychotic symptom exacerbation. PANSS-6 scores showed no worsening attributable to treatment; detailed efficacy results are reported elsewhere. Vital signs showed minimal, nonsignificant changes: mean weight decreased by 2.28 lbs ( P >0.05), heart rate increased by 3.67 bpm ( P >0.05), and systolic blood pressure rose by 3.6 mmHg ( P >0.05). The CADDRA checklist indicated significant appetite reduction ( P <0.001), reduced fatigue ( P =0.002), and decreased sadness ( P <0.001) during treatment, with effects resolving post-treatment. One participant reported transient passive suicidal ideation, resolving without intervention. Eleven participants withdrew, primarily due to subjective side effects within the first 2 weeks.\nCONCLUSIONS: Low-dose methylphenidate ER appears safe in stable schizophrenia patients on antipsychotics, with no significant psychosis exacerbation and minimal physiological changes.",
+      "authors": [
+        {
+          "name": "Naista Zhand"
+        },
+        {
+          "name": "Ridha Joober"
+        },
+        {
+          "name": "Alain Labelle"
+        },
+        {
+          "name": "Fatima Iftikhar"
+        },
+        {
+          "name": "Carrie Robertson"
+        },
+        {
+          "name": "Philip D Harvey"
+        }
+      ],
+      "publishedAt": "2026-06-17",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42304717",
+      "title": "Parents' experiences of health literacy and parenting infants at home: a qualitative systematic review.",
+      "summary": "OBJECTIVE: This review aimed to identify and synthesize available qualitative evidence on parents' experiences of health literacy in parenting infants at home.\nINTRODUCTION: Parental health literacy is important for parents' and infants' quality of life, yet many parents struggle to access, understand, appraise, and apply childcare information at home.\nELIGIBILITY CRITERIA: This review included qualitative studies conducted in Organisation for Economic Co-operation and Development member countries exploring parents' health literacy experiences in parenting infants at home.\nMETHODS: MEDLINE (EBSCOhost), CINAHL (EBSCOhost), PsycINFO (EBSCOhost), ProQuest Health and Medical Collection (in English and Japanese), Open Access Theses and Dissertations (in English), Ichushi-Web, CiNii, and the Institutional Repositories Database (in Japanese) were searched in March 2024. Studies published in English or Japanese between 1998 and 2024 were included. Two independent reviewers conducted study selection, data extraction, and quality appraisal. Data were synthesized using the JBI meta-aggregation approach. Synthesized findings were assessed using the ConQual approach.\nRESULTS: Six qualitative studies involving 119 participants yielded 72 findings, which were aggregated into 19 categories and further into 5 synthesized findings: i) Parents of infants connect with others in-person or online to share knowledge and parenting experiences and to provide and receive reassurance. Some parents distrust anonymous online spaces and manage their exposure to avoid discomfort, while also considering others' backgrounds and personal characteristics when building supportive, reliable online networks. Socially isolated parents tend to depend only on online search information; ii) Parents of infants seek approachable, friendly, and collaborative relationships with community health professionals for timely guidance and clarification on infant care. Clear explanations and feeling understood support shared decision-making, whereas negative professional responses can reduce parents' participation and confidence; iii) Initially, parents of infants have limited knowledge, skills, and confidence, and they may accept information without critical evaluation. Gradually, they develop infant-care skills and become better at assessing their baby's condition through navigating conflicting sources, identifying what is most relevant to their needs, and applying it in problem-solving. Ultimately, their confidence grows as they come to trust their knowledge, skills, and parental intuition; iv) Parents of infants often seek reassurance that their baby's health and development are \"normal,\" even without a clear understanding of what the term means. Reassurance may grow as parents understand their baby's natural state, behaviors, and developmental processes, helping them recognize and accept their child's unique patterns; v) Parents of infants appraise and apply health-related information and advice when making parenting decisions, aiming to harmonize infant caregiving with their own values. Informed by these appraisals and observations of their own and their infants' responses when applying this information in everyday care, they iteratively adjust caregiving practices over time to sustain and enhance parents' and infants' health and comfort in daily life.\nCONCLUSIONS: Parents develop infant-care-specific health literacy over time through peer support, collaborative relationships with health professionals, and everyday caregiving experiences, which may support both parents' and infants' health and quality of life.\nREVIEW REGISTRATION: PROSPERO CRD42022345187.",
+      "authors": [
+        {
+          "name": "Ayano Sakai"
+        },
+        {
+          "name": "Mina Ishimaru"
+        },
+        {
+          "name": "Hiroko Iwata"
+        },
+        {
+          "name": "Satoko Suzuki"
+        },
+        {
+          "name": "Taichi Sato"
+        },
+        {
+          "name": "Saori Iguchi"
+        },
+        {
+          "name": "Seiko Iwase"
+        }
+      ],
+      "publishedAt": "2026-06-17",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42302719",
+      "title": "Primary Valgus Intertrochanteric Osteotomy for a Subacute Femoral Neck Fracture in a 37-Year-Old Woman: A Case Report.",
+      "summary": "CASE: A 37-year-old woman with a history of depression and polysubstance use disorder presented 3 weeks after developing left hip pain and inability to ambulate. Initial outside radiographs were reportedly negative, delaying diagnosis until a subsequent outside MRI and confirmatory in-house CT demonstrated a displaced AO/OTA 31B2.2 transcervical femoral neck fracture with varus angulation and inferior comminution. She underwent valgus intertrochanteric osteotomy with a fixed-angle blade-plate construct, achieving union and excellent function at 3 years.\nCONCLUSION: Valgus-producing osteotomy with blade-plate fixation is a viable joint-preserving option for subacute displaced femoral neck fractures in young adults when arthroplasty is undesirable.",
+      "authors": [
+        {
+          "name": "Devan S Kumar"
+        },
+        {
+          "name": "Lauren Luther"
+        },
+        {
+          "name": "Timothy S Achor"
+        },
+        {
+          "name": "Phillip M Mitchell"
+        }
+      ],
+      "publishedAt": "2026-06-17",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42287057",
+      "title": "[Relationship between family trauma, school bullying and suicidal behavior in adolescents: Regulatory effect of DRD2 gene polymorphism].",
+      "summary": "OBJECTIVE: To explore the relationship between family trauma, school bullying and adolescent suicidal behavior, and the regulatory role of DRD2 gene polymorphism.\nMETHODS: A total of 98 adolescent patients with depressive disorders who visited our hospital from June 2022 to June 2024 were selected. They were divided into the non-suicide group (n=62) and the suicide group (n=36) based on their suicide behavior in the previous 6 months and their attitudes towards suicide behavior. The general data of the two groups were compared. The relationship between each genotype and suicide behavior, the influencing factors of suicide behavior, the interaction between family trauma and school bullying on suicide behavior, and the regulatory effects of depression and genetic polymorphisms were analyzed. The possible regulatory effects of depression and genetic polymorphisms were also investigated.\nRESULTS: Compared with the non-suicide group, the duration of illness, non-suicidal self-harm behavior, family trauma, school bullying, anxiety, depression scores in the suicide group increased, while the life meaning score decreased (P < 0.05). The genotype A2A2 was associated with an increased risk of suicidal behavior compared to genotype A1A1 (P < 0.05). In the recessive model, the genotype A2A2 was associated with an increased risk of suicidal behavior compared to genotype A1A1 and A1A2 (P < 0.05); in the additive model, there were significant associations between the genotypes A1A1, A1A2, A2A2 and suicidal behavior (P < 0.05). Non-suicidal self-harm behavior, family trauma, school bullying, depression, and the A2A2 genotype were independent risk factors for suicidal behavior, while life meaning was an independent protective factor. Family trauma > 54.78 points and school bullying > 10.37 points had a multiplicative (OR=6.585, 95%CI: 5.478-7.367) and additive (OR=7.849, 95%CI: 7.231-8.294) interaction effect on adolescent suicidal behavior. Depression exerted a regulatory effect between family trauma (β=0.092, 95%CI: 0.084-0.103), school bullying (β=0.090, 95%CI: 0.081-0.098) and suicidal behavior. In the additive genetic model, the TaqⅠA gene had a significant regulatory effect on \"family trauma, school bullying → depression → suicidal behavior\" in adolescents with the A1A2/ A2A2 genotype.\nCONCLUSION: The risk of suicidal behavior is higher in adolescents with both family trauma and school bullying, and depression plays a part of the mediating effect. The TaqⅠA polymorphism of DRD2 gene has a significant regulatory effect on adolescents carrying A2 allele.",
+      "authors": [
+        {
+          "name": "Hongjuan Bai"
+        },
+        {
+          "name": "Yang Chen"
+        },
+        {
+          "name": "Kun Wang"
+        },
+        {
+          "name": "Xuebing Xu"
+        }
+      ],
+      "publishedAt": "2026-06-13",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42287056",
+      "title": "[Health education preferences in patients with type 2 diabetes mellitus based on Big Five personality traits].",
+      "summary": "OBJECTIVE: To explore differences in the Big Five personality traits among patients with type 2 diabetes mellitus (T2DM) in relation to demographic characteristics and health education preferences and to provide evidence for personalized health education strategies.\nMETHODS: In September 2023, a cluster sampling method was used to recruit patients with T2DM from seven community health service centers in Shandong Province, China. Data were collected using a questionnaire survey. The 10-item Big Five Inventory (BFI-10) and a self-developed health education preference questionnaire were used for the assessment. Latent profile analysis (LPA) was conducted to identify personality classifications among the patients. Chi-square tests were applied to compare differences in health education preferences across personality groups, and stratified binary Logistic regression analysis was performed to examine the association between personality classification and health education preferences.\nRESULTS: A total of 612 patients were included and categorized into three personality groups: Regular-balanced type (69.8%), introverted-sensitive type (6.4%), and proactive-adaptive type (23.8%). In the univariate analysis, the proportion of patients in the proactive-adaptive group who preferred peer patients as health education providers was significantly lower than that in other personality groups (χ2=6.123, P=0.047). In contrast, patients in the introverted-sensitive group showed a significantly higher preference for health education content that included psychological support than other personality groups (χ2=8.566, P=0.014). In the Logistic regression analysis, using the regular-balanced type as the reference group, proactive-adaptive patients were less likely to prefer peer patients with diabetes as health education providers (OR=0.491, 95%CI: 0.279-0.866, P=0.014). Regarding health education content, proactive-adaptive patients demonstrated a lower preference for research-frontier information (OR=0.565, 95%CI: 0.376-0.848, P=0.006). In terms of educational delivery settings, introverted-sensitive patients were less likely to prefer mobile applications as a means of receiving health education (OR=0.374, 95%CI: 0.165-0.848, P=0.019). When the proactive-adaptive type as the reference group, introverted-sensitive patients showed a significantly higher preference for psychological support content (OR=2.122, 95%CI: 1.029-4.380, P=0.042).\nCONCLUSION: Personality traits exhibit substantial heterogeneity among patients with T2DM, and different personality classifications are associated with distinct health education preferences. Personality traits may serve as an important reference for developing individualized health education strategies; however, their effectiveness in improving intervention outcomes requires further validation through future studies.",
+      "authors": [
+        {
+          "name": "Siyan Yuan"
+        },
+        {
+          "name": "Hewei Min"
+        },
+        {
+          "name": "Ping Chen"
+        },
+        {
+          "name": "Yibo Wu"
+        },
+        {
+          "name": "Hongxia Cui"
+        },
+        {
+          "name": "Xuxi Zhang"
+        },
+        {
+          "name": "Xinying Sun"
+        }
+      ],
+      "publishedAt": "2026-06-13",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42287051",
+      "title": "[Policy logic and multiple challenges of meal assistance services for older adults under the goal of healthy aging].",
+      "summary": "OBJECTIVE: To provide empirical evidence for optimizing meal assistance policies and strengthening their role in supporting the health of older adults, this study took Shandong Province as a case to examine the policy logic and practical challenges of meal assistance services for older adults.\nMETHODS: A combination of policy tool text analysis and qualitative interviews was employed. For the policy tool analysis, 59 policy documents related to meal assistance for older adults at the central and Shandong provincial levels from 2013 to 2024 were selected and categorized using a three-part framework, with policy provisions coded and analyzed as units. Qualitative interviews were conducted in two rounds, from August to October 2023 and again in January 2026, across eight urban and rural sample sites within Shandong' s three major economic circles, involving 17 providers of meal assistance services for older adults; the interview data were coded and analyzed using thematic analysis. Finally, the two sets of data, including policy tools and implementation themes, were integrated through a comparative approach.\nRESULTS: The development of meal assistance policies for older adults in Shandong Province can be broadly divided into three stages: The initial stage, the growth stage, and the deepening stage. Overall, policy tools exhibited a balanced emphasis on supply-oriented and environment-oriented instruments, while demand-oriented instruments remained relatively insufficient. Interview findings indicated that urban areas had primarily adopted a \"government subsidy + market operation\" model, while rural areas mainly relied on happiness homes, village collective resources, and public welfare positions to deliver meal assistance services. However, both urban and rural areas faced common challenges, including a mismatch between financial subsidies and operational costs, a shortage of professional staff, weak motivation for social participation, insufficient expression of demand and sustained spending by older adults, and limited implementation capacity at the grassroots level. Meanwhile, some meal assistance sites showed early signs of health-oriented meal assistance practices, such as adjusting menus according to older adults 'dietary preferences, chewing ability, and chronic disease conditions, reducing oil and salt in meal preparation, and exploring meal delivery and health education activities. Nevertheless, these efforts remained largely experience-based and fragmented, and had not yet developed into a standardised model.\nCONCLUSION: Meal assistance services for older adults are not only a livelihood initiative to ensure access to warm meals for older adults, but also a crucial entry point for promoting balanced diets, maintaining functional capacity, and achieving healthy aging. Future efforts should focus on refining a tiered and categorized subsidy mechanism, optimizing the differentiated supply structure between urban and rural areas, enhancing demand-side mobilization and social collaboration, strengthening grassroots governance and quality supervision, and facilitating the transition of meal assistance services from project-based provision to an institutionalized and sustainable model.",
+      "authors": [
+        {
+          "name": "Wei Pan"
+        },
+        {
+          "name": "Liangxia Chen"
+        },
+        {
+          "name": "Xiaofei Zhang"
+        },
+        {
+          "name": "Haoyu Zhang"
+        },
+        {
+          "name": "Hewei Min"
+        },
+        {
+          "name": "Xiaoyan Lei"
+        },
+        {
+          "name": "Xinying Sun"
+        },
+        {
+          "name": "Xuxi Zhang"
+        }
+      ],
+      "publishedAt": "2026-06-15",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42281851",
+      "title": "Picturing better outcomes: Illustrated educational booklets improve patient-reported outcomes and reduce healthcare utilization in abdominal transplantation.",
+      "summary": "BACKGROUND: Patient education remains an underdeveloped component of care in abdominal transplantation. Despite the benefits of improved health literacy, most educational materials remain inaccessible to the average patient.\nAIM: To evaluate the impact of educational booklets on comprehension, anxiety, satisfaction, and healthcare utilization among abdominal transplant recipients and donors.\nMETHODS: An observational, single-center quality improvement study was conducted in transplant recipients and living donors. Patients received booklets during transplant evaluation, preoperative clinic, or hospital admission. Booklets were developed by transplant surgeons and revised with health literacy experts. Postoperative surveys assessed comprehension, satisfaction, anxiety, and feedback. Patient-reported demographic data and post-operative outcomes were collected from the electronic medical record were analyzed.\nRESULTS: Eighty-three patients completed the survey, of which nine were excluded for duplicate entries. Satisfaction with content was high, with 81% reporting reduced feelings of overwhelm and 74% reporting less fear of surgery. The average recommendation rating was 9.4/10, with frequent praise for illustrations, glossary, and surgical explanations. Postoperative outcomes improved following booklet implementation, with reductions in readmission rates, emergency department visits, and coordinator calls. Compared with historical data, readmissions decreased significantly (12.2% vs 22.1%; P = 0.049).\nCONCLUSION: Illustrated educational booklets significantly improved patient comprehension, anxiety, and satisfaction, and reduced unplanned care use. Integrating tailored education into routine transplant care enhances patient experiences and outcomes.",
+      "authors": [
+        {
+          "name": "Marissa Di Napoli"
+        },
+        {
+          "name": "Haaris Kadri"
+        },
+        {
+          "name": "Danielle Kessler"
+        },
+        {
+          "name": "Gabriella Canty"
+        },
+        {
+          "name": "Katherine Klingenberg"
+        },
+        {
+          "name": "Elizabeth A Pomfret"
+        },
+        {
+          "name": "James J Pomposelli"
+        },
+        {
+          "name": "Thomas Pshak"
+        },
+        {
+          "name": "Rashikh A Choudhury"
+        },
+        {
+          "name": "Trevor L Nydam"
+        },
+        {
+          "name": "Maria Baimas-George"
+        }
+      ],
+      "publishedAt": "2026-06-12",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42106259",
+      "title": "The case for tumour-agnostic reimbursement of dual immunotherapy.",
+      "summary": "Barjesteh van Waalwijk van Doorn-Khosrovani and colleagues raise important questions about this recommendation for tumour-agnostic reimbursement of nivolumab and ipilimumab in Australia. We respectfully offer a counterpoint and endorse the broad coverage. In 2025, Pharmaceutical Benefits Advisory Committee (PBAC) proposed that prescribing nivolumab and ipilimumab be guided by clinical judgement informed by the best available evidence for undefined \"immunotherapy-sensitive\" advanced or metastatic cancers, and, in January 2026 made a similar recommendation for pembrolizumab. Patients with rare and ultra-rare cancers, including but not limited to angiosarcoma, alveolar soft part sarcoma, gestational trophoblastic disease, small cell carcinoma of the ovary (hypercalcemic type), and adrenocortical carcinoma, face profound unmet need. Within many of these diseases, a subset of patients derives substantial benefit from immunotherapy. For example, the SWOG DART (Dual Anti-CTLA-4 and Anti-PD-1 Blockade in Rare Tumors) trial, the largest prospective evaluation of nivolumab plus ipilimumab in rare/ultra-rare cancers, demonstrated clinically meaningful activity across multiple histologies, without biomarker selection. Notably, some patients with metastatic disease remain disease-free years after treatment, outcomes rarely achieved with chemotherapy or supportive care in refractory settings. Therefore, concerns that biomarker-agnostic approval signals an evidentiary retreat overlook both our incomplete understanding immune sensitivity and the global access limits to comprehensive genomic testing. Importantly, clinical judgement is not arbitrary; it reflects training, experience, ethical reasoning, and patient-centred decision making. The question is whether demanding perfect evidence should prevent access to potentially transformative treatment. Grounded in evidence and expertise, PBAC's decision prioritises meaningful access to effective therapy for patients with few alternatives.",
+      "authors": [
+        {
+          "name": "Vivek Subbiah"
+        },
+        {
+          "name": "Razelle Kurzrock"
+        }
+      ],
+      "publishedAt": "2026-06-05",
+      "source": "PubMed"
+    }
+  }
+]
