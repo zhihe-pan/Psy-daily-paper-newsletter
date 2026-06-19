@@ -1,0 +1,818 @@
+[
+  {
+    "paper": {
+      "id": "42251933",
+      "title": "Source-level EEG dysconnectivity in drug-naïve patients with major depressive disorder: Bridging neural oscillations with potential neuroelectrophysiological markers.",
+      "summary": "BACKGROUND: Electroencephalogram (EEG)-based source localization offers a new perspective for investigating the neurophysiological origins of functional connectivity (FC) disruptions in major depressive disorder (MDD). This study aims to further elucidate the pathophysiological mechanisms in drug-naïve MDD patients and identify potential neuroelectrophysiological markers.\nMETHODS: This study enrolled a total of 247 participants, comprising 154 drug-naïve MDD patients and 93 healthy controls (HC) matched for sex and age. General demographic information was collected and scale assessments were conducted for all subjects. Resting-state EEG signals with eyes closed were recorded using a 64-channel EEG system. Brain activity was identified through source reconstruction, and FC in the δ, θ, α and β frequency bands was calculated using the weighted phase lag index (wPLI). Network-based statistics (NBS) were employed to compare FC differences between the two groups across frequency bands, and correlations with clinical scale scores were further examined.\nRESULTS: Compared with the HC group, the MDD group showed significantly reduced FC in the θ band within several brain regions, including the left medial superior frontal gyrus, left precentral gyrus, right putamen, right postcentral gyrus, and left thalamus. Lower θ band network connectivity was associated with higher levels of anhedonia. Furthermore, within the MDD group, local θ band FC was positively correlated with rumination and the number of depressive episodes, negatively correlated with the age of onset, and not correlated with the severity of anxiety or depression.\nCONCLUSION: This study contributes to the growing evidence base for large-scale network dysfunction in MDD. The identified abnormalities may inform future efforts to establish clinically usable potential neuroelectrophysiological markers.",
+      "authors": [
+        {
+          "name": "Ciqing Bao"
+        },
+        {
+          "name": "Haowen Zou"
+        },
+        {
+          "name": "Yi Xia"
+        },
+        {
+          "name": "Qiaoyang Zhang"
+        },
+        {
+          "name": "Wubin Chen"
+        },
+        {
+          "name": "Xiaoqin Wang"
+        },
+        {
+          "name": "Qi Zhou"
+        },
+        {
+          "name": "Zhijian Yao"
+        },
+        {
+          "name": "Qing Lu"
+        }
+      ],
+      "publishedAt": "2026-06-18",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42250636",
+      "title": "State anxiety may mediate the association between striato-cortical circuitry and anxiety symptom severity in generalized anxiety disorder: A resting-state fMRI study and support vector machine analysis.",
+      "summary": "BACKGROUND: Patients with generalized anxiety disorder (GAD) show structural and functional striatal abnormalities. While state and trait anxiety are known to modulate neural circuits influencing anxiety progression, the specific role of striatal-cortical circuitry in relation to anxiety dimensions in GAD remains unclear.\nMETHODS: We included 43 GAD patients and 36 healthy controls (HCs), assessing trait/state anxiety and collecting resting-state fMRI data. The striatal seed-based functional connectivity (FC) was compared between groups. Correlation analyses evaluated links between striatal FC, clinical symptoms, and anxiety measures. Mediation analysis tested whether state anxiety mediates FC-symptom relationships. A linear support vector machine (SVM) model assessed striatal FC's ability to classify GAD vs. HCs.\nRESULTS: GAD patients exhibited increased FC between the right ventral superior striatum and medial prefrontal cortex, left dorsal caudal putamen (DCP) and left middle temporal gyrus, and right DCP and right MTG/fusiform gyrus, but decreased FC between the left ventral rostral putamen and left inferior parietal lobule/supramarginal gyrus. The FC between the right DCP and right MTG/fusiform exploratorily negatively correlated with HAMA and State Anxiety Inventory scores. State anxiety statistically mediate the relationship between striatal FC and anxiety severity. Linear and Gaussian SVM classifiers achieved accuracies of 81.07% and 79.82%, respectively.\nCONCLUSIONS: GAD involves disrupted striato-cortical connectivity. State anxiety statistically mediate the relationship between striatal FC and clinical anxiety in an exploratory cross-sectional mediation framework, which may highlight its central role. Altered striatal-cortical FC may show potential candidate features for distinguish GAD patients from HC in exploratory proof-of-concept analyses.",
+      "authors": [
+        {
+          "name": "Guanmao Chen"
+        },
+        {
+          "name": "Feng Chen"
+        },
+        {
+          "name": "Ying Zhang"
+        },
+        {
+          "name": "Huamin Gong"
+        },
+        {
+          "name": "Likun Xia"
+        },
+        {
+          "name": "Xuehong Xiao"
+        },
+        {
+          "name": "Yongxin Zhang"
+        },
+        {
+          "name": "Zhilong Wang"
+        },
+        {
+          "name": "Pan Chen"
+        },
+        {
+          "name": "Ruoyi Chen"
+        },
+        {
+          "name": "Danyu Lu"
+        },
+        {
+          "name": "Xiuyu Wang"
+        },
+        {
+          "name": "Ying Wang"
+        },
+        {
+          "name": "Xiaoxing Huang"
+        },
+        {
+          "name": "Chao Li"
+        }
+      ],
+      "publishedAt": "2026-06-18",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42235877",
+      "title": "Association of Esketamine use with mortality and clinical outcomes in patients with cancer-related depression: A target trial emulation.",
+      "summary": "Although esketamine shows efficacy for treatment-resistant depression, its potential effectiveness in cancer-related depression (CRD) has not been well-established. We therefore evaluated the real-world effectiveness and safety of esketamine in CRD using a target trial emulation framework based on anonymized electronic health records from the TriNetX network. Adults aged 18-74 years with CRD who initiated esketamine or oral antidepressant monotherapy between March 5, 2019, and December 31, 2024, were included. The primary outcome was all-cause mortality; secondary outcomes encompassed emergency room (ER) visits, intensive care unit (ICU) visits, hospitalizations, suicide-related events, palliative care, several physical complications, and psychiatric outcomes. Outcomes were assessed at two years after the index event and summarized across three follow-up windows, using Kaplan-Meier estimations and Cox proportional hazards models. After propensity score matching, 1751 patients per group were included. Compared with the oral-antidepressant-only group, esketamine initiation was associated with significantly lower risks of 2-year all-cause mortality (hazard ratio [HR] 0.737, 95% confidence interval [CI] 0.614-0.886), ER visits (HR 0.574, 95% CI 0.501-0.657), ICU visits (HR 0.538, 95% CI 0.423-0.683), and psychotherapy utilization (HR 0.267, 95% CI 0.171-0.418). The esketamine group also showed a lower risk of ischemic stroke (HR 0.394, 95% CI 0.223-0.698), and subgroup analyses indicated that these observed associations were more pronounced in older patients. Overall, esketamine was associated with lower mortality and generally comparable safety outcomes in CRD, supporting its role as a potential therapeutic option for managing CRD.",
+      "authors": [
+        {
+          "name": "Jen-Ping Chen"
+        },
+        {
+          "name": "Chih-Wei Hsu"
+        },
+        {
+          "name": "Yi-Ya Fang"
+        },
+        {
+          "name": "Ping-Tao Tseng"
+        },
+        {
+          "name": "Yu-Chen Kao"
+        },
+        {
+          "name": "Tien-Wei Hsu"
+        },
+        {
+          "name": "Chih-Sung Liang"
+        }
+      ],
+      "publishedAt": "2026-06-18",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42214651",
+      "title": "Long-term spatial memory, anxiety-like behavior and oxidative stress markers in an adolescent binge-alcohol model: Evaluation of DHA as a potential protective agent.",
+      "summary": "Alcohol consumption escalates to 43% in the world population aged 15 years or older according to the World Health Organization. The prevalence of alcohol consumption and problems associated with it are observed in individuals between 18 and 24 years old and have increased in the last few years. The aim of the present study was to evaluate the effect of a binge-like model of ethanol consumption on anxiety-like behavior, long-term spatial memory and oxidative stress (OS) in adolescent rats and the possible amelioration by docosahexaenoic acid (DHA).Wistar rats received ethanol (2.0 g/kg) or vehicle on postnatal days (PDs) 28, 30, and 32, followed by DHA (1.0 mg/kg) or albumin administration. On PD 34, one cohort was assessed for anxiety-like behavior using the Light-Dark Box and the Multivariate Concentric Square Field, and blood and brain samples were collected for OS analysis. A separate cohort was evaluated for spatial memory in the Barnes maze on PD 41. Ethanol exposure did not induce an anxiety-like phenotype; however, DHA administration exerted an anxiolytic effect. Catalase activity and malondialdehyde levels positively correlated with time spent in the dark compartment in ethanol-exposed animals, suggesting a possible association between anxiety-related behavior and oxidative status. Moreover, adolescent ethanol exposure impaired spatial memory performance, increasing latency and distance to the goal, while DHA partially mitigated these deficits. Together, these findings highlight adolescence as a sensitive period for ethanol-induced cognitive alterations and support DHA as a potential neuroprotective strategy against long-term behavioral and biochemical consequences of adolescent alcohol exposure.",
+      "authors": [
+        {
+          "name": "Valentín Cabrera"
+        },
+        {
+          "name": "Aída Marcotti"
+        },
+        {
+          "name": "Ana Fabiola Macchione"
+        },
+        {
+          "name": "Paula Abate"
+        },
+        {
+          "name": "Mariela Fernanda Pérez"
+        },
+        {
+          "name": "Verónica Balaszczuk"
+        }
+      ],
+      "publishedAt": "2026-06-18",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42214649",
+      "title": "Neurophysiological markers of GABAergic and glutamatergic function associated with childhood adversity in adolescent depression: An exploratory transcranial magnetic stimulation study.",
+      "summary": "We aimed to explore the relationships between childhood adversity, as assessed by the Childhood Trauma Questionnaire (CTQ) and transcranial magnetic stimulation (TMS) neurophysiological measures of GABAergic and glutamatergic neurotransmission. We hypothesized that elevated CTQ scores would have associations with dysregulated GABAergic and glutamatergic neurotransmission. Adolescents (N = 47) aged 12-18 years diagnosed with Major Depressive Disorder (MDD) were assessed with the CTQ and TMS neurophysiology measures (n = 40) including: Short-Interval Cortical Inhibition (SICI), Long-Interval Cortical Inhibition (LICI), the Cortical Silent Period (CSP), and Intracortical Facilitation (ICF). Spearman partial correlation coefficients, controlled for age, number of failed medical trials and depressive symptom severity were employed to examine potential associations among the CTQ and markers of GABAergic and glutamatergic neurotransmission. A significant positive correlation was observed between ICF-10 and physical abuse (ρ = 0.36276, p = 0.0297) suggesting an association with historical physical abuse and increased glutamatergic neurotransmission. Significant negative correlations also emerged between LICI-200 and emotional abuse (ρ = -0.36047, p = 0.0308), emotional neglect (ρ = -0.42310, p = 0.0101), physical neglect (ρ = -0.35610, p = 0.0330), and overall adversity scores (ρ = -0.515, p = 0.0013), suggesting that greater childhood adversity was associated with increased GABA-B mediated inhibitory neurotransmission. This study suggests that childhood adversity may be linked to distinct neurophysiological alterations in adolescents. These findings support the potential of TMS-derived measures as candidate biomarkers for adversity-related psychiatric disorders. Further studies should validate these findings in larger samples with a longitudinal design.",
+      "authors": [
+        {
+          "name": "Irem Azamet"
+        },
+        {
+          "name": "Paul A Nakonezny"
+        },
+        {
+          "name": "Cicek N Bakir"
+        },
+        {
+          "name": "Lucero Sangster Carrasco"
+        },
+        {
+          "name": "Karina Delaney"
+        },
+        {
+          "name": "Paul E Croarkin"
+        }
+      ],
+      "publishedAt": "2026-06-18",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42202425",
+      "title": "Antifungal vaccine development: where we are, where we are headed.",
+      "summary": "Invasive fungal infections (IFIs) represent a devastating global health crisis, causing millions deaths annually worldwide. This staggering burden disproportionately affects immunocompromised individuals, including those with HIV/AIDS, cancer, patients undergoing chemotherapy and organ transplant recipients. Current therapeutic options remain limited to only five major drug classes, which face increasing pressure from emerging resistance and frequent treatment failures. Consequently, the absence of a commercially available antifungal vaccine represents a critical gap in preventive medicine. This comprehensive review maps the progression from mechanistic immune responses to the latest vaccine platforms, while critically addressing biological and technical constraints inherent in the field. Rather than a simple enumeration of data, this review constructs a conceptual bridge between laboratory discovery and clinical reality. This integrated model is specifically tailored to address the complexities of treating high-risk, immunosuppressed populations. It highlights how emerging strategies, such as trained immunity-based and donor-derived T-cell therapies, may circumvent the inherent challenges of vaccinating the immunocompromised host. By synthesizing recent advances and identifying critical knowledge gaps, this review charts a strategic path forward for this essential field of vaccine research.",
+      "authors": [
+        {
+          "name": "Monika Janeczko"
+        },
+        {
+          "name": "Konrad Kubiński"
+        },
+        {
+          "name": "Leszek Wawiórka"
+        }
+      ],
+      "publishedAt": "2026-06-12",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42190987",
+      "title": "Antidepressant effects of transcranial static magnetic field stimulation and β-carotene nanoparticles in a rat model of depression.",
+      "summary": "Transcranial static magnetic field (TSMF) exposure and β-carotene nanoparticles (β-CAR-NPs) were evaluated for their potential antidepressant effects using the reserpine model of depression. Male Wistar rats were divided into six groups; control group, magnetic exposure group, depression model, and depression model treated with TSMF and/or β-CAR-NPs. The effectiveness of these treatments was assessed behaviorally using the forced swimming test (FST), and neurochemically by measuring the levels of serotonin (5-HT), norepinephrine (NE) and dopamine (DA), the enzyme activities of monoamine oxidase (MAO), acetylcholinesterase (AChE) and Na+, K+, ATPase, and the levels of lipid peroxidation (MDA), nitric oxide (NO), reduced glutathione (GSH) and brain derived neurotrophic factor (BDNF) in both the cortex and hippocampus. In the reserpine-treated group, the FST showed a significant reduction in the swimming time and an increase in the immobility (floating) time. This was accompanied by a significant decrease in 5-HT, NE, DA, BDNF, AChE and Na+, K+, ATPase and an increase in MAO in the cortex and hippocampus of depressed rats. The treatment of reserpine model with either TSMF or β-CAR-NPs mitigated the behavioral and neurochemical changes recorded in depressed rats to a considerable extent. However, the combined treatment with TSMF and β-CAR-NPs showed a beneficial effect in ameliorating most of the behavioral and neurochemical alterations induced by reserpine in the cortex and hippocampus of the present rat model of depression. These findings suggest that the combined application of TSMF and β-CAR-NPs may represent a promising and effective therapeutic strategy for the management of depression.",
+      "authors": [
+        {
+          "name": "Yasser A Khadrawy"
+        },
+        {
+          "name": "Haitham S Mohammed"
+        },
+        {
+          "name": "Eman N Hosny"
+        },
+        {
+          "name": "Nourhan S Elkholy"
+        },
+        {
+          "name": "Heba S Aboul Ezz"
+        }
+      ],
+      "publishedAt": "2026-06-18",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42178017",
+      "title": "Association between C-reactive protein to lymphocyte ratio and depression: A population-based study.",
+      "summary": "BACKGROUND: Emerging biomarkers like the C-reactive protein to lymphocyte ratio (CLR) have been associated with various diseases and may be useful for evaluating depression risk. This study investigates the association between CLR and depression and suicidal ideation, using data from the 2015-2023 of the National Health and Nutrition Examination Survey (NHANES).\nMETHODS: A population-based study using NHANES data were conducted. A total of 12,868 participants were included. Depressive symptoms and suicidal ideation were assessed using the Patient Health Questionnaire-9 (PHQ-9). The CLR was calculated as the ratio of high-sensitivity C-reactive protein (hs-CRP) and lymphocyte count. Multivariable weighted logistic and linear regression models were employed to assess the relationship between Ln-CLR and depression. Several sensitivity analyses were conducted.\nRESULTS: A significant positive association was found between elevated Ln-CLR levels and depressive symptoms, both continuously (OR = 1.12, CI: 1.02-1.22, P = 0.014) and categorically (OR = 1.35, CI: 1.00-1.82, P = 0.047 in the fourth quartile) in the fully adjusted model. Subgroup analyses suggested that the association was stable without interaction. Sensitivity analyses using multiple imputation, suicidal ideation as the outcome and the primitive CLR value as the exposure, further confirmed the robustness of the findings.\nCONCLUSION: This study demonstrates a significant association between elevated CLR and an increased risk of depressive symptoms and suicidal ideation, highlighting its potential as a novel and accessible biomarker for the early detection and management of depression.",
+      "authors": [
+        {
+          "name": "Ziyang Zheng"
+        },
+        {
+          "name": "Jiaqi Wu"
+        },
+        {
+          "name": "Qingyang Shi"
+        }
+      ],
+      "publishedAt": "2026-06-18",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42172692",
+      "title": "Willingness to receive Ebola vaccines among pregnant and lactating women in Kampala, Uganda: insights from a post-outbreak cross-sectional study.",
+      "summary": "BACKGROUND: Pregnant and lactating women face heightened risk of mortality due to Ebola disease during outbreaks, yet have historically been excluded from vaccine trials and emergency vaccination campaigns. This study assessed willingness to receive an Ebola vaccine and identified associated factors among pregnant and lactating women in Kampala-Uganda, in the aftermath of the 2022 Sudan ebolavirus outbreak and amid the COVID-19 pandemic.\nMETHODS: A cross-sectional survey was conducted in 2023 among pregnant/lactating women receiving antenatal/postnatal services at Kawempe National Referral Hospital. Data were collected using a structured questionnaire adapted from the WHO SAGE Working Group on Vaccine Hesitancy and included additional items on Ebola vaccine attitudes, socio-demographics, prior vaccination experiences, vaccine preferences (oral vs injectable) and health status, including chronic illness. The primary outcome was willingness to receive an Ebola vaccine. Modified Poisson regression was done using STATA version 15 and a p-value <0.05 was considered statistically significant.\nRESULTS: Among 424 participants (212 pregnant, 212 lactating), 252(59.4%) expressed willingness to receive an Ebola vaccine. In multivariable analysis, willingness was significantly associated with previous COVID-19 vaccination (adjusted Prevalence Ratio [aPR] = 1.32; 95%CI:1.02-1.70) and a preference for injectable vaccines only, compared to those open to oral or injectable modes (aPR = 1.54; 95%CI:1.18-2.00). Among those who were unwilling or unsure (n = 172), the most cited reasons for hesitancy were fear of side effects (22.1%) and lack of awareness about Ebola vaccines (20.3%).\nCONCLUSION: While just over half of the pregnant and lactating women in this study were willing to receive an Ebola vaccine, concerns about safety and limited awareness remain important barriers. Prior COVID-19 vaccination and preference for injectable vaccines were positively associated with willingness, suggesting that trust and familiarity with vaccination influence acceptance. Tailored risk communication and community engagement, and inclusion in vaccine planning are essential to ensuring equitable protection during EVD outbreaks.",
+      "authors": [
+        {
+          "name": "Elizabeth B Katana"
+        },
+        {
+          "name": "Daniel Kiiza"
+        },
+        {
+          "name": "Eva Agnes Laker Odongpiny"
+        },
+        {
+          "name": "Brenda N Simbwa"
+        },
+        {
+          "name": "Edirisa J Nsubuga"
+        },
+        {
+          "name": "Josephine Namayanja"
+        },
+        {
+          "name": "Richard Muhindo"
+        },
+        {
+          "name": "Barbara Castelnuovo"
+        },
+        {
+          "name": "Alex R Ario"
+        },
+        {
+          "name": "Catriona Waitt"
+        }
+      ],
+      "publishedAt": "2026-06-15",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42155662",
+      "title": "Anxiety, for better or for worse.",
+      "summary": "Anxiety is one of the most prevalent psychiatric disorders. Although people may feel anxiety when they suffer from a pathological condition, it is also a disorder in itself. However, under normal conditions, anxiety facilitates adaptation. This review discusses the adaptive function of anxiety and delves into the brain system, structures and neurotransmitters, involved in its regulation. This review also addresses psychosocial factors that can alter this regulatory system, leading to maladaptive anxiety. Additionally, this review discusses new pharmacological options with potential to alleviate pathological anxiety, as well as psychotherapeutic advances for behavioral management of this disorder.",
+      "authors": [
+        {
+          "name": "Andrea Herrera-Solís"
+        },
+        {
+          "name": "Alejandro Hernández-Lira"
+        },
+        {
+          "name": "Alejandra E Ruiz-Contreras"
+        },
+        {
+          "name": "Aline Ostos-Valverde"
+        },
+        {
+          "name": "Rodolfo Sánchez-Zavaleta"
+        },
+        {
+          "name": "Luis Arellano-García"
+        },
+        {
+          "name": "Oscar E Prospéro-García"
+        }
+      ],
+      "publishedAt": "2026-06-18",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42144053",
+      "title": "The intersection of immunity and mental health: Immunotherapy's role in modulating depression and neuropsychiatric disorders.",
+      "summary": "Depression is increasingly recognized as a heterogeneous disorder, with a substantial subset of cases driven by immune dysregulation. This review synthesizes current evidence on the bidirectional relationship between the immune system and mental health, highlighting the dual role of immunotherapy as both a contributor to and a treatment for neuropsychiatric symptoms. Growing evidence links immune dysfunction characterized by altered inflammatory pathways, cytokine profiles, and immune cell activity to the pathophysiology of major depressive disorder. Notably, activation of the kynurenine pathway of tryptophan metabolism has emerged as a key mechanistic bridge between peripheral inflammation and central neurochemical alterations underlying depressive symptoms. Furthermore, the brain actively regulates peripheral immune responses through the hypothalamic-pituitary-adrenal axis and autonomic nervous system, particularly the cholinergic anti-inflammatory pathway, completing the bidirectional neuroimmune circuit. The immune-brain interface is clearly illustrated in autoimmune encephalitis, where autoantibodies targeting synaptic receptors induce severe psychiatric manifestations that often respond effectively to timely immunomodulatory therapy, demonstrating a direct immune-mediated pathway to neuropsychiatric disease. Conversely, although transformative in cancer therapy, immunotherapeutic strategies such as immune checkpoint inhibitors and chimeric antigen receptor (CAR) T-cell therapies are frequently associated with neurotoxicity and psychiatric sequelae, including depression, anxiety, and cognitive impairment. In addition, chronic inflammatory and autoimmune disorders such as multiple sclerosis, rheumatoid arthritis, and allergic diseases exhibit high rates of psychiatric comorbidity closely linked to disease activity. Importantly, immunomodulatory treatments in these conditions often improve both physical outcomes and mental well-being. Overall, this review integrates the immunobiological foundations of depression, examines representative disease models, and evaluates the neuropsychiatric impact of immunotherapies. It underscores the importance of precision medicine approaches using inflammatory biomarkers and advocates for routine mental health assessment in patients receiving immunomodulatory treatments. Taken together, these findings underscore the need for a precision medicine framework in which inflammatory biomarkers are used to stratify patients, identify those most likely to respond to immune-targeted interventions, and guide the integration of mental health monitoring as a standard component of immunotherapy management.",
+      "authors": [
+        {
+          "name": "Tanvi Premchandani"
+        },
+        {
+          "name": "Mohammad Qutub"
+        },
+        {
+          "name": "Tanu Hatel"
+        },
+        {
+          "name": "Milind Umekar"
+        },
+        {
+          "name": "Jayshree Taksande"
+        },
+        {
+          "name": "Amol Tatode"
+        }
+      ],
+      "publishedAt": "2026-06-18",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42134564",
+      "title": "The influence of the estrous cycle in preclinical models that mimic key features of post-traumatic stress disorder: A systematic review.",
+      "summary": "Similar to other mood and anxiety conditions, post-traumatic stress disorder (PTSD) appears to be more prevalent and have a more protracted course in females. In the clinic, PTSD symptoms have been shown to worsen during phases of the menstrual cycle characterized by low estrogen and progesterone levels. Similarly, low estrogen levels have been associated with the development of fear and anxiety-like behaviour in preclinical models. Despite the commonly held belief that sex hormones influence fear and anxiety, the literature contains conflicting findings and remains controversial. To better understand the impact of the estrous cycle and sex hormones on preclinical models of PTSD-like behaviour, we conducted a systematic review of the literature. Both fear conditioning/extinction and alternative models of PTSD-like behaviour were considered. Of the 78 studies included in our review, 51% (n = 40) found no behavioural effect of the estrous cycle, ovariectomy (OVX), or hormone replacement. Conversely, 27% found an effect of hormones or the estrous cycle on fear behaviour, while 22% reported a significant effect in some metrics but not all tests. Of the articles that demonstrated a positive effect in at least one test, approximately 70% exhibited increased fear expression during phases characterized by low hormone levels (metestrus, diestrus, or OVX). In contrast, 22% reported increased fear behaviour during phases with high hormone levels (proestrus, estrus, or ovarian hormone administration), while 8% exhibited increased fear expression under both high- and low-hormone conditions. These inconsistent findings highlight the need for further research into the effect of the estrous cycle and sex hormone levels on preclinical models that mimic some of the core features of PTSD.",
+      "authors": [
+        {
+          "name": "Eliza McCann"
+        },
+        {
+          "name": "Thiago H Almeida-Souza"
+        },
+        {
+          "name": "Paula N Brandão-Lima"
+        },
+        {
+          "name": "Thallita K Rabelo"
+        },
+        {
+          "name": "Clement Hamani"
+        }
+      ],
+      "publishedAt": "2026-06-18",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42114645",
+      "title": "Decision-making impairments according to history of suicide attempt in depression: A computational model analysis.",
+      "summary": "BACKGROUND: It is well-established that individuals who have attempted suicide present decision-making impairments. However, the underlying constructs that constitute decision-making are still being explored.\nAIMS: To compare decision-making impairments in patients with a current or past depressive episode based on lifetime suicidal history and current depression.\nMETHODS: 295 patients with current and past depression were recruited and divided into 4 groups according to history of suicide attempt (suicide attempters (SA) or psychiatric controls (PC)) and severity of depression (high or low). The outcome representation learning (ORL) and the Prospect Valence Learning (PVL) models were applied to the Iowa Gambling Task (IGT) to extract estimations of feedback sensitivity, learning and consistency in the decision-making process. We also explored how childhood trauma moderated the relationship between the parameters and suicide.\nRESULTS: The optimal model for our sample was the ORL. Among the five ORL parameters, low depressed PC showed lower reward learning and greater forgetfulness than SA, but higher deck perseverance was observed only when compared to high depressed SA. Moreover, punishment learning was able to differentiate SA groups in terms of depression severity. Furthermore, patients with high childhood trauma, high forgetfulness and deck perseverance were more likely to be in the SA cohort.\nCONCLUSION: Suicide attempt may be linked to heightened feedback sensitivity to environmental contingencies, greater decision-making randomness and higher rumination. Moreover, the role of both forgetfulness and deck perseverance in trauma survivors at risk for suicide needs to be further investigated to refine their cognitive profile.",
+      "authors": [
+        {
+          "name": "R M Moret"
+        },
+        {
+          "name": "A Alacreu-Crespo"
+        },
+        {
+          "name": "F Molins"
+        },
+        {
+          "name": "E Olié"
+        },
+        {
+          "name": "Ph Courtet"
+        }
+      ],
+      "publishedAt": "2026-06-18",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42114644",
+      "title": "Multi-level pathways linking personality and mood to problematic smartphone use: A behavioral and neuroimaging study.",
+      "summary": "Problematic smartphone use (PSU) is shaped by personality traits and emotional states, yet its neural and molecular underpinnings remain unclear. Guided by the I-PACE model, we combined behavioral assessment, task-based fMRI, and whole-brain transcriptomics to investigate how dispositional greed (DGS) and depressive symptoms (BDI) contribute to PSU. Participants from middle school and university cohorts completed PSU, DGS, and BDI measures and performed a Face-Matching task during fMRI. Behaviorally, higher DGS was directly associated with greater PSU, with BDI partially mediating this link. Neuroimaging revealed altered activation patterns in visual, emotional, and cognitive control networks related to PSU. Mediation analyses identified pathways in which BDI → lingual/occipital pole → PSU and DGS → BDI → occipital regions → PSU explained the behavioral associations, highlighting visual processing circuits as key intermediaries. Integration of PSU-related brain activation maps with transcriptomic data identified 447 significantly correlated genes (188 positive, 259 negative). Gene Ontology enrichment showed nuclear transcriptional regulation for the positive set, linked via GAMBA to the visual network and high cerebral metabolic rate of oxygen. The negative set was enriched in mitochondrial and metabolic functions, mapped to limbic networks with low CMRO2 and structural vulnerability patterns in major psychiatric disorders. Overall, DGS and BDI increase PSU vulnerability through emotion-reactivity and cognitive-control deficits mediated by visual network activity, underpinned by distinct gene expression profiles. This multi-level framework offers mechanistic insights into PSU and supports precision-targeted interventions.",
+      "authors": [
+        {
+          "name": "Xiang Li"
+        },
+        {
+          "name": "Jinlian Wang"
+        },
+        {
+          "name": "Hanbing Li"
+        },
+        {
+          "name": "Mengtian Huang"
+        },
+        {
+          "name": "Ying Hu"
+        },
+        {
+          "name": "Liyuan Yang"
+        },
+        {
+          "name": "He Wang"
+        },
+        {
+          "name": "Qiang Wang"
+        }
+      ],
+      "publishedAt": "2026-06-18",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42107488",
+      "title": "Meta-analysis of blood metabolomics reveals dysregulated amino acid, neurotransmitter, and energy pathways in depression.",
+      "summary": "BACKGROUND: Depression is a major psychiatric illness with a global burden, poor treatment response, and limited biological markers, leaving diagnosis reliant on behavioral rather than biological methods. While there is an increasing number of individual metabolomic studies investigating depression, comprehensive meta-analyses remain lacking.\nMETHODS: In this study, we conducted three meta-analyses integrating 11 publicly available blood mass spectrometry (MS) datasets with 1050 samples (386 depression patients, 664 controls) and 1111 unique metabolites. Robust Rank Aggregation (RRA), Uniform Manifold Approximation and Projection (UMAP)-based clustering, and Partial Least Squares Discriminant Analysis (PLS-DA) were used as complementary integrative approaches.\nRESULTS: We identified 42 altered metabolites, with consistent elevations in glutamate, aspartate, 2-hydroxybutyrate, and ketone bodies, and reductions in glycine, glutamine, taurine, branched-chain amino acids, citrate, and urea-cycle intermediates. RRA replicated strong disruptions in glutamatergic, tryptophan, aromatic amino acid, and branched-chain amino acid metabolism. Pathway enrichment indicated coordinated alterations in amino acid, nitrogen, and nucleotide metabolism, and neurotransmitter signaling.\nCONCLUSION: Together, these results suggest that dysregulation in neurotransmitter synthesis and signal transduction, impaired excitatory-inhibitory cycles in the brain, altered energy metabolism, and nitrogen and nucleotide metabolism contribute to the development of depression. This metabolomic signature offers a potential access point to the development of novel therapeutic and diagnostic approaches.",
+      "authors": [
+        {
+          "name": "Aleksandra Panina"
+        },
+        {
+          "name": "Aleksandr V Sokolov"
+        },
+        {
+          "name": "Mikhail M Khandokhin"
+        },
+        {
+          "name": "Nikolay Oskolkov"
+        },
+        {
+          "name": "Robert Fredriksson"
+        },
+        {
+          "name": "Helgi B Schiöth"
+        }
+      ],
+      "publishedAt": "2026-06-18",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42105998",
+      "title": "Comparative network pharmacology analysis of ketamine and xanomeline in major depressive disorder: Shared and distinct molecular mechanisms.",
+      "summary": "Major depressive disorder (MDD) is a leading cause of disability worldwide, and currently available antidepressants remain limited by delayed onset of action, incomplete response, and adverse effects. Ketamine is a rapid-acting antidepressant, whereas xanomeline, an M1/M4 muscarinic receptor agonist, may represent a mechanistically distinct non-monoaminergic strategy. However, the molecular basis by which xanomeline may influence depression-related pathways, and its relationship to ketamine, remain unclear. We used network pharmacology and molecular docking to compare the shared and distinct molecular mechanisms of xanomeline and ketamine in MDD. Potential drug targets were collected from public databases and intersected with MDD-related targets. Protein-protein interaction analysis was performed to identify hub genes, followed by Gene Ontology and Kyoto Encyclopedia of Genes and Genomes enrichment analyses. Drug-pathway-target-disease networks were constructed, and shared core targets were further evaluated by molecular docking. We identified 368 overlapping targets for xanomeline-MDD and 714 for ketamine-MDD. Three KEGG pathways were shared between the two networks: EGFR tyrosine kinase inhibitor resistance, Ras signaling, and Rap1 signaling. EGFR, insulin-like growth factor 1 receptor (IGF1R), and SRC proto-oncogene, non-receptor tyrosine kinase, emerged as common core targets. Xanomeline was more strongly associated with receptor tyrosine kinase and PI3K/AKT-related signaling, whereas ketamine was more strongly linked to synaptic transmission, NMDA receptor-related functions, and glutamatergic signaling. Molecular docking supported structurally plausible binding of both drugs to EGFR, IGF1R, and SRC. These findings suggest partial convergence on downstream plasticity-related signaling nodes despite distinct upstream mechanisms and warrant further experimental investigation. However, the results should be interpreted as hypothesis-generating rather than as evidence of shared functional target engagement.",
+      "authors": [
+        {
+          "name": "Xin Ding"
+        },
+        {
+          "name": "Kenji Hashimoto"
+        },
+        {
+          "name": "Jian-Jun Yang"
+        }
+      ],
+      "publishedAt": "2026-06-18",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42105395",
+      "title": "Safety of supervised hospital vaccination in children at risk of hypersensitivity: A 9-year study.",
+      "summary": "INTRODUCTION: Fear of allergic reactions is a frequent cause of vaccine hesitancy among families of children with allergic diseases. Vaccination in a supervised hospital setting is often recommended for children considered at increased risk of hypersensitivity. However, real-world data on the safety and impact of this approach in pediatric populations remain limited.\nMETHODS: We performed a retrospective, single-center study including children referred for vaccination under allergist supervision between July 2016 and May 2025. Vaccines were administered at full dose in a hospital setting, with predefined post-vaccination observation periods. Immediate and delayed adverse reactions were recorded using standardized criteria. Vaccination status and delays were assessed in relation to national age-appropriate immunization schedules.\nRESULTS: A total of 180 children received 368 vaccine doses. Mean age was 4.2 years, and 62.2% were male. The main reasons for referral were food allergy and previous adverse events following immunization. Thirty-one children (17.2%) had a history of anaphylaxis, predominantly food-related. No cases of anaphylaxis or severe systemic reactions occurred during supervised vaccination. Mild, self-limited reactions were observed in five children (2.8%), accounting for 1.4% of vaccination visits. At referral, many children had delayed or incomplete immunization schedules. At the time of review, non-compliance was 28.9% for mandatory vaccines and 47.2% when mandatory plus recommended vaccines were considered; the median delay between vaccine prescription and supervised administration was 115 days.\nCONCLUSION: Supervised hospital-based vaccination is safe in children perceived to be at risk of hypersensitivity reactions, including those with previous anaphylaxis. A structured, allergist-led approach combining individualized risk assessment, standard-dose administration, and appropriate observation may facilitate completion of delayed immunization schedules and may help address vaccine hesitancy in allergic pediatric populations.",
+      "authors": [
+        {
+          "name": "Myriam Donesana"
+        },
+        {
+          "name": "Alessia Marseglia"
+        },
+        {
+          "name": "Laura Laterza"
+        },
+        {
+          "name": "Silvia Maria Elena Caimmi"
+        },
+        {
+          "name": "Anna Odone"
+        },
+        {
+          "name": "Alba Muzzi"
+        },
+        {
+          "name": "Gian Luigi Marseglia"
+        },
+        {
+          "name": "Amelia Licari"
+        }
+      ],
+      "publishedAt": "2026-05-23",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42097271",
+      "title": "Brain state dynamics and working memory in patients with major depressive disorder and bipolar disorder.",
+      "summary": "BACKGROUND: Working memory (WM) deficits are common in major depressive disorder (MDD) and bipolar disorder (BD) and may reflect disrupted transitions between latent brain states during cognitive engagement. Using a robust algorithm called the Bayesian switching dynamical system (BSDS), we studied hidden brain states and their transitions related to WM deficits in MDD and BD.\nMETHODS: Using the BSDS, we characterized hidden brain states and their transitions during an N-back task (fixation, 0-back, and 2-back) in 42 patients with MDD, 75 with BD, and 64 healthy controls (HCs), focusing on regions of interest within the default mode network (DMN) and frontoparietal network (FPN). We compared state occupancy, mean lifetime, and transition probabilities across groups while controlling for age, sex, education, and framewise displacement, applying false discovery rate (FDR) correction.\nRESULTS: BSDS identified four states: an FPN-dominant task-related state (ST), a DMN dominant fixation-related state (SF), and two low-occupancy hybrid states, including a posterior DMN-dominant state (SP) and an anterior DMN-dominant state (SA). Relative to BD and HCs, MDD showed a longer mean lifetime of SA during 0-back, and higher SA occupancy and mean lifetime during 2-back. Within MDD, greater SA expression was associated with slower 2-back responses and lower WAIS-CR Information scores.\nCONCLUSION: MDD and BD share preserved dominant FPN-DMN dynamics during WM, whereas MDD is characterized by heightened engagement of a low-occupancy anterior DMN-dominant state linked to inefficient performance.",
+      "authors": [
+        {
+          "name": "Feiwen Wang"
+        },
+        {
+          "name": "Zhening Liu"
+        },
+        {
+          "name": "Danqing Huang"
+        },
+        {
+          "name": "Xiawei Liu"
+        },
+        {
+          "name": "Yiju Wang"
+        },
+        {
+          "name": "Maoxing Zhong"
+        },
+        {
+          "name": "Weiqing Huang"
+        },
+        {
+          "name": "Guanyu Chen"
+        },
+        {
+          "name": "Miao Zhang"
+        },
+        {
+          "name": "Yicheng Long"
+        },
+        {
+          "name": "Jie Yang"
+        }
+      ],
+      "publishedAt": "2026-06-18",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42092444",
+      "title": "Deep brain stimulation: A narrative review of its applicability for major depressive disorder.",
+      "summary": "OBJECTIVES: This article reviews the existing literature on DBS in the context of MDD, with particular attention to treatment-resistant depression (TRD), and provides a comprehensive, up-to-date overview of its mechanisms, efficacy, and potential challenges.\nBACKGROUND: Deep brain stimulation (DBS) has established itself as an effective intervention for movement disorders, such as Parkinson's disease, in which stimulation of structures including the subthalamic nucleus and the internal globus pallidus provides significant symptom relief. In recent years, its application has been increasingly explored in psychiatric disorders, particularly major depressive disorder (MDD). However, a substantial proportion of patients do not respond adequately to conventional treatments and are classified as having treatment-resistant depression (TRD). DBS has recently been approved by the Food and Drug Administration (FDA) for treatment-resistant obsessive-compulsive disorder (OCD), while its potential role in MDD-especially in TRD-remains under investigation.\nMETHODS: Through a qualitative, exploratory analysis based on bibliographic searches, this study aims to inform and update academics and healthcare professionals on recent discoveries and applications of DBS in the treatment of MDD and TRD, thereby advancing science and improving public health and social well-being.\nRESULTS: Existing studies have investigated several neural targets involved in mood regulation, including the subgenual cingulate cortex, subthalamic nucleus, globus pallidus, and, in exploratory models, the amygdala. Available evidence suggests that modulation of these circuits may contribute to improvements in depressive symptoms in treatment-resistant cases, although variability in study design, patient selection, and stimulation parameters remains significant.\nCONCLUSIONS: DBS represents a promising but still evolving therapeutic strategy for treatment-resistant depression. Further research is needed to refine targeting strategies, optimize stimulation protocols, and better establish long-term efficacy and safety.",
+      "authors": [
+        {
+          "name": "Sandra S Meirelles"
+        },
+        {
+          "name": "Lucas C Pedro"
+        },
+        {
+          "name": "Karla F Zocatelli"
+        },
+        {
+          "name": "Gabriel S Mondo"
+        },
+        {
+          "name": "Flávia K Rigo"
+        },
+        {
+          "name": "Gislaine Z Réus"
+        }
+      ],
+      "publishedAt": "2026-06-18",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42067179",
+      "title": "Therapeutic effects of TRPC4/5 antagonism in a rat model of bipolar disorder.",
+      "summary": "Bipolar disorder, a chronic neuropsychiatric condition, is characterized by alternating episodes of mania and depression. Although acute manic episodes have become increasingly manageable with the advent of third-generation neuroleptics, the primary therapeutic challenge remains the prevention of recurrences and the effective management of often refractory depressive phases. Emerging evidence implicates transient receptor potential (TRP) channels in mood regulation through their roles in calcium signaling, synaptic plasticity, and neuroinflammation. Among these, TRPC5 has gained attention as a potential neuromodulatory target; however, the contribution of TRPC4/5 channels to bipolar disorder-related pathophysiology remains unclear. In the present study, we investigated the effects of pharmacological inhibition of TRPC4/5 channels using ML204 in an ouabain-induced rat model of bipolar disorder. Behavioral outcomes were assessed using the open field and sucrose preference tests, and molecular alterations in the hippocampus were evaluated by Western blotting and immunofluorescence. Intracerebroventricular administration of ouabain induced a bipolar-like phenotype characterized by hyperlocomotion, altered exploratory behavior, and anhedonia-like responses. Treatment with ML204 attenuated these behavioral alterations, with effects comparable to those of lithium. At the molecular level, ouabain disrupted the expression of proteins associated with synaptic function, neurotrophic signaling, oxidative stress, and glial activation, including GSK3β, BDNF, TrkB, PSD-95, synaptophysin, GFAP, and HO-1. ML204 treatment partially normalize these changes and reduced astrocytic activation. Collectively, these findings indicate that pharmacological inhibition of TRPC4/5 channels improves behavioral and molecular alterations observed in this experimental model. Importantly, given the lack of channel subtype specifity of ML204, the relative contribution of TRPC4/5 compared with other TRPC channels cannot be determined. Further studies using more selective approaches are required to clarify the channel-specific mechanisms underlying these effects.",
+      "authors": [
+        {
+          "name": "Bahadır Demir"
+        },
+        {
+          "name": "Sena Çevik"
+        },
+        {
+          "name": "Saadet Bekerecioğlu"
+        },
+        {
+          "name": "Caner Yıldırım"
+        },
+        {
+          "name": "Ramazan Bal"
+        }
+      ],
+      "publishedAt": "2026-06-18",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42061580",
+      "title": "Energy metabolic failure drives the selective degeneration of dopaminergic neurons in Parkinson's disease.",
+      "summary": "Parkinson's disease (PD) is the fastest growing neurodegenerative disorder worldwide. A critical barrier to therapeutic development is the incomplete understanding of mechanisms driving the selective degeneration of substantia nigra pars compacta (SNc) dopaminergic neurons (DaNs), the pathological hallmark of PD. Increasing evidence from preclinical and clinical studies now identifies metabolic instability as a central, early driver of this selective neurodegeneration, preceding both motor symptom onset and canonical structural pathology. These neurons face constant energetic pressure due to their autonomous pacemaking and complex axonal structures. This is compounded by their limited capacity for mitochondrial maintenance and calcium regulation. When these intrinsic constraints intersect with genetic susceptibility, dopamine-derived toxic metabolites, and disturbances in redox balance, metabolic resilience declines and vulnerability increases long before clinical symptoms emerge. In this review, we examine current insights into the metabolic foundations of PD across mitochondrial function, glucose and lipid utilization, amino acid pathways, and neuron-glia metabolic support. We highlight evidence suggesting that bioenergetic impairment precedes overt neurodegeneration and contributes to the variability in disease onset, progression, and therapeutic response. We also discuss emerging approaches aimed at strengthening metabolic capacity, including strategies to enhance nicotinamide adenine dinucleotide (NAD+) availability, support glycolysis and fatty acid oxidation, reduce oxidative stress, and modulate trophic signaling. Understanding how metabolic crisis shapes the trajectory of PD may offer new opportunities for earlier diagnosis and the development of targeted, disease-modifying interventions. Future work comparing metabolic phenotypes across patient subgroups will be essential for advancing precision treatment and clarifying the role of energy dysregulation in disease heterogeneity.",
+      "authors": [
+        {
+          "name": "Zhipeng Zhou"
+        }
+      ],
+      "publishedAt": "2026-06-18",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42058796",
+      "title": "Basic and clinical research on acupuncture for post-stroke depression: A narrative review.",
+      "summary": "Post-stroke depression (PSD) is a common neuropsychiatric complication affecting 20%-65% of stroke survivors, with limited therapeutic options due to the side effects of antidepressants. This narrative review synthesizes recent advances in acupuncture for PSD, highlighting its multi-target mechanisms and clinical applications. Acupuncture regulates neurotransmitters (e.g., 5-hydroxytryptamine, norepinephrine, glutamate), neurotrophic factors (e.g., brain-derived neurotrophic factor), the hypothalamic-pituitary-adrenal axis, inflammatory cytokines (e.g., interleukin-6, tumor necrosis factor-alpha), and oxidative stress, while modulating the brain-gut axis and homocysteine levels. Clinically, pure acupuncture, electroacupuncture, scalp/auricular acupuncture, and comprehensive therapies (combined with herbs, moxibustion, music, or rehabilitation) demonstrate efficacy in improving depressive symptoms and daily function. However, research gaps include standardized treatment protocols, mechanistic exploration, and large-scale controlled trials. This review underscores acupuncture's potential as a safe, multi-modal therapy for PSD and highlights areas for future research.",
+      "authors": [
+        {
+          "name": "Wei Xie"
+        },
+        {
+          "name": "Zhong Di"
+        },
+        {
+          "name": "Wei Shao"
+        },
+        {
+          "name": "Ai-Jun Wang"
+        },
+        {
+          "name": "Li-Hua Guan"
+        }
+      ],
+      "publishedAt": "2026-04-30",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42034280",
+      "title": "Left-to-right dorsomedial prefrontal cortex interhemispheric projections mediate psychosocial stress vulnerability.",
+      "summary": "Functional asymmetries in the medial prefrontal cortex (mPFC) are significant attributes of this brain area, implicated in its role in emotional processing and executive function. Evidence suggests that, under normal conditions, there is a tonic inhibition of the right (R) mPFC by the left (L) mPFC, and a dysregulation of this hemispheric functional lateralization is implicated in detrimental chronic stress effects. Considering the wide interhemispheric connection and the inhibitory tone from the LmPFC to the RmPFC, we hypothesize that alterations in the activity of the direct projections between the mPFC hemispheres during stressful situations are related to stress vulnerability. To address this question, we used a chemogenetic approach to modulate the activity of L-to-R dorsomedial prefrontal cortex (dmPFC) monosynaptic projections during psychosocial stress (PSS) exposure in mice. We found that activating LdmPFC projections during a repeated PSS protocol prevents stress-induced apathy-like behavior in females and males and social avoidance in male mice. On the other hand, inhibiting such projections during a single session of PSS increases vulnerability to stress effects in male mice, increasing social avoidance and anxiety-like behaviors. Both glutamatergic and GABAergic cells compose the projecting interhemispheric neurons in the dmPFC. However, the LdmPFC showed a higher density of glutamatergic projections to the RdmPFC than the opposite. In conclusion, our results revealed an involvement of the monosynaptic projections from the LdmPFC to RdmPFC in the vulnerability to the behavioral alterations induced by PSS in female and male mice.",
+      "authors": [
+        {
+          "name": "Gessynger Morais-Silva"
+        },
+        {
+          "name": "Beatriz Fagundes Gasques"
+        },
+        {
+          "name": "Isabelle Lima Lugli"
+        },
+        {
+          "name": "Ricardo Luiz Nunes-de-Souza"
+        }
+      ],
+      "publishedAt": "2026-06-18",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42034278",
+      "title": "The RBFOX1 regulatory gene network contributes to major depressive disorder, anxiety, irritability and neuroticism.",
+      "summary": "Major depressive disorder (MDD) is a complex psychiatric disorder frequently comorbid with anxiety disorders, suicide attempts, and personality traits such as irritability and neuroticism. RBFOX1, which encodes a splicing factor, is a known risk gene for MDD, and has also been associated with anxiety and neuroticism. However, the working mechanisms of how RBFOX1 influences these conditions are not yet understood. Here, we aim to shed light on the effects of RBFOX1 and its regulated genes on MDD, and the traits anxiety, irritability, neuroticism, as well as suicide attempt using genome-wide association study (GWAS) data from previous research. We demonstrate that RBFOX1 is associated with MDD, anxiety, and neuroticism, and that genes associated with all tested phenotypes, except suicide attempts, are significantly enriched in RBFOX1-regulated genes. These genes show a substantial overlap between MDD and comorbid traits and are involved in neuronal development, synaptic processes, and neurotransmitter regulation. Our network analysis reveals that RBFOX1 functions as a central hub, integrating and coordinating neighbouring nodes. Through differential gene expression prediction and the study of rare disorders presenting with depression, anxiety, irritability, or neuroticism, alongside our previous analyses, we highlight 19 top-ranked genes regulated by RBFOX1, including CADM2, CTSB, MAPT, NSF, PAX6, SCAI, SNCA, SP4, and TCF4. Our findings underscore the key role of RBFOX1 and its regulated gene network in the genetic architecture of MDD and comorbid traits. These insights may contribute to improving the prevention and treatment of MDD in the future.",
+      "authors": [
+        {
+          "name": "Maja R Adel"
+        },
+        {
+          "name": "Ester Antón-Galindo"
+        },
+        {
+          "name": "Florian Freudenberg"
+        },
+        {
+          "name": "Bru Cormand"
+        },
+        {
+          "name": "Noèlia Fernàndez-Castillo"
+        }
+      ],
+      "publishedAt": "2026-06-18",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42034277",
+      "title": "Sex-dependent endocrine, cardiovascular, nociceptive and behavioral responses in rats cohabitating with a conspecific in chronic neuropathic pain.",
+      "summary": "This study aimed to characterize the effects of cohabitation with a same-sex conspecific experiencing chronic neuropathic pain on anxiety-like behavior, mechanical nociception, and both basal and stress-reactive levels of corticosterone, arterial pressure, and heart rate in male and female rats. For this, rats were paired at weaning, and one from each pair (designated demonstrator) underwent chronic constriction injury (CCI) or sham surgery while the cagemate (designated observer) remained undisturbed. Fourteen days later, observer rats were tested for anxiety-like behavior, nociception, cardiovascular parameters and circulating corticosterone levels. We identified that cohabitation with a distressed partner induced mechanical hypernociception and anxiogenic-like effects in both sexes. Although baseline plasma corticosterone levels were unaffected by sex or housing conditions, restraint stress elicited a greater corticosterone response in both sexes cohabiting with a conspecific in pain, with this effect being more pronounced in females. Cardiovascular evaluation showed elevated baseline arterial pressure in both sexes and resting tachycardia only in females. Moreover, females exposed to a conspecific in chronic pain exhibited a blunted tachycardic response to restraint, while the restraint-evoked pressor response and sympathetically-mediated cutaneous vasoconstriction were unchanged by housing condition in either sex. Taken together, these findings demonstrate that cohabitation with a conspecific in chronic pain elicits behavioral, nociceptive, endocrine, and cardiovascular alterations. While most effects were shared between sexes, females displayed heightened vulnerability in physiological domains, particularly in endocrine and cardiac responses, suggesting greater susceptibility to the negative physiological consequences of prolonged social exposure to distress.",
+      "authors": [
+        {
+          "name": "Vinicius Pelarin"
+        },
+        {
+          "name": "Lígia R R Tavares"
+        },
+        {
+          "name": "Lilian L Reis-Silva"
+        },
+        {
+          "name": "Lucas Barreto-de-Souza"
+        },
+        {
+          "name": "Gabriela A Silva"
+        },
+        {
+          "name": "Julian Avalo-Zuluaga"
+        },
+        {
+          "name": "Ricardo Benini"
+        },
+        {
+          "name": "Susan K Wood"
+        },
+        {
+          "name": "Carlos C Crestani"
+        }
+      ],
+      "publishedAt": "2026-06-18",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42002207",
+      "title": "Neuroprotective effects of quercetin in LPS-induced depression: implications for antidepressant therapy.",
+      "summary": "Cognitive dysfunction is a prevalent and debilitating symptom associated with major depressive disorder (MDD), with neuroinflammation, driven by microglial activation, serving as a critical pathological mechanism. This study explored the therapeutic potential of quercetin, a dietary bioflavonoid recognized for its anti-inflammatory properties, within a lipopolysaccharide (LPS)-induced mouse model of depression. We posited that quercetin would mitigate depressive-like behaviors and cognitive deficits by targeting the NLRP3 inflammasome pathway. Behavioral assessments demonstrated that quercetin treatment significantly alleviated LPS-induced anhedonia, as evidenced by the sucrose preference test, and reduced behavioral despair, as observed in the forced swim and tail suspension tests. Additionally, quercetin ameliorated impairments in spatial working memory and recognition memory, as indicated by performance in the Y-maze and novel object recognition/location tests. Mechanistically, quercetin inhibited the upregulation of hippocampal NLRP3 and its molecular chaperone HSP90, while concurrently reducing the levels of pro-inflammatory cytokines (IL-6, IL-1β, MCP-1, TNF-α) in both hippocampal tissue and primary microglial cultures. The present findings indicate that quercetin significantly alleviates depressive-like behaviors and related cognitive impairments by suppressing the activation of the NLRP3 inflammasome and the ensuing neuroinflammatory processes. These results underscore quercetin's dual impact on mood and cognitive function, suggesting its potential as an innovative therapeutic agent or adjunctive treatment for depression and its cognitive consequences.",
+      "authors": [
+        {
+          "name": "Lei Sun"
+        },
+        {
+          "name": "Zifan Ding"
+        },
+        {
+          "name": "Jie Chen"
+        },
+        {
+          "name": "Yirong Kong"
+        },
+        {
+          "name": "Ye Qin"
+        },
+        {
+          "name": "Fang Han"
+        },
+        {
+          "name": "Longfei Du"
+        },
+        {
+          "name": "Yuan Liu"
+        }
+      ],
+      "publishedAt": "2026-06-18",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "41990963",
+      "title": "Chronobiological disruption in ADHD: Developmental mechanisms linking sleep, behavior, and comorbid conditions.",
+      "summary": "BACKGROUND: Attention-Deficit/Hyperactivity Disorder (ADHD) is increasingly recognized as a neurodevelopmental condition involving both dopaminergic dysfunction and circadian misalignment. While these mechanisms have traditionally been studied independently, their combined impact on symptom expression and comorbidity-particularly with mood disorders, substance use disorders, and obesity-remains insufficiently understood. This review aims to integrate current evidence on the interaction between circadian and dopaminergic dysfunction in ADHD and to evaluate the therapeutic potential of chronobiological interventions.\nMETHODS: We conducted an integrative review of studies across neurobiology, chronobiology, psychopharmacology, and genetics, including evidence from both human and animal models. The review focuses on molecular and clinical findings related to circadian regulation, dopaminergic signaling, and their interaction in ADHD pathophysiology and treatment response.\nRESULTS: Evidence indicates that dopaminergic dysregulation contributes to impaired reward processing and motivational deficits, while circadian disruption is associated with sleep disturbances, emotional dysregulation, and metabolic dysfunction. These processes appear to interact bidirectionally, potentially amplifying symptom severity and comorbidity. Emerging findings implicate circadian genes-particularly CRY1-in the regulation of both neural and metabolic pathways. Chronotherapeutic interventions, including light therapy, melatonin supplementation, and sleep-focused behavioral strategies, show promise, particularly when aligned with individual circadian profiles.\nCONCLUSIONS: Elucidating the interplay between circadian misalignment and dopaminergic dysfunction may inform more precise, biomarker-guided treatment strategies in ADHD. Stratified care models that incorporate circadian timing and individual variability have the potential to improve outcomes and address the high comorbidity burden. Large-scale, controlled clinical studies are needed to validate these approaches and facilitate their translation into personalized interventions.",
+      "authors": [
+        {
+          "name": "Daniela Glavan"
+        },
+        {
+          "name": "Ion Udristoiu"
+        },
+        {
+          "name": "Dirk M Hermann"
+        },
+        {
+          "name": "Madalina Filfan"
+        },
+        {
+          "name": "Thorsten R Doeppner"
+        },
+        {
+          "name": "Victor Gheorman"
+        },
+        {
+          "name": "Aurel Popa-Wagner"
+        }
+      ],
+      "publishedAt": "2026-06-18",
+      "source": "PubMed"
+    }
+  }
+]
