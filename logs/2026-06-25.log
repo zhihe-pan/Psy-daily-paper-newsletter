@@ -1,0 +1,32 @@
+2026-06-25 22:18:57,009 - INFO - 正在处理 2026-06-26 的论文数据
+2026-06-25 22:18:57,009 - INFO - 读取到 3 篇论文数据
+2026-06-25 22:18:57,009 - INFO - 正在处理第 1/3 篇论文
+2026-06-25 22:18:57,009 - INFO - 正在评审/翻译第 1 篇论文 (尝试 1/3)
+2026-06-25 22:18:57,009 - INFO - 使用模型: DeepSeek Chat
+2026-06-25 22:18:57,728 - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-25 22:19:00,632 - INFO - 第 1 篇论文处理成功
+2026-06-25 22:19:03,633 - INFO - 正在处理第 2/3 篇论文
+2026-06-25 22:19:03,633 - INFO - 正在评审/翻译第 2 篇论文 (尝试 1/3)
+2026-06-25 22:19:03,633 - INFO - 使用模型: DeepSeek Chat
+2026-06-25 22:19:03,916 - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-25 22:19:04,665 - INFO - 第 2 篇论文被 DeepSeek 判定为不相关，已自动过滤。
+2026-06-25 22:19:04,665 - INFO - 第 2 篇论文已过滤，未写入结果集
+2026-06-25 22:19:07,666 - INFO - 正在处理第 3/3 篇论文
+2026-06-25 22:19:07,666 - INFO - 正在评审/翻译第 3 篇论文 (尝试 1/3)
+2026-06-25 22:19:07,666 - INFO - 使用模型: DeepSeek Chat
+2026-06-25 22:19:07,948 - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-25 22:19:08,961 - INFO - 第 3 篇论文被 DeepSeek 判定为不相关，已自动过滤。
+2026-06-25 22:19:08,962 - INFO - 第 3 篇论文已过滤，未写入结果集
+2026-06-25 22:19:11,962 - INFO - 论文处理统计：总数 3，成功 1，失败 0
+2026-06-25 22:19:12,291 - INFO - 开始分析论文数据，时间范围：2026-06-18 至 2026-06-25
+2026-06-25 22:19:12,297 - INFO - 处理 2026-06-25 的数据：找到 1 篇论文
+2026-06-25 22:19:12,297 - DEBUG - Building prefix dict from the default dictionary ...
+2026-06-25 22:19:12,828 - DEBUG - Dumping model to file cache /tmp/jieba.cache
+2026-06-25 22:19:12,864 - DEBUG - Loading model cost 0.566 seconds.
+2026-06-25 22:19:12,864 - DEBUG - Prefix dict has been built successfully.
+2026-06-25 22:19:12,881 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-06-25 22:19:12,883 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-06-25 22:19:12,886 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-06-25 22:19:12,888 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-06-25 22:19:16,990 - INFO - 统计图表生成完成
+2026-06-25 22:19:16,997 - INFO - 日报已生成：newsletters/2026-06-26_daily_paper.md
