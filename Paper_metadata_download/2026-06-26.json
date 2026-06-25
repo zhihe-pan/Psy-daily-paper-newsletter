@@ -1,0 +1,83 @@
+[
+  {
+    "paper": {
+      "id": "42341109",
+      "title": "AI-driven tripartite classification for optimizing wearable bioelectronics in depression management.",
+      "summary": "Current disease-sensing devices primarily focus on distinguishing between healthy and diseased states, effective for diagnosis but limited in guiding optimal intervention timing for prevention. We developed a tripartite framework identifying pre-disease state in depression, a reversible phase preceding irreversible onset. Using complex systems theory, we analyzed early-warning signals emerging as biological systems approach critical transitions. Continuous monitoring of nine multimodal biomarkers-spanning electrophysiological, behavioral, and biological-enabled classification into normal, pre-disease, and disease states by quantitatively defining critical points. An artificial intelligence agent classified disease states with 95.2% accuracy using multimodal data, enabled by ultrasoft neural probes for stable, low-damage recordings. Therapeutic validation with a skin-attachable wireless vagus nerve stimulator integrating soft three-dimensional electrodes demonstrated superior efficacy during pre-disease states. Subjects treated during pre-disease showed faster recovery and greater therapeutic responses, while those treated after disease onset failed to achieve full recovery. This framework provides evidence-based rationale for early intervention.",
+      "authors": [
+        {
+          "name": "Jakyoung Lee"
+        },
+        {
+          "name": "Yeon-Mi Hong"
+        },
+        {
+          "name": "Enji Kim"
+        },
+        {
+          "name": "Hunkyu Seo"
+        },
+        {
+          "name": "Won Gi Chung"
+        },
+        {
+          "name": "Wonjung Park"
+        },
+        {
+          "name": "Hayoung Song"
+        },
+        {
+          "name": "Sumin Kim"
+        },
+        {
+          "name": "Jang-Ung Park"
+        }
+      ],
+      "publishedAt": "2026-06-25",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42331907",
+      "title": "The influence of bottom-up and top-down effects on the distribution and density of common leopards (Panthera pardus) in an Eastern Himalayan landscape.",
+      "summary": "Large carnivore populations face numerous threats, yet leopards (Panthera pardus) remain understudied in Bhutan, where conservation is primarily focused on tigers (Panthera tigris). We evaluated the bottom-up and top-down influences on leopard habitat use, vital rates, and activity patterns, and provide the first nationwide estimate of leopard density in Bhutan. Using nationwide camera trap surveys from 2014-2015 to 2021-2022, we applied spatially explicit capture-recapture (SECR) models to estimate leopard density, dynamic two-species occupancy models to assess leopard-tiger habitat use, colonization, and local extinction, and activity-overlap analyses to evaluate temporal partitioning. Mean leopard density was 1.02 individuals/100 km2 (95% CI 0.89 -1.16), yielding a national population of 318.73 ± 21.73 SE individuals. Leopard density declined with elevation, stream density, and tree cover, while tiger density, human settlement density, and prey availability had weaker context dependent effects. Estimated site use was higher for leopards than tigers and declined with elevation and stream density for both species, while local extinction declined with increasing prey density. Leopards and tigers showed high diel overlap, suggesting little temporal avoidance. Together, these results suggest that leopard persistence in Bhutan's montane landscapes is structured more strongly by bottom-up habitat and prey conditions than by tiger suppression.",
+      "authors": [
+        {
+          "name": "Karma Choki"
+        },
+        {
+          "name": "Lisanne S Petracca"
+        },
+        {
+          "name": "Ellen O Aikens"
+        },
+        {
+          "name": "Amanda E Cheeseman"
+        }
+      ],
+      "publishedAt": "2026-06-23",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42177662",
+      "title": "Barriers and facilitators experienced by primary school teachers returning to work after mild traumatic brain injury in Aotearoa, New Zealand.",
+      "summary": "AIM: This qualitative study explored barriers and facilitators experienced by primary school teachers returning to work after mild traumatic brain injury (mTBI) in Aotearoa, New Zealand.\nMETHODS: Seven participants were recruited from a target population of primary school teachers who had sustained an mTBI that affected their ability to work. Semi-structured interviews were employed to collect data, and reflexive thematic analysis methods were used to understand participants' perspectives within their context.\nRESULTS: Three themes were identified: (1) 'My classroom never stops', (2) 'Invisible injury: understanding affects expectations', and (3) 'Trying to link everyone together'. Findings indicated participants felt pressure to return to work (RTW) quickly after their injury to minimise disruption to others. Pressure to RTW was explicit from employers, whom some participants perceived as lacking an understanding of mTBI. Furthermore, teachers face challenges in implementing accommodations due to a lack of flexibility in work hours and tasks. Participants felt isolated while trying to coordinate competing stakeholder priorities.\nCONCLUSION: Overall, the barriers and facilitators experienced by teachers as they RTW after mTBI are not merely at the level of the individual and their work tasks but are embedded within the complex interactions between the individual, personal, workplace, healthcare, and insurance/legislative systems.",
+      "authors": [
+        {
+          "name": "Rachael E McCleary"
+        },
+        {
+          "name": "Rachelle A Martin"
+        },
+        {
+          "name": "Deborah L Snell"
+        }
+      ],
+      "publishedAt": "2026-05-24",
+      "source": "PubMed"
+    }
+  }
+]
