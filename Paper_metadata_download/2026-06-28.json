@@ -1,0 +1,175 @@
+[
+  {
+    "paper": {
+      "id": "41905731",
+      "title": "Xiaoyaosan ameliorates stress-induced MASH via modulating IL-1R1/RXRα-mediated liver-brain crosstalk.",
+      "summary": "ETHNOPHARMACOLOGICAL RELEVANCE: Metabolic dysfunction-associated steatohepatitis (MASH) constitutes an advancing hepatic disorder endangering worldwide well-being with scarce therapeutic options. Social stress, an important trigger of MASH, exacerbates hepatic inflammation and lipid metabolism disorders. Xiaoyaosan (XYS), a classical herbal formula traditionally used to soothe the liver and relieve depression, to strengthen the spleen and regulate metabolism, is clinically used for emotional and metabolic imbalances, but its mechanism in stress-induced MASH remains unclear.\nAIM OF THE STUDY: Building upon its traditional use in managing stress-related disorders, this study aims to elucidate the therapeutic mechanism by which XYS ameliorates psychosocial stress-induced MASH, thereby providing a mechanistic foundation for its pharmacological application in metabolic disorders with psychosomatic components.\nMATERIALS AND METHODS: A MASH mouse model was established via chronic unpredictable mild stress (CUMS) combined with choline-deficient amino acid-defined high-fat diet (CDAHFD). XYS's efficacy was evaluated by behavioral assessment (open field test), hepatic histopathology (HE, Oil Red O, Masson/Sirius Red, IHC staining), biochemical analyses (ALT, AST, TG), and ELISA (serum/liver IL-1β, TNF-α). Multi-omics (lipidomics, proteomics, transcriptomics) screened key targets/pathways, validated by rt-qPCR, WB, Co-IP, and IF.\nRESULTS: XYS improved mouse stress status and dose-dependently reduced hepatic lipid deposition, fibrosis, and inflammation. Multi-omics revealed XYS reshaped lipid metabolism by inhibiting the TLR4/IL-1R1/MYD88 axis, upregulating PGC1-α/RXRα, and correcting the reduced binding of RXRα to both PPARα and PGC1-α.\nCONCLUSION: XYS effectively treats CUMS-induced MASH, likely by inhibiting IL-1R1-mediated inflammation, restoring the reduced binding of RXRα to PPARα and PGC1-α, and regulating downstream lipid genes-thus ameliorating both inflammatory and metabolic dysregulation in stress-induced MASH by restoring RXRα-PPARα/PGC1-α binding-a core mechanism initiated by upstream IL-1R1 inhibition.",
+      "authors": [
+        {
+          "name": "Yi Zhang"
+        },
+        {
+          "name": "Xiaoru Luo"
+        },
+        {
+          "name": "Shuya Wu"
+        },
+        {
+          "name": "Yiheng Qin"
+        },
+        {
+          "name": "Qianyin Xue"
+        },
+        {
+          "name": "Wenjuan Ye"
+        },
+        {
+          "name": "Shibing Hou"
+        },
+        {
+          "name": "Buping Liu"
+        },
+        {
+          "name": "Danping Huang"
+        },
+        {
+          "name": "Weiqu Yuan"
+        },
+        {
+          "name": "Haiqing Ao"
+        },
+        {
+          "name": "Guangdong Tong"
+        },
+        {
+          "name": "Mianmian Liao"
+        }
+      ],
+      "publishedAt": "2026-04-11",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "41895540",
+      "title": "Research progress on employing medicinal plants and their active compounds to target autophagic pathways for Parkinson's disease therapy.",
+      "summary": "ETHNOPHARMACOLOGICAL RELEVANCE: Parkinson's disease (PD) significantly affects patients' quality of life. Natural plant therapies, characterized by holistic, multi-target regulatory effects, have demonstrated unique value in managing complex diseases, particularly through regulating autophagy, inhibiting neuroinflammation, and reducing oxidative stress. Combined with their favourable safety profile-especially lower hepatotoxicity and nephrotoxicity-they represent an important direction in anti-PD drug development.\nAIM OF THE REVIEW: This review systematically examines the ethnopharmacological applications of natural plants that regulate autophagy in PD treatment, summarizing current progress and challenges to inform traditional Chinese medicine (TCM) modernization and anti-PD drug development.\nMETHODS: This study investigates natural herbal therapies for PD, focusing on their regulatory mechanisms of autophagy. Primary sources included traditional medical classics and ethnomedicinal literature, supplemented by data from online databases such as PubMed, China National Knowledge Infrastructure (CNKI), Web of Science, and Wanfang. A systematic search was conducted using keywords including \"PD,\" \"autophagy,\" \"regulatory mechanisms,\" \"medicinal plants,\" \"TCM compound preparations,\" \"single herbal extracts,\" and \"active compounds\" to identify relevant studies published in recent years. Original research articles (in vitro, in vivo, or clinical) and high-quality reviews with mechanistic data involving autophagy in PD were included. Topical-independent literature, thesis, conference abstracts, books, case reports, and commentaries were excluded. Only articles published in English or Chinese were considered.\nRESULTS: Incorporating medicinal plants into PD management offers significant advantages in multi-target regulation and safety. However, a critical examination reveals several complexities. While modulating multiple autophagy-related pathways provides a theoretical advantage over single-target drugs, this broad-spectrum activity raises concerns about target specificity and off-target effects, which remain poorly characterized. Current evidence largely relies on correlational observations rather than direct mechanistic validation, leaving uncertainty about whether these compounds genuinely engage key autophagy targets under physiological conditions. Regarding safety, although centuries of traditional use of TCM compound preparations imply tolerability, assuming medicinal plants are inherently safer than Western drugs is problematic, as many constituents exhibit dose-dependent toxicity, and the lack of rigorous long-term trials limits generalizability. Furthermore, the prevailing reductionist approach-isolating active components for mechanistic studies-may overlook synergistic interactions inherent in herbal formulations, thus failing to capture their full therapeutic potential. Bridging traditional knowledge and modern evidence-based medicine requires not only advanced target identification techniques but also a holistic framework that respects herbal therapy's foundations while subjecting it to the same scientific scrutiny as conventional treatments.\nCONCLUSIONS: Although medicinal plants have garnered considerable attention for the treatment of PD, claims of their \"significant clinical efficacy\" should be approached with caution. Current evidence is primarily derived from basic research or observational studies and lacks validation through rigorous randomized controlled trials. Moreover, while autophagy regulation remains a prominent area of research, the multi-component and multi-target nature of compound formulations means their mechanisms cannot be explained by a single pathway. The transition from traditional use to evidence-based treatment continues to face challenges, including standardization, quality control, and dosage optimization. Therefore, although medicinal plants show potential, their therapeutic value must be confirmed through more rigorous methodologies and large-scale clinical trials.",
+      "authors": [
+        {
+          "name": "Wanzhen Hu"
+        },
+        {
+          "name": "Yan Li"
+        },
+        {
+          "name": "Aili Yang"
+        },
+        {
+          "name": "Xuelian Jiao"
+        },
+        {
+          "name": "Aizhi Zhang"
+        },
+        {
+          "name": "Junlian Li"
+        },
+        {
+          "name": "Long Zhao"
+        },
+        {
+          "name": "Bo Zhao"
+        },
+        {
+          "name": "Dongjun Wan"
+        },
+        {
+          "name": "Xiaoyan Zhang"
+        },
+        {
+          "name": "Guozhen Zhang"
+        }
+      ],
+      "publishedAt": "2026-04-11",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "41881320",
+      "title": "Bupleurum marginatum Wall.: A comprehensive review of the traditional uses, phytochemistry, pharmacology, and quality control.",
+      "summary": "ETHNOPHARMACOLOGY RELEVANVE: Bupleurum marginatum Wall. (B. marginatum) has a long history of use as a traditional medicine among Chinese ethnic minorities. It is characterized by a pungent and bitter taste, slightly cold in nature, and is associated with the liver, gallbladder, and lung meridians. Its functions include releasing the exterior and harmonizing the interior, soothing the liver and relieving depression, as well as uplifting middle qi.\nAIM OF THE REVIEW: This review comprehensively reviews the traditional applications, chemical constituents, pharmacological effects, and quality control of Bamboo-leaf Bupleurum, and provides an outlook on future research directions.\nMETHODS: The literature for this review was compiled from two main sources: authoritative texts in traditional medicine (Diannan Bencao, Bencao Gangmu, Dictionary of Chinese Ethnic Medicine) and major scientific databases (PubMed, Web of Science, CNKI). Using keywords including \"Bupleurum marginatum\" and \"Dian Chaihu\" elevant pharmacological, clinical, and ethnomedical studies were identified and subsequently subjected to critical analysis.\nRESULT: B. marginatum is a traditional Chinese medicinal herb with a bitter and pungent taste, slightly cold in nature, and is associated with the liver and gallbladder meridians. Its functions include harmonizing the exterior and interior, soothing the liver and relieving depression, as well as lifting yang qi. Modern research has confirmed that its core active components include saikosaponins, flavonoids, volatile oils, and polysaccharides, which exhibit well-defined pharmacological effects such as antipyretic, anti-inflammatory, liver-protecting, cholagogue, and immunomodulatory actions. As an important locally customary medicinal material, the practical experience of using the whole herb for medicinal purposes is supported by scientific evidence (the aerial parts are rich in flavonoids). Current quality control focuses on key indicators such as total saikosaponins, total flavonoids, and specific saikosaponins a and d, utilizing techniques like fingerprint chromatograms. Future research should center on the therapeutic evaluation of B. marginatum in specific diseases such as cholecystitis and pharyngitis, elucidate the mechanisms of its bioactive saikosaponins and flavonoids, and integrate organoid models with AI-driven platforms to establish a precision screening system. Furthermore, developing a quality marker system rooted in traditional efficacy will facilitate the precision-oriented research and clinical translation of this medicinal herb.\nDISCUSSION: The current research bottlenecks for Bamboo-leaf Bupleurum are primarily reflected in: the lack of a distinctive material basis (high similarity to Bupleurum chinense, absence of exclusive markers), unified quality standards (market confusion, lack of an independent evaluation system), bottlenecks in germplasm resources and cultivation (seed characteristics hindering large-scale cultivation), and insufficient clinical evidence (traditional efficacy lacking support from modern pharmacology and evidence-based medicine). These pain points are interconnected, collectively impeding its transformation from a \"locally customary medicinal material\" to standardized and precise clinical application. Future research must focus on addressing these core deficiencies. Future research on B. marginatum can deeply integrate technologies such as AI, multi-omics, and knowledge graphs to construct a new data-driven research paradigm. Through AI-enabled intelligent mining of the complex relationships between components and activities, and leveraging multi-omics and knowledge graphs to systematically analyze the \"component-target-pathway\" interaction network, its traditional efficacy can be scientifically elucidated. Ultimately, the systematic integration of these technologies will drive the transformation of research toward intelligence and precision, providing core momentum for clarifying its unique value and achieving precise clinical application.",
+      "authors": [
+        {
+          "name": "Xing Yang"
+        },
+        {
+          "name": "Zhengyang Yu"
+        },
+        {
+          "name": "Mingyu Yang"
+        },
+        {
+          "name": "Jihang Xie"
+        },
+        {
+          "name": "Sijing Su"
+        },
+        {
+          "name": "Lexin Wang"
+        },
+        {
+          "name": "Wanqiu Peng"
+        },
+        {
+          "name": "Qian Zhang"
+        },
+        {
+          "name": "Linlin Zhao"
+        },
+        {
+          "name": "Yi Zhang"
+        }
+      ],
+      "publishedAt": "2026-04-11",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "41861923",
+      "title": "Effects of Dendrobium officinale on chronic fatigue in rats: Modulation of tryptophan metabolism.",
+      "summary": "ETHNOPHARMACOLOGICAL RELEVANCE: Chronic fatigue is a prolonged and persistent state of mental and physical exhaustion that is not readily relieved by rest. Dendrobium officinale Kimura & Migo (D. officinale), a traditional tonic medicinal and edible herb, which have been reported to possess diverse pharmacological activities, including anti-fatigue, immunomodulatory, and gut microbiota-modulating effects. Nevertheless, the effects and underlying mechanisms on chronic fatigue remain largely unexplored.\nAIM OF THE STUDY: This study aimed to evaluate the effects of D. officinale in a rat model of chronic fatigue induced by complex poor lifestyles, and to elucidate the underlying mechanisms via tryptophan (TRP) metabolic modulation.\nMATERIALS AND METHODS: A rat model of chronic fatigue was established through complex poor lifestyles, including over stress, inadequate sleep, irregular diet, and over work. The animals were then randomly allocated into five groups: a normal control group (NC), a model control group (MC), and three groups treated with D. officinale water extract (DOW) at doses of 0.1, 0.2, and 0.4 g/kg via oral gavage. After a 4-week intervention, the effects of DOW were subjected by general sign observation, swimming test, elevated plus maze (EPM) and open field tests (OFT). Furthermore, 16S rRNA gene sequencing, LC-MS analysis, Western blotting (WB), and quantitative real-time PCR (qRT-PCR) were performed to assess gut microbiota composition, TRP metabolites, and key metabolic enzymes, thereby elucidating the potential mechanisms by which DOW ameliorates chronic fatigue.\nRESULTS: DOW markedly improved exercise endurance, alleviated depression-like behaviour as well as attenuated dysregulation of the neuroendocrine-immune (NEI) system. In addition, DOW modulated gut microbiota disturbances and substantially increased the levels of TRP-derived indole metabolites, including indole (IDN), indole-3-acetic acid (IAA), indole-3-propionic acid (IPA), and indole-3-aldehyde (IAld). Meanwhile, it restored the inhibited kynurenine (KYN) metabolic pathway and promoted hepatic expression of key KYN-pathway enzymes, including tryptophan 2,3-dioxygenase 2 (TDO2), kynurenine 3-monooxygenase (KMO), and kynurenine aminotransferase 1 (KAT1), thereby enhancing the production of downstream KYN metabolite, including 3-Hydroxyanthranilic acid (3-HAA), Quinolinic acid (QA), Picolinic acid (PA), and Xanthurenic acid (XA). Correlation analysis further demonstrated that the alleviation of chronic-fatigue-related symptoms and behavioral abnormalities by DOW was strongly associated with its regulation of TRP metabolism.\nCONCLUSION: DOW effectively alleviated chronic fatigue induced by complex poor lifestyles in rats, and its underlying mechanism may involve modulating the gut microbiota to enhance the synthesis of indole-derived metabolites, and upregulating the expression of key enzymes in the KYN pathway to promote the generation of KYN-derived metabolites, thereby restoring TRP metabolic homeostasis.",
+      "authors": [
+        {
+          "name": "Meiqiu Yan"
+        },
+        {
+          "name": "Menglin Shi"
+        },
+        {
+          "name": "Chunwan Li"
+        },
+        {
+          "name": "Bingqing Yu"
+        },
+        {
+          "name": "Hengpu Zhou"
+        },
+        {
+          "name": "Jie Su"
+        },
+        {
+          "name": "Jingjing Yu"
+        },
+        {
+          "name": "Guiyuan Lv"
+        },
+        {
+          "name": "Suhong Chen"
+        }
+      ],
+      "publishedAt": "2026-04-11",
+      "source": "PubMed"
+    }
+  }
+]
