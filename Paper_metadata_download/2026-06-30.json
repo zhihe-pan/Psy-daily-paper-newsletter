@@ -1,0 +1,574 @@
+[
+  {
+    "paper": {
+      "id": "42370045",
+      "title": "Holistic Psychotherapeutic Approach in Elderly Burn Patients: A Consultation-liaison Psychiatry Case Series Integrating Supportive, Family-involved and Spiritual Interventions.",
+      "summary": "Burn injuries in elderly patients often present complex clinical and psychological challenges, especially when compounded by functional decline, emotional vulnerability, and spiritual distress. This case series illustrated a holistic psychotherapeutic approach implemented in a consultation-liaison psychiatry (CLP) setting for three elderly burn patients, each with unique psychological and spiritual needs. Interventions included supportive psychotherapy to address anxiety and mood disturbances, involvement of family members to enhance emotional security and reduce treatment resistance, spiritual facilitation aligned with patients' religious values, and cognitive reorientation techniques to manage episodes of acute confusion and delirium. These tailored approaches proved effective in improving patients' emotional adjustment, cooperation with care, and treatment adherence. The integration of psychotherapeutic, familial, and spiritual interventions underscores the importance of culturally sensitive and individualized CLP strategies for elderly burn survivors. However, the findings are limited by the small sample size and the qualitative nature of the data, which may restrict generalizability. Nevertheless, these observations highlight the value of interdisciplinary collaboration in optimizing recovery and psychological well-being among older adults in burn units.",
+      "authors": [
+        {
+          "name": "V A Rahma"
+        },
+        {
+          "name": "A Karimah"
+        }
+      ],
+      "publishedAt": "2026-06-29",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42368508",
+      "title": "Racial Discrimination and Hwa-byung, a Korean Medicine-Based Anger Syndrome, among Foreign Residents in South Korea: a cross-sectional study.",
+      "summary": "OBJECTIVES: Researchers have traditionally viewed Hwa-byung (HB) as a culture-bound syndrome specific to Korea. However, no studies have examined how racial discrimination experienced by foreigners and naturalized citizens contributes to HB in Korea's increasingly multicultural society. The present study investigated how experiences of racial discrimination influence HB among foreigners and naturalized Korean citizens living in Korea and offers a new perspective on the concept of culture-bound syndromes.\nMETHODS: In June 2025, a web-based cross-sectional survey collected responses from 601 foreigners and naturalized citizens aged 19 years or older who had lived in Korea for at least one year. The analysis used multivariate binary logistic regression with HB presence as the dependent variable.\nRESULTS: The overall prevalence of HB was 23.8%. Individuals who consistently experienced racial discrimination had 10.581-fold higher odds of HB (95% CI 1.920-58.308), representing the strongest association in the analysis. Poor subjective health status (OR = 2.602), higher HB trait scores (OR = 1.134), higher depression scores (OR = 1.147), and higher stress scores (OR = 1.130) also significantly increased the likelihood of HB.\nCONCLUSION: HB among foreigners and naturalized citizens residing in Korea shows preliminary associations with experiences of racial discrimination, raising the theoretical question of whether HB's etiological mechanism may extend beyond its original cultural context. The finding that those who consistently experience racial discrimination showed more than a 10-fold higher odds of HB presence represents a preliminary finding that warrants replication in larger samples.",
+      "authors": [
+        {
+          "name": "Chan-Young Kwon"
+        }
+      ],
+      "publishedAt": "2026-06-29",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42368305",
+      "title": "From companion technologies to social care infrastructure: A multi-level perspective on loneliness-related support in dementia care in an era of artificial intelligence (AI).",
+      "summary": "Loneliness and social isolation are important psychosocial concerns in dementia care, but they are difficult to address through pharmacological treatment or episodic social activities alone. Companion technologies, including socially assistive robots, humanoid and conversational robots, avatars, virtual agents, and artificial intelligence (AI)- enabled companions, are increasingly discussed as possible aids for engagement and interaction. However, current evidence does not justify treating these technologies as standalone interventions that directly reduce loneliness in people with dementia. We argue that these technologies may be more appropriately considered not only as devices or interventions, but also as potential components of social care infrastructure: tools that can encourage individual engagement and mediate human relationships but that need to be integrated into care ecosystems. We propose the multi-level care with social technologies (MCST) model, which consists of three connected layers: individual engagement, relational interaction, and the care ecosystem. The model emphasizes that loneliness-related support is produced through the interaction between technology, human facilitation, care workflows, ethical governance, and feedback-based adjustment. This approach is especially relevant as dementia care systems face workforce constraints and an increasing need for home-based care, while psychosocial needs remain and may be overlooked in routine care. AI-enabled and large-language-model-based companions may expand possibilities for personalization and continuous engagement, but dementia-specific evidence remains preliminary and safety concerns are substantial. Future research should validate the MCST model in real-world dementia care and establish evaluation frameworks that address psychosocial outcomes, sustained use, safety, privacy, human oversight, and accountability.",
+      "authors": [
+        {
+          "name": "Machiko Uenishi"
+        },
+        {
+          "name": "Peipei Song"
+        }
+      ],
+      "publishedAt": "2026-06-29",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42368303",
+      "title": "Proactive adoption of generative artificial intelligence (AI) in the operations of Japan's Pharmaceuticals and Medical Devices Agency (PMDA): Current initiatives, governance, and future perspectives.",
+      "summary": "The Pharmaceuticals and Medical Devices Agency (PMDA) continues to face increasing operational demands stemming from growing regulatory complexity, expanding data volumes, and evolving scientific and societal expectations. In this context, the appropriate adoption of generative artificial intelligence has emerged as a potential approach for enhancing operational efficiency while reinforcing scientific rigor and accountability. This article describes the current status of generative artificial intelligence utilization at PMDA, outlines its governance framework, and discusses future perspectives for its sustainable application based on institutional experience, internal policy development, and planned/ongoing proof-of-concept activities conducted within PMDA. We summarize a phased implementation strategy that combines commercially available generative artificial intelligence tools for administrative support with the exploration of large language models in secure internal environments for scientifically specialized tasks. Central to this approach is a governance framework that emphasizes human-in-the-loop decision-making, staged evaluation, information governance, and staff capacity building. We also present practical use cases across information collection, analysis and evaluation, and dissemination activities to illustrate how generative artificial intelligence may support regulatory work without replacing human judgment. In conclusion, PMDA's experience suggests that proactive yet cautious adoption of generative artificial intelligence, grounded in robust governance and organizational learning, can improve productivity and enhance scientific capacity within regulatory authorities while maintaining public trust and institutional accountability.",
+      "authors": [
+        {
+          "name": "Kohei Amakasu"
+        },
+        {
+          "name": "Junichi Kawana"
+        },
+        {
+          "name": "Osamu Kotera"
+        },
+        {
+          "name": "Tomoharu Numanyu"
+        },
+        {
+          "name": "Akihiro Nakajima"
+        },
+        {
+          "name": "Koichi Ishikawa"
+        },
+        {
+          "name": "Yuka Kobayashi"
+        },
+        {
+          "name": "Yoshiaki Uyama"
+        }
+      ],
+      "publishedAt": "2026-06-29",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42341036",
+      "title": "Chemical ecology and convergent evolution of natural hallucinogens: From ecological defense to conserved neural targets.",
+      "summary": "Natural hallucinogenic compounds have arisen independently across plants, fungi, and animals, evolving into a diverse chemical arsenal that includes phenethylamines, indolealkylamines, and terpenoid scaffolds. Beyond clinical and cultural frameworks, their ecological origins and evolutionary trajectories may help explain why such potent modulators of perception, emotion, and cognition persist in nature. Here, integrating chemical ecology, comparative genomics, biosynthetic logic, and evolutionary biology, we propose that these molecules may function as defensive agents or symbiosis-associated manipulators of herbivore and pollinator behavior. A \"building-block\" biosynthetic logic links primary metabolism to convergent psychotropic scaffolds via a recurrent set of tailoring reactions, including decarboxylations and methylations. Recent advances illuminate mescaline biosynthesis in cacti, horizontal gene transfer of psilocybin clusters in fungi, and symbiont-derived alkaloids in grasses. We also assess the debate surrounding endogenous mammalian tryptamines, arguing that the leading hypothesis points toward sigma-1 receptor-mediated cytoprotection and stress responses, supported by convergent pharmacological and cellular evidence, rather than inherent hallucinogenic functions. Across kingdoms, natural hallucinogens appear to converge on conserved neural targets, including serotonergic and other neuromodulatory systems that are shared across phyla. From this perspective, human psychoactivity is likely an evolutionary by-product of molecules selected for ecological interactions with animals possessing deeply conserved receptor architectures. Framing hallucinogens through chemical ecology not only clarifies their origins but also highlights translational opportunities in target discovery, pathway engineering, and sustainable production, while emphasizing the need to integrate conservation, ethical sourcing, and benefit-sharing into the current hallucinogenic renaissance.",
+      "authors": [
+        {
+          "name": "Yibo Wang"
+        },
+        {
+          "name": "Hongshuang Wang"
+        },
+        {
+          "name": "Cong Lin"
+        },
+        {
+          "name": "Xiaohui Wang"
+        }
+      ],
+      "publishedAt": "2026-06-25",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42339161",
+      "title": "The academic research organization model in universityindustry collaboration: Policy evolution and institutional reform in Japan's university hospitals.",
+      "summary": "Japan's university hospitals face a decisive reform phase driven by demographic aging, fiscal constraints, and intensifying innovation cycles. While effective universityindustry collaboration (UIC) has become essential, partnerships often face challenges because companies prioritize rapid implementation, whereas universities emphasize scientific rigor and public accountability. In 2025, Japan's Ministry of Health, Labour and Welfare (MHLW) required all advanced treatment hospitals to establish academic research organizations (AROs) as part of basic institutional standards, integrating research governance with collaborative capability. Drawing on national policy and practical experience of Chiba University Hospital, this paper examines the rationale, governance, and implications of the ARO mandate. Institutionalizing AROs reframes university hospitals as engines of both scientific credibility and socio-economic innovation.",
+      "authors": [
+        {
+          "name": "Kensuke Yoshimura"
+        },
+        {
+          "name": "Ryuji Suzuka"
+        },
+        {
+          "name": "Yoichi Sakurai"
+        }
+      ],
+      "publishedAt": "2026-06-24",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42330274",
+      "title": "Nanoscale regulation of ROS signaling at the plasma membrane tunes the plant response to osmotic stress.",
+      "summary": "The spatiotemporal organization of proteins and lipids within membranes is crucial for ensuring proper cellular signaling. While the segregation of proteins and lipids into membrane nanodomains is well established, it remains unclear whether nanodomains can generate gradients of small diffusible molecules. In plants, reactive oxygen species (ROS), especially hydrogen peroxide (H2O2), act as key signaling molecules in response to environmental stimuli such as osmotic stress. However, how extracellular H2O2 affects intracellular signaling has remained unknown. Here, we show that osmotic stimulation induces the formation of localized, H2O2-rich nanoenvironments at the cytoplasmic face of the plasma membrane (PM) in Arabidopsis root cells. Using a PM-tethered H2O2 biosensor, we found that these oxidized nanodomains arise from the clustering of RESPIRATORY BURST OXIDASE HOMOLOGs (RBOHs) and RHO OF PLANTS 6 (ROP6), in coordination with aquaporin-mediated H2O2 transport via the PLASMA MEMBRANE INTRINSIC PROTEIN2;7 (PIP2;7). These local redox hotspots at the PM create a feedforward loop in which H2O2 enhances ROP6 nanoclustering, thereby amplifying ROS signaling. Disruption of H2O2 production or transport dampens both ROP6 clustering and anisotropic cell expansion, indicating a crucial role for spatially confined redox signaling in regulating plant growth under osmotic stress. Our findings propose a model in which ROP6/RBOHD-F/PIP2;7 nanodomains function as discrete redox signaling units, redefining ROS signaling at the PM as a structured, signal-specific, and compartmentalized process.",
+      "authors": [
+        {
+          "name": "Arthur Poitout"
+        },
+        {
+          "name": "José M Ugalde"
+        },
+        {
+          "name": "Lucille Gorgues"
+        },
+        {
+          "name": "Armelle Dongois"
+        },
+        {
+          "name": "Patricia Scholz"
+        },
+        {
+          "name": "Philippe Nacry"
+        },
+        {
+          "name": "Carine Alcon"
+        },
+        {
+          "name": "Jean-Bernard Fiche"
+        },
+        {
+          "name": "Xavier Dumont"
+        },
+        {
+          "name": "Marcelo Nollman"
+        },
+        {
+          "name": "Komal Jhala"
+        },
+        {
+          "name": "Anton R Schäffner"
+        },
+        {
+          "name": "Yvon Jaillais"
+        },
+        {
+          "name": "Lionel Verdoucq"
+        },
+        {
+          "name": "Andreas J Meyer"
+        },
+        {
+          "name": "Alexandre Martinière"
+        }
+      ],
+      "publishedAt": "2026-06-23",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42313984",
+      "title": "Mycoelectronics: Bioprinted living fungal bioelectronics for artificial sensation.",
+      "summary": "The intelligence of the human biological system is enabled by the highly distributed sensing receptors on soft skin that can distinguish various stimulations or environmental cues, thus establishing the fundamental logic of sensing and physiological regulation or response. To replicate biological perception, biohybrid systems integrating living organisms with electronics have been developed to sense environmental cues. However, current eukaryote-based biohybrids face slow growth, strict culture needs, and short lifespans, limiting real-world use. Here, we introduce fungi-based printable \"Mycoelectronics\" which are created by additive bioprinting of living fungal mycelium networks onto stretchable electronics, as a practical living thermoresponsive sensory platform. This mycoelectronics approach leverages fung's capabilities for rapid biological responsiveness, cultivability with exponential growth, stability and self-healing in ambient conditions, bioprintability for scalable manufacturing, and mechanical flexibility for seamless integration with soft electronics. We show that the thermal responsiveness of the fungal network arises from intrinsic cellular processes-specifically, heat-induced vacuole remodeling and fusion, which modulate ionic transport and thus the electrical conductivity of the mycelial cells and networks, enabling a rapid response. By bridging the gap between cell biology and soft electronics, the mycoelectronics device, with a living mycelial network, functions as a thermal sensation system with rapid response and intrinsic self-healing properties, autonomously restoring sensing capabilities after damage and establishing sensing pathways in hard-to-reach locations. Application demonstrations in environmental and agricultural monitoring and wearable sensing systems for humans and robots highlight the versatility of this living fungal sensor platform, suggesting promising opportunities in healthcare and the environment.",
+      "authors": [
+        {
+          "name": "Yulu Cai"
+        },
+        {
+          "name": "Hang Yuan"
+        },
+        {
+          "name": "Caleb Ronders"
+        },
+        {
+          "name": "Vittorio Mottini"
+        },
+        {
+          "name": "Kalpana Singh"
+        },
+        {
+          "name": "Liuxi Xing"
+        },
+        {
+          "name": "Iha Singh"
+        },
+        {
+          "name": "Denghao Fu"
+        },
+        {
+          "name": "Kyla Zhao"
+        },
+        {
+          "name": "Linux Heller"
+        },
+        {
+          "name": "Khoi Nguyen"
+        },
+        {
+          "name": "Bryce Waller"
+        },
+        {
+          "name": "Tuo Wang"
+        },
+        {
+          "name": "Gregory Bonito"
+        },
+        {
+          "name": "Jinxing Li"
+        }
+      ],
+      "publishedAt": "2026-06-18",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42290579",
+      "title": "Recreational and technical rebreather fatalities and diving safety status.",
+      "summary": "INTRODUCTION: The Divers Alert Network (DAN) aims to provide safety information for all types of diving. Assessing the number of active closed-circuit rebreather (CCR) divers is difficult, as pertinent information is often not available. This review aims to give an overview of global use and safety of CCR diving equipment from 2013-2022.\nMETHODS: Data were combined and assessed from various DAN internal and public sources on CCR diver demographics, fatalities, and CCR sales.\nRESULTS: Over the past 10 years, the number of certified CCR divers has increased from an estimated 2,000 in 2013, to 3,000 in 2022. There has been an increase in growth in CCR sales over a five-year period from 2018, with around 25,000 to 35,000 units on the market today; rebreather divers are a growing community. There were 241 confirmed CCR fatalities from 2013-2022, mean 24 (SD 6) per year. Most fatal accidents involved dives made between 40-80 m (130-260 ft) depth. Cause of death is difficult to establish due to lack of detail and dive-specific training for the medical examiner. The estimated death rate is 1.8-3.8 deaths per 100,000 CCR dives although these values are derived from limited data.\nCONCLUSIONS: Not enough information is made available to address CCR accident analysis effectively, perhaps stemming from family reticence to discuss the incident, fear of litigation, and/or lack of diving knowledge reducing the useful information. DAN continues to collect CCR data, but increased collaboration between training bodies, equipment providers, and comprehensive reporting of incidents is needed to reveal the true picture.",
+      "authors": [
+        {
+          "name": "Frauke Tillmans"
+        },
+        {
+          "name": "Camilo Saraiva"
+        },
+        {
+          "name": "Sherri Ferguson"
+        },
+        {
+          "name": "Emmanuel Dugrenot"
+        },
+        {
+          "name": "S Lesley Blogg"
+        }
+      ],
+      "publishedAt": "2026-06-15",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42290577",
+      "title": "Bipolar spectrum disorders in divers: risks, recognition, and recommendations.",
+      "summary": "Bipolar disorder is a recurrent psychiatric condition characterised by episodic mood disturbances, residual functional impairment, and high rates of psychiatric and medical comorbidity. While many individuals achieve symptomatic remission, persistent deficits in cognition, emotional regulation, and insight may remain, raising concerns for participation in safety-critical activities such as scuba diving. This systematic review synthesised evidence from psychiatric, occupational, aviation, and diving medicine literature to examine the clinical course of bipolar disorder, treatment considerations, functional outcomes, and safety-relevant factors pertinent to fitness-to-dive assessments. Bipolar disorder exhibits marked heterogeneity in syndromal and functional outcomes. Even during euthymia, subtle impairments in attention, executive functioning, and decision-making may persist. Pharmacological stability is essential for diving, but treatment regimens, particularly lithium use, polypharmacy, and antidepressant therapy, introduce additional considerations. Comorbidity, circadian disruption, sleep deprivation, and reduced insight during early relapse further complicate risk assessment. Empirical data on diving outcomes in individuals with bipolar disorder are scarce, necessitating reliance on expert opinion and extrapolation from related safety-critical domains. Fitness-to-dive assessments in bipolar disorder should prioritise sustained functional stability, reliable treatment adherence, and illness insight over symptom absence alone. A cautious, individualised approach is warranted, incorporating medication effects, comorbidity, operational context, and relapse-prevention planning, supported by collaboration between mental health professionals and diving medical examiners.",
+      "authors": [
+        {
+          "name": "Abraham L Querido"
+        },
+        {
+          "name": "Thijs T Wingelaar"
+        }
+      ],
+      "publishedAt": "2026-06-15",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42268251",
+      "title": "Glucocorticoid Receptor Translational Isoforms Generate Unique Glucocorticoid Responses in the Mouse Brain.",
+      "summary": "Glucocorticoids are primary stress hormones necessary for life that act on nearly every tissue in the body to maintain homeostasis. These hormones and their synthetic derivatives are widely used in the clinic to combat disease but are limited by serious adverse effects. The actions of glucocorticoids are mediated by the glucocorticoid receptor (GR). In addition to the classic full-length receptor (GR-A), seven highly conserved receptor isoforms with progressively shorter N-terminal transactivation domains (NTD) (GR-B, GR-C1, GR-C2, GR-C3, GR-D1, GR-D2, GR-D3) are produced from the single GR gene by alternative translation initiation. To investigate the physiological function of these isoforms, we developed knockin mice that express GR-A but lack the GR NTD translational isoforms. Analyses of the hippocampal transcriptome from wild-type and GR-A knockin mice treated with dexamethasone (Dex) revealed three classes of Dex-regulated genes: genes dependent on GR-A alone, genes dependent on the GR NTD translational isoforms, and genes dependent on GR-A only under conditions of GR NTD isoform deficiency. The genes dependent on the GR NTD isoforms were preferentially associated with circadian rhythm signaling, synaptic function, and cognition. Consistent with these gene enrichment results, the GR-A knockin mice exhibited alterations in hypothalamic-pituitary-adrenal axis activity and fear-motivated contextual learning. The GR NTD translational isoforms formed distinct molecular complexes with GR-A and with each other, providing a mechanistic basis for their unique transcriptional signatures. These findings demonstrate that the GR NTD translational isoforms contribute to the actions of glucocorticoids in the brain by generating heterogeneity in glucocorticoid signaling.",
+      "authors": [
+        {
+          "name": "Robert H Oakley"
+        },
+        {
+          "name": "Tatsuya Sueyoshi"
+        },
+        {
+          "name": "Sivapriya Ramamoorthy"
+        },
+        {
+          "name": "Viktoriya D Nikolova"
+        },
+        {
+          "name": "David R Goulding"
+        },
+        {
+          "name": "Jianying Li"
+        },
+        {
+          "name": "Manas K Ray"
+        },
+        {
+          "name": "Sheryl S Moy"
+        },
+        {
+          "name": "John A Cidlowski"
+        }
+      ],
+      "publishedAt": "2026-06-15",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42262729",
+      "title": "Retinoic Acid Informs the Positional Identity of Frontonasal Neural Crest Cells Through Alx Family of Transcription Factors.",
+      "summary": "Cranial neural crest cells (CNCCs) give rise to the majority of the skeletal elements of the face. The precise morphogenesis of the face relies on highly coordinated actions of CNCCs, requiring each CNCC to obtain correct positional identity. As a diffusive signaling molecule, retinoic acid (RA) is known to regulate the positional identities along the anterior-posterior axis of the developing hindbrain by activating the Hox family of transcription factors. However, whether RA also has a direct role in regulating the positional identities of Hox-negative CNCCs, which give rise to the skeletal framework of the face, was unclear. In this study, we show that RA acts as a local environmental cue that patterns the Hox-negative CNCCs by activating the Alx family of transcription factors. We observed midfacial dysplasia and midline facial clefting in chick embryos after blocking RA signaling with an inverse pan-RAR agonist. Gene expression analysis revealed that this morphological defect is associated with the transformation of frontonasal neural crest identity toward a first pharyngeal arch (PA1)-like identity, a patterning defect that was also observed in Alx1 and Alx4 compound mutant mouse embryos. We further showed that both Alx1 and Alx4 are regulated by RA through cell-autonomous RA receptor (RAR) signaling. Mechanistically, RA signaling regulates Alx1 through an evolutionarily conserved distal enhancer located upstream of Alx1 within the intronic region of the gene Lrriq1, whereas the RA-responsiveness of Alx4 is conferred by its promoter. These findings establish a mechanistic linkage between RA signaling and Alx genes and provide novel insights into the craniofacial defects associated with disrupted RA signaling.",
+      "authors": [
+        {
+          "name": "Shuxuan Wu"
+        },
+        {
+          "name": "Yifan Lu"
+        },
+        {
+          "name": "Yixin Tu"
+        },
+        {
+          "name": "Yuke Xi"
+        },
+        {
+          "name": "Qianxue Wan"
+        },
+        {
+          "name": "Minghui Yue"
+        },
+        {
+          "name": "Huan Liu"
+        },
+        {
+          "name": "Zhaoming Wu"
+        }
+      ],
+      "publishedAt": "2026-06-15",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42177142",
+      "title": "Mapping global floodplain development disparities highlights drivers behind intensifying flood losses.",
+      "summary": "Floodplains attract disproportionate concentrations of population and economic activity globally, yet the systemic flood risks emerging from this uneven development remain insufficiently characterized. Through a global analysis spanning 2000-2020, we quantify floodplain development patterns and associated flood losses across nations with varying socio-economic statuses and flood protection levels. Our results reveal that floodplains have experienced faster growth than non-floodplains in both population density and GDP density. These trends show significant variation depending on income and flood protection levels, revealing a divergent risk pattern: wealthier, well-protected nations accumulate greater economic assets at risk, whereas poorer, under-protected nations concentrate larger populations at risk. Furthermore, the sensitivity of flood-induced economic damages to floodplain GDP growth is more pronounced in wealthier nations, whereas the sensitivity of flood-induced fatalities to floodplain population growth is higher in poorer nations. This underscores the distinct economic vulnerability of developed nations and the human vulnerability of developing nations in the face of flooding. Based on these findings, we argue for prioritizing economic resilience and the decoupling of economic development from flood-prone asset accumulation in higher-income nations, while simultaneously emphasizing humanitarian protection and equitable infrastructure investment in lower-income nations.",
+      "authors": [
+        {
+          "name": "Zhiyang Lan"
+        },
+        {
+          "name": "Wenbin Liu"
+        },
+        {
+          "name": "Rafael Jan Pablo Schmitt"
+        },
+        {
+          "name": "Chaoyang Wu"
+        },
+        {
+          "name": "Yingjie Li"
+        },
+        {
+          "name": "Deliang Chen"
+        },
+        {
+          "name": "Peirong Lin"
+        },
+        {
+          "name": "Kailiang Yu"
+        },
+        {
+          "name": "Xinli Bai"
+        },
+        {
+          "name": "Kaihao Zheng"
+        },
+        {
+          "name": "Tingting Wang"
+        },
+        {
+          "name": "Hong Wang"
+        },
+        {
+          "name": "Youcun Qi"
+        },
+        {
+          "name": "Wei Liang"
+        },
+        {
+          "name": "Yao Feng"
+        },
+        {
+          "name": "Ning Wang"
+        },
+        {
+          "name": "Fubao Sun"
+        }
+      ],
+      "publishedAt": "2026-05-24",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42105851",
+      "title": "K+-Cl- cotransporter KCC2 is involved in long-term potentiation at trigeminal excitatory synapses.",
+      "summary": "The K+-Cl- cotransporter (KCC)2 is critical for maintaining low intracellular chloride levels and ensuring hyperpolarizing GABAergic inhibition. While KCC2 dysfunction is well established in spinal mechanisms of chronic pain, its role in trigeminal synaptic plasticity remains unclear. This study investigated whether KCC2 activity is required for high-frequency stimulation (HFS)-induced long-term potentiation (LTP) and group I metabotropic glutamate receptor (mGluR)-mediated plasticity at excitatory synapses in ascending trigeminal pathways from the spinal trigeminal subnucleus caudalis (Vc) to the interpolaris (Vi) and oralis (Vo) regions. Using whole-cell voltage-clamp recordings in rat brainstem slices, HFS of the deep layer of Vc reliably induced robust LTP in Vi neurons under control conditions. However, bath application of furosemide, an inhibitor for non‑selective cation-chloride cotransporters including KCC2, significantly reduced the magnitude of HFS-induced LTP; LTP was maintained in five out of nine neurons, whereas four of nine neurons exhibited long-term depression (LTD). Furthermore, plasticity induced by 3,5-dihydroxyphenylglycine (DHPG), a group I mGluR agonist, showed a polarity reversal during KCC2 blockade in Vo neurons. Under control conditions, DHPG induced LTP in six out of ten neurons, whereas KCC2 blockade with VU0240551 predominantly induced DHPG-LTD in six of eleven neurons. In addition, HFS-induced suppression of GABAergic inhibitory responses in Vi neurons was significantly enhanced in the presence of furosemide, resulting in an increased magnitude of LTD. These findings indicate that acute KCC2 blockade alters both the magnitude and direction of synaptic plasticity in excitatory and inhibitory transmission within the spinal trigeminal nucleus.",
+      "authors": [
+        {
+          "name": "Mujiwati"
+        },
+        {
+          "name": "Dong-Ho Youn"
+        }
+      ],
+      "publishedAt": "2026-06-12",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42102962",
+      "title": "Liraglutide alleviates postoperative cognitive impairment via NRF2/NLRP3 signal pathway in aged mice.",
+      "summary": "Postoperative cognitive dysfunction (POCD) frequently occurs in elderly surgical patients, yet effective preventive strategies are lacking. This study investigated whether the GLP-1R agonist liraglutide (LIR) could alleviate POCD in aged mice and explored the underlying mechanisms. Aged mice underwent laparotomy combined with transient superior mesenteric artery occlusion-a clinically relevant intestinal ischemia-reperfusion model-under sevoflurane anesthesia, followed by 14 days of LIR treatment (300 μg/kg/day). LIR administration improved behavioral performance in the Y-maze and fear conditioning tests. It also decreased microglial activation, promoted an M2-like phenotype, and protected synaptic structures and protein levels. Molecular analysis showed that LIR activated the GLP-1R/NRF2 pathway, reduced reactive oxygen species (ROS) accumulation, and suppressed the expression of NLRP3 inflammasome components. The NRF2 inhibitor ML385 reversed these protective effects. Furthermore, depleting microglia with PLX5622 ameliorated surgery-induced cognitive deficits to near-baseline levels. In these depleted mice, LIR provided no additional cognitive or molecular benefits, suggesting highly overlapping, microglia-dependent mechanisms. These findings indicate that the GLP-1R/NRF2/NLRP3 signaling axis regulates the oxidative stress and inflammatory responses in POCD, highlighting LIR as a potential therapeutic option.",
+      "authors": [
+        {
+          "name": "Hong Sun"
+        },
+        {
+          "name": "Xue Cheng"
+        },
+        {
+          "name": "Daoyun Lei"
+        },
+        {
+          "name": "Jinming Liu"
+        },
+        {
+          "name": "Yanheng Jin"
+        },
+        {
+          "name": "Chunhui Wang"
+        },
+        {
+          "name": "Yuanhui Fei"
+        },
+        {
+          "name": "Chao Han"
+        }
+      ],
+      "publishedAt": "2026-06-15",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42097395",
+      "title": "Abscisic acid ameliorates cognitive deficits in an amyloid-β-induced mouse model of Alzheimer's disease associated with alterations in markers of neuroplasticity and neuroinflammation.",
+      "summary": "Abscisic acid (ABA, C15H20O4), a mammalian hormone, exhibits neuroprotective and anti-inflammatory properties. This study aimed to investigate the effects of ABA on the hippocampal-dependent processes: anxiety-, depression-like behaviors and cognitive impairments as well as levels of factors involved in neuroplasticity and neuroinflammation in an amyloid-β (Aβ)-induced mouse model of Alzheimer's disease (AD). One week following intracerebroventricular (i.c.v.) injection of Aβ1-42 in male mice, ABA was administered i.c.v. at doses of 10 or 15 µg/µl for 7 consecutive days. Behavioral assessments were conducted using the novel object recognition, open field, elevated plus maze, tail suspension, Morris water maze, and passive avoidance tests. Hippocampal gene expression levels of brain-derived neurotrophic factor (BDNF), N-methyl-D-aspartate receptor (NMDAR), and nuclear factor-κB (NF-κB) were evaluated using real-time PCR. ABA treatment significantly attenuated anxiety-like behaviors and improved spatial, avoidance and recognition memory deficits induced by Aβ1-42 administration with more behavioral domains affected at the 15  µg/µl dose. ABA induced significant upregulation in the hippocampus of NMDAR and BDNF expression and marked suppression of NF-κB in the ABA (15 µg/µl)-treated Aβ group, which could have played a mechanistic role in improvements in behaviors controlled by this structure. Histological analysis demonstrated attenuation of neuronal degeneration and pyknosis in the hippocampal CA1 region following ABA intervention. Collectively, these findings suggest that ABA ameliorates anxiety-related behaviors and cognitive impairments in an experimental mouse model of AD, potentially through modulation of neuroinflammatory and neuroplasticity-related pathways.",
+      "authors": [
+        {
+          "name": "Fatemeh Shahsavari"
+        },
+        {
+          "name": "Mohammad Amin Rajizadeh"
+        },
+        {
+          "name": "Zeynab Pirmoradi"
+        },
+        {
+          "name": "Mansoureh Sabzalizadeh"
+        },
+        {
+          "name": "Kristi A Kohlmeier"
+        },
+        {
+          "name": "Monavareh Soti"
+        },
+        {
+          "name": "Mohammad Shabani"
+        }
+      ],
+      "publishedAt": "2026-06-11",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42013776",
+      "title": "Comparison of three kinds of models for detecting tartrazine in tea powder by synchronous fluorescence spectroscopy combined with chemometrics.",
+      "summary": "This study developed a rapid and green method for detecting tartrazine in tea powder using front-face synchronous fluorescence spectroscopy coupled with chemometrics (PLS algorithm). A total of 38 samples (18 unadulterated and 20 adulterated at 2 ‰-40 ‰) were analyzed. Three model types were constructed for qualitative and quantitative analysis: a local model (single spectrum), a full-spectrum model, and an ensemble model combining multiple single-spectrum members. For qualitative classification, the ensemble model achieved 100% accuracy, outperforming the optimal local model (40 nm interval) and the full-spectrum model. For quantitative prediction, the ensemble model also performed best, followed by the full-spectrum model. This method provides a simple, simultaneous solution for determining the presence and concentration of tartrazine adulteration in tea powder.",
+      "authors": [
+        {
+          "name": "Hui Chen"
+        },
+        {
+          "name": "Chao Tan"
+        },
+        {
+          "name": "Bin Cheng"
+        },
+        {
+          "name": "Zan Lin"
+        }
+      ],
+      "publishedAt": "2026-05-14",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "41996816",
+      "title": "A multi-method investigation into the sensory attributes and consumer preferences of batter-coated meat strips using web scraping, quantitative descriptive analysis (QDA), check-all-that-apply (CATA), and temporal dominance of sensations (TDS).",
+      "summary": "To investigate the sensory characteristics and consumer preferences of commercially available BCMSs (batter-coated meat strips), this study using five products from diverse origins,a multi-method integrated sensory framework incorporating web crawling, quantitative descriptive analysis (QDA), choose all that apply (CATA), and time-dominant sensory (TDS) techniques has been established.Web scraping of three e-commerce platforms yielded 3941 consumer reviews, identifying 50 sensory terms-with texture as a primary concern and greasiness as the most prominent negative attribute. Sixty trained panelists performed sensory evaluations, and QDA was used to establish a 6-dimensional sensory lexicon comprising 46 descriptors. Among the samples, BCMSs-E exhibited superior performance in positive sensory attributes (crispiness, umami, meaty aroma), while BCMSs-A had the highest scores for undesirable attributes (greasiness, fishy off-odor). CATA confirmed BCMSs-E's favorable profile, strong positive emotion links, and highest preference, with umami and crispiness as key preference drivers. TDS revealed saltiness, meaty/fried aromas as dominant attributes with distinct temporal patterns. This study provides a scientific basis for targeted BCMSs Optimisation: reducing greasiness, enhancing crispiness, refining flavors, and improving processing.",
+      "authors": [
+        {
+          "name": "Mingcheng Zhang"
+        },
+        {
+          "name": "Miao Feng"
+        },
+        {
+          "name": "Jie Yang"
+        },
+        {
+          "name": "Xiao Ma"
+        },
+        {
+          "name": "Changming Ma"
+        },
+        {
+          "name": "Jiahui Kou"
+        },
+        {
+          "name": "Dengyong Liu"
+        }
+      ],
+      "publishedAt": "2026-05-14",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "41978249",
+      "title": "Anatomical and expressive significance of the brachioradialis in Michelangelo's Moses.",
+      "summary": "Michelangelo's Moses (1513-1515), created for the tomb of Pope Julius II, is celebrated for its expressive intensity and anatomical precision. While psychoanalytic and neuroaesthetic studies-from Freud's classic interpretation to contemporary imaging research-have highlighted its psychological power, less attention has been given to the anatomical structures that embody such restraint and authority. This essay focuses on the brachioradialis muscle in the right forearm of Moses, examining its role as both a functional anatomical detail and a sculptural symbol of controlled energy. Anatomically, the brachioradialis originates on the lateral supracondylar ridge of the humerus and inserts on the distal radius. Though located in the extensor compartment and innervated by the radial nerve, it primarily functions as an elbow flexor, especially in semi-pronation. Michelangelo's rendering captures this paradoxical muscle in a state of isometric contraction: the elbow flexed to 70-80 degrees, the forearm semi-pronated, and the hand gripping the tablets. The resulting bulge conveys readiness to act yet deliberate restraint, a visual translation of terribilità. Comparative analysis with Pollaiuolo, Leonardo, and Verrocchio reveals Michelangelo's unique synthesis of anatomical accuracy, biomechanical plausibility, and expressive intent. Psychoanalytic interpretations align with this physiological truth: the tension in the forearm symbolizes suppressed anger and moral discipline. From a modern perspective, the sculpture offers lessons for anatomical pedagogy and surgical practice, illustrating how structural knowledge and dynamic function converge in expressive form. The brachioradialis of Moses thus exemplifies the Renaissance integration of dissection-based anatomy and artistic imagination, sustaining its relevance across both art and medicine.",
+      "authors": [
+        {
+          "name": "Kun Hwang"
+        }
+      ],
+      "publishedAt": "2026-04-14",
+      "source": "PubMed"
+    }
+  }
+]
