@@ -1,0 +1,57 @@
+[
+  {
+    "paper": {
+      "id": "42389993",
+      "title": "Celiac Disease and Cardiovascular Disease: Epidemiology, Mechanisms, and Clinical Challenges.",
+      "summary": "Celiac disease (CD), a chronic immune-mediated enteropathy triggered by gluten ingestion, is increasingly recognized as a systemic disorder with significant extraintestinal manifestations, including effects on the cardiovascular system. This review synthesizes recent epidemiological evidence demonstrating that individuals with CD face a modest but statistically significant increase in cardiovascular disease risk, including ischemic heart disease, myocardial infarction, and venous thromboembolism, despite a lower prevalence of traditional risk factors such as obesity, hypertension, and smoking. This so-called \"risk factor paradox\" underscores the significance of nontraditional, disease-specific mechanisms, including chronic systemic inflammation, immune dysregulation, nutritional deficiencies, and the metabolic consequences of a gluten-free diet. Emerging data also highlight the early onset of nontraditional cardiovascular risk in pediatric CD populations and the reversibility of some cardiac manifestations, such as arrhythmias and cardiomyopathy, with strict gluten-free diet adherence. Clinical recommendations now emphasize annual cardiovascular screening, comprehensive nutritional assessment, and multidisciplinary management in patients with CD. However, significant research gaps remain, including the need for CD-specific risk prediction tools, randomized trials on dietary quality, and greater understanding of genetic and autoimmune contributions to cardiovascular disease in CD. Addressing these gaps is essential for optimizing prevention and management strategies in this growing patient population.",
+      "authors": [
+        {
+          "name": "Jesse Silverman"
+        },
+        {
+          "name": "Dafna Somogyi"
+        },
+        {
+          "name": "Maxwell Charlat"
+        },
+        {
+          "name": "Alyssa Wruble"
+        },
+        {
+          "name": "William Frishman"
+        }
+      ],
+      "publishedAt": "2026-07-02",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "41555745",
+      "title": "Relevance of positive psychology in the veterinary profession: A narrative review.",
+      "summary": "BACKGROUND: Veterinary professionals encounter myriad stressors that challenge their wellbeing and mental health. Positive psychology provides an evidence-based approach to improving mental health by emphasising individual strengths, effective coping mechanisms, and the promotion of overall wellbeing. The specific objectives of this narrative review were to: (1) provide an overview of positive psychology concepts applicable to the veterinary profession, (2) synthesise the growing body of literature on positive psychology concepts researched within the veterinary context while also providing insights from other healthcare professions, and (3) inform the integration of positive psychology concepts in education and/or daily veterinary practice of veterinarians.\nMETHOD: This narrative review was conducted by examining peer-reviewed literature on positive psychology relevant to the veterinary profession.\nRESULTS: The review highlights the promising potential of positive psychology for veterinary professionals. For example, meaningful experiences such as helping clients and patients can foster veterinarian job satisfaction and mental wellbeing. Emotional intelligence, empathy, and compassion can enhance professional interactions and counteract negative mental health outcomes. Furthermore, practices such as mindfulness and flow have the potential to foster focus and emotional regulation, whereas self-esteem, self-efficacy and self-confidence contribute to a sense of competence and self-worth.\nLIMITATIONS: This review did not follow a systematic method for selecting and examining literature, and only includes peer-reviewed literature published in English.\nCONCLUSION: The evidence from this review provides encouraging possibilities to strengthen positive psychology skills applicable to veterinary professionals, bearing in mind that incorporating strategies for organisational wellbeing is equally important to promote a healthier and more sustainable veterinary field.",
+      "authors": [
+        {
+          "name": "Aiman Khattak"
+        },
+        {
+          "name": "Philip Smith"
+        },
+        {
+          "name": "Andria Jones"
+        },
+        {
+          "name": "April L McGrath"
+        },
+        {
+          "name": "Kathryn L Proudfoot"
+        },
+        {
+          "name": "Caroline Ritter"
+        }
+      ],
+      "publishedAt": "2026-01-20",
+      "source": "PubMed"
+    }
+  }
+]
