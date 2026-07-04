@@ -1,0 +1,80 @@
+[
+  {
+    "paper": {
+      "id": "41962327",
+      "title": "Targeting WRN helicase in MSI-H tumors: Synthetic lethality, small molecule discovery, and therapeutic perspectives.",
+      "summary": "Synthetic lethality strategies targeting the DNA damage response have revolutionized cancer therapy. However, established agents like PARP inhibitors face limitations regarding resistance mechanisms and narrow therapeutic indices. Recent functional genomics have identified the Werner syndrome RecQ helicase (WRN) as a critical synthetic lethal vulnerability specifically in microsatellite instability-high (MSI-H) tumors. Pharmacological inhibition of WRN precipitates replication fork collapse and double-strand breaks, validating it as a promising therapeutic target. Despite this potential, the clinical translation of WRN inhibitors is still in its nascent stages. This review provides a comprehensive overview of the structural biology of WRN and the mechanistic basis of its selectivity in MSI-H cancers. We critically analyze the medicinal chemistry campaigns leading to the discovery of current covalent and non-covalent chemotypes, with a focus on structure-activity relationship optimization and binding modes. Furthermore, emerging modalities and key obstacles to clinical development are discussed. By integrating recent advances, this article aims to provide a conceptual framework and strategic insights for the continued development of next-generation WRN therapeutics.",
+      "authors": [
+        {
+          "name": "Chunlan Pu"
+        },
+        {
+          "name": "Jiao Tang"
+        },
+        {
+          "name": "Jianyu Liu"
+        },
+        {
+          "name": "Huan Hu"
+        },
+        {
+          "name": "Hengrui Fan"
+        },
+        {
+          "name": "Tao Chen"
+        },
+        {
+          "name": "Furong Liu"
+        }
+      ],
+      "publishedAt": "2026-04-21",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "41941929",
+      "title": "The emerging role of FGF21 in alcohol consumption and dependence: mechanisms and therapeutic prospects.",
+      "summary": "Alcohol use disorder (AUD) is a neuropsychiatric recurring, persistent illness, characterized by the consumption of alcohol, irrespective of its physical, psychological, and social effects. The clinical manifestations are cravings, anxiety, mood disorders, mental defects, and liver dysfunction, and this may increase the risk of morbidity and mortality in AUD. Fibroblast growth factor 21 (FGF21), an endocrine protein, is mainly synthesized in the liver. It is an important metabolic homeostatic hormone that controls the metabolism of glucose and lipids. There is also growing evidence that the FGF21 signal is relayed to the brain via the fibroblast growth factor receptor 1c (FGFR1c)-β-klotho (KLB) receptor complex to prevent the consumption of alcohol. It is a mechanical controller of the mesolimbic dopamine, and a neuroendocrine controller of the metabolic stress, which ultimately leads to the loss of alcohol craving and intake, and which in turn reduces the alcohol damage to the liver. Pharmacological and genetic preclinical findings have revealed that exogenous FGF21 or long-acting FGF21 analogues inhibit alcohol preference, highlighting it as a promising biomarker and therapeutic target, although current clinical evidence remains limited. The paper aims to critically synthesise available literature to identify the biological role of FGF21 in AUD and its potential therapeutic uses, along with highlighting important gaps and future research directions to improve FGF21-based interventions in the treatment of AUD.",
+      "authors": [
+        {
+          "name": "Simranpreet Kaur"
+        },
+        {
+          "name": "Khadga Raj Aran"
+        }
+      ],
+      "publishedAt": "2026-04-21",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "41916038",
+      "title": "A strongly adhesive hyaluronic acid-based coating co-modified with polydopamine and phosphorylcholine for vascular stents with antithrombotic and endothelialization-promoting functions.",
+      "summary": "As a critical intervention for severe arterial stenosis, metallic stents face limitations in long-term efficacy due to risks of late thrombosis and restenosis, while current coating technologies are often constrained by key drawbacks including limited functionality and weak interfacial adhesion. This study innovatively grafted both polydopamine (PDA) and 2-methacryloyloxyethyl phosphorylcholine (MPC) onto the molecular chain of hyaluronic acid (HA), constructing a multifunctional composite coating with robust adhesion properties for bare-metal stents. Leveraging the strong interfacial binding capacity of PDA, the coating adhesion achieved the highest grade (5B) in the ASTM D3359 standard, ensuring its long-term stability on the stent surface. Notably, the combined effect of MPC and HA not only effectively inhibited platelet adhesion and endowed the coating with excellent anticoagulant properties but also significantly promoted the specific growth of endothelial cells, efficiently advancing the endothelialization process. Through ingenious material design, this work successfully achieves the integration and optimal balance between the two critical functions of anticoagulation and pro-endothelialization in stent coatings, while concurrently addressing both thrombosis prevention and restenosis inhibition, thereby demonstrating substantial potential for enhancing the long-term efficacy of cardiovascular stents.",
+      "authors": [
+        {
+          "name": "Chang Xu"
+        },
+        {
+          "name": "Shuai Wang"
+        },
+        {
+          "name": "Chunrui Liu"
+        },
+        {
+          "name": "Xufeng Dong"
+        },
+        {
+          "name": "Yang Gao"
+        },
+        {
+          "name": "Xijing Zhuang"
+        }
+      ],
+      "publishedAt": "2026-04-14",
+      "source": "PubMed"
+    }
+  }
+]
