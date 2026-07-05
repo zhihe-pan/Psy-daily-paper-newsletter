@@ -1,0 +1,135 @@
+[
+  {
+    "paper": {
+      "id": "42400423",
+      "title": "The Soundtrack of Everyday Life: Real-world Music Listening Habits of Adult Cochlear Implant Users.",
+      "summary": "OBJECTIVE: Characterize real-world patterns of music listening and reward sensitivity among adult cochlear implant (CI) users compared with normal-hearing (NH) listeners.\nSTUDY DESIGN: Cross-sectional observational study.\nSETTING: Online.\nPATIENTS: Adults (≥18 y) with a CI or NH who used a music-streaming platform as their primary listening method.\nINTERVENTIONS: None.\nMAIN OUTCOME MEASURES: Objective measures included platform-derived audio features (acousticness, danceability, energy, tempo, and valence), listening volume, unique-song ratio, and decade preferences. Self-reported measures included listening habits and the Barcelona Music Reward Questionnaire (BMRQ). Group comparisons used ANCOVAs and mixed-effect models adjusting for age and gender; within-CI analyses compared prelingual versus postlingual deafness.\nRESULTS: Among 16 CI users (69% male, 39.0±15.6 y) and 29 NH listeners (38% male, 32.2±11.3 y), CI users demonstrated a higher unique-song ratio (β=-0.157, CI as reference; 95%CI [-0.281, -0.034]; P=0.014) and stronger preference for older music (Pillai trace=0.537; F8,35=5.07; P<0.001), adjusting for age. No significant group differences were observed in weekly listening time, listening volume, audio features, or BMRQ scores (total and subscores). Equivalence was confirmed for Emotion Evocation and Sensory-Motor subscales. There were no statistically significant differences in listening environments after Holm correction. No statistically detectable differences were observed between pre- and postlingually deafened CI users.\nCONCLUSIONS: Musically active CI users showed no significant differences in listening volume or overall music-reward sensitivity compared with NH peers, but demonstrated higher unique-song ratios and a bias toward older music. Findings highlight the value of ecologically valid data in understanding real-world music experiences among CI users.",
+      "authors": [
+        {
+          "name": "Michelle H Zhang"
+        },
+        {
+          "name": "Brooke Barry"
+        },
+        {
+          "name": "Charles B Hem"
+        },
+        {
+          "name": "Nicole T Jiam"
+        }
+      ],
+      "publishedAt": "2026-07-05",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42397282",
+      "title": "Organizational Stressors, Burnout, and Mental Health Outcomes Among Local Government Employees During Disaster Response.",
+      "summary": "OBJECTIVE: Disaster response places organizational demands on public-sector employees. We examined associations between organizational stressors, burnout, and mental health outcomes among local government employees during the early post-disaster period.\nMETHODS: We surveyed 140 employees involved in disaster response within three months of an aviation disaster and conducted multivariate linear regression analyses.\nRESULTS: Excessive workload, weak management systems, and interpersonal conflict were associated with higher burnout. Burnout was associated with depressive and anxiety symptoms but not post-traumatic stress symptoms. Cynicism showed associations with depressive and anxiety symptoms, emotional exhaustion was associated with somatic symptoms, and professional efficacy did not show parallel associations with organizational stressors or mental health outcomes.\nCONCLUSIONS: Burnout during early disaster response was characterized by exhaustion and cynicism rather than reduced professional efficacy, supporting the relevance of organizationally focused occupational health strategies.",
+      "authors": [
+        {
+          "name": "Kyungmin Kim"
+        },
+        {
+          "name": "Bo-Hyun Yoon"
+        },
+        {
+          "name": "Young-Hwa Sea"
+        },
+        {
+          "name": "Suhee Park"
+        },
+        {
+          "name": "Jeheon Song"
+        },
+        {
+          "name": "Ha-Ran Jung"
+        },
+        {
+          "name": "Yuran Jung"
+        },
+        {
+          "name": "Hyunju Yun"
+        },
+        {
+          "name": "Hangoeunbi Kang"
+        },
+        {
+          "name": "Jaegil Jo"
+        }
+      ],
+      "publishedAt": "2026-07-03",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42393014",
+      "title": "Cross-cultural adaptation and preliminary validation of the adolescent obesity environmental questionnaire (AOEQ) in LMICs: family, school, and peer contexts.",
+      "summary": "OBJECTIVES: Although adolescent obesity is a growing concern in low- and middle-income countries (LMICs), culturally adapted tools to assess environmental risk factors are limited. This study developed and conducted a preliminary validation of the Adolescent Obesity Environmental Questionnaire (AOEQ), with a design intended to be relevant for LMIC contexts.\nMETHODS: Items were generated via literature review, adaptation of existing tools, and focus group discussions. Forward-backward translation and expert panel review ensured content validity. Five experts rated items using Content Validity Index (CVI), and face validity was evaluated with adolescents (FVI).\nRESULTS: The preliminary AOEQ included 40 items across three domains: family (27), school (6), and peer (7). Expert review showed high content validity (S-CVI/Ave=0.90; I-CVI 0.83-1.00). Face validity confirmed clarity and cultural appropriateness (S-FVI/Ave=0.94). Internal consistency was high (Cronbach's α=0.813-0.948).\nCONCLUSIONS: The AOEQ is a reliable, culturally valid tool for assessing obesogenic environments among Indonesian adolescents, with potential applicability to other adolescents in LMIC settings.",
+      "authors": [
+        {
+          "name": "Erlena Erlena"
+        },
+        {
+          "name": "Intansari Nurjannah"
+        },
+        {
+          "name": "Deddy Nurwachid Achadiono"
+        },
+        {
+          "name": "Tri Wibawa"
+        }
+      ],
+      "publishedAt": "2026-07-03",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42391744",
+      "title": "A review of Alzheimer's disease diagnosis and prognosis models based on multimodal deep learning.",
+      "summary": "Although some drugs have been approved for clinical treatment, early diagnosis and intervention remain the most effective strategies for managing Alzheimer's disease (AD) at present. With advances in deep learning and multimodal fusion, an increasing number of complex frameworks have been proposed. This paper systematically reviews multimodal deep learning-based models for AD diagnosis between 2020 and 2026. Beyond the technical survey, we explore how to deal with the heterogeneous modality integration and missing modality processing. From these experimental results, many models show impressive performance on public datasets. However, we have noticed a troubling problem that these \"lab-perfect\" results often falter when they face the chaos of the real-world. Because of the persistent black-box problem and the hidden traps of data leakage, the path to clinical use is still uphill. This work suggests that it is time to move beyond chasing tiny gains in accuracy and focus on building models that doctors can truly trust, understand, and use in real clinical settings.",
+      "authors": [
+        {
+          "name": "Yu Xin"
+        },
+        {
+          "name": "Jinhua Sheng"
+        },
+        {
+          "name": "Luyun Wang"
+        }
+      ],
+      "publishedAt": "2026-07-03",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42391630",
+      "title": "Helicobacter pylori infection and neurological disorders: association, mechanisms, and clinical implications.",
+      "summary": "Helicobacter pylori infects nearly half of the global population and has traditionally been viewed as a pathogen restricted to the gastric mucosa. Growing evidence, however, suggests that chronic infection may exert systemic effects extending to the central nervous system. This review critically examines the potential neurological implications of H. pylori infection within the emerging framework of the gut-brain axis. We performed a narrative, hypothesis-generating review of human observational and interventional studies complemented by mechanistic experimental research. The literature was evaluated with particular attention to study design, heterogeneity, and potential confounding in reported associations between H. pylori infection and neurological disorders. Across multiple studies, H. pylori infection has been linked to a modestly increased prevalence of Parkinson's disease and dementia, although findings remain heterogeneous. In Parkinson's disease, infection may exacerbate motor fluctuations and reduce levodopa bioavailability, with partial clinical improvement reported following eradication in selected patients. Experimental studies further demonstrate that bacterial outer membrane vesicles can access the brain and promote neuroinflammatory and amyloidogenic processes, supporting biological plausibility. By contrast, several epidemiological studies report an inverse association with multiple sclerosis, suggesting potential immunomodulatory effects. Evidence relating H. pylori to migraine and mood disorders remains inconsistent. Current data do not support H. pylori as a primary cause of neurological disease. Instead, the infection may act as a context-dependent modifier within the complex inflammatory and immunometabolic networks of the gut-brain axis. Clarifying this relationship will require prospective studies integrating microbial strain profiling, biomarker-defined neurological phenotypes, and adequately powered interventional trials.",
+      "authors": [
+        {
+          "name": "Maria Pina Dore"
+        },
+        {
+          "name": "Giuseppe Lasaracina"
+        },
+        {
+          "name": "Giovanni Mario Pes"
+        },
+        {
+          "name": "Paolo Solla"
+        },
+        {
+          "name": "Elettra Merola"
+        }
+      ],
+      "publishedAt": "2026-07-02",
+      "source": "PubMed"
+    }
+  }
+]
