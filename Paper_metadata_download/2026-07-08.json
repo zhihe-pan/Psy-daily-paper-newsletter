@@ -1,0 +1,107 @@
+[
+  {
+    "paper": {
+      "id": "42400423",
+      "title": "The Soundtrack of Everyday Life: Real-world Music Listening Habits of Adult Cochlear Implant Users.",
+      "summary": "OBJECTIVE: Characterize real-world patterns of music listening and reward sensitivity among adult cochlear implant (CI) users compared with normal-hearing (NH) listeners.\nSTUDY DESIGN: Cross-sectional observational study.\nSETTING: Online.\nPATIENTS: Adults (≥18 y) with a CI or NH who used a music-streaming platform as their primary listening method.\nINTERVENTIONS: None.\nMAIN OUTCOME MEASURES: Objective measures included platform-derived audio features (acousticness, danceability, energy, tempo, and valence), listening volume, unique-song ratio, and decade preferences. Self-reported measures included listening habits and the Barcelona Music Reward Questionnaire (BMRQ). Group comparisons used ANCOVAs and mixed-effect models adjusting for age and gender; within-CI analyses compared prelingual versus postlingual deafness.\nRESULTS: Among 16 CI users (69% male, 39.0±15.6 y) and 29 NH listeners (38% male, 32.2±11.3 y), CI users demonstrated a higher unique-song ratio (β=-0.157, CI as reference; 95%CI [-0.281, -0.034]; P =0.014) and stronger preference for older music (Pillai trace=0.537; F8,35 =5.07; P <0.001), adjusting for age. No significant group differences were observed in weekly listening time, listening volume, audio features, or BMRQ scores (total and subscores). Equivalence was confirmed for Emotion Evocation and Sensory-Motor subscales. There were no statistically significant differences in listening environments after Holm correction. No statistically detectable differences were observed between pre- and postlingually deafened CI users.\nCONCLUSIONS: Musically active CI users showed no significant differences in listening volume or overall music-reward sensitivity compared with NH peers, but demonstrated higher unique-song ratios and a bias toward older music. Findings highlight the value of ecologically valid data in understanding real-world music experiences among CI users.",
+      "authors": [
+        {
+          "name": "Michelle H Zhang"
+        },
+        {
+          "name": "Brooke Barry"
+        },
+        {
+          "name": "Charles B Hem"
+        },
+        {
+          "name": "Nicole T Jiam"
+        }
+      ],
+      "publishedAt": "2026-07-05",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42067300",
+      "title": "An aptamer-mediated EXPAR fluorescence biosensor for early and sensitive detection of Aβ42 and Aβ40.",
+      "summary": "BACKGROUND: Alzheimer's disease (AD) is a common neurodegenerative disorder with increasing cases worldwide. Early screening is important for AD prevention and treatment, but current methods still face many challenges.\nRESULTS: To address these challenges, we developed a simple and novel molecular beacon (MB) fluorescent biosensor. This sensor combines aptamers with exponential amplification reaction (EXPAR). Through special design of the EXPAR templates, the sensor achieves triple signal amplification. It showed a limit of detection (LOD) of 110 fM for Aβ42 and 300 fM for Aβ40, exhibits high sensitivity. The coefficient of variation (CV) for detecting different target concentrations ranged from 4.42% to 8.85%, showing good repeatability. We also applied this sensor to detect these biomarkers in plasma samples from AD patients. The spike recovery rates were 104.67%-109.3% for Aβ42 and 104.2%-106.93% for Aβ40, demonstrating strong resistance to plasma matrix interference. Due to the specificity of aptamers and nucleic acid design, this method allows simultaneous detection of multiple targets (e.g., Aβ42, Aβ40) in the same system, improving detection efficiency and reliability in complex samples.\nSIGNIFICANCE: Compared with traditional Aβ detection methods such as ELISA and colorimetry, our method shows 10-104 times higher sensitivity. Compared with emerging techniques like electrochemical detection and single-molecule array, our sensor has the advantages of stronger resistance to plasma matrix interference, more stable results, lower cost and biotoxicity, simpler operation and better biocompatibility and potential of multiple-target detection. These features make it a promising tool for high-throughput early screening of AD, with potential to advance early diagnosis.",
+      "authors": [
+        {
+          "name": "Haoyu Wu"
+        },
+        {
+          "name": "Chengsen Chai"
+        },
+        {
+          "name": "Md Saimul Islam"
+        },
+        {
+          "name": "Shangchun Sheng"
+        },
+        {
+          "name": "Guoming Xie"
+        },
+        {
+          "name": "Tingmei Chen"
+        }
+      ],
+      "publishedAt": "2026-05-02",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42067286",
+      "title": "Immunomagnetic hydrogel nanofibrils for exosomes isolation.",
+      "summary": "BACKGROUND: Exosomes (EXOs) are promising biomarker sources for liquid biopsy. Due to their low abundance in biofluids and the presence of non-target vesicle proteins during the isolation process, traditional methods such as ultracentrifugation (UC) are time-consuming, yield low purity, and can cause damage to EXOs. Achieving rapid, high-purity isolation remains a significant challenge. The magnetic beads (MBs) method is the most effective way to enhance EXO purity, but existing MBs face bottlenecks, including poor suspension stability, limited surface functionalization, slow magnetic response, and increased adsorption of interfering contaminants, ultimately leading to the loss of critical proteomic information.\nRESULTS: In this study, a novel strategy for EXO separation was proposed based on the specific interaction between the tetraspanin protein CD63 on EXOs and CD63-targeted aptamers functionalized on immunomagnetic hydrogel nanofibrils (IMHNFs). The IMHNFs showed streamlined magnetic responsivity with a responsivity rate 8-fold faster than that of conventional magnetic beads and exhibited good suspension stability. The IMHNFs enabled rapid EXO isolation from biofluids within 30 min, faster than UC. Furthermore, IMHNFs offer universality for multiple biofluids, higher purity (3.28-8.05-fold compared with UC), lower pollution protein, richer proteomic information, and higher signal intensity (the signal intensity of the specific protein CD63 in urine-derived EXOs was over 10-fold that achieved with UC). Notably, 332 upregulated proteins were identified in urine-derived EXOs from prostate cancer (PCa) patients compared with normal controls, covering 61 PCa biomarkers confirmed and published in the literature, demonstrating the excellent potential of this method for future clinical research and applications.\nSIGNIFICANCE: The proposed IMHNFs method exhibited significant advantages in magnetic separation performance (rapid magnetic response and good suspension stability), high-purity EXO enrichment, and proteomic analysis-especially its universality in various biofluids. It not only provides new insights into immunomagnetic separation technology but also contributes to advancing EXO development in liquid biopsy.",
+      "authors": [
+        {
+          "name": "Xiaorong Song"
+        },
+        {
+          "name": "Mingyang Li"
+        },
+        {
+          "name": "Wenya Chang"
+        },
+        {
+          "name": "Yuhan Cai"
+        },
+        {
+          "name": "Yuanyuan Deng"
+        },
+        {
+          "name": "Dong Wei"
+        },
+        {
+          "name": "Shu Wang"
+        },
+        {
+          "name": "Bin Li"
+        },
+        {
+          "name": "Zulihabire Simayijiang"
+        },
+        {
+          "name": "Xiang Li"
+        },
+        {
+          "name": "Zhongze Gu"
+        },
+        {
+          "name": "Shangqian Wang"
+        },
+        {
+          "name": "Jie Sun"
+        },
+        {
+          "name": "Zhuoying Xie"
+        }
+      ],
+      "publishedAt": "2026-05-02",
+      "source": "PubMed"
+    }
+  }
+]
