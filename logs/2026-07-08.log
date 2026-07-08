@@ -1,0 +1,50 @@
+2026-07-08 22:02:29,454 - INFO - 正在处理 2026-07-09 的论文数据
+2026-07-08 22:02:29,455 - INFO - 读取到 6 篇论文数据
+2026-07-08 22:02:29,455 - INFO - 正在处理第 1/6 篇论文
+2026-07-08 22:02:29,455 - INFO - 正在评审/翻译第 1 篇论文 (尝试 1/3)
+2026-07-08 22:02:29,455 - INFO - 使用模型: DeepSeek Chat
+2026-07-08 22:02:30,219 - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-08 22:02:31,002 - INFO - 第 1 篇论文被 DeepSeek 判定为不相关，已自动过滤。
+2026-07-08 22:02:31,002 - INFO - 第 1 篇论文已过滤，未写入结果集
+2026-07-08 22:02:34,003 - INFO - 正在处理第 2/6 篇论文
+2026-07-08 22:02:34,003 - INFO - 正在评审/翻译第 2 篇论文 (尝试 1/3)
+2026-07-08 22:02:34,003 - INFO - 使用模型: DeepSeek Chat
+2026-07-08 22:02:34,317 - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-08 22:02:38,553 - INFO - 第 2 篇论文处理成功
+2026-07-08 22:02:41,553 - INFO - 正在处理第 3/6 篇论文
+2026-07-08 22:02:41,553 - INFO - 正在评审/翻译第 3 篇论文 (尝试 1/3)
+2026-07-08 22:02:41,553 - INFO - 使用模型: DeepSeek Chat
+2026-07-08 22:02:41,867 - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-08 22:02:43,135 - INFO - 第 3 篇论文被 DeepSeek 判定为不相关，已自动过滤。
+2026-07-08 22:02:43,135 - INFO - 第 3 篇论文已过滤，未写入结果集
+2026-07-08 22:02:46,136 - INFO - 正在处理第 4/6 篇论文
+2026-07-08 22:02:46,136 - INFO - 正在评审/翻译第 4 篇论文 (尝试 1/3)
+2026-07-08 22:02:46,136 - INFO - 使用模型: DeepSeek Chat
+2026-07-08 22:02:46,452 - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-08 22:02:47,860 - INFO - 第 4 篇论文被 DeepSeek 判定为不相关，已自动过滤。
+2026-07-08 22:02:47,861 - INFO - 第 4 篇论文已过滤，未写入结果集
+2026-07-08 22:02:50,861 - INFO - 正在处理第 5/6 篇论文
+2026-07-08 22:02:50,861 - INFO - 正在评审/翻译第 5 篇论文 (尝试 1/3)
+2026-07-08 22:02:50,861 - INFO - 使用模型: DeepSeek Chat
+2026-07-08 22:02:51,172 - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-08 22:02:52,507 - INFO - 第 5 篇论文被 DeepSeek 判定为不相关，已自动过滤。
+2026-07-08 22:02:52,507 - INFO - 第 5 篇论文已过滤，未写入结果集
+2026-07-08 22:02:55,507 - INFO - 正在处理第 6/6 篇论文
+2026-07-08 22:02:55,508 - INFO - 正在评审/翻译第 6 篇论文 (尝试 1/3)
+2026-07-08 22:02:55,508 - INFO - 使用模型: DeepSeek Chat
+2026-07-08 22:02:55,828 - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-08 22:02:57,039 - INFO - 第 6 篇论文被 DeepSeek 判定为不相关，已自动过滤。
+2026-07-08 22:02:57,039 - INFO - 第 6 篇论文已过滤，未写入结果集
+2026-07-08 22:03:00,039 - INFO - 论文处理统计：总数 6，成功 1，失败 0
+2026-07-08 22:03:00,295 - INFO - 开始分析论文数据，时间范围：2026-07-01 至 2026-07-08
+2026-07-08 22:03:00,315 - INFO - 处理 2026-07-07 的数据：找到 2 篇论文
+2026-07-08 22:03:00,315 - DEBUG - Building prefix dict from the default dictionary ...
+2026-07-08 22:03:00,737 - DEBUG - Dumping model to file cache /tmp/jieba.cache
+2026-07-08 22:03:00,766 - DEBUG - Loading model cost 0.451 seconds.
+2026-07-08 22:03:00,766 - DEBUG - Prefix dict has been built successfully.
+2026-07-08 22:03:00,781 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-07-08 22:03:00,782 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-07-08 22:03:00,784 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-07-08 22:03:00,785 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-07-08 22:03:04,046 - INFO - 统计图表生成完成
+2026-07-08 22:03:04,052 - INFO - 日报已生成：newsletters/2026-07-09_daily_paper.md
