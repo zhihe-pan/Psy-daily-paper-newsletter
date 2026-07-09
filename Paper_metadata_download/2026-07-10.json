@@ -1,0 +1,355 @@
+[
+  {
+    "paper": {
+      "id": "42418601",
+      "title": "A caddisfly larva case-mimicked gel polymer electrolyte with high toughness and enhanced ion transport for safe lithium metal batteries.",
+      "summary": "Lithium (Li) metal batteries (LMBs) promise higher energy density than Li-ion cells but face a trade-off between ionic conductivity and mechanical strength in gel polymer electrolytes (GPEs). Inspired by caddisfly larvae cases, which assemble silk with particles for toughness and permeability, we develop a caddisfly larva case-mimicked gel polymer electrolyte (CLC GPE) with high toughness and enhanced ion transport. It integrates an electrospun polyvinylidene fluoride-hexafluoropropylene scaffold with shear thickening fluid. CLC GPE achieves a high ionic conductivity (2.80 × 10-3 siemens per centimeter), a Li+ transference number of 0.89, superior toughness (7.29 megajoules per cubic meter), and a puncture energy of 49.69 millijoules, which can resist thermal abuse (150°C), flame, and bullet impact (225 kilometers per hour). Symmetric Li||Li cells exhibit stable cycling over 800 hours, while Li||LFP (LiFePO4) full cells maintain 97.6% capacity after 700 cycles at 0.5C. This design couples mechanical robustness with fast ion transport, offering a scalable route to safer, high-performance LMBs.",
+      "authors": [
+        {
+          "name": "Quan Liu"
+        },
+        {
+          "name": "Xin Liang"
+        },
+        {
+          "name": "Bing Liu"
+        },
+        {
+          "name": "Yuan Yuan"
+        },
+        {
+          "name": "Kang Wang"
+        },
+        {
+          "name": "Yuxin Xia"
+        },
+        {
+          "name": "Bingbing Li"
+        },
+        {
+          "name": "Huakun Liu"
+        },
+        {
+          "name": "Shixue Dou"
+        },
+        {
+          "name": "Xiang Li"
+        },
+        {
+          "name": "Huaxia Deng"
+        },
+        {
+          "name": "Xinglong Gong"
+        }
+      ],
+      "publishedAt": "2026-07-08",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42240305",
+      "title": "Efficacy of an Unguided Digital Intervention for Adults With Attention-Deficit/Hyperactivity Disorder: A Randomized Controlled Trial.",
+      "summary": "BACKGROUND: Psychotherapy for adults with ADHD is still underutilized in Germany and worldwide. Only a small percentage of these patients receive psychotherapy as recommended in the guidelines. Unguided digital interventions may help to lessen this treatment gap.\nMETHODS: An open-label, exploratory randomized controlled trial was conducted (trial registration: DRKS00033320). Adults with confirmed ADHD were recruited at six study centers in Germany, as well as via social media, and were randomly allotted to receive either the intervention (treatment as usual + app) or the control condition (treatment as usual). Data were collected from 2 February to 5 June 2024. The primary endpoint was patients' health-related quality of life (QOL) at 12 weeks. The secondary endpoints included changes in the severity of ADHD symptoms, functional impairment, and symptoms of anxiety or depression. The threshold for statistical significance was set at 10% in view of the exploratory nature of the trial.\nRESULTS: 307 subjects were randomized (intervention group: n = 155, control group: 152). 70% were women, 29% men, and 1% was gender diverse; their mean age was 36 years (SD, 9.5). The data were analyzed according to the intention-to-treat principle with a mixed-effects model. The improvement in QOL was greater in the intervention group than in the control group (p <0.001; d = 0.54; 90% confidence interval [0.33-0.74]), despite generally low adherence to the intervention in the intervention group. 40% of subjects in the intervention group attained clinically relevant improvement in QOL, compared to 27% of control subjects. Among the secondary endpoints, ADHD symptoms improved to a greater extent in the intervention group than in the control group.\nCONCLUSION: Limitations include that no standardized diagnostics were conducted within the study and that no conclusions can be drawn regarding long-term effects.",
+      "authors": [
+        {
+          "name": "Anna Baumeister"
+        },
+        {
+          "name": "Lea Schuurmans"
+        },
+        {
+          "name": "Daniel Schöttle"
+        },
+        {
+          "name": "Andreas Reif"
+        },
+        {
+          "name": "Kai G Kahl"
+        },
+        {
+          "name": "Steffen Moritz"
+        },
+        {
+          "name": "Anne Karow"
+        },
+        {
+          "name": "Martin Lambert"
+        },
+        {
+          "name": "Felix Betzler"
+        },
+        {
+          "name": "Alexandra Philipsen"
+        }
+      ],
+      "publishedAt": "2026-06-04",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42229833",
+      "title": "Intranasal administration of a DNA vaccine complexed with sugar-functionalized chitosan induces protective immunity against SARS-CoV-2 in mice.",
+      "summary": "The emergence of Severe Acute Respiratory Syndrome Coronavirus-2 (SARS-CoV-2) and its devastating global impact emphasize the urgent need for effective, non-invasive vaccines. While current mRNA and adenoviral vaccines have mitigated severe disease, they face challenges in preventing mucosal transmission and addressing the emergence of new viral variants. This study investigated an intranasal DNA vaccine encoding the SARS-CoV-2 spike protein, delivered using four sugar-functionalized chitosan-based formulations designed to target antigen-presenting cells (APCs). Two formulations were based on lactobionic acid-modified chitosan, including one combined with laminarin (7.5:1 and LAM25), while the remaining formulations incorporated mannose and/or gluconic acid-modified chitosan (C6M9 and AG40), to modulate APC targeting and intracellular DNA release behavior. All four formulations were first evaluated in human monocyte-derived APCs to assess uptake and immunostimulatory activity, including maturation and pro-inflammatory responses. LAM25 and AG40 emerged as the most active formulations and were selected for further immunological assessment. These were subsequently tested in an autologous mixed lymphocyte reaction, where both promoted strong T cell activation with a Th1-skewed profile. Finally, LAM25 and AG40 were assessed in in vivo intranasal immunization studies in mice, inducing robust systemic and mucosal antibody responses, as well as antigen-specific cellular immunity in spleen and lung tissues and a balanced Th1/Th2/Th17 cytokine profile. These findings underscore the immunostimulatory potential of functionalized chitosan as a mucosal adjuvant, highlighting its promise for enhancing vaccine efficacy and guiding the development of next-generation SARS-CoV-2 vaccines.",
+      "authors": [
+        {
+          "name": "Mariana Colaço"
+        },
+        {
+          "name": "João Panão-Costa"
+        },
+        {
+          "name": "Filipa Lebre"
+        },
+        {
+          "name": "Ernesto Alfaro-Moreno"
+        },
+        {
+          "name": "Olga Borges"
+        }
+      ],
+      "publishedAt": "2026-06-25",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42229739",
+      "title": "Investigating the efficacy of propranolol in treating chronic stress combined with colorectal cancer in mice and its antitumor potential.",
+      "summary": "PURPOSE: This study aimed to investigate the anti-tumor effects and mechanisms of propranolol (Prop) in mice with colorectal cancer (CRC) combined with chronic stress, as well as its potential impact when used in combination with high-mobility group nucleosome-binding domain 1(HMGN1). The findings are intended to provide a novel therapeutic strategy and theoretical basis for cancer patients with comorbid psychological stress or depression.\nRESULTS: Chronic stress facilitated colorectal cancer progression in both in vivo and in vitro models. Propranolol inhibited cell proliferation and colony formation while inducing apoptosis. A single intratumoral injection of propranolol achieved a 100% complete tumor regression rate (9 of 9 mice) in both the CT26 murine colorectal cancer model subjected to chronic stress and the control model, without affecting body weight or physiological status, while inducing durable tumor-specific immune memory up to 80 days post-treatment. Recurrent inoculation of CT26 cells on the same or contralateral side failed to establish tumors in completely responded, whereas allogeneic 4T1 cells grew normally. Cross-model supplementary data demonstrated the tumor-suppressive effects of propranolol in other neoplasms. In combination therapy, intraperitoneal administration of propranolol enhanced HMGN1's anti-tumor efficacy, inhibiting tumor growth with significantly greater effects under chronic stress compared to controls. Epinephrine suppressed immune cell activation and triggered stress-related neuroendocrine changes, which were partially reversed by propranolol.\nCONCLUSION: We demonstrated the anti-tumor potential of β-adrenergic receptor (β-AR) blockade and elucidated the antitumor effects and underlying mechanisms of its antagonist propranolol. Combination immunotherapy broadly enhanced immune function under chronic stress conditions and exhibited strong potential for clinical translation.",
+      "authors": [
+        {
+          "name": "Shengwen Zhou"
+        },
+        {
+          "name": "Linjian Xia"
+        },
+        {
+          "name": "Liming Zhao"
+        },
+        {
+          "name": "Jia Song"
+        },
+        {
+          "name": "Hang Lv"
+        },
+        {
+          "name": "Quan Wan"
+        },
+        {
+          "name": "Shuyi Wang"
+        },
+        {
+          "name": "Haohua Yuan"
+        },
+        {
+          "name": "Ji Zhang"
+        },
+        {
+          "name": "Minmin Lv"
+        },
+        {
+          "name": "Huan Gui"
+        },
+        {
+          "name": "Qianyu Jing"
+        },
+        {
+          "name": "Linzhao Li"
+        },
+        {
+          "name": "Yali Zhang"
+        },
+        {
+          "name": "Yingjie Nie"
+        }
+      ],
+      "publishedAt": "2026-06-12",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42208645",
+      "title": "Antidepressant effect of psychedelic compounds and mechanisms underlying the G protein-coupled receptors activation psychedelics: Antidepressant action and GPCR signaling.",
+      "summary": "Major Depressive Disorder (MDD) is a debilitating mental health condition that significantly impacts quality of life. Despite available pharmacological treatments, response rates remain suboptimal, with a considerable number of patients experiencing treatment-resistant depression (TRD). Indeed, classical antidepressants, primarily targeting monoaminergic systems, exhibit a therapeutic delay due to complex neuroadaptive changes. On the other hand, psychedelic compounds have recently emerged as promising, rapid-acting antidepressant agents, demonstrating efficacy particularly in TRD. This review explores the antidepressant effects of psychedelics, focusing on the underlying mechanisms involving G protein-coupled receptors (GPCRs). It is discussed how psychedelics, predominantly through 5-HT2A receptor activation, trigger distinct intracellular signaling cascades (e.g., Gq/11 and β-arrestin pathways) leading to neuroplasticity, synaptogenesis, and functional remodeling of neural circuits, such as the default mode network (DMN). The review also examines their modulatory effects on glutamatergic transmission and anti-inflammatory properties, highlighting how these mechanisms contribute to their rapid and sustained therapeutic effects. Furthermore, the review examines the impact of psychedelics on key transcription factors (e.g., EGR1, CREB, NF-κB) and epigenetic modifications, which underpin enduring changes in gene expression and neuronal function. Finally, the central and predominant role of GPCRs, especially 5-HT2A receptors, in mediating the antidepressant effects of psychedelics is discussed, acknowledging the complementary involvement of other receptors and neurotransmitter systems. This review aims to highlight existing knowledge gaps, particularly concerning the intricate interactions between different mechanistic pathways, and to propose future research directions to fully elucidate the therapeutic potential and safety of psychedelics in depression treatment.",
+      "authors": [
+        {
+          "name": "Amanda Gollo Bertollo"
+        },
+        {
+          "name": "Vinicius Alexandre Wippel"
+        },
+        {
+          "name": "Maiqueli Eduarda Dama Mingoti"
+        },
+        {
+          "name": "Rui Daniel Prediger"
+        },
+        {
+          "name": "Zuleide Maria Ignácio"
+        }
+      ],
+      "publishedAt": "2026-06-15",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42167669",
+      "title": "Establishment of a novel model of depression caused by olfactory dysfunction through intranasal administration of 3-methylindole.",
+      "summary": "Olfactory dysfunction has been closely linked to depression. However, the olfactory bulbectomy (OBX) model, a commonly employed animal model of depression, presents significant limitations, including poor alignment with clinical etiology and an elevated risk of mortality. In this study, we introduced an innovative, non-invasive model of depression by inducing olfactory dysfunction via the intranasal administration of a thermosensitive poloxamer gel containing 3-methylindole (3-MI) loaded in hydroxypropyl-β-cyclodextrin (HP-β-CD). This method specifically targets the olfactory pathway, thereby enhancing the model's safety and reliability. Through behavioral assessments, histopathological examination, transmission electron microscopy (TEM), immunohistochemistry, and neurotransmitter analyses, we found that the intranasal administration of the 3-MI gel significantly impaired olfactory sensitivity, damaged the olfactory epithelium, and induced inflammation and oxidative stress within the olfactory bulb. These alterations resulted in depressive-like behaviors, mitochondrial dysfunction, and apoptosis in the hippocampus, as well as reduced neurotransmitter release and metabolism in brain tissues. Treatment with mecobalamin or fluoxetine effectively alleviated olfactory dysfunction and depressive symptoms, respectively. Mecobalamin restored olfactory function and ameliorated depressive pathologies. Importantly, fluoxetine substantiated the model's predictive validity by reversing depressive and neurochemical deficits, although its efficacy in improving olfactory function was limited. Compared with the OBX and chronic unpredictable mild stress (CUMS) models, the intranasal 3-MI gel administration approach avoids both invasive surgery and prolonged stress exposure, aligning with animal welfare principles through minimized distress. These findings affirm the dual utility of this approach as both an effective and ethically optimized method for modeling depression.",
+      "authors": [
+        {
+          "name": "Xu-Jiao Song"
+        },
+        {
+          "name": "Lu Bai"
+        },
+        {
+          "name": "Xin-Ran Dong"
+        },
+        {
+          "name": "Han Zhang"
+        },
+        {
+          "name": "Yi-Bing Chen"
+        },
+        {
+          "name": "Yuan-Lu Cui"
+        }
+      ],
+      "publishedAt": "2026-06-13",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "41999899",
+      "title": "Monitoring pH-induced lipid dynamics in mRNA-lipid nanoparticles by synchrotron small-angle X-ray scattering.",
+      "summary": "Lipid nanoparticles (LNPs), a promising drug delivery system, face key limitations in terms of a poor understanding toward their assembling mechanism and intracellular dynamics. Conventional characterization methods like dynamic light scattering and spectroscopy fail to capture the dynamic mesoscopic structural changes of LNPs under pH gradient. To address this issue, here we employed synchrotron small-angle X-ray scattering (SR-SAXS) to ex-situ monitor the dynamic self-assembly process of mRNA-encapsulated LNPs at different physiologically-relevant pH. By performing time-resolved SAXS sampling during the dialysis process, we observed the dynamic structural evolution of LNPs, particularly their critical transitions from neutral (pH 7) to the more acidic environment (pH 4). These observations were cross-validated via cryo-transmission electron microscopy. The scattering profiles of mRNA-LNPs formed by three independent ionizable lipids approved by the FDA (ALC-0315, DLin-MC3-DMA, and SM-102) were comparably fitted based on the core-triple shell model to obtain the corresponding critical structural parameters. Cell transfection experiments showed that the MC3-mRNA-LNPs achieved the highest cellular transfection efficiency, which strongly correlates with the capacity of MC3 to form inverted hexagonal phases (HII) that facilitate LNPs membrane perturbation. This study suggests SAXS as a practical tool to monitor the structural evolution of mRNA-LNPs under physiologically-relevant pH gradient, thus shedding light on the rational design of nucleic acid-based therapeutics, as well as extending the application of SAXS to the field of nanomedicine discovery.",
+      "authors": [
+        {
+          "name": "Ke-Meng Li"
+        },
+        {
+          "name": "Panqi Song"
+        },
+        {
+          "name": "Zi-Ru Ye"
+        },
+        {
+          "name": "Hao Li"
+        },
+        {
+          "name": "Qiang Tian"
+        },
+        {
+          "name": "Jialin Duan"
+        },
+        {
+          "name": "Xiao-Peng He"
+        },
+        {
+          "name": "Na Li"
+        }
+      ],
+      "publishedAt": "2026-06-13",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "41999897",
+      "title": "Nanotechnology-based strategies for ROS-mediated anticancer and antimicrobial therapies.",
+      "summary": "Reactive oxygen species (ROS) are chemically reactive oxygen derivatives which are capable of profoundly altering cellular pathways. Due to their ability to induce oxidative damage and damage cells, ROS have been explored as a promising avenue to combat cancer and treat pathogenic bacteria. Recent intersections in the development of nanotechnology and ROS-based therapeutics include engineered nanoparticles, enzyme-mimicking nanozymes, and metal-organic frameworks. These nanoplatforms allow refined control of spatiotemporal generation of ROS within desired tissue, improved ROS targeting of cancer lesions and at sites of bacterial infection, and concurrent delivery of ROS-incorporated, multi-therapeutic agents. In this review, we outline the fundamental principles and advancements of ROS-based nanotherapies that have been used against both malignant cells and pathogenic bacteria, including photodynamic, sonodynamic, chemodynamic, and radiotherapeutic approaches. In addition, we explore strategies that combine ROS with immunotherapy or antibiotics to elicit synergistic anti-cancer or antimicrobial effects. Although ROS-based therapies face challenges in the current landscape, including limited tissue penetration, toxicity, and difficulties with in vivo monitoring, there are ongoing efforts to address these hurdles. Once a better mechanistic understanding of ROS is established and key biosafety criteria are met, once these challenges are addressed, ROS-based nanotherapies can serve as a powerful tool against tumors and drug-resistant bacteria, enable more effective personalized treatments, and advance precision medicine.",
+      "authors": [
+        {
+          "name": "Nadezhda A Pechnikova"
+        },
+        {
+          "name": "Malamati Poimenidou"
+        },
+        {
+          "name": "Myra Lam"
+        },
+        {
+          "name": "Mariia V Aleksandrova"
+        },
+        {
+          "name": "Yulia V Ostankova"
+        },
+        {
+          "name": "Amalia Aggeli"
+        },
+        {
+          "name": "Alexey V Yaremenko"
+        }
+      ],
+      "publishedAt": "2026-06-15",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "41966339",
+      "title": "Engineering dynamic hydrogels to overcome translational bottlenecks in therapeutic delivery.",
+      "summary": "Hydrogels are promising platforms for the controlled release of drugs, biologics, and living cells, but conventional statically crosslinked networks face important translational limitations, including poor injectability, brittle mechanical behavior, and an inability to recapitulate the time-dependent mechanics of native tissues. Dynamic bonding provides a powerful strategy to overcome these limitations while expanding the design space for controlled release. Non-covalent interactions, including hydrogen bonding, host-guest complexation, metal-ligand coordination, and electrostatics, as well as dynamic covalent chemistries such as imines, hydrazones, oximes, and boronate esters, reversibly break and reform under physiological conditions to generate viscoelastic hydrogels with tunable self-healing, stress relaxation, and energy dissipation. In this review, we describe how the thermodynamics and kinetics of dynamic bonds govern hydrogel injectability, toughness, and viscoelastic behavior, and how these same bond parameters regulate therapeutic cargo transport through affinity-mediated retention of small molecules and dynamic mesh gating of macromolecular cargo. We discuss strategies for programming the release of small-molecule drugs, proteins, nucleic acids, and cells, including stimuli-responsive systems triggered by pH, glucose, enzymes, or competing oligonucleotides. We then examine how dynamic bond exchange shapes the behavior of both delivered therapeutic cells and infiltrating immune cells by controlling matrix viscoelasticity, ligand presentation, and foreign body responses. We highlight applications in adoptive cell therapy, mesenchymal stem cell delivery, and sustained-release vaccine depots, and conclude by outlining the translational challenges, design rules, and key knowledge gaps that must be addressed to advance dynamically crosslinked hydrogels as next-generation controlled-release materials.",
+      "authors": [
+        {
+          "name": "E Thomas Pashuck"
+        }
+      ],
+      "publishedAt": "2026-06-13",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "41966285",
+      "title": "Establishment and characterization of an immortalized porcine gastric epithelial cell line and identification of NPC1 as a key mediator of aflatoxin B1 toxicity.",
+      "summary": "Porcine gastric epithelial cells (PGECs) serve as a valuable model for studying the molecular and pathogenic mechanisms of the stomach. However, PGECs face limitations such as isolation challenges, short lifespan, and restricted proliferation. To address this, we established an immortalized PGECs (i-PGECs) to enable in vitro investigation of pathogen infection mechanisms. Primary PGECs were isolated from the acid-secreting glands using stepwise digestion with multiple enzymes (dispase II/collagenase I/hyaluronidase). Immortalization was achieved via lentiviral vectors expressing simian virus 40 large T antigen (SV40T) and human telomerase reverse transcriptase (hTERT), with successful expression confirmed by qRT-PCR (P < 0.05). Epithelial identity of i-PGECs was confirmed by stable expression of CK18, EpCAM, and E-cadherin, as shown by qRT-PCR and immunofluorescence. i-PGECs retained the morphological and ultrastructural features of PGECs and exhibited enhanced proliferation, as demonstrated by WST-8 assays, apoptosis and cell cycle analysis, karyotyping, and transmission electron microscopy (TEM). Telomere length analysis and scratch wound assays demonstrated stable telomere maintenance and consistent migration capacity unaffected by passaging. RNA-sequencing and differential expressed genes (DEGs) analysis revealed significantly upregulating of genes involved in cell proliferation pathways (P < 0.01). Following aflatoxin B1 (AFB1) exposure, i-PGECs significantly upregulated immune-related factors, such as NPC1 and PLAUR (P < 0.01). CRISPR/Cas9-mediated knockout of NPC1 in i-PGECs conferred increased resistance to AFB1-induced cytotoxicity, as shown by WST-8 assay. The i-PGECs remained stable after more than 50 passages, supporting their use as a reliable for in vitro model investigating the mechanisms of toxicity infection in the porcine gastric epithelium.",
+      "authors": [
+        {
+          "name": "Liqi Liu"
+        },
+        {
+          "name": "JianLin Yuan"
+        },
+        {
+          "name": "Jinyi Bai"
+        },
+        {
+          "name": "Yuhan Ma"
+        },
+        {
+          "name": "Kaitao Kong"
+        },
+        {
+          "name": "Xiaofei He"
+        },
+        {
+          "name": "Shuangshuang Chen"
+        },
+        {
+          "name": "Jin Chai"
+        },
+        {
+          "name": "Keren Long"
+        },
+        {
+          "name": "Long Jin"
+        },
+        {
+          "name": "Mingzhou Li"
+        },
+        {
+          "name": "Juan Deng"
+        }
+      ],
+      "publishedAt": "2026-04-28",
+      "source": "PubMed"
+    }
+  }
+]
