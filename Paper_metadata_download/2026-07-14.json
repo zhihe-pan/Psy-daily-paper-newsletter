@@ -1,0 +1,807 @@
+[
+  {
+    "paper": {
+      "id": "42439494",
+      "title": "Constructing density functional tight-binding parameters for electronic structure modeling of lead-bromide perovskites, perovskitoids, and related structures.",
+      "summary": "Density functional tight-binding (DFTB), a semi-empirical approach rooted in density functional theory, is well-suited for simulating large periodic systems. Following Jiang et al. [Phys. Rev. Mater. 9, 023803 (2025)], we have specifically tailored DFTB parameters for accurate electronic bandgap calculations in both three-dimensional and two-dimensional lead bromide perovskites, significantly reducing computational costs compared to conventional ab initio methods. Our electronic DFTB parameters provide reliable predictions for key electronic properties, such as bandgaps and effective masses, closely matching existing experimental data and advanced many body perturbation theory calculations. Furthermore, our approach successfully captures the bandgap trends observed in mixed-halide perovskites, reflecting the variation with halide composition. In addition, we explore the transferability of the newly optimized DFTB parameters to predict the electronic properties of a variety of low-dimensional perovskites and related structures with edge- or face-sharing octahedra.",
+      "authors": [
+        {
+          "name": "Junke Jiang"
+        },
+        {
+          "name": "Tammo van der Heide"
+        },
+        {
+          "name": "Simon Thébaud"
+        },
+        {
+          "name": "Carlos Raúl Lien-Medrano"
+        },
+        {
+          "name": "Arnaud Fihey"
+        },
+        {
+          "name": "Laurent Pedesseau"
+        },
+        {
+          "name": "Claudio Quarti"
+        },
+        {
+          "name": "Marios Zacharias"
+        },
+        {
+          "name": "George Volonakis"
+        },
+        {
+          "name": "Mikael Kepenekian"
+        },
+        {
+          "name": "Bálint Aradi"
+        },
+        {
+          "name": "Michael A Sentef"
+        },
+        {
+          "name": "Jacky Even"
+        },
+        {
+          "name": "Claudine Katan"
+        }
+      ],
+      "publishedAt": "2026-07-13",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42420190",
+      "title": "Hit-To-Lead Optimization of a Pyridylpiperazine Class Against Malaria: Pharmacokinetic Profile and In Vivo Efficacy of Optimized Compounds.",
+      "summary": "Malaria remains a significant global health challenge caused by Plasmodium parasites. Current antimalarial treatment strategies face mounting challenges due to the rapid development of drug resistance. This work aimed at the hit-to-lead optimization of a pyridylpiperazine class by evaluating the in vitro pharmacokinetic profile and the in vivo efficacy and safety against malaria. The systematic in vitro assessment of ADME properties for 10 previously selected bioactive compounds enabled a detailed structure-ADME relationship analysis. This process highlighted compounds 7 and 9 as having the most promising profiles for improved bioavailability. These optimized compounds were then tested in an in vivo murine model of malaria, and reduced the likelihood of mice developing cerebral malaria. Compound 7 emerged as the most effective, reducing parasitemia by up to 91.7%. These results successfully validate that chemical modifications to the toluyl fragment of the initial hit optimized the pharmacodynamic and pharmacokinetic parameters, yielding two candidates with suitable ADME profiles and proven in vivo efficacy against malaria. This work supports the further development of the pyridylpiperazine class against malaria and highlights the need to explore modifications on other parts of the molecular scaffold and elucidate their mechanism of action.",
+      "authors": [
+        {
+          "name": "Douglas Davison da Silva Oliveira"
+        },
+        {
+          "name": "Duarte Eduardo Pereira"
+        },
+        {
+          "name": "Rafael Consolin Chelucci"
+        },
+        {
+          "name": "Simone Michelan"
+        },
+        {
+          "name": "Júlia Maria Fernandes Pituba"
+        },
+        {
+          "name": "Adriano D Andricopulo"
+        },
+        {
+          "name": "Leonardo L G Ferreira"
+        },
+        {
+          "name": "Neide Maria Silva"
+        },
+        {
+          "name": "Celso de Oliveira Rezende Júnior"
+        }
+      ],
+      "publishedAt": "2026-07-09",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42417671",
+      "title": "Confinement-controlled phase behavior of charged colloids under gravity.",
+      "summary": "We investigate the structure of sedimented charged colloidal suspensions under gravitational confinement. Inside a sealed glass sample cell, particles dispersed in a medium accumulate near the upper or the bottom planar wall and form quasi-2D colloidal layers. By adjusting the medium composition and particle electrostatic interactions, we systematically vary the gravitational Peclet number and the dimensionless screening parameter. Using light microscopy imaging, we study the structural development of the sedimented layers at different initial particle concentrations. Our results suggest a complex phase behavior where strong confinement and charge screening regimes favor the formation of ordered triangular lattices stacked in layer sequences, characteristic of face-centered cubic crystal planes. On the contrary, systems with weak confinement present disordered fluid phases. For intermediate parameters, we experimentally identify a coexistence region of triangular and rhombic phases. This study provides an experimental framework for predicting structural transitions in gravitationally confined soft-matter systems.",
+      "authors": [
+        {
+          "name": "Samuel Lopez-Godoy"
+        },
+        {
+          "name": "Anna Kozina"
+        }
+      ],
+      "publishedAt": "2026-07-08",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42412931",
+      "title": "Sex- and experience-dependent regulation of synaptic protein turnover.",
+      "summary": "Synaptic transmission can be tuned through plasticity mechanisms that regulate synaptic strength, structure, and number. In vivo measurements demonstrate remarkable spine dynamics, with subsets of synapses persisting for months. This correlates with the longevity of certain memories, which can persist for an organism's lifetime. The molecular basis supporting the long-term stability of specific synapses and the long-term durability of memories remains unknown. At the protein level, most proteins persist for a relatively short amount of time before they are degraded and replaced with new molecules. However, recent work has identified a population of proteins, including those present at the synapse, that are exceptionally long-lived. It has been speculated that long-lived proteins (LLPs) could contribute to long-term synapse stability, function, and memory. Here, we used stable isotope labeling in mammals to first identify LLPs in the post synaptic density (PSD) of the hippocampus and subsequently determine if protein turnover rates varied by sex or following learning. We identified synaptic LLPs and found that both sex and experience can regulate synaptic protein turnover rates. We identified sex-dependent changes in protein turnover rates in autism spectrum disorder risk genes, including increased stability of Gabrg2, a GABA-A receptor subunit, in male mice. Furthermore, we observed stabilization of a subset of PSD proteins, such as Shank3, following contextual fear conditioning. We propose that sex- and experience-dependent changes in protein turnover rates could help explain sex-differences in psychiatric risk and aid our understanding of the molecular mechanisms that support learning and memory.",
+      "authors": [
+        {
+          "name": "Seok Heo"
+        },
+        {
+          "name": "Shiyu Zhang"
+        },
+        {
+          "name": "Dong-Gi Mun"
+        },
+        {
+          "name": "Akhilesh Pandey"
+        },
+        {
+          "name": "Alexei M Bygrave"
+        },
+        {
+          "name": "Richard L Huganir"
+        }
+      ],
+      "publishedAt": "2026-07-08",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42412926",
+      "title": "Divergent population trajectories despite similar response to temperature in a widespread aerial insectivore.",
+      "summary": "Climate change is shifting when animals breed [C. Parmesan, G. Yohe, Nature 421, 37-42 (2003) and S. J. Thackeray et al., Nature 535, 241-245 (2016)], but it is not clear why some populations keep pace with warming while others fall behind [L. D. Bailey et al., Nat. Commun. 13, 2112 (2022) and J. M. Samplonius et al., Glob. Change Biol. 24, 3780-3790 (2018)]. Differences could arise from variation in sensitivity to temperature [L. D. Bailey et al., Nat. Commun. 13, 2112 (2022)] or constraints on the ability to respond to temperature. Without knowing whether populations differ in sensitivity-or in their ability to act on that sensitivity-we cannot identify which are most at risk. Using 1,555 population-years from 123 populations of tree swallows (Tachycineta bicolor), we show that populations have similar sensitivity to local temperature, advancing breeding by about one day per degree of warming. However, northern populations face tighter time constraints and greater exposure to recent warming. Northern populations have advanced laying dates the most, but still experience stronger selection for earlier breeding, especially in warm years; they have also declined most in breeding abundance. These findings suggest that vulnerability to climate change can arise not just from different sensitivity to warming, but from when and where populations can respond effectively. By disentangling sensitivity from timing constraints, our results are consistent with a general mechanism by which even uniformly responsive species can show uneven impacts of climate change across their ranges.",
+      "authors": [
+        {
+          "name": "Conor C Taff"
+        },
+        {
+          "name": "J Ryan Shipley"
+        },
+        {
+          "name": "Daniel R Ardia"
+        },
+        {
+          "name": "David Aborn"
+        },
+        {
+          "name": "Lauren Albert"
+        },
+        {
+          "name": "Marc Bélisle"
+        },
+        {
+          "name": "Amos Belmaker"
+        },
+        {
+          "name": "Lisha L Berzins"
+        },
+        {
+          "name": "Tricia Blake"
+        },
+        {
+          "name": "Frances Bonier"
+        },
+        {
+          "name": "Hannah C Brewer"
+        },
+        {
+          "name": "Michael W Butler"
+        },
+        {
+          "name": "Kyle Cameron"
+        },
+        {
+          "name": "Samuel B Case"
+        },
+        {
+          "name": "David Chang van Oordt"
+        },
+        {
+          "name": "Robert G Clark"
+        },
+        {
+          "name": "Ethan D Clotfelter"
+        },
+        {
+          "name": "Amelia R Cox"
+        },
+        {
+          "name": "Russell D Dawson"
+        },
+        {
+          "name": "Elizabeth P Derryberry"
+        },
+        {
+          "name": "Ana M Diaz Bohorquez"
+        },
+        {
+          "name": "Peter O Dunn"
+        },
+        {
+          "name": "Valentina Ferretti"
+        },
+        {
+          "name": "Anna M Forsman"
+        },
+        {
+          "name": "Matthew Fuirst"
+        },
+        {
+          "name": "Dany Garant"
+        },
+        {
+          "name": "Daniel R Garrett"
+        },
+        {
+          "name": "Jessica Gutiérrez"
+        },
+        {
+          "name": "Julie C Hagelin"
+        },
+        {
+          "name": "Braelei M Hardt"
+        },
+        {
+          "name": "Mercy E Harris"
+        },
+        {
+          "name": "Kyle Horton"
+        },
+        {
+          "name": "Carolyne Houle"
+        },
+        {
+          "name": "Jennifer L Houtz"
+        },
+        {
+          "name": "Patricia L Jones"
+        },
+        {
+          "name": "Kimberley C Jordan"
+        },
+        {
+          "name": "Amanda S Kindel"
+        },
+        {
+          "name": "Robert Klaver"
+        },
+        {
+          "name": "Sarah A Knutie"
+        },
+        {
+          "name": "Katherine S Lauck"
+        },
+        {
+          "name": "Michael P Lombardo"
+        },
+        {
+          "name": "Stephen C Lougheed"
+        },
+        {
+          "name": "Ashley C Love"
+        },
+        {
+          "name": "Stuart A Mackenzie"
+        },
+        {
+          "name": "John P McCarty"
+        },
+        {
+          "name": "Ann E McKellar"
+        },
+        {
+          "name": "Nicole Mejia"
+        },
+        {
+          "name": "Christy A Morrissey"
+        },
+        {
+          "name": "Mia L Nahom"
+        },
+        {
+          "name": "D Ryan Norris"
+        },
+        {
+          "name": "Lillian M Para"
+        },
+        {
+          "name": "Fanie Pelletier"
+        },
+        {
+          "name": "Cody K Porter"
+        },
+        {
+          "name": "Wallace B Rendell"
+        },
+        {
+          "name": "Eric A Riddell"
+        },
+        {
+          "name": "James W Rivers"
+        },
+        {
+          "name": "Raleigh J Robertson"
+        },
+        {
+          "name": "Alexandra Rose"
+        },
+        {
+          "name": "Kimberly A Rosvall"
+        },
+        {
+          "name": "Thomas A Ryan"
+        },
+        {
+          "name": "Ryan P Shannon"
+        },
+        {
+          "name": "Dave Shutler"
+        },
+        {
+          "name": "Victoria F Simons"
+        },
+        {
+          "name": "Mark Stanback"
+        },
+        {
+          "name": "Corey E Tarwater"
+        },
+        {
+          "name": "Patrick A Thorpe"
+        },
+        {
+          "name": "Morgan W Tingley"
+        },
+        {
+          "name": "Christine L Tischer"
+        },
+        {
+          "name": "Benjamin A Tonelli"
+        },
+        {
+          "name": "Melanie L Truan"
+        },
+        {
+          "name": "Cornelia W Twining"
+        },
+        {
+          "name": "Jennifer J Uehling"
+        },
+        {
+          "name": "Carol Vleck"
+        },
+        {
+          "name": "David Vlec"
+        },
+        {
+          "name": "Michael L Watson"
+        },
+        {
+          "name": "Nathaniel T Wheelwright"
+        },
+        {
+          "name": "Linda A Whittingham"
+        },
+        {
+          "name": "David W Winkler"
+        },
+        {
+          "name": "Casey Youngflesh"
+        },
+        {
+          "name": "Cedric Zimmer"
+        },
+        {
+          "name": "Maren N Vitousek"
+        }
+      ],
+      "publishedAt": "2026-07-07",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42410707",
+      "title": "Quinoxaline-Based Monoamine Oxidase Inhibitors: Design Strategies, Synthesis, Structure-Activity Relationships, and Therapeutic Potential in Neurological Disorders: A Review From 1996 to 2026.",
+      "summary": "Monoamine oxidases (MAOs) are key enzymes involved in the metabolism of neurotransmitters and play a significant role in the pathophysiology of neurological disorders such as depression, Parkinson's disease, and Alzheimer's disease. Inhibition of MAOs, particularly MAO-A and MAO-B, has emerged as a promising therapeutic strategy. Quinoxaline is an emerging scaffold with promising biological activities against various molecular targets, owing to its rich repertoire of bioactive molecules. Due to their favorable pharmacological profiles and structural versatility, quinoxaline derivatives have gained considerable attention among the various scaffolds explored. This review highlights rational design strategies for developing quinoxaline-based MAO inhibitors, focusing on structure-activity relationships (SARs) that govern their potency and selectivity. Modifications at specific positions of the quinoxaline ring system and the nature of substituents have demonstrated significant impacts on MAO-A versus MAO-B selectivity, metabolic stability, and blood-brain barrier permeability. This review primarily focuses on elucidating recent advancements in quinoxaline scaffolds targeting MAO inhibitors, including structural developments, structural-activity relationships (SAR), and potential therapeutic applications in neurological disorders, to help researchers develop a new generation of MAO inhibitors.",
+      "authors": [
+        {
+          "name": "Sandeep Bindra"
+        },
+        {
+          "name": "Ramajayan Pandian"
+        },
+        {
+          "name": "Bijo Mathew"
+        },
+        {
+          "name": "Jasha Momo H Anal"
+        }
+      ],
+      "publishedAt": "2026-07-07",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42406967",
+      "title": "Bumblebees' orofacial reactions to tastes provide evidence for affective evaluation.",
+      "summary": "Facial expressions provide a critical window into the internal states of animals, allowing the identification of affective processes and their underlying neural mechanisms. In mammals, postconsumption orofacial reactions-such as tongue protrusions to sweet tastes-are among the most robust and widely accepted behavioral markers of positive hedonic impact (liking), distinct from motivation (wanting). However, no equivalent markers have been established in insects, leaving their capacity for affective evaluation unresolved. Here, we show that bumblebees exhibit discrete orofacial reactions that are functionally analogous to those described in mammals. Bees displayed postconsumption glossa protrusions to rewarding solutions and head-shaking and mouth-wiping to aversive tastes. These reactions were not tied to any specific taste identity. Behavioral and pharmacological experiments demonstrated that glossa protrusions did not automatically occur due to consumption, were independent of ongoing feeding mechanisms and dopamine-mediated motivation, and were enhanced by the endocannabinoid anandamide. Our findings support postconsumption glossa protrusions as a fast, reliable, and evolutionarily comparable candidate behavioral marker of affective evaluation in an invertebrate. By providing evidence that a behavior which tracks liking can be dissociated from motivational (wanting) responsiveness in bumblebees, this work establishes an experimental framework for investigating the neural basis and evolutionary origins of affective processing. More broadly, these results open the door to rigorous cross-phyletic approaches to emotion.",
+      "authors": [
+        {
+          "name": "Yonghe Zhou"
+        },
+        {
+          "name": "Thomas Ingraham"
+        },
+        {
+          "name": "Andrew B Barron"
+        },
+        {
+          "name": "Fei Peng"
+        },
+        {
+          "name": "Cwyn Solvi"
+        }
+      ],
+      "publishedAt": "2026-07-07",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42391423",
+      "title": "Lanthanum-Induced MnO2/Mn2O3 Dual-Phase Heterostructure for Efficient and Stable Acidic Oxygen Evolution.",
+      "summary": "The development of low-cost, highly active, and durable nonprecious metal acid oxygen evolution reaction (OER) electrocatalysts is a key bottleneck for the large-scale commercialization of proton exchange membrane water electrolyzers. Despite the promising prospects of manganese (Mn)-based oxides, they face a severe \"activity-stability\" trade-off due to the high solubility of highly active Mn3+ species in acidic media. This article reports a simple one-step heating strategy that successfully synthesized lanthanum (La)-doped MnO2/ Mn2O3 on carbon cloth. The introduction of large-radius La3+ ions induced significant lattice distortion and charge compensation, successfully enriching the active Mn3+ species and generating abundant oxygen vacancies. The leaching of unstable La triggered in situ deep hydroxylation, forming a dense passivation layer. This restructured surface not only facilitates rapid proton transport but also provides significant protection for the internal framework against acid corrosion. As a result, the optimized La3-MnOX catalyst exhibits outstanding acidic OER performance, with an overpotential of only 294 mV at a current density of 10 mA/cm2, and maintains stability for over 110 h in 0.5 M H2SO4. This study proposes a novel rare-earth-element-inducing strategy for the design of high-performance electrocatalysts for OER.",
+      "authors": [
+        {
+          "name": "Su Wang"
+        },
+        {
+          "name": "Chengsi Wang"
+        },
+        {
+          "name": "Li Luo"
+        },
+        {
+          "name": "Yaran Shi"
+        },
+        {
+          "name": "Haoran Li"
+        },
+        {
+          "name": "Yangyang Shui"
+        },
+        {
+          "name": "Hui Liu"
+        },
+        {
+          "name": "Zhouzhou Wang"
+        },
+        {
+          "name": "Ying Yu"
+        }
+      ],
+      "publishedAt": "2026-07-02",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42391408",
+      "title": "Mechanism-Guided Design Strategies for Stabilizing Ruthenium Oxide Anodes in Proton Exchange Membrane Water Electrolysis.",
+      "summary": "Proton exchange membrane water electrolysis (PEMWE) is a leading route to low-carbon hydrogen, yet its anodic oxygen evolution reaction (OER) remains constrained by the scarcity and instability of noble-metal catalysts under strongly acidic, high-current operation. Ruthenium oxides are attractive alternatives to iridium-based anodes because of their high intrinsic activity, but they face a fundamental activity-durability trade-off: kinetic acceleration often coincides with oxygen-anion redox, vacancy accumulation, overoxidation, and Ru dissolution. This review argues that recent progress in Ru-based acidic OER catalysts is best understood through a mechanism-guided framework that links proton management, interfacial water organization, metal-oxygen redox buffering, regulation of oxygen balance, and cooperative O-O coupling. We show that acidic PEM OER is governed not only by adsorption energetics, but also by the coupled evolution of the catalyst-ionomer-water microenvironment and the Ru-O redox manifold. We further discuss how these design levers redistribute competition among the adsorbate evolution mechanism, lattice-oxygen-mediated pathways, and dual-site coupling routes, and how theory and operando methods guide translation from half-cells to membrane electrode assemblies (MEAs) while establishing mechanism-aware durability benchmarks.",
+      "authors": [
+        {
+          "name": "Guilian Li"
+        },
+        {
+          "name": "Guidong Xu"
+        },
+        {
+          "name": "Shuo Geng"
+        }
+      ],
+      "publishedAt": "2026-07-02",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42314103",
+      "title": "Frequency of Suicidal Ideation and Associations With Autonomic, Motor, and Cognitive Dysfunction in People With REM Sleep Behavior Disorders.",
+      "summary": "BACKGROUND AND OBJECTIVES: REM sleep behavior disorder (RBD) is characterized by loss of REM sleep atonia leading to dream enactment behavior. Isolated RBD (iRBD) is a known prodrome of alpha-synuclein pathology including Parkinson disease (PD) and dementia with Lewy bodies (DLB). Depression is also a common prodromal symptom of PD/DLB, and death by suicide is greater among individuals with PD. Patients with RBD are at greater risk of comorbid depression, but the prevalence of suicidal ideation in this population is unknown. We aim to assess the frequency of suicidal ideation and whether it is associated with autonomic, motor, and cognitive dysfunction in the North American Prodromal Synucleinopathy 2 (NAPS2) consortium.\nMETHODS: NAPS2 is a longitudinal study that includes measurements of autonomic function (SCOPA-AUT, orthostatic blood pressure), motor function (UPDRS), cognition (MoCA), and suicidal ideation (PHQ-9). We used a linear mixed-effects model, adjusting for age, sex, impulsivity, current carbidopa/levodopa use, and PHQ-9 score, to compare those who endorsed recent suicidal ideation with those who did not.\nRESULTS: Of 489 total participants, 40 endorsed suicidal ideation at the first visit (22.5% female, mean age 61.5) and 449 denied suicidal ideation (19.4% female, mean age 64.6). Higher PHQ-9 scores were significantly associated with higher SCOPA-AUT scores (+0.566; SE = 0.045; p < 2 × 10-16), higher UPDRS II scores (+0.372; SE = 0.03; p < 2 × 10-16), higher UPDRS III scores (+0.265; SE = 0.057; p = 3.80 × 10-6), and lower MoCA scores (-0.078; SE = 0.021; p = 3 × 10-4). The PHQ-9 score was not significantly associated with orthostatic blood pressure drops.\nDISCUSSION: Recent suicidal ideation occurred in approximately 1 of 12 patients with iRBD, a prodromal syndrome of PD with an increased risk of death by suicide. Individuals with iRBD who scored higher on PHQ-9 had on average greater autonomic dysfunction on SCOPA-AUT, more motor findings, and greater cognitive deficits. This study establishes that suicidal ideation is common in iRBD and suggests an iRBD phenotype that identifies individuals at high risk of depression and suicide. Future studies should expand on these findings and target interventions to decrease mortality and self-harm.",
+      "authors": [
+        {
+          "name": "Neha Reddy"
+        },
+        {
+          "name": "Erjia Cui"
+        },
+        {
+          "name": "Mitchell G Miglis"
+        },
+        {
+          "name": "Michael Howell"
+        },
+        {
+          "name": "NAPS 2 Investigators"
+        }
+      ],
+      "publishedAt": "2026-06-18",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42314100",
+      "title": "Clinical Reasoning: A 58-Year-Old Woman With Painless Blurry Vision.",
+      "summary": "A 58-year-old woman presented with painless progressive bilateral blurred vision, worse in the right eye, over several days. Two months prior, she developed a diffuse pruritic rash that spared her face. On examination, she was found to have reduced visual acuity bilaterally, optic nerve edema, anterior uveitis, and scattered intraretinal and peripapillary nerve fiber layer hemorrhages. Diagnostic evaluation demonstrated optic nerve head enhancement on MRI. Her serum workup showed positive antibodies for Borrelia burgdorferi with a negative Lyme disease Western blot and positive Treponema pallidum antibodies with an rapid plasma reagin titer of 1:1,024. CSF showed normal protein, a slight elevation in nucleated cells with lymphocytic predominance, and a negative Venereal Disease Research Laboratory. We examine the differential diagnosis for bilateral optic nerve edema and uveitis and explore challenges around interpreting diagnostic testing for a neuro-ophthalmic pathology of ongoing public health interest.",
+      "authors": [
+        {
+          "name": "Christian Diaz Curbelo"
+        },
+        {
+          "name": "Peter Weseley"
+        },
+        {
+          "name": "Steven L Galetta"
+        },
+        {
+          "name": "Scott N Grossman"
+        }
+      ],
+      "publishedAt": "2026-06-18",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42302227",
+      "title": "The Prodromal Synucleinopathy Rating Scale: An Assessment in Patients With REM Sleep Behavior Disorder.",
+      "summary": "BACKGROUND AND OBJECTIVES: Clinical trials in REM sleep behavior disorder (RBD) to delay or prevent the development of Parkinson disease (PD), dementia with Lewy bodies (DLBs), and multiple system atrophy (MSA) will soon begin. The Prodromal Synucleinopathy Rating Scale (PSRS) was developed to capture the breadth and severity of clinical burden of prodromal disease. We analyzed the clinicometric properties and reliability of the PSRS in the North American Prodromal Synucleinopathy (NAPS) cohort.\nMETHODS: PSRS ratings were examined for visits conducted from August 2022-June 2025 on participants who did not have overt PD, DLB, or MSA (n = 348). Clinician raters used clinical judgement to evaluate signs and symptoms within each domain. Scores range from 0 (none) to a maximum of 2-4 points per domain, with a total maximum score of 25. The domains include cognitive (COG), behavioral/psychiatric (PSY), motor-axial (MAX), motor-appendicular (MAP), autonomic (AUT), sleep (SLP), and sensory (SEN). Spearman correlations were generated between ratings for each domain, the total sum score (SUM), and with independent measures of similar constructs. Test-retest reliability for 20 case examples protocols among 20 different raters was quantified using Bayesian generalized linear mixed-effects model.\nRESULTS: Participants were 79% male with a mean age of 65.4 ± 10.4 years. The following correlations were statistically significant at p < 0.0001: COG with Montreal Cognitive Assessment (r = -0.42) and Clinical Dementia Rating-Sum of Boxes (r = 0.77); PSY with Neuropsychiatric Inventory-Questionnaire (r = 0.38); MAX and MAP with the Movement Disorders Society-Unified Parkinson Disease Rating Scale Motor (r = 0.65 and 0.75, respectively); AUT with Scales for Outcomes in Parkinson's Disease-Autonomic Dysfunction (r = 0.39); SLP with Epworth Sleepiness Scale (r = 0.23); and SEN with Brief Smell Identification Test (r = -0.66). The PSRS SUM was correlated with the Functional Assessment Scale (r = 0.47), Schwab and England Activities of Daily Living (r = -0.58), and Clinician Global Impression of Severity (r = 0.29, p < 0.0001 for each). The inter-rater and intrarater reliability means ranged from 0.76 to 0.98.\nDISCUSSION: In this large multicenter RBD cohort, moderate to strong correlations were observed between PSRS domains and multiple independent measures of clinical burden. Reliability data were good to excellent. These findings demonstrate preliminary validity for the PSRS for measuring synucleinopathy clinical burden in those with RBD.\nTRIAL REGISTRATION INFORMATION: NCT05826457 NAPS Consortium Website: naps-rbd.org/.",
+      "authors": [
+        {
+          "name": "Bradley F Boeve"
+        },
+        {
+          "name": "Yuzheng Nie"
+        },
+        {
+          "name": "Ruijin Lu"
+        },
+        {
+          "name": "Hernis De La Cruz"
+        },
+        {
+          "name": "Alon Y Avidan"
+        },
+        {
+          "name": "Donald L Bliwise"
+        },
+        {
+          "name": "Meghan C Campbell"
+        },
+        {
+          "name": "Susan R Criswell"
+        },
+        {
+          "name": "Albert A Davis"
+        },
+        {
+          "name": "Kevin Duff"
+        },
+        {
+          "name": "Jonathan Elliott"
+        },
+        {
+          "name": "Tanis J Ferman"
+        },
+        {
+          "name": "Julie A Fields"
+        },
+        {
+          "name": "Leah K Forsberg"
+        },
+        {
+          "name": "Jean-Francois Gagnon"
+        },
+        {
+          "name": "Michael Howell"
+        },
+        {
+          "name": "Daniel E Huddleston"
+        },
+        {
+          "name": "Miranda M Lim"
+        },
+        {
+          "name": "Jessica Locke"
+        },
+        {
+          "name": "Stuart J McCarter"
+        },
+        {
+          "name": "Jennifer McLeland"
+        },
+        {
+          "name": "Mitchell G Miglis"
+        },
+        {
+          "name": "Toji Miyagawa"
+        },
+        {
+          "name": "Lee E Neilson"
+        },
+        {
+          "name": "Kendall Nichols"
+        },
+        {
+          "name": "Amélie Pelletier"
+        },
+        {
+          "name": "Carlos H Schenck"
+        },
+        {
+          "name": "Erik K St Louis"
+        },
+        {
+          "name": "Oliver Sum-Ping"
+        },
+        {
+          "name": "Lynn Marie Trotti"
+        },
+        {
+          "name": "Aleksandar Videnovic"
+        },
+        {
+          "name": "Chengjie Xiong"
+        },
+        {
+          "name": "Ronald Postuma"
+        },
+        {
+          "name": "Yo-El S Ju"
+        },
+        {
+          "name": "NAPS Consortium"
+        }
+      ],
+      "publishedAt": "2026-06-16",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42302223",
+      "title": "Machine Diagnostics and Machine Phenotyping of Migraine: A HUNT Study.",
+      "summary": "BACKGROUND AND OBJECTIVES: In the absence of biomarkers, the true biological footprint of migraine remains incompletely understood. It could perhaps be best characterized using machine learning models of multimodal data. The aim of this study was to (1) develop diagnostic models of migraine using multimodal data and (2) identify data-driven migraine phenotypes.\nMETHODS: This was a cross-sectional machine learning analysis of demographics, self-reported clinical and headache data, and genome-wide genotype data from the Trøndelag Health Study (data collected 1995-1997 and 2006-2008). All participants who were genotyped and completed the headache questionnaire were included. First, predictive machine learning models were developed using genotype data and general clinical data (excluding headache data) to diagnose individuals with migraine vs headache-free controls. Models were optimized on a training set and evaluated on a held-out test set, scored with the area under the receiver operating characteristic curve (AUC). Second, unsupervised models were trained on the headache data and the most predictive features from the diagnostic models to identify subgroups. The subgroups were compared using genome-wide association analyses, conventional polygenic risk scores (PRSs), and machine learning-based genetic risk scores.\nRESULTS: A total of 43,197 individuals were included in the diagnostic models, and 12,185 individuals were included in the data-driven phenotyping (mean [SD] age 49.1 [16.7] years; 51.7% women). The top-performing diagnostic model was a light gradient boosting machine, with a test set AUC of 0.80 (95% CI 0.78-0.81). Two main clusters were identified, one with 1,425 individuals, 94% of whom met diagnostic criteria for migraine, and another with 10,760 individuals, whereof 71% had nonmigraine headaches. The former was subclustered into 4 relatively distinct groups: one with only men, one with prominent neck pain, one with more musculoskeletal pain, anxiety and depression, and one with \"classic\" migraine. The groups were better discriminated by machine learning-based genetic risk scores compared with PRSs.\nDISCUSSION: Migraine can accurately be diagnosed from nonheadache data, suggesting that it is biologically describable by combinations of clinical, genetic, and environmental data. Data-driven phenotyping with such data identifies migraine subgroups with distinct phenotypic and genotypic signals, possibly not captured by current diagnostic criteria-but with potential implications for management.",
+      "authors": [
+        {
+          "name": "Antonios Danelakis"
+        },
+        {
+          "name": "Håkon Kvisle Abildsnes"
+        },
+        {
+          "name": "Fahim Faisal"
+        },
+        {
+          "name": "Marte-Helene Bjørk"
+        },
+        {
+          "name": "Dominic Giles"
+        },
+        {
+          "name": "Knut Hagen"
+        },
+        {
+          "name": "International Headache Genetics Consortium"
+        },
+        {
+          "name": "Tjaṧa Kumelj"
+        },
+        {
+          "name": "Manjit Matharu"
+        },
+        {
+          "name": "Parashkev Nachev"
+        },
+        {
+          "name": "Erling Tronvik"
+        },
+        {
+          "name": "Bendik S Winsvold"
+        },
+        {
+          "name": "Anker Stubberud"
+        }
+      ],
+      "publishedAt": "2026-06-16",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "41670624",
+      "title": "American Society of Hematology 2026 guidelines for management of relapsed/refractory acute lymphoblastic leukemia in adolescents and young adults.",
+      "summary": "BACKGROUND: Adolescents and young adults (AYAs) with relapsed/refractory acute lymphoblastic leukemia (ALL) face unique challenges as they experience greater treatment resistance, higher rates of toxicity, and present at a specific life stage with distinct priorities.\nOBJECTIVE: These evidence-based guidelines of the American Society of Hematology (ASH) are intended to support clinicians, patients, and other health care professionals in their decisions about management of AYAs with relapsed/refractory ALL.\nMETHODS: ASH formed a multidisciplinary guideline panel including hematologists, AYA psychosocial care specialists, pharmacists, methodologists, and patient representatives with efforts to minimize bias from conflicts of interest. An evidence review team at Brown University supported guideline development, including performing systematic evidence reviews up to November 2023. The panel prioritized clinical questions and outcomes according to importance for clinicians and patients. The panel used Grading of Recommendations Assessment, Development and Evaluation (GRADE), including GRADE Evidence-to-Decision frameworks, to assess evidence and make recommendations, which were subject to public comment.\nRESULTS: The panel agreed on 8 recommendations and 1 research-only recommendation, covering remission reinduction and consolidation. They focused on the following treatment modalities: immunotherapy, targeted therapies, allogeneic hematopoietic stem cell transplant, and central nervous system (CNS)-directed therapy.\nCONCLUSIONS: Key recommendations include the use of blinatumomab and/or inotuzumab over chemotherapy for reinduction. Additional management of ALL subsets (T-cell ALL), CNS relapse, and the role of consolidation with allogeneic transplant are addressed. Future research should evaluate these approaches with special attention to the unique AYA population, and should evaluate quality of life outcomes.",
+      "authors": [
+        {
+          "name": "Kristen O'Dwyer"
+        },
+        {
+          "name": "Lena E Winestone"
+        },
+        {
+          "name": "Matthew C Cheung"
+        },
+        {
+          "name": "Lydia Benitez"
+        },
+        {
+          "name": "Barbara Buldini"
+        },
+        {
+          "name": "Peter D Cole"
+        },
+        {
+          "name": "Moussab Damlaj"
+        },
+        {
+          "name": "Bhagirathbhai Dholaria"
+        },
+        {
+          "name": "Ajoy L Dias"
+        },
+        {
+          "name": "Alexander Dils"
+        },
+        {
+          "name": "Michelle Fritsch"
+        },
+        {
+          "name": "John Greer"
+        },
+        {
+          "name": "Brandon Hayes-Lattin"
+        },
+        {
+          "name": "Meret Henry"
+        },
+        {
+          "name": "Aaron Jaffe"
+        },
+        {
+          "name": "Omer Jamy"
+        },
+        {
+          "name": "Partow Kebriaei"
+        },
+        {
+          "name": "Ilayna Mehrtens"
+        },
+        {
+          "name": "Nirali N Shah"
+        },
+        {
+          "name": "Lindsay Wilde"
+        },
+        {
+          "name": "Patricia A Young"
+        },
+        {
+          "name": "Htun Ja Mai"
+        },
+        {
+          "name": "Ghid Kanaan"
+        },
+        {
+          "name": "Yuliia Sereda"
+        },
+        {
+          "name": "Ian J Saldanha"
+        },
+        {
+          "name": "Ethan M Balk"
+        },
+        {
+          "name": "Sumit Gupta"
+        }
+      ],
+      "publishedAt": "2026-07-01",
+      "source": "PubMed"
+    }
+  }
+]
