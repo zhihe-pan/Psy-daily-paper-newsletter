@@ -1,0 +1,45 @@
+[
+  {
+    "paper": {
+      "id": "42447437",
+      "title": "Mobile Simulation: Expanding Forensic Nursing Education to Underserved Regions.",
+      "summary": "BACKGROUND: Forensic nursing bridges the health care and legal systems by delivering person-centered, trauma-informed care to survivors of violence while collecting samples that may be used as evidence. Maintaining competence requires ongoing evaluation of clinical and communication skills, especially for those in underserved regions, who face barriers such as isolation, limited resources, and education gaps.\nMETHOD: A forensic mobile simulation unit was developed to deliver onsite experiential education. Three simulation training sessions were conducted across rural regions, with 2- to 3-day programs that included hands-on patient encounters with simulated patients.\nRESULTS: The mobile unit supports forensic nurses through tailored simulations covering the health care response to sexual assault, forensic photography, trauma-informed communication, and nonfatal strangulation. Nurses showed improvements in knowledge retention, communication skills, and confidence.\nCONCLUSION: Mobile simulation offers a convenient, scalable approach supporting forensic nurses and providing continuing education. This mobile simulation-based education bridges geographic and educational gaps while improving patient safety and clinical proficiency.",
+      "authors": [
+        {
+          "name": "Annetta L Sipes"
+        },
+        {
+          "name": "Laurie Charles"
+        },
+        {
+          "name": "Stacey A Mitchell"
+        }
+      ],
+      "publishedAt": "2026-07-14",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42114413",
+      "title": "Chemogenetic inhibition of ventral hippocampal inputs to the basal amygdala reduces anxiety-like behavior.",
+      "summary": "Anxiety disorders pose a major global health burden, with an urgent need for improved, circuit-informed treatments. Recent studies have suggested a key role for the ventral hippocampus (vHpc), with diverse outputs from the vHpc implicated in the modulation of anxiety-like behavior. In this study, we focus on vHpc projections to the basal amygdala (BA), a prominent limbic circuit that regulates affect-related behavioral responses. Using a chemogenetic approach with Designer Receptors Exclusively Activated by Designer Drugs (DREADDs), we selectively inhibited CaMKII-expressing neurons in the vHpc CA1 subfield and show that it reduces anxiety-like behavior on the elevated plus maze (EPM). Further, we used dual viral transduction strategy with the Cre-DIO (Double-floxed Inverted Open reading frame) system to specifically target vHpc inputs to the BA, with anterograde Cre expressed in vHpc CamKII neurons and retrograde DIO-hM4Di/hM3Dq expressed in the BA. We find that hM4Di-mediated chemogenetic inhibition of vHpc-BA inputs evokes a decline in anxiety-like behavior on the EPM. However, hM3Dq-mediated chemogenetic activation of the vHpc-BA pathway did not appear to alter anxiety-like measures on the EPM. These findings suggest that circuit-specific inhibition of vHpc to BA afferents is sufficient to evoke a decline in anxiety-like behavior on the EPM, whereas activation of the same pathway does not appear to regulate anxiety-like behavior in adult male Sprague-Dawley rats. Our results underscore the importance of analyzing projection-specific activation and inhibition of specific limbic brain circuits to determine their importance in modulating anxiety-like behavior.",
+      "authors": [
+        {
+          "name": "Praachi Tiwari"
+        },
+        {
+          "name": "Ratna Mahathi Vuruputuri"
+        },
+        {
+          "name": "Shreyasi Mukherjee"
+        },
+        {
+          "name": "Vidita A Vaidya"
+        }
+      ],
+      "publishedAt": "2026-05-23",
+      "source": "PubMed"
+    }
+  }
+]
