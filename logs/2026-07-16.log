@@ -1,0 +1,102 @@
+2026-07-16 22:00:26,063 - INFO - 正在处理 2026-07-17 的论文数据
+2026-07-16 22:00:26,063 - INFO - 读取到 15 篇论文数据
+2026-07-16 22:00:26,064 - INFO - 正在处理第 1/15 篇论文
+2026-07-16 22:00:26,064 - INFO - 正在评审/翻译第 1 篇论文 (尝试 1/3)
+2026-07-16 22:00:26,064 - INFO - 使用模型: DeepSeek Chat
+2026-07-16 22:00:26,670 - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-16 22:00:28,885 - INFO - 第 1 篇论文处理成功
+2026-07-16 22:00:31,885 - INFO - 正在处理第 2/15 篇论文
+2026-07-16 22:00:31,885 - INFO - 正在评审/翻译第 2 篇论文 (尝试 1/3)
+2026-07-16 22:00:31,886 - INFO - 使用模型: DeepSeek Chat
+2026-07-16 22:00:32,183 - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-16 22:00:33,469 - INFO - 第 2 篇论文被 DeepSeek 判定为不相关，已自动过滤。
+2026-07-16 22:00:33,469 - INFO - 第 2 篇论文已过滤，未写入结果集
+2026-07-16 22:00:36,469 - INFO - 正在处理第 3/15 篇论文
+2026-07-16 22:00:36,469 - INFO - 正在评审/翻译第 3 篇论文 (尝试 1/3)
+2026-07-16 22:00:36,470 - INFO - 使用模型: DeepSeek Chat
+2026-07-16 22:00:36,770 - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-16 22:00:38,126 - INFO - 第 3 篇论文被 DeepSeek 判定为不相关，已自动过滤。
+2026-07-16 22:00:38,126 - INFO - 第 3 篇论文已过滤，未写入结果集
+2026-07-16 22:00:41,126 - INFO - 正在处理第 4/15 篇论文
+2026-07-16 22:00:41,127 - INFO - 正在评审/翻译第 4 篇论文 (尝试 1/3)
+2026-07-16 22:00:41,127 - INFO - 使用模型: DeepSeek Chat
+2026-07-16 22:00:41,427 - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-16 22:00:42,795 - INFO - 第 4 篇论文被 DeepSeek 判定为不相关，已自动过滤。
+2026-07-16 22:00:42,809 - INFO - 第 4 篇论文已过滤，未写入结果集
+2026-07-16 22:00:45,809 - INFO - 正在处理第 5/15 篇论文
+2026-07-16 22:00:45,809 - INFO - 正在评审/翻译第 5 篇论文 (尝试 1/3)
+2026-07-16 22:00:45,809 - INFO - 使用模型: DeepSeek Chat
+2026-07-16 22:00:46,103 - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-16 22:00:47,235 - INFO - 第 5 篇论文被 DeepSeek 判定为不相关，已自动过滤。
+2026-07-16 22:00:47,235 - INFO - 第 5 篇论文已过滤，未写入结果集
+2026-07-16 22:00:50,235 - INFO - 正在处理第 6/15 篇论文
+2026-07-16 22:00:50,236 - INFO - 正在评审/翻译第 6 篇论文 (尝试 1/3)
+2026-07-16 22:00:50,236 - INFO - 使用模型: DeepSeek Chat
+2026-07-16 22:00:50,548 - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-16 22:00:51,942 - INFO - 第 6 篇论文被 DeepSeek 判定为不相关，已自动过滤。
+2026-07-16 22:00:51,942 - INFO - 第 6 篇论文已过滤，未写入结果集
+2026-07-16 22:00:54,942 - INFO - 正在处理第 7/15 篇论文
+2026-07-16 22:00:54,942 - INFO - 正在评审/翻译第 7 篇论文 (尝试 1/3)
+2026-07-16 22:00:54,943 - INFO - 使用模型: DeepSeek Chat
+2026-07-16 22:00:55,245 - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-16 22:00:56,419 - INFO - 第 7 篇论文被 DeepSeek 判定为不相关，已自动过滤。
+2026-07-16 22:00:56,419 - INFO - 第 7 篇论文已过滤，未写入结果集
+2026-07-16 22:00:59,419 - INFO - 正在处理第 8/15 篇论文
+2026-07-16 22:00:59,419 - INFO - 正在评审/翻译第 8 篇论文 (尝试 1/3)
+2026-07-16 22:00:59,419 - INFO - 使用模型: DeepSeek Chat
+2026-07-16 22:00:59,713 - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-16 22:01:01,090 - INFO - 第 8 篇论文被 DeepSeek 判定为不相关，已自动过滤。
+2026-07-16 22:01:01,090 - INFO - 第 8 篇论文已过滤，未写入结果集
+2026-07-16 22:01:04,091 - INFO - 正在处理第 9/15 篇论文
+2026-07-16 22:01:04,091 - INFO - 正在评审/翻译第 9 篇论文 (尝试 1/3)
+2026-07-16 22:01:04,091 - INFO - 使用模型: DeepSeek Chat
+2026-07-16 22:01:04,386 - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-16 22:01:05,574 - INFO - 第 9 篇论文被 DeepSeek 判定为不相关，已自动过滤。
+2026-07-16 22:01:05,574 - INFO - 第 9 篇论文已过滤，未写入结果集
+2026-07-16 22:01:08,575 - INFO - 正在处理第 10/15 篇论文
+2026-07-16 22:01:08,575 - INFO - 正在评审/翻译第 10 篇论文 (尝试 1/3)
+2026-07-16 22:01:08,575 - INFO - 使用模型: DeepSeek Chat
+2026-07-16 22:01:08,860 - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-16 22:01:12,267 - INFO - 第 10 篇论文处理成功
+2026-07-16 22:01:15,267 - INFO - 正在处理第 11/15 篇论文
+2026-07-16 22:01:15,267 - INFO - 正在评审/翻译第 11 篇论文 (尝试 1/3)
+2026-07-16 22:01:15,267 - INFO - 使用模型: DeepSeek Chat
+2026-07-16 22:01:15,562 - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-16 22:01:16,803 - INFO - 第 11 篇论文被 DeepSeek 判定为不相关，已自动过滤。
+2026-07-16 22:01:16,803 - INFO - 第 11 篇论文已过滤，未写入结果集
+2026-07-16 22:01:19,803 - INFO - 正在处理第 12/15 篇论文
+2026-07-16 22:01:19,803 - INFO - 正在评审/翻译第 12 篇论文 (尝试 1/3)
+2026-07-16 22:01:19,803 - INFO - 使用模型: DeepSeek Chat
+2026-07-16 22:01:20,094 - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-16 22:01:21,307 - INFO - 第 12 篇论文被 DeepSeek 判定为不相关，已自动过滤。
+2026-07-16 22:01:21,308 - INFO - 第 12 篇论文已过滤，未写入结果集
+2026-07-16 22:01:24,308 - INFO - 正在处理第 13/15 篇论文
+2026-07-16 22:01:24,308 - INFO - 正在评审/翻译第 13 篇论文 (尝试 1/3)
+2026-07-16 22:01:24,308 - INFO - 使用模型: DeepSeek Chat
+2026-07-16 22:01:24,610 - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-16 22:01:25,913 - INFO - 第 13 篇论文被 DeepSeek 判定为不相关，已自动过滤。
+2026-07-16 22:01:25,914 - INFO - 第 13 篇论文已过滤，未写入结果集
+2026-07-16 22:01:28,914 - INFO - 正在处理第 14/15 篇论文
+2026-07-16 22:01:28,914 - INFO - 正在评审/翻译第 14 篇论文 (尝试 1/3)
+2026-07-16 22:01:28,914 - INFO - 使用模型: DeepSeek Chat
+2026-07-16 22:01:29,203 - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-16 22:01:32,709 - INFO - 第 14 篇论文处理成功
+2026-07-16 22:01:35,709 - INFO - 正在处理第 15/15 篇论文
+2026-07-16 22:01:35,709 - INFO - 正在评审/翻译第 15 篇论文 (尝试 1/3)
+2026-07-16 22:01:35,709 - INFO - 使用模型: DeepSeek Chat
+2026-07-16 22:01:35,994 - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-16 22:01:37,219 - INFO - 第 15 篇论文被 DeepSeek 判定为不相关，已自动过滤。
+2026-07-16 22:01:37,219 - INFO - 第 15 篇论文已过滤，未写入结果集
+2026-07-16 22:01:40,219 - INFO - 论文处理统计：总数 15，成功 3，失败 0
+2026-07-16 22:01:40,546 - INFO - 开始分析论文数据，时间范围：2026-07-09 至 2026-07-16
+2026-07-16 22:01:40,551 - INFO - 处理 2026-07-16 的数据：找到 1 篇论文
+2026-07-16 22:01:40,551 - DEBUG - Building prefix dict from the default dictionary ...
+2026-07-16 22:01:40,971 - DEBUG - Dumping model to file cache /tmp/jieba.cache
+2026-07-16 22:01:41,001 - DEBUG - Loading model cost 0.450 seconds.
+2026-07-16 22:01:41,001 - DEBUG - Prefix dict has been built successfully.
+2026-07-16 22:01:41,015 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-07-16 22:01:41,017 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-07-16 22:01:41,019 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-07-16 22:01:41,020 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-07-16 22:01:44,252 - INFO - 统计图表生成完成
+2026-07-16 22:01:44,259 - INFO - 日报已生成：newsletters/2026-07-17_daily_paper.md
