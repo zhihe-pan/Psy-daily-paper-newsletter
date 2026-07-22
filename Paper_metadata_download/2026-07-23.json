@@ -1,0 +1,48 @@
+[
+  {
+    "paper": {
+      "id": "42483887",
+      "title": "Concurrent Validity of PROMIS-25 With PROMIS Pediatric Mobility in Pediatric Lower Extremity Trauma Patients.",
+      "summary": "BACKGROUND: In pediatric lower extremity (LE) trauma, accurate assessment of recovery is essential for evaluating outcomes. The PROMIS Pediatric Mobility questionnaire is a validated measure of physical function, but it provides limited information beyond mobility. The PROMIS-25 is a standardized, multidomain patient-reported outcome measure assessing physical function, pain interference, fatigue, emotional health, and social relationships. However, the relationship between PROMIS-25 domains and PROMIS Pediatric Mobility in pediatric LE trauma has not been well defined. This study assessed the concurrent validity of PROMIS-25 with PROMIS Pediatric Mobility and whether these relationships varied by demographic factors or perioperative timing.\nMETHODS: This IRB-approved retrospective study was conducted at a single tertiary pediatric trauma center. Pediatric patients with surgically treated LE trauma were included if they completed both PROMIS-25 and PROMIS Pediatric Mobility questionnaires. PROMs were collected as part of routine care at clinical visits. 241 unique patients contributed 549 paired survey instances. Spearman correlation coefficients were used to evaluate associations between PROMIS-25 domains and PROMIS Pediatric Mobility. Floor and ceiling effects were quantified. Rho-to-Z transformations were applied to assess differences in correlation strength by demographic factors and perioperative status. Survey timing relative to surgery was recorded. To address repeated within-patient surveys, a sensitivity analysis restricted to 1 survey per patient was performed, and demographic and timing subgroup comparisons were treated as exploratory.\nRESULTS: PROMIS Pediatric Mobility demonstrated strong correlation with PROMIS-25 Functional Mobility (ρ=0.94, P<0.01) and Pain Interference (ρ=-0.71, P<0.01). Fatigue showed moderate correlation (ρ=-0.48, P<0.01), while Depression (ρ=-0.38, P<0.01), Anxiety (ρ=-0.39, P<0.01), and Peer Relationships (ρ=0.35, P<0.01) demonstrated weaker correlations. PROMIS Pediatric Mobility and PROMIS-25 Functional Mobility exhibited substantial ceiling effects (31.7% and 33.7%). In sensitivity analyses limited to 1 survey per patient, the primary correlations were preserved (Functional Mobility ρ=0.93). Some demographic and operative-timing differences across select domains were observed, but were exploratory and did not remain significant in this analysis.\nCONCLUSIONS: PROMIS-25 demonstrates strong concurrent validity with PROMIS Pediatric Mobility in pediatric LE trauma and captures mobility outcomes without loss of sensitivity while providing broader, multidomain patient-reported information. It may offer a more comprehensive evaluation of patient outcomes. In exploratory analyses, some correlations differed by demographic factors and assessment timing; however, these differences were not robust to a 1-survey-per-patient sensitivity analysis and should be considered hypothesis-generating. This agreement was consistent across demographic subgroups, supporting the use of the broader instrument as a comprehensive alternative.\nLEVEL OF EVIDENCE: Level III.",
+      "authors": [
+        {
+          "name": "Nicholas Kelly"
+        },
+        {
+          "name": "Luke Sang"
+        },
+        {
+          "name": "Sarah Coufal"
+        },
+        {
+          "name": "Ishaan Swarup"
+        }
+      ],
+      "publishedAt": "2026-07-22",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42143447",
+      "title": "Medial prefrontal cortex in chronic pain: Integrating circuit, epigenetics, and molecular insights.",
+      "summary": "Chronic pain is a refractory and debilitating condition that remains challenging for definitive treatment. Although pharmacological interventions can provide symptomatic relief, the condition often severely compromises patients' quality of life and functional capacity. The initiation and maintenance of chronic pain are closely associated with functional and structural alterations across multiple brain regions. Emerging evidence highlights a pivotal role for the medial prefrontal cortex (mPFC) in chronic pain regulation, in addition to its well-known functions in cognition and emotion. In this review, we will comprehensively discuss the involvement of the mPFC in chronic pain pathogenesis, with a focus on recent advances in the underlying mechanisms including neural circuitry, epigenetic regulation, neurotransmitter, neuropeptides and autophagy in chronic pain. We also reviewed the therapeutic strategies and translational prospects targeting mPFC for the treatment of chronic pain. This review will provide theoretical perspectives and research directions for chronic pain.",
+      "authors": [
+        {
+          "name": "Zhaoxia Xiang"
+        },
+        {
+          "name": "Qilin Wu"
+        },
+        {
+          "name": "Xufeng Xu"
+        },
+        {
+          "name": "Huamin Xu"
+        }
+      ],
+      "publishedAt": "2026-05-25",
+      "source": "PubMed"
+    }
+  }
+]
