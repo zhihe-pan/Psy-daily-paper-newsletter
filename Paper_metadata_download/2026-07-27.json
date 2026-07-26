@@ -1,0 +1,133 @@
+[
+  {
+    "paper": {
+      "id": "42499130",
+      "title": "Elucidating behavioral and environmental barriers to clinicians' engagement in endometriosis diagnostic practices: a mixed-methods scoping review.",
+      "summary": "Endometriosis is an estrogen-dependent chronic systemic inflammatory disease that affects 10 % of people assigned female at birth. Despite its prevalence, mean diagnostic delay is 4-11 years. Although much research has involved patients, much less work has involved clinicians. Moreover, the studies that do exist have not been guided by a public health framework. Accordingly, this review leverages PRECEDE-PROCEED Model (PPM) Phase 3 to synthesize published studies on behavioral and environmental barriers to clinicians' engagement in endometriosis diagnostic practices. Five databases were searched. Studies that examined behavioral (e.g., knowledge, beliefs, attitudes) and environmental (e.g., lack of resources, lack of reinforcement) barriers to clinicians' engagement in endometriosis diagnostic practices, per the National Academy of Medicine, were included. Three investigators independently screened studies and extracted data, which were synthesized according to PPM Phase 3. Thirty-one studies were included. The most frequently reported barrier was lack of knowledge. Additional barriers included beliefs about and attitudes towards patients with endometriosis and/or their preferences that diverged from extant literature. For example, some clinicians believed that disclosing a diagnosis could trigger anxiety for patients, purportedly leading clinicians to withhold it as a diagnostic possibility. Environmental barriers (time constraints, lack of training, lack of access to obstetrician/gynecologists) also existed. Given the prevalence of endometriosis and complications, addressing diagnostic delay for endometriosis is critical. Solutions include not just more clinician education and training but interventions targeting clinician beliefs and attitudes, as knowledge alone is insufficient for behavior change. These changes must be considered within the environmental barriers discussed.",
+      "authors": [
+        {
+          "name": "Allyson C Bontempo"
+        },
+        {
+          "name": "Aleena Saleem"
+        },
+        {
+          "name": "Lauren E Lee"
+        },
+        {
+          "name": "Kristine Schmitz"
+        },
+        {
+          "name": "Julia P Grimes"
+        },
+        {
+          "name": "Ibiyonu Lawrence"
+        },
+        {
+          "name": "Payal Chowdhary"
+        },
+        {
+          "name": "Danielle Flood"
+        },
+        {
+          "name": "Neha Bhagat"
+        },
+        {
+          "name": "Jessica Opoku-Anane"
+        }
+      ],
+      "publishedAt": "2026-07-25",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42497021",
+      "title": "Design of a dual-route acoustic-feature and EfficientNet-B0 spectrogram-based voice-screening device for Parkinson's disease assessment.",
+      "summary": "OBJECTIVES: Parkinson's disease (PD) can affect vocal production before severe motor symptoms become apparent. This study presents a device-oriented dual-route voice-screening framework that combines interpretable acoustic descriptors with spectrogram-based transfer learning for PD assessment support.\nMETHODS: Publicly available sustained-vowel /a/ recordings from the Parkinson Speech Dataset with Multiple Types of Sound Recordings were used for algorithmic evaluation. The proposed handheld device, dashboard, and connectivity workflow were treated as a conceptual deployment scenario. The acoustic route generated an integrated acoustic-feature vector and grouped representation-level summaries of selected descriptor families. The spectrogram route generated RGB color-mapped and grayscale time-frequency representations, which were processed using an EfficientNet-B0 transfer-learning convolutional neural network.\nRESULTS: Among conventional acoustic-feature classifiers, the Ensemble Boosting Classifier achieved the highest AUC point estimate for the integrated acoustic-feature route. Grouped representation-level evidence showed weak-to-moderate discrimination for acoustic descriptor families. RGB and grayscale spectrograms processed through the EfficientNet-B0 route produced reported AUC point estimates of 0.93 and 0.89, respectively, within the available public-dataset evaluation.\nCONCLUSIONS: The proposed framework combines interpretable acoustic descriptors and spectrogram-based transfer learning within a device-oriented screening-support workflow. Integrated acoustic features support interpretable reporting, while spectrogram-based transfer learning provides higher representation-level discrimination. Future validation with physical prototypes, standardized acquisition protocols, and independent clinical cohorts is required before clinical deployment.",
+      "authors": [
+        {
+          "name": "Wenxiang Zhou"
+        },
+        {
+          "name": "Ziwei Yu"
+        },
+        {
+          "name": "Shujuan Luo"
+        }
+      ],
+      "publishedAt": "2026-07-24",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42497016",
+      "title": "Insights into the blood-brain barrier in mental health disorders: from experimental models to clinical findings.",
+      "summary": "The blood-brain barrier (BBB) is recognized as a protective interface that maintains neural homeostasis. Specifically, it blocks the entrance of potentially harmful agents and controls the molecular traffic between the circulatory system and the central nervous system. Emerging evidence from preclinical models and clinical studies indicates that alterations in the BBB's permeability and transport processes contribute to the pathophysiology of several mental illnesses, including depression, anxiety, bipolar disorder, and schizophrenia. Specifically, we examine whether BBB disruption contributes to the onset and progression of psychiatric conditions, whether psychiatric pathology itself promotes barrier dysfunction, or whether these processes interact in a self-perpetuating cycle. By providing a translational perspective that bridges experimental models and clinical observations, this review provides a comprehensive and dynamic perspective on its role in mental health. Understanding these mechanisms may open new avenues for therapeutic strategies focused on preserving or restoring barrier integrity as a means of preventing or mitigating psychiatric disorders.",
+      "authors": [
+        {
+          "name": "Maria Grazia Ferraro"
+        },
+        {
+          "name": "Adrien Stanley"
+        },
+        {
+          "name": "Pellegrino Lippiello"
+        },
+        {
+          "name": "Silvia Pascarella"
+        },
+        {
+          "name": "Luisa Speranza"
+        },
+        {
+          "name": "Mariateresa Ricci"
+        },
+        {
+          "name": "Floriana Volpicelli"
+        },
+        {
+          "name": "Sergio Chieffi"
+        },
+        {
+          "name": "Maria Concetta Miniaci"
+        }
+      ],
+      "publishedAt": "2026-07-24",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42492951",
+      "title": "Vaginal Estrogen Application Techniques for Prevention of Urinary Tract Infection: A Randomized Trial.",
+      "summary": "OBJECTIVE: To determine whether periurethral estrogen application is noninferior to intravaginal estrogen application for the prevention of urinary tract infections (UTIs) in postmenopausal individuals with laboratory-proven recurrent UTI.\nMETHODS: The TAPER (Techniques of Applying Vaginal Estrogen for Prevention of Recurrent Urinary Tract Infections) trial was a single-center, nonblinded, randomized noninferiority trial that compared outcomes after a twice-weekly intravaginal estradiol applicator instillation of 1.0 g cream (intravaginal) compared with periurethral digital application of 0.5 g cream (periurethral) in postmenopausal individuals with recurrent UTIs. The primary outcome was the proportion of UTI-free participants at 6 months postintervention. Secondary outcomes included number of UTIs, the amount of time elapsed to the first UTI, vaginal pH, PGI-I (Patient Global Impression of Improvement) scores, patient experience with the study drug, study drug adverse effects, and urinary and sexual function. To achieve 80% power with a type 1 error of 5% and to account for loss to follow-up, 114 participants needed to be randomized based on a noninferiority margin of 25%.\nRESULTS: Of 270 eligible individuals, 114 consented and were randomized (57 intravaginal, 57 periurethral). Participants were predominantly White (92.1%) with a mean age of 71.1 years (range 52-93). Participants reported a median of three UTIs in the 12 months before enrollment. Individuals randomized to periurethral estrogen application had a similar proportion of UTI-free participants at 6 months as those randomized to intravaginal estrogen application (50.9% vs 52.6%; risk difference, -1.75 percentage points; 95% CI, -20.0 to 17.0 percentage points). Both groups experienced a decrease in vaginal pH at 6 months; the decreases did not differ by application method (-1.2 intravaginal vs -0.8 periurethral, P=.30). Participants assigned to intravaginal estrogen were more likely to experience vaginal itching after 3 months of use than those assigned to periurethral application (24.0% vs 2.4%, P<.01). Other outcomes did not differ by route of estrogen application.\nCONCLUSION: For postmenopausal individuals who are experiencing recurrent UTI, periurethral application of estradiol cream is noninferior to intravaginal application for UTI prevention. Both application methods resulted in approximately half of the participants being UTI-free at 6 months.\nCLINICAL TRIAL REGISTRATION: ClinicalTrials.gov, NCT05472779.",
+      "authors": [
+        {
+          "name": "Stephanie W Zuo"
+        },
+        {
+          "name": "Erin E Mowers"
+        },
+        {
+          "name": "Shea Hem"
+        },
+        {
+          "name": "Megan Bradley"
+        },
+        {
+          "name": "Halina M Zyczynski"
+        },
+        {
+          "name": "Sharon L Hillier"
+        },
+        {
+          "name": "Mary F Ackenbom"
+        }
+      ],
+      "publishedAt": "2026-07-24",
+      "source": "PubMed"
+    }
+  }
+]
