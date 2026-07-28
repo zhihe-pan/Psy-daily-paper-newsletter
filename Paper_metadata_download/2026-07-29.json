@@ -1,0 +1,85 @@
+[
+  {
+    "paper": {
+      "id": "42517312",
+      "title": "Clinical placement experiences of nursing students with English as an additional language: a qualitative meta-synthesis.",
+      "summary": "INTRODUCTION: Clinical placements are fundamental to nursing education, yet English as an additional language (EAL) students encounter distinct barriers that impede their professional development and well-being. This study aimed to synthesize existing research for a comprehensive understanding.\nCONTENT: A qualitative meta-synthesis was conducted via systematic searches across five databases, with quality appraisal using the CASP checklist. Thematic analysis of 11 international studies generated three core themes: (1) Language as a barrier to participation, (2) marginalization and exclusion in clinical settings, and (3) support, resilience, and coping strategies.\nSUMMARY AND OUTLOOK: The synthesis confirms that EAL nursing students face challenges that require targeted interventions. Effective strategies include structured language support, culturally sensitive mentorship, and proactive inclusion by clinical educators. These findings carry clear implications for international curriculum design, staff training, and institutional policy reform. Future research should prioritize intervention-based studies to empirically evaluate the long-term effectiveness of such support mechanisms, ensuring equitable and enriching clinical environments for an increasingly diverse nursing workforce.",
+      "authors": [
+        {
+          "name": "Cheng Cheng"
+        },
+        {
+          "name": "Xing Xu"
+        }
+      ],
+      "publishedAt": "2026-07-28",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42509610",
+      "title": "Addressing the neurosurgery match gap in medical schools without home residency programs: a curricular proof of concept.",
+      "summary": "CONTEXT: Students at medical schools without home residency programs face barriers such as limited research opportunities, lack of faculty mentorship, and minimal specialty exposure that result in lower match rates in competitive fields like neurosurgery and reduce workforce diversity.\nOBJECTIVES: We sought to design and implement a structured, year-long research curriculum as a proof-of-concept model to explore whether such programming may improve specialty match outcomes for students from underresourced institutions.\nMETHODS: Following Kern's six-step curriculum development process, we developed a research elective to be completed between the third and fourth years of medical school beginning in 2021. To minimize financial and logistical barriers, participants retained part-time enrollment, preserving financial aid, insurance, and malpractice coverage. Students engaged in immersive research and clinical experiences at sponsoring institutions with neurosurgery residency programs. To assess the broader perceived need for similar programs, a survey was distributed to the American College of Osteopathic Surgeons Medical Student Section (ACOS-MSS), with over 140 responses, inquiring about research year participation and interest.\nRESULTS: In this initial proof-of-concept cohort, all four students who have utilized this curriculum successfully matched into neurosurgery programs. Given the small sample size, these results should be interpreted with caution, because students may have benefited from additional factors supportive of matching independent of the curriculum. Of 146 ACOS-MSS survey respondents, 5 (3.4 %) were currently completing a research year, whereas 49 (33.6 %) indicated that they would be interested in or would consider embarking on a research gap year if available - most commonly in surgical specialties such as neurosurgery, plastic surgery, and cardiothoracic surgery.\nCONCLUSIONS: This proof-of-concept suggests that a dedicated research year may offers a pathway for those without home residency programs to enhance competitiveness during the match process, although larger prospective studies are needed to establish efficacy. The high level of interest identified among osteopathic medical students highlights a widespread need for standardized, accessible specialty-development curricula. Broader adoption could promote diversity in medical education by expanding access to competitive specialties and fostering partnerships between osteopathic and allopathic institutions.",
+      "authors": [
+        {
+          "name": "Kyle McGrath"
+        },
+        {
+          "name": "Allie L Sinclair"
+        },
+        {
+          "name": "Laura B Ngwenya"
+        },
+        {
+          "name": "Francesco T Mangano"
+        }
+      ],
+      "publishedAt": "2026-07-28",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42463420",
+      "title": "Lewis Acid-Base Interaction Boosting Ion Selectivity of Poly(Ether Ether Ketone)/Polyimide Membrane Toward High-Performance Alkaline Zinc-Iron Flow Batteries.",
+      "summary": "The development of advanced ion-conducting membranes is crucial for improving alkaline zinc-iron flow batteries (AZIFBs), which face a persistent tradeoff between ion selectivity and conductivity. This work presents a sulfonated poly(ether ether ketone)/polyimide (SPEEK/PI) composite membrane engineered via Lewis acid-base interaction. The specific interaction between the -SO3 - groups of SPEEK and the -N= sites of PI creates additional cross-linking points within the polymer matrix. This cross-linked structure effectively suppresses membrane swelling and enhances mechanical stability. Consequently, the composite membrane demonstrates superior ion selectivity by significantly hindering the crossover of active species such as [Fe(CN)6]4-. When applied in AZIFBs, the SPEEK/PI membrane enables a notable improvement in electrochemical performance. The battery achieves a high coulombic efficiency (CE) of 98.3%, an energy efficiency (EE) of 89.8%, and a voltage efficiency (VE) of 91.4% during long-term cycling at 80 mA cm-2, outperforming devices using pristine SPEEK membranes (CE:95.4%; EE: 86.7%; VE: 90.9%). This study provides a cost-effective and efficient membrane design strategy based on molecular interaction, offering a promising alternative for practical flow battery applications.",
+      "authors": [
+        {
+          "name": "Guanqin Wang"
+        },
+        {
+          "name": "Wenlong Gao"
+        },
+        {
+          "name": "Yuting Han"
+        },
+        {
+          "name": "Xinyu Wang"
+        }
+      ],
+      "publishedAt": "2026-07-17",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42463411",
+      "title": "Advances in Tricyclic Compounds for the Treatment of Alzheimer's Disease.",
+      "summary": "Alzheimer's disease (AD) is a complex neurodegenerative disorder involving interconnected pathological pathways, including cholinergic dysfunction, Aβ deposition, tau hyperphosphorylation, neuroinflammation, oxidative stress, and dysregulation of metal ion homeostasis. Recently, the \"one drug, one target\" paradigm has faced certain clinical limitations, driving a paradigm shift toward multi-target therapeutic strategies. In this context, tricyclic scaffolds, characterized by rigid fused-ring skeletons, excellent structural tunability, and favorable neuropharmacological properties, have emerged as promising scaffolds for developing multi-target AD therapeutics. These molecules can interact with multiple AD-related targets through stable π-π stacking and hydrophobic interactions. Some tricyclic scaffolds, such as tetrahydrocarbolines, share structural similarity with endogenous neurotransmitters, suggesting potential involvement in modulating cognitive and mood-related pathways, along with favorable BBB permeability and neuro-compatibility. Accordingly, this review begins by outlining the distinct pathological mechanisms underlying AD, followed by a summary of recent progress on tricyclic compounds, encompassing both single-target and multi-target-directed molecules, with an emphasis on structure-activity relationships and mechanisms of action, aiming to offer new insights and strategies for combating this devastating disease.",
+      "authors": [
+        {
+          "name": "Yichun Shi"
+        },
+        {
+          "name": "Xindan Liao"
+        },
+        {
+          "name": "Guangjun Yu"
+        }
+      ],
+      "publishedAt": "2026-07-17",
+      "source": "PubMed"
+    }
+  }
+]
