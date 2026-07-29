@@ -1,0 +1,126 @@
+[
+  {
+    "paper": {
+      "id": "42504655",
+      "title": "Machine Learning Clustering Identifies Achalasia-Spectrum Phenotypes in Distal Esophageal Spasm.",
+      "summary": "BACKGROUND/AIMS: : Distal esophageal spasm (DES) is a rare, heterogeneous esophageal motility disorder with variable treatment responses. Machine learning methods are well suited to distinguish DES phenotypes that could inform therapeutic decisions and outcomes. This exploratory study aims to identify and characterize unique DES phenotypes using unsupervised machine learning clustering.\nMETHODS: : Adults undergoing high-resolution esophageal manometry (HRM) for esophageal symptoms between 2005-2025 were included. Uniform manifold approximation and projection (UMAP) was used for dimensionality reduction of HRM metrics. DES patients were classified as within-cluster or outside-cluster according to density contours. Patient characteristics, manometric parameters, functional lumen imaging probe findings, and treatment outcomes were compared between clusters.\nRESULTS: : Among 5360 patients, 42 (0.8%) had DES, 2400 (45%) normal motility, and 107 (2.0%) type III achalasia. UMAP identified 33 DES patients clustering alongside type III achalasia patients, while 9 DES patients remained outside this cluster. The primary differentiating characteristic between clusters was premature supine contraction frequency (median 8 vs 0, P < 0.001). Within-cluster patients demonstrated higher Esophageal Hypervigilance and Anxiety Scale scores (30 vs 20.5, P = 0.010). All 3 within-cluster patients who underwent peroral endoscopic myotomy achieved symptom resolution, compared to partial response in outside-cluster patients.\nCONCLUSIONS: : Machine learning clustering successfully identified a DES phenotype characterized by high premature contraction frequency that clusters with type III achalasia. Premature contraction frequency may serve as a clinical marker for selecting DES patients for lower esophageal sphincter-directed therapies. Given the rarity of DES, larger validation studies are needed to confirm these findings.",
+      "authors": [
+        {
+          "name": "Ofer Z Fass"
+        },
+        {
+          "name": "John E Pandolfino"
+        },
+        {
+          "name": "Dustin A Carlson"
+        }
+      ],
+      "publishedAt": "2026-07-27",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42504654",
+      "title": "Disorders of Gut-Brain Interaction and Psychological Comorbidity in Singapore: Insights From the Rome IV Global Epidemiology Study.",
+      "summary": "BACKGROUND/AIMS: : Disorders of gut-brain interaction (DGBI) affect ~40% of the global population, yet data from Asia, including urbanized Singapore, remain limited. We aim to estimate prevalence, characterize psychological comorbidities, and assess burden using Rome IV criteria.\nMETHODS: : As part of the Rome Foundation Global Epidemiology Study, we conducted a cross-sectional, internet-based survey of 2047 nationally representative Singaporean adults (January-March 2018). The Rome IV Diagnostic Questionnaire identified 22 DGBI; participants with physician-diagnosed organic disease were excluded. Psychological comorbidities were assessed with Patient Health Questionnaire-4 (PHQ-4 [anxiety/depression]) and Patient Health Questionnaire-12 (PHQ-12 [somatization]), and quality of life with Patient-Reported Outcomes Measurement Information System Global-10. Multivariable logistic regression identified factors associated with DGBI and psychological comorbidity.\nRESULTS: : DGBI prevalence was 31.1% (95% CI, 29.1-33.2), lower than the pooled global prevalence (~40%). Functional bowel disorders predominated (25.3%), with constipation-related conditions (irritable bowel syndrome with constipation and functional constipation) affecting 9.9%. DGBI were more common in younger adults and women, but not education-related. Participants with multi-region DGBI reported higher somatization and anxiety/depression scores, poorer physical and mental health, and greater healthcare use. Regression showed younger age (per-year OR, 0.978; 95% CI, 0.970-0.986), female sex (OR, 0.667; 95% CI, 0.546-0.813), and higher somatization and anxiety scores independently associated with DGBI. Among those with DGBI, psychological comorbidity was independently associated with female sex, polypharmacy, and multi-region involvement.\nCONCLUSIONS: : In Singapore, DGBI are common but less prevalent than global estimates. Constipation-related disorders and psychological comorbidities contribute substantially to symptom burden and healthcare use, particularly in women and younger adults. Findings support integrated, culturally tailored care pathways to guide regional practice and public health policy.",
+      "authors": [
+        {
+          "name": "Kewin T H Siah"
+        },
+        {
+          "name": "Tamar Freud"
+        },
+        {
+          "name": "Valencia R Y Zhang"
+        },
+        {
+          "name": "Ami D Sperber"
+        },
+        {
+          "name": "Olafur S Palsson"
+        },
+        {
+          "name": "Shrikant I Bangdiwala"
+        },
+        {
+          "name": "Reuben K Wong"
+        }
+      ],
+      "publishedAt": "2026-07-27",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42504650",
+      "title": "Gastroesophageal Reflux Disease and Reflux-like Phenotypes: Using Lyon Consensus 2.0 to Guide Clinical Approach.",
+      "summary": "Gastroesophageal reflux disease (GERD) is common worldwide, but troublesome symptoms alone are not sufficient for a conclusive diagnosis. The Montreal Consensus introduced a symptom-based definition of GERD and defined mucosal injury phenotypes of the disease. The Lyon Consensus adapted mucosal injury findings as well as defined abnormal reflux burden criteria for the diagnosis of conclusive GERD. The diagnosis of esophageal disorders of gut-brain interaction (E-DGBI) using Rome V criteria requires exclusion of GERD, which is also described in the Lyon Consensus 2.0 criteria. Collectively utilizing these various criteria, distinct phenotypes can be identified in patients with troublesome reflux-like symptoms. The mucosal injury phenotype, initially defined by the Montreal Consensus, requires reflux management for healing of esophagitis to improve symptoms, and surveillance to identify and prevent GERD complications including Barrett's esophagus and esophageal adenocarcinoma. The abnormal reflux burden phenotype requires reflux management for symptom improvement. The E-DGBI phenotype requires specific management of each of the functional disorders for symptom relief. Hypervigilance and symptom-specific anxiety can overlap with all the phenotypes, and E-DGBI can coexist with conclusive GERD. Therefore, there are intricate interrelationships between Montreal, Lyon and Rome criteria that aid evaluation of troublesome symptoms, and concepts from each of these contribute to accurate phenotyping and optimal management of patients.",
+      "authors": [
+        {
+          "name": "Matthew K Schroeder"
+        },
+        {
+          "name": "C Prakash Gyawali"
+        }
+      ],
+      "publishedAt": "2026-07-27",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42322985",
+      "title": "Gold detection from printed circuit boards for eco-friendly e-waste recycling.",
+      "summary": "Electronic waste is the fastest-growing waste stream in the world and contains valuable materials such as plastics and precious metals, such as gold. Gold found in electronic devices is used extensively in mobile phones, connectors, and circuit boards, and has a high recovery potential. Existing recovery processes are either performed with chemicals through manual or automated processes. However, they are error-prone in the identification of gold regions and face challenges due to the absence of standard datasets with Printed Circuit Boards (PCBs). These challenges must be addressed to develop sustainable and efficient methods for gold recovery from waste PCBs. This study presents a lightweight Region of Interest (RoI)-guided deep learning framework for detecting regions printed in gold on PCBs. A dataset of PCB images containing gold was created, pre-processed, and annotated to show the location of components with gold content. An RoI is generated by fusing local entropy with Hue, Saturation, Value (HSV) thresholding. This fused RoI map is applied as a mask over the original images to guide the detection of the required regions. The experimental results validate the robustness and effectiveness of the proposed RoI-guided YOLOv9 model through a comprehensive quantitative evaluation. The proposed model consistently achieved higher detection accuracy and better localization of gold-bearing regions than baseline methods and multiple YOLO variants, while maintaining computational efficiency. These results demonstrate the model's superior capability for the reliable and precise detection of gold components in PCB images.",
+      "authors": [
+        {
+          "name": "J Suresh"
+        },
+        {
+          "name": "S Venkatesan"
+        },
+        {
+          "name": "P Thamaraikannan"
+        },
+        {
+          "name": "F Sangeetha Francelin Vinnarasi"
+        }
+      ],
+      "publishedAt": "2026-07-01",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42119428",
+      "title": "Research progress on immunoassays for detecting organic heterocyclic herbicides in food.",
+      "summary": "Residues of organic heterocyclic herbicides in food matrices threaten food safety and human health, driving the need for sensitive, on-site, portable, and cost-effective detection. Immunoassays offer portability, rapidity, and low cost, but face challenges such as poor signal-molecule stability and batch-to-batch variability. This article briefly reviews common herbicides, highlights principles of several immunoassay techniques and performance-enhancing strategies, and discusses challenges and prospects of emerging nanomaterial-based immunoassays for food contaminants. With advances in novel nanomaterials, high-throughput screening, and portable detection systems, immunoassays can overcome limitations in sensitivity, portability, reliability, and affordability. These developments are expected to extend immunoassay applications beyond food safety monitoring to environmental regulation and bio-diagnostics, enabling broader on-site and field-deployable solutions.",
+      "authors": [
+        {
+          "name": "Zhipeng Cai"
+        },
+        {
+          "name": "Aihong Wu"
+        },
+        {
+          "name": "Liqiang Liu"
+        },
+        {
+          "name": "Xinxin Xu"
+        },
+        {
+          "name": "Hua Kuang"
+        },
+        {
+          "name": "Chuanlai Xu"
+        },
+        {
+          "name": "Liguang Xu"
+        }
+      ],
+      "publishedAt": "2026-06-04",
+      "source": "PubMed"
+    }
+  }
+]
