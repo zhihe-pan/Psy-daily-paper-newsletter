@@ -1,0 +1,140 @@
+[
+  {
+    "paper": {
+      "id": "42531526",
+      "title": "False memories: subjective and objective responses to an \"accented\" voice assistant.",
+      "summary": "The default accent of voice assistants tends to be a standard variety of a language, and commentary around creating voice assistants (VAs) suggests that more regionally marked dialects are avoided for their more marked social associations and their (assumed) reduced intelligibility. In our study, participants \"user-tested\" two VAs, one with a Southern US English accent, and one with a Mainstream US English accent. Northern US participants evaluated the Southern VA more negatively and commented that she was harder to understand. On the other hand, Southern participants had mixed valence affective reactions to the Southern VA and International participants demonstrated no strong social associations with either accent, and both groups rarely mentioned intelligibility of either VA. Additionally, in a listening game (a short version of the DRM false memory paradigm), there were no significant effects of VA accent on real or false memories for any of the three participant groups. Our results add to work suggesting that while linguistic variation can lead to challenges in communication, intelligibility is often invoked too easily as a reason for exclusion. The potential benefits of and problems around expanding variation in the voices of voice assistants are also discussed.",
+      "authors": [
+        {
+          "name": "Abby Walker"
+        },
+        {
+          "name": "Eliza Quesenberry"
+        },
+        {
+          "name": "Katelyn Morris"
+        },
+        {
+          "name": "Mahmut Sami Gürdal"
+        },
+        {
+          "name": "Shuqi Yu"
+        },
+        {
+          "name": "Koeun Choi"
+        },
+        {
+          "name": "Benjamin Katz"
+        },
+        {
+          "name": "Myounghoon Jeon"
+        }
+      ],
+      "publishedAt": "2026-07-30",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42283726",
+      "title": "Fibroblast depletion reveals mammalian epithelial resilience across neonatal and adult stages.",
+      "summary": "Regenerative organs, like the skin, depend on niche-stem cell interactions that sustain cellular turnover. In culture, skin fibroblasts promote epidermal stem cell proliferation and differentiation. Yet, it remains elusive how fibroblasts regulate epidermal stem cell behaviors and differentiation in vivo in skin. Here, we asked how fibroblast depletion may impact proliferation of the epidermal stem cell compartment. Surprisingly, we find that significant depletion of fibroblast density does not affect epidermal stem cell proliferation during adult or neonatal stages in vivo. These results demonstrate that across different ages, proliferation of epidermal stem cells can persist in the face of a depleted fibroblast population. Interestingly, neonatal fibroblast depletion does not significantly reduce collagen I density but affects basement membrane mechanics and epidermal stem cell delamination. Despite these changes, the skin continues to maintain its protective barrier function. Thus, our work demonstrates the skin regenerative program employs robust compensatory mechanisms in response to fibroblast depletion to maintain functional capacity.",
+      "authors": [
+        {
+          "name": "Isabella M Gaeta"
+        },
+        {
+          "name": "Shuangshuang Du"
+        },
+        {
+          "name": "Clémentine Villeneuve"
+        },
+        {
+          "name": "David G Gonzalez"
+        },
+        {
+          "name": "Catherine Matte-Martone"
+        },
+        {
+          "name": "Smirthy Ganesan"
+        },
+        {
+          "name": "Deandra Simpson"
+        },
+        {
+          "name": "Hilldana Tibebu"
+        },
+        {
+          "name": "Jessica L Moore"
+        },
+        {
+          "name": "Chen Yuan Kam"
+        },
+        {
+          "name": "Sara Gallini"
+        },
+        {
+          "name": "Haoyang Wei"
+        },
+        {
+          "name": "Fabien Bertillot"
+        },
+        {
+          "name": "Dagmar Zeuschner"
+        },
+        {
+          "name": "Lauren E Gonzalez"
+        },
+        {
+          "name": "Ushnish Rana"
+        },
+        {
+          "name": "Kaelyn D Sumigray"
+        },
+        {
+          "name": "Sara A Wickström"
+        },
+        {
+          "name": "Valentina Greco"
+        }
+      ],
+      "publishedAt": "2026-06-12",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42251648",
+      "title": "Axial Coordination Orchestrates Antibonding-State Fermi-Level Proximity and Oxygen Affinity in Single-Atom Iron for Selective Chemiluminescence.",
+      "summary": "Selective chemiluminescence sensing systems face challenges due to poor specificity of radical pathways in aqueous environments. To address this issue, axially coordinated Fe single-atom catalysts (Fe-SACs) with asymmetric high-spin N-FeN4 sites were synthesized via one-step calcination, enabling selective reactive iron species (RFeS) generation under neutral conditions. In situ x-ray absorption fine structure and the density functional theory analyses revealed that the axial N-coordination stabilizes high-spin states, reduces orbital splitting energy, and enhances d-p hybridization with peroxymonosulfate (PMS), thereby lowering the formation energy of RFeS by 42%. Concurrently, it modulates dx 2-y 2 and dxy orbitals to weaken oxygen binding and promote electron delocalization. This dual modulation achieves > 99% RFeS selectivity, suppressing non-selective radicals. The Fe-SACs/PMS/luminol system exhibits 826-fold signal amplification and < 5.8% interferent-induced signal variation, enabling ultrasensitive evaluation of total phenolics (using phenol as a model) in complex water with < 8.3% deviation from high-performance liquid chromatography. This work establishes axial-coordination-directed electronic modulation as a universal design principle for selective catalysis.",
+      "authors": [
+        {
+          "name": "Peng Fan"
+        },
+        {
+          "name": "Huixin Shao"
+        },
+        {
+          "name": "Kun Qian"
+        },
+        {
+          "name": "Yixuan Gao"
+        },
+        {
+          "name": "Wen Cheng"
+        },
+        {
+          "name": "Lina Li"
+        },
+        {
+          "name": "Wen Liu"
+        },
+        {
+          "name": "Xiaohong Guan"
+        }
+      ],
+      "publishedAt": "2026-06-07",
+      "source": "PubMed"
+    }
+  }
+]
