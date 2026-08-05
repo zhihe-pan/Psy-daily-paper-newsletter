@@ -1,0 +1,93 @@
+[
+  {
+    "paper": {
+      "id": "42554982",
+      "title": "A Co-Designed Post-ICU Follow-Up Pathway Is Feasible and May Be Associated With Improved Psychosocial Recovery for Patients and Their Caregivers: Outcomes From the IMPACT-ICU Single-Center Randomized Controlled Trial.",
+      "summary": "OBJECTIVES: Post-intensive care syndrome (PICS) and PICS-family (PICS-F) lead to lasting physical, cognitive, and psychologic challenges among survivors of critical illness and their caregivers. It is unclear how best to support these individuals. We aimed to evaluate the feasibility of a co-designed, multicomponent post-ICU follow-up intervention and to explore its association with symptoms of PICS and PICS-F.\nDESIGN: This was a pragmatic, mixed-methods randomized controlled trial.\nSETTING: This study was conducted at an academic ICU in Canada.\nPATIENTS: We enrolled 20 patient-caregiver dyads (n = 40 participants). Patients were eligible if they were 18 years old or older, expected to survive greater than or equal to 6 months after discharge from ICU, and were at high-risk for PICS. Caregiver participants were adult caregivers of enrolled patients.\nINTERVENTIONS: Dyads were randomized 1:1 to receive usual care or an intervention bundle co-designed with patients and caregivers, consisting of an ICU diary, informational materials, and two multidisciplinary follow-up clinic visits at 1 and 3 months after ICU discharge.\nMEASUREMENTS AND MAIN RESULTS: Trial outcomes included feasibility metrics, qualitative interviews, process evaluation, and clinical measures at 6 months. Qualitative data were analyzed using reflexive thematic analysis. Quantitative outcomes included PICS symptomatology, quality of life, caregiver burden, healthcare utilization, and functional status. The consent rate was 87.5%, with a mean enrollment of 5.25 participants/month. Twenty dyads were randomized; one ICU participant in each group died before their 6-month follow-up. Seven of nine dyads in the intervention and all nine in the control completed 6-month follow-up. Intervention group survivors had lower depressive symptom scores compared with controls. Intervention group caregivers reported higher emotional well-being and social functioning scores and lower anxiety, depression, and caregiver burden. Qualitative findings demonstrated greater emotional support, preparedness, and continuity of care in the intervention group.\nCONCLUSIONS: Our post-ICU care bundle was feasible and may be associated with improved psychosocial outcomes.",
+      "authors": [
+        {
+          "name": "Natasha A Jawa"
+        },
+        {
+          "name": "Michaela Hanley"
+        },
+        {
+          "name": "Akasham Rajagopaul"
+        },
+        {
+          "name": "Robin Westphal"
+        },
+        {
+          "name": "Michelle Tryon"
+        },
+        {
+          "name": "Rebecca Wakelin"
+        },
+        {
+          "name": "Christine Caron"
+        },
+        {
+          "name": "David M Maslove"
+        },
+        {
+          "name": "Stephanie Sibley"
+        },
+        {
+          "name": "John Muscedere"
+        },
+        {
+          "name": "Sunita Mathur"
+        },
+        {
+          "name": "Afolasade Fakolade"
+        },
+        {
+          "name": "Michelle E Kho"
+        },
+        {
+          "name": "J Gordon Boyd"
+        },
+        {
+          "name": "Canadian Critical Care Trials Group"
+        }
+      ],
+      "publishedAt": "2026-08-05",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42176387",
+      "title": "Deciphering the multi-target mechanism of Magnolia officinalis in irritable bowel syndrome with diarrhea: A combined network pharmacology, machine learning, and in vivo validation study.",
+      "summary": "BACKGROUND: The bark of Magnolia officinalis Rehder & E. Wilson, used in TCM for abdominal distension, pain, and diarrhea, aligns with IBS-D symptoms. It is now supported by evidence for its multi-component, multi-target action. This study aims to elucidate the core bioactive components and their mechanisms against IBS-D. To achieve this, we employed an analytical strategy that uses machine learning to refine network pharmacology predictions, rather than relying on network pharmacology alone.\nMATERIALS AND METHODS: This study integrates network pharmacology and machine learning to identify core therapeutic targets. The affinity of the components for these targets is validated through molecular docking studies. An IBS-D rat model was used to evaluate the effects of the core components (magnolol, honokiol, obovatol) on behavior (sucrose preference, open field), gastrointestinal motility, intestinal permeability, serum inflammatory cytokines (ELISA), and core target gene expression (qRT-PCR).\nRESULTS: Computational analyses identified five potential active components, including magnolol (Mag), honokiol (Hnk), and obovatol (Obo), and eight core targets (e.g., EGFR, MET) involved in PI3K-Akt and FoxO pathways. Molecular docking confirmed stable binding. In vivo, Hnk, Mag, and Obo ameliorated IBS-D-related anxiety-like behavior, intestinal hypermotility, and barrier dysfunction. They significantly downregulated EGFR and MET expression and reduced serum levels of IL-8, TNF-α, and MyD88. Notably, all treatments increased fecal short-chain fatty acids (SCFAs).\nCONCLUSION: The core components of M. officinalis, represented by Hnk, Mag, and Obo, alleviate IBS-D likely through a multi-target mechanism involving suppression of EGFR/MET and subsequent PI3K-Akt signaling, leading to reduced inflammation, improved barrier function, and modulated gut-brain axis. This provides a mechanistic foundation for the traditional use of M. officinalis in treating gastrointestinal disorders.",
+      "authors": [
+        {
+          "name": "Xiran Wang"
+        },
+        {
+          "name": "Yuli Wei"
+        },
+        {
+          "name": "Mengze Wang"
+        },
+        {
+          "name": "Yu Zhang"
+        },
+        {
+          "name": "Longfei Liu"
+        },
+        {
+          "name": "Xiaokai Ma"
+        },
+        {
+          "name": "Li Gao"
+        },
+        {
+          "name": "Haixia Ji"
+        }
+      ],
+      "publishedAt": "2026-06-03",
+      "source": "PubMed"
+    }
+  }
+]
