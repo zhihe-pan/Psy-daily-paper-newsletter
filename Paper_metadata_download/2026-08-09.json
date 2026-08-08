@@ -1,0 +1,37 @@
+[
+  {
+    "paper": {
+      "id": "42561117",
+      "title": "Methodological pitfalls in indirect treatment comparisons: insights from a recent systematic review and analysis for C3 glomerulopathy.",
+      "summary": "Aim: Indirect treatment comparisons (ITCs), as outlined in NICE and ISPOR guidance, require careful evaluation of cross-trial heterogeneity to ensure valid comparisons, particularly in rare diseases with limited evidence. C3 glomerulopathy (C3G) is an ultra-rare, complement-mediated kidney disease with high unmet need, making appropriate application of ITC frameworks especially critical. This appraisal evaluates the feasibility of applying ITC principles to compare Phase III trials of iptacopan (APPEAR-C3G) and pegcetacoplan (VALIANT) in the absence of head-to-head evidence. Materials & methods: Feasibility of an ITC in C3G was assessed through critical appraisal of APPEAR-C3G and VALIANT randomized controlled trials, focusing on alignment of eligibility criteria, baseline characteristics and outcome definitions, in line with NICE DSU TSD-18, CHTE2020 and ISPOR guidance. A systematic literature review (SLR) was then conducted to identify published ITCs comparing iptacopan and pegcetacoplan in C3G, which were evaluated for methodological rigor, transparency and credibility according to NICE and ISPOR recommendations. Results: Substantial heterogeneity was observed between APPEAR-C3G and VALIANT. Overlap was limited to small subpopulations, with imbalances in baseline characteristics, differences in end point reporting, and noncomparable placebo responses. These issues indicate that anchored ITCs are not feasible using currently available data without extensive adjustments that conflict with NICE and ISPOR guidance. The SLR identified one ITC poster with limited methodology comparing these trials. However, when the results were subsequently published in a manuscript, crucial methodological details including justification of effect modifiers, modeling diagnostics, analytic procedures, were still unavailable. Other concerns, such as using standard matching-adjusted indirect comparison methodology in the presence of substantial cross-trial heterogeneity, and the resulting limited ESS observed frequently in rare diseases, were confirmed, thus undermining credibility of conclusions. Conclusion: ITCs in C3G face significant methodological challenges due to pronounced trial heterogeneity and small sample sizes inherent to this ultra-rare disease. These limitations complicate the conduct and interpretation of arising ITCs, highlighting the need for transparent and methodologically robust approaches. Consequently, payers, decision makers, and HTA bodies should interpret existing C3G ITCs with caution. These findings inform broader application of ITC methods in rare diseases, identifying areas for future evidence generation and analytical innovation.",
+      "authors": [
+        {
+          "name": "Brian Hutton"
+        },
+        {
+          "name": "James Fotheringham"
+        },
+        {
+          "name": "Andrew Ervin"
+        },
+        {
+          "name": "Raisa Sidhu"
+        },
+        {
+          "name": "Corey Lourenco"
+        },
+        {
+          "name": "Imtiaz A Samjoo"
+        },
+        {
+          "name": "Chris Cameron"
+        },
+        {
+          "name": "Bridget Dunne"
+        }
+      ],
+      "publishedAt": "2026-08-06",
+      "source": "PubMed"
+    }
+  }
+]
