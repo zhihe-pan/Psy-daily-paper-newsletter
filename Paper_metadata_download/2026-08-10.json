@@ -1,0 +1,420 @@
+[
+  {
+    "paper": {
+      "id": "42437627",
+      "title": "A novel rotation-based spray-coating method for modifying the release profile of immediate-release dissolving microneedle array cores.",
+      "summary": "Microneedle arrays (MNAs) are typically created by attaching one or more pointed, submillimeter-sized objects to a suitable carrier. These therapeutic systems can effectively deliver poorly absorbed water-soluble active ingredients (such., peptides, proteins) into the systemic circulation by piercing the outermost, hard-to-penetrate skin layer, the Stratum corneum. By choosing the optimal needle length, the pain during application remains minimal compared to other invasive methods (e.g., transcutaneous or intracutaneous injection), which improves patient compliance. Although dissolving microneedles (DMNAs) are the most studied type because of their promising features, other types may face challenges in achieving an extended-release profile, depending on the circumstances and compatibility of different carriers and APIs. This work presents a new, efficient method for uniformly coated dissolving microneedle arrays containing fluorescein isothiocyanate-labelled bovine serum albumin (FITC-BSA), a model protein-based active ingredient, utilizing a novel rotation-based spray-coating technique. For the coating material of the DMNAs, the pH-independent methacrylate polymer, Eudragit RS, was used. Various microscopic and Raman mapping experiments demonstrated the coating's uniformity, while texture analysis and mechanical penetration studies confirmed that the formulations successfully penetrate the skin. Dissolution and ex vivo permeation studies verified that the coating layer extends the sample's release profile. Based on these findings, this innovative coating method could serve as a promising foundation for further research into producing extended-release or drug-in-coating MNAs.",
+      "authors": [
+        {
+          "name": "Martin Cseh"
+        },
+        {
+          "name": "Réka Hegedüs"
+        },
+        {
+          "name": "Anita Kovács"
+        },
+        {
+          "name": "Szilvia Berkó"
+        },
+        {
+          "name": "Rita Ambrus"
+        },
+        {
+          "name": "Gábor Katona"
+        },
+        {
+          "name": "Ildikó Csóka"
+        }
+      ],
+      "publishedAt": "2026-08-04",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42379329",
+      "title": "Approaches for enhancing bioavailability of macromolecular drugs.",
+      "summary": "Compared with small-molecule drugs, macromolecular drugs offer advantages such as high safety, strong specificity, and low immunogenicity. Although macromolecular drugs suffer from inherently low bioavailability and face multiple physiological barriers, a systematic review that comprehensively summarizes the strategies to overcome these challenges is still lacking. Therefore, developing effective strategies to enhance the bioavailability of macromolecular drugs represents a highly promising research direction. Numerous studies have shown that macromolecular drugs prepared through biotechnology can be used in combination with various biological carriers to activate the immune system by inducing the production of immune cells and immune factors, thereby achieving disease prevention and treatment. This article reviews the multiple absorption barriers encountered by macromolecular drugs, such as peptides and proteins, in different delivery systems, as well as the strategies to improve their bioavailability and the technical approaches to overcome the related delivery challenges, aiming to provide theoretical references and a foundation for the design of novel macromolecular drug delivery systems.",
+      "authors": [
+        {
+          "name": "Ziliang Xiao"
+        },
+        {
+          "name": "Siying Wang"
+        },
+        {
+          "name": "Jiduo Han"
+        },
+        {
+          "name": "Zijian Zou"
+        },
+        {
+          "name": "Banghuai Xing"
+        },
+        {
+          "name": "Ju Wang"
+        },
+        {
+          "name": "Jianfang Feng"
+        },
+        {
+          "name": "Yi Jin"
+        },
+        {
+          "name": "Meng Cheng"
+        },
+        {
+          "name": "Liangxing Tu"
+        }
+      ],
+      "publishedAt": "2026-08-04",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42287666",
+      "title": "Pd Single-Atom-Doped Cu3Co Quantum Dots With Optimized Hydrogenation Kinetics for Versatile Aluminum-Nitrate Primary Battery With Synchronous Energy Harvesting and Waste Valorization.",
+      "summary": "The rational design of nitrate batteries enabling simultaneous electricity generation and pollutant degradation is highly promising, yet most reported systems, such as Zn-nitrate or aldehyde-nitrate batteries, face critical limitations, including sluggish cathodic nitrate reduction kinetics, high anode material cost, low-value anode reaction products, inferior open-circuit potential (OCP), and limited power output. Optimizing catalyst activity and NH3 selectivity via structure-activity relationships is pivotal to enhancing the electrical output efficiency of such batteries. Herein, we report a Pd single-atom-doped Cu3Co quantum dots electrocatalyst (Pdsa-Cu3Co QDs), which modulates H* adsorption to accelerate the key hydrogenation steps of NO3RR, achieving a positive onset of +0.18 V (vs. RHE) and nearly 100% Faradaic efficiency (FE) for NH3 at -0.5 V (vs. RHE). A novel Al-NO3 - primary battery is further constructed by coupling cathodic NO3RR with anodic aluminum oxidation, enabling cathodic NH3 production and anodic conversion of waste aluminum (e.g., used Cola cans) to green H2 and high-value alums. This battery exhibits an OCP of 1.26 V, 8.85 mW cm-2 peak power density, and an FE of 48.78% NH3, 56.88% H2, and yield 56.10% alum, significantly enhancing its economic viability and practical application.",
+      "authors": [
+        {
+          "name": "Fuyu Liu"
+        },
+        {
+          "name": "Kangyi Yu"
+        },
+        {
+          "name": "Yinfeng Liu"
+        },
+        {
+          "name": "Hang Yang"
+        },
+        {
+          "name": "Xin Long"
+        },
+        {
+          "name": "Arunpandiyan Surulinathan"
+        },
+        {
+          "name": "Renfei Feng"
+        },
+        {
+          "name": "Yu Zhang"
+        },
+        {
+          "name": "Xian-Zhu Fu"
+        },
+        {
+          "name": "Bin Zhao"
+        },
+        {
+          "name": "Jing-Li Luo"
+        }
+      ],
+      "publishedAt": "2026-06-15",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42272177",
+      "title": "Spatial Molecular Decoupling Design for High-Z and Fast Organic Scintillators.",
+      "summary": "Organic scintillators are pivotal for flexible and low-cost radiation detection; however, they face a long-standing \"absorption-speed\" trade-off: incorporating high-Z elements to enhance X-ray attenuation typically triggers strong spin-orbit coupling (SOC), which quenches prompt fluorescence and diverts excitation energy into slow, microsecond-scale triplet pathways. Here, we present a molecular decoupling strategy to overcome this dilemma, realized in a donor-acceptor-donor (D-A-D) hybridized local and charge-transfer (HLCT) molecule, 4,7-bis(4-(bis(4-iodophenyl)methyl)phenyl)benzo[c][1,2,5]thiadiazole (TPBI). By terminally tethering iodine atoms to the triphenylamine units, we achieve robust X-ray attenuation while preserving a fast \"hot-exciton\" emission channel. The intrinsic nonplanar geometry and strategic spatial arrangement of the molecule successfully isolate the heavy-atom effect from the emissive core, maintaining the crucial quasi-degeneracy between the T2 and S1 states. This configuration facilitates rapid high-lying reverse intersystem crossing (hRISC), enabling near-unity exciton utilization without compromising nanosecond-scale decay kinetics. Our TPBI-based scintillator demonstrates a synergized performance profile of potent X-ray interaction (attenuation efficiency 5.672 cm2 g-1 at 28 keV) and a fast temporal response (2.96 ns), providing a general molecular design paradigm for next-generation, high-performance organic radiation detectors.",
+      "authors": [
+        {
+          "name": "Tingchang Shi"
+        },
+        {
+          "name": "Shiyu Hou"
+        },
+        {
+          "name": "Bingyan Tu"
+        },
+        {
+          "name": "Song He"
+        },
+        {
+          "name": "Yue Hu"
+        },
+        {
+          "name": "Wallace C H Choy"
+        },
+        {
+          "name": "Yuting Gao"
+        },
+        {
+          "name": "Guangda Niu"
+        }
+      ],
+      "publishedAt": "2026-06-11",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42261977",
+      "title": "Activating π-Electron Conjugated Networks of Self-Assembled Multilayers for 21.1% Efficiency Organic Solar Cells.",
+      "summary": "Self-assembled monolayers suffer from the insufficient electrical conductivity, stemming from their ultrathin nature and disordered molecular orientation. Here we report a π-skeleton unit of 3,6-dibenzothiophen-9H-carbazol to building a self-assembled multilayer (SAMUL) that exhibits superior carrier transport and outstanding resistance to external stimuli. The π-expanded skeleton effectively enhanced the molecular crystallinity and face-on orientation, which successfully activated a large π-electron conjugated network within SAMULs. This conjugated network structure greatly broadens the delocalization region of free radicals, which not only significantly enhances the electrical conductance and hole-transporting capability, but also reinforces the photochemical stability. Consequently, a record-high efficiency of 21.13% (certified as 20.77%) with a notable fill factor of 83.48% was achieved for binary organic solar cells. This work provides a new inspiration for the molecular skeleton design in organic electronics.",
+      "authors": [
+        {
+          "name": "Junbo Chen"
+        },
+        {
+          "name": "Yuanpeng Xie"
+        },
+        {
+          "name": "Jingfu Tian"
+        },
+        {
+          "name": "Xiaxia Yang"
+        },
+        {
+          "name": "Yingxin Tian"
+        },
+        {
+          "name": "Kequan Chen"
+        },
+        {
+          "name": "Shunlin Zhang"
+        },
+        {
+          "name": "Dianyong Tang"
+        },
+        {
+          "name": "Yanming Sun"
+        },
+        {
+          "name": "Menglan Lv"
+        }
+      ],
+      "publishedAt": "2026-06-09",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42034172",
+      "title": "Yueju pill exerts rapid antidepressant effects via sequential activation of hippocampal GLP-1 receptor and PACAP signaling in mice.",
+      "summary": "ETHNOPHARMACOLOGICAL RELEVANCE: Yueju pill (YJ), a classical Chinese medicine formula first documented in 'Danxixinfa by Zhu Danxi for treating \"six stagnations\" (Liu Yu: qi, blood, phlegm, fire, dampness, and food), has been clinically prescribed for mood disorders characterized by qi stagnation and depression for centuries. Despite its historical application for relieving emotional constraint (Yujie) and treating depressive disorders, the rapid antidepressant mechanism and molecular targets of YJ remain incompletely elucidated.\nAIM OF THE STUDY: This study aimed to investigate the rapid antidepressant-like effects of YJ and uncover the underlying mechanism involving hippocampal GLP-1 receptor (GLP-1r) and pituitary adenylate cyclase-activating polypeptide (PACAP) signaling.\nMATERIALS AND METHODS: The chemical stability of YJ was evaluated by quantifying active constituents. A chronic unpredictable mild stress (CUMS) mouse model was employed to assess rapid antidepressant effects of YJ through acute administration using behavioral paradigms including novelty-suppressed feeding (NSF), tail suspension (TST), forced swim (FST), and sucrose preference tests (SPT). Hippocampal transcriptome sequencing was performed 30 min post-treatment to identify key targets. Protein and gene expressions were validated by Western blot, immunofluorescence, and quantitative PCR. Pharmacological interventions using exendin (9-39) (GLP-1r antagonist) and PACAP6-38 (PACAP antagonist) were conducted to establish signaling hierarchies. Additionally, HT22 hippocampal neuronal cells were utilized to examine direct effects on synaptic proteins.\nRESULTS: Four active constituents (shanzhiside methylester, geniposide, ferulic acid, and gentiobioside) were identified in YJ with stable and reproducible concentrations. Acute administration of YJ (2 g/kg, as the final extract) rapidly ameliorated depressive-like behaviors in CUMS mice, with effects comparable to ketamine. Hippocampal transcriptome sequencing identified 461 differentially expressed genes following YJ treatment, with GLP-1r and Adcyap1 (PACAP) notably upregulated compared to the CUMS group. Western blot, immunofluorescence and PCR confirmed that YJ elevated protein and gene expression of GLP-1r and PACAP in the dentate gyrus within 30 min. Pharmacological blockade of GLP-1r with exendin9-39 abolished YJ's rapid antidepressant effects and prevented YJ-induced PACAP upregulation. Conversely, intra-dentate gyrus injection of PACAP6-38 blocked YJ's behavioral effects without affecting GLP-1 expression, indicating that PACAP acts downstream of GLP-1. In HT22 cells, YJ dose-dependently upregulated GLP-1r and PACAP, while also improving synaptic protein expression (pCaMKII, synapsin-1, PSD95, and BDNF).\nCONCLUSION: These findings demonstrate that YJ produces rapid antidepressant effects through activation of hippocampal GLP-1r-dependent PACAP signaling, providing scientific evidence for the traditional \"resolving depression\" (Jieyu) function of this classical formula and identifying a novel polyherbal strategy for rapid-acting antidepressant therapy.",
+      "authors": [
+        {
+          "name": "Shan Xing"
+        },
+        {
+          "name": "Yuhan Peng"
+        },
+        {
+          "name": "Yanqin Wang"
+        },
+        {
+          "name": "Changyu Wu"
+        },
+        {
+          "name": "Mingzhi Han"
+        },
+        {
+          "name": "Huijun Xie"
+        },
+        {
+          "name": "Gang Chen"
+        },
+        {
+          "name": "Hailou Zhang"
+        }
+      ],
+      "publishedAt": "2026-05-10",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42019736",
+      "title": "Mitochondrial homeostasis regulation in the prefrontal cortex: A key mechanism for emodin-mediated attenuation of insomnia.",
+      "summary": "ETHNOPHARMACOLOGICAL RELEVANCE: Insomnia represents a prevalent sleep disorder with neurobiological underpinnings that are not yet fully elucidated. Emerging research indicates that mitochondrial homeostasis plays a pivotal role in the regulation of sleep. Emodin (EMD), the principal bioactive constituent of the traditional Chinese medicinal herb Polygonum multiflorum, has been reported to exert antioxidant properties and promote sleep. Nevertheless, the precise mechanisms underlying its effects remain to be clarified.\nAIM OF THE STUDY: The present study seeks to investigate whether EMD ameliorates insomnia and associated anxiety-like behaviors through the restoration of mitochondrial homeostasis within the prefrontal cortex (PFC).\nMATERIALS AND METHODS: An insomnia model was induced in mice via intraperitoneal administration of p-chlorophenylalanine (PCPA). Behavioral assessments, including the open field test (OFT), elevated plus maze (EPM), and loss of righting reflex (LORR) test, were employed to evaluate the impact of EMD on insomnia and concomitant anxiety-like phenotypes. After behavioral testing, PFC tissues were harvested for comprehensive analyses. Mitochondrial morphology and ultrastructure were examined using Janus green B (JG-B) staining and transmission electron microscopy (TEM), respectively. Mitochondrial respiratory function and ATP synthesis capacity were quantified utilizing a Seahorse XF Analyzer. Oxidative stress parameters were assessed by measuring reactive oxygen species (ROS), malondialdehyde (MDA) concentrations, superoxide dismutase (SOD) activity, and the enzymatic activities of Na+-K+-ATPase and Ca2+-Mg2+-ATPase. Additional evaluations included the assessment of mitochondrial permeability transition pore (mPTP) opening, mitochondrial membrane potential (ΔΨm), expression levels of cytochrome c oxidase (COX) mRNA and protein, and mitochondrial DNA (mtDNA) copy number.\nRESULTS: EMD significantly alleviated insomnia and the accompanying anxiety-like behaviors in mice. In the PFC, it increased the number of mitochondria, alleviated ultrastructural damage, and attenuated OS, as evidenced by increased activities of Na+-K+-ATPase, Ca2+-Mg2+-ATPase, and SOD, along with reduced levels of ROS and MDA. Moreover, EMD elevated mtDNA copy number and upregulated COX mRNA and protein expression. It also inhibited mPTP opening and increased the ΔΨm, collectively contributing to the restoration of mitochondrial homeostasis and promoting ATP production.\nCONCLUSION: EMD mitigates oxidative stress-induced damage by modulating the activities of Na+-K+-ATPase and Ca2+-Mg2+-ATPase in PFC neuronal membranes. This regulation facilitates the restoration of mitochondrial homeostasis, thereby preserving mitochondrial structural integrity and function, which in turn ameliorates insomnia and related anxiety-like manifestations. These findings offer novel insights into the pathophysiology of sleep disorders and underscore the therapeutic potential of mitochondria-targeted interventions aimed at modulating cellular energy metabolism.",
+      "authors": [
+        {
+          "name": "Zhen Zhang"
+        },
+        {
+          "name": "Xinyue Che"
+        },
+        {
+          "name": "Ren Zhang"
+        },
+        {
+          "name": "Laisiqi Wan"
+        },
+        {
+          "name": "Chunmei Ma"
+        },
+        {
+          "name": "Juntao Zou"
+        },
+        {
+          "name": "Xiaowu Xu"
+        }
+      ],
+      "publishedAt": "2026-05-10",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42000001",
+      "title": "Pharmacokinetics and tissue distribution of Cistanche tubulosa stems in normal and depression comorbid with sexual dysfunction rats.",
+      "summary": "ETHNOPHARMACOLOGICAL RELEVANCE: Depression, a disorder with high global prevalence, is commonly complicated by sexual dysfunction. However, first-line clinical-antidepressants often induce sexual dysfunction, further complicating treatment outcomes. Our previous studies have demonstrated that Cistanche tubulosa aqueous extract (CTE) ameliorates depression comorbid with sexual dysfunction (DCSD). Nevertheless, the pharmacokinetics profiles and tissue distribution of CTE components under different physiological and pathological conditions remain unclear.\nAIM OF THE STUDY: This study aimed to compare the pharmacokinetics and tissue distribution of 8 prototype constituents and 4 active metabolites of CTE in normal and DCSD rats, thereby clarifying the in vivo material basis for the therapeutic effects of CTE in treating DCSD.\nMATERIALS AND METHOD: A validated ultra-high performance liquid chromatography coupled with triple quadrupole-linear ion trap mass spectrometry (UHPLC-QTRAP-MS/MS) method was employed to determine the dynamic concentrations of 8 prototypes and 4 metabolites in plasma and multiple tissues. Pharmacokinetics parameters and tissue distribution profiles of the major active components were then analyzed clarified and compared between normal and DCSD rats.\nRESULTS: DCSD significantly altered the pharmacokinetic profile of CTE in rats. Compared with normal rats, DCSD rats exhibited higher Cmax and AUC of 2'- acetylverbsacoside, caffeic acid, 3,4-dihydroxyphenylpropionic acid, and 3-hydroxyphenylpropionic acid, with a significant increase in Cmax of geniposidic acid (P < 0.05). Shortened Tmax of tubuloside B and 2'-acetylverbsacoside (P < 0.05) indicated enhanced absorption of these compounds in DCSD rats. In contrast, tubuloside B, 3-hydroxyphenylpropionic acid, and hydroxytyrosol showed accelerated elimination in DCSD rats, as evidenced by shorter t1/2 (P < 0.05). DCSD promoted cerebral distribution of geniposidic acid and 8-epiloganic acid (elevated peak concentrations, P < 0.05), but inhibited the testicular accumulation of echinacoside, verbascoside, and isoverbascoside. Prostatic levels of caffeic acid and geniposidic acid were elevated in DCSD rats, and 2'-acetylverbsacoside was detected in the liver and cerebrum where it was undetectable in normal rats. Notably, the active metabolites including hydroxytyrosol and 3-hydroxyphenylpropionic acid maintained high concentrations in the penises of DCSD rats for up to 24 h, indicating strong penile affinity or targeting capacity. Among these, 3-hydroxyphenylpropionic acid exhibited high exposure levels in both groups. These findings first revealed that the disposition process of C. tubulosa was characterized by intestinal adsorption, hepatic metabolism, and subsequent reproductive system enrichment. As well, DCSD reshaped the multi-component exposure profiles in vivo following CTE treatment, characterized by increased accumulation of geniposidic acid, 8-epiloganic acid, 3-hydroxyphenylpropionic acid, hydroxytyrosol, and caffeic acid in the cerebrum-gonadal axis, potentially representing the direct effectors underlying the anti-DCSD effects of C. tubulosa.\nCONCLUSION: This study systematically elucidates the in vivo processes of CTE under different physiological conditions, providing a critical foundation for understanding its mechanism of action and advancing its clinical translation.",
+      "authors": [
+        {
+          "name": "Xiao Xia"
+        },
+        {
+          "name": "Li Fan"
+        },
+        {
+          "name": "Fei Deng"
+        },
+        {
+          "name": "Bangjian Dong"
+        },
+        {
+          "name": "Xiaonan Chen"
+        },
+        {
+          "name": "Zongjin Pu"
+        },
+        {
+          "name": "Ying Peng"
+        },
+        {
+          "name": "Xiaobo Li"
+        }
+      ],
+      "publishedAt": "2026-05-10",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "41997440",
+      "title": "Evaluating the antidepressant and neuroprotective effect of Drymaria cordata (L.) Willd. Ex Schult against a CUMS-induced depression model: A comprehensive experimental and computational study.",
+      "summary": "ETHNOPHARMACOLOGICAL RELEVANCE: Depression is a major global health issue linked to oxidative stress, neuroinflammation, and neuronal injury. Ethnopharmacological in vitro investigation of medicinal plants is an emerging and significant approach in the discovery of multi-target drug leads for the management of complex disorders such as depression. Drymaria cordata Willd. ex Schult (DC) is a medicinal herb commonly employed in folk medicine for the management of various diseases, such as headaches, convulsions, bronchitis, and eye problems. It has shown several central nervous system (CNS) activities such as anxiolytic, analgesic, anti-nociceptive, antitussive, and anti-amnesic effects, and therefore it has the potential to be relevant in the management of neuropsychiatric disorders such as depression.\nAIM OF THE STUDY: The present study aimed to evaluate the antidepressant and neuroprotective activities of the hydroethanolic extract of DC (HEEDC) using a combination of experimental and computational studies.\nMATERIALS AND METHODS: The phytochemical screening of the HEEDC was carried out, and the in vitro neuroprotective activities were investigated using the MTT assay for cell viability, along with AO/EtBr staining for apoptotic changes and neurite outgrowth. The in vivo antidepressant activities were investigated using the CUMS model in mice after administration of the HEEDC at doses of 100 and 200 mg/kg, in comparison to fluoxetine 20 mg/kg, using behavioral tests such as the sucrose preference test, tail suspension test, and elevated plus maze. Biochemical studies were carried out by estimating the activities of monoamine oxidase-A, along with histopathological studies. LC-MS/MS analysis was performed, followed by network pharmacology, molecular docking, molecular dynamics, and ADME/toxicity studies to identify the lead compounds.\nRESULTS: The phytochemical investigation indicated the presence of terpenoids, flavonoids, and phenolic compounds with significant antioxidant activity. HEEDC has shown significant neuroprotective effects through its anti-apoptotic and anti-neurite projection loss activities. HEEDC significantly alleviated depressive-like behaviors in the CUMS model through its effects on sucrose preference, immobility time, and exploratory activities. HEEDC has shown significant effects in reducing monoamine oxidase A activity and improving hippocampal neuronal morphology. The phytoconstituents of HEEDC were identified using LC-MS/MS as 108 compounds, and network pharmacology indicated significant targets such as HIF1A and P53. Molecular docking and dynamics studies indicated the potential of heliotrine and akeboside as significant compounds based on their interactions with the target proteins.\nCONCLUSIONS: The results suggest that HEEDC possesses potential antidepressant activity along with neuroprotective activity via multi-target mechanisms. Drymaria cordata can be a potential lead compound for developing new antidepressants based on phytochemicals.",
+      "authors": [
+        {
+          "name": "Rupam Kalita"
+        },
+        {
+          "name": "Ravi Kumar Rajan"
+        },
+        {
+          "name": "Farak Ali"
+        },
+        {
+          "name": "R Baby Roselin"
+        },
+        {
+          "name": "Maida Engels"
+        },
+        {
+          "name": "Snehasis Malakar"
+        },
+        {
+          "name": "Manodeep Chakraborty"
+        },
+        {
+          "name": "Ananya Bhatacharjee"
+        },
+        {
+          "name": "M Ramanathan"
+        },
+        {
+          "name": "Abdul Baquee Ahmed"
+        }
+      ],
+      "publishedAt": "2026-05-10",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "41997438",
+      "title": "Yiqi Yangxin Anshen Oral liquid ameliorates anxiety-like behaviors and learning-memory impairment in sleep deprivation rats via maintaining neurotransmitters homeostasis and regulation of cAMP/CREB signaling pathway.",
+      "summary": "ETHNOPHARMACOLOGICAL RELEVANCE: Yiqi Yangxin Anshen Oral Liquid (YQYX) is a multi-herbs compound derived from the ancient Chinese formulae Suanzaoren Decoction and Guipi Tang. It has been clinically used to treat insomnia and anxiety for nearly three decades.\nAIM OF THE STUDY: To evaluate the efficacy of YQYX and to elucidate its therapeutic mechanisms in mitigating pathological changes induced by sleep deprivation (SD).\nMETHODS: Chemical constituents and serum-absorbed components were characterized using UHPLC-Orbitrap-MS/MS. Network pharmacology was employed to predicted therapeutic targets. PCPA-induced SD rats underwent pentobarbital-induced sleep test, Morris water maze, and open field test. Serum inflammatory cytokines were measured by ELISA, and hypothalamic neurotransmitters were quantified using a validated UHPLC-QQQ-MS/MS method. Hippocampal damage was evaluated by H&E and NeuN immunofluorescence, and cAMP/PKA/CREB/BDNF pathway was studied by Western blot and immunofluorescence.\nRESULTS: LC-MS identified 102 chemical constituents and 49 serum-absorbed components in YQYX. Network pharmacology analysis based on the serum-absorbed components predicted the cAMP signaling pathway as a key therapeutic target. YQYX significantly ameliorated SD-induced sleeplessness effects, spatial learning-memory impairments, and anxiety-like behaviors. It also reduced serum levels of IL-1β, TNF-α, and IL-6. Notably, YQYX restored hypothalamic neurotransmitters homeostasis (serotonin, dopamine, histamine, and acetylcholine). Histological analysis showed that YQYX prevented SD-induced hippocampal damage. Moreover, YQYX upregulated the cAMP/PKA/CREB/BDNF signaling pathway.\nCONCLUSION: YQYX exhibits multi-target therapeutic effects by maintaining neurotransmitter homeostasis, protecting hippocampal neurons, and activating neuroplasticity pathways, thereby validating its ethnopharmacological basis for treating sleep disorders.",
+      "authors": [
+        {
+          "name": "Kai-Jing Yu"
+        },
+        {
+          "name": "Gui-Zhi Yang"
+        },
+        {
+          "name": "Juan Huang"
+        },
+        {
+          "name": "Fei Tan"
+        },
+        {
+          "name": "Xiang-Bin Chen"
+        },
+        {
+          "name": "Bi-Yun Xu"
+        },
+        {
+          "name": "Jin OuYang"
+        },
+        {
+          "name": "Mao-Xin Wang"
+        },
+        {
+          "name": "Hua Zhou"
+        },
+        {
+          "name": "Zhi-Min Yang"
+        },
+        {
+          "name": "Wen Xu"
+        }
+      ],
+      "publishedAt": "2026-05-10",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "41985643",
+      "title": "Yueju pill exerts long-lasting antidepressant effects through PACAP-mediated NG2 signaling and enhance hippocampal synaptic proteins.",
+      "summary": "ETHNOPHARMACOLOGICAL RELEVANCY: Yueju pill (YJ), a classical Traditional Chinese Medicine formula for \"six stagnations\", has long been used for mood disorders. We have previously demonstrated that YJ exerts rapid-onset antidepressant effects. However, the long-lasting antidepressant effects and its underlying neurobiological mechanisms remain elusive.\nAIM OF THE STUDY: To evaluate the sustained antidepressant efficacy of YJ in a chronic restraint stress model and elucidate its underlying molecular mechanisms through the integration of transcriptomic, pharmacological, and molecular biological analyses.\nMATERIALS AND METHODS: We first assessed quality consistency of YJ via HPLC quantification. YJ's long-lasting antidepressant actions were conducted using behavioral paradigms (NSF, TST, FST, SPT, OFT) from 30 min 5 day in normal or chronic restraint stress model (CRS) mice after acute administration. Hippocampal key targets in mice affecting the therapeutic onset and long-lasting antidepressant efficacy of YJ were anchored through RNA-sequencing. The expression alterations of these identified targets in mouse hippocampus following YJ treatment were further confirmed by Western blot and PCR. Bidirectional causal validation was achieved by region-specific pharmacological antagonism (PACAP6-38) and RNA interference (AAV-PACAP-shRNA) in the dentate gyrus (DG), elucidating the necessity of this pathway for enduring antidepressant responses to YJ. Elisa was utilized to quantify hippocampal synaptic protein expressions in response to YJ and to assess its association with PACAP.\nRESULTS: Multi-component analysis via simultaneous identification and quantification of four marker constituents established the inter-batch homogeneity of YJ, with determined mean levels of shanzhiside methylester (0.2594 mg/kg), geniposide (44.2805 mg/kg), ferulic acid (0.1031 mg/kg), and gentiobioside (0.6720 mg/kg). In dose-response testing (1.0-2.5 g/kg), YJ at 1.0 g/kg exhibited the optimal antidepressant-like profile, characterized by rapid onset (reduced feeding latency in NSF at 30 min), short-term efficacy (decreased TST immobility at 3 h), and prolonged therapeutic effects (reduced immobility persisting up to 5 days). In the CRS model, acute YJ administration rapidly and robustly reversed stress-induced behavioral deficits, as evidenced by improved performance in NSF at 30 min, TST at 2 h, and SPT at day 1, with sustained antidepressant-like effects observed in FST at day 3. Notably, these behavioral changes occurred without alterations in locomotor activity or center time in OFT. Hippocampal transcriptomic analysis revealed distinct time-dependent molecular signatures following YJ administration. At 30 min, YJ induced a unique transcriptional shift characterized by qPCR-confirmed upregulation of ADCYAP1 (encoding PACAP). Conversely, at 3 days, a separate signature emerged with CSPG4 (NG2) identified and validated as upregulated. Furthermore, YJ treatment increased hippocampal PACAP levels at 30 min and NG2 expression at 3 days in CRS-exposed mice. Intra-dentate gyrus infusion of PACAP6-38 eliminated YJ's rapid antidepressant-like effects (NSF at 30 min; TST at Day 1) but left Day 3 FST efficacy and NG2 upregulation partially intact. However, AAV-shRNA-mediated PACAP knockdown in the dentate gyrus completely blocked both rapid and sustained behavioral benefits and abolished NG2 induction at 3 days and also blocked the acute YJ-induced enhancement of hippocampal synaptic proteins (synapsin 1 and PSD95) and BDNF expression at both 30 min and 3 days post-administration.\nCONCLUSION: Our study demonstrates that YJ achieves sustained antidepressant effects through a time-dependent hippocampal mechanism involving sequential PACAP and NG2 activation, ultimately converging on synaptic protein enhancement and BDNF signaling. This multi-component, multi-target, and multi-temporal mode of action embodies the holistic essence of TCM and offers a compelling alternative to current monoamine-based therapies with limited efficacy and delayed onset.",
+      "authors": [
+        {
+          "name": "Shan Xing"
+        },
+        {
+          "name": "Yuhan Peng"
+        },
+        {
+          "name": "Nga-Lee Wong"
+        },
+        {
+          "name": "Changyu Wu"
+        },
+        {
+          "name": "Zhenzhen Fu"
+        },
+        {
+          "name": "Jingwen Tan"
+        },
+        {
+          "name": "Huijun Xie"
+        },
+        {
+          "name": "Gang Chen"
+        },
+        {
+          "name": "Hailou Zhang"
+        }
+      ],
+      "publishedAt": "2026-05-10",
+      "source": "PubMed"
+    }
+  }
+]
