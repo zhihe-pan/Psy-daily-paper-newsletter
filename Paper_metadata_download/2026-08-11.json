@@ -1,0 +1,231 @@
+[
+  {
+    "paper": {
+      "id": "42573405",
+      "title": "Drug-specific effects of anxiety on high-dose oxycodone: age as a modifier for oxycodone response.",
+      "summary": "To investigate the association between preoperative anxiety and opioid tolerance in patients undergoing primary hip arthroplasty, focusing on heterogeneity across opioid types and the mechanisms underlying this association, this retrospective cohort study identified 1763 such patients from the Medical Information Mart for Intensive Care IV database. Of these, 198 patients were identified as anxious based on an anxiety diagnosis at admission. Opioid tolerance was assessed by evaluating dosage patterns of morphine, oxycodone, and tramadol. Multivariable logistic regression, Johnson-Neyman, and restricted cubic spline analysis were employed to evaluate the associations and interactions. Transcriptomic data from a rat neuropathic pain model (GSE53897) were used to analyze differential pathways between morphine and oxycodone treatments. Preoperative anxiety was significantly associated with high-dose oxycodone use across model 1 [odds ratio (OR) = 2.025], model 3 (OR = 1.786), and model 4 (OR = 1.679), but not with high-dose morphine or tramadol. Exploratory age analyses revealed that this association exhibited marked age specificity: it persisted only in patients aged less than or equal to 75 years (P < 0.05) and was nonsignificant in those more than 75 years, with effect strength diminishing with increasing age. Mechanistic analysis revealed different gene profiles and enriched biological pathways between morphine and oxycodone treatment groups, suggesting a molecular basis for treatment heterogeneity. In hip arthroplasty patients, preoperative anxiety was an independent risk factor for oxycodone tolerance, and this effect was age-modulated, significant only in patients aged less than or equal to 75 years. Integrating psychological status and age into pain management strategies deserves consideration in clinical practice.",
+      "authors": [
+        {
+          "name": "Longyue Wang"
+        },
+        {
+          "name": "Wei Chai"
+        },
+        {
+          "name": "Bingrong Wang"
+        },
+        {
+          "name": "Qian Ding"
+        },
+        {
+          "name": "Ye Chen"
+        },
+        {
+          "name": "Qin Zheng"
+        },
+        {
+          "name": "Nan Wang"
+        },
+        {
+          "name": "Yu Guo"
+        }
+      ],
+      "publishedAt": "2026-08-10",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42572461",
+      "title": "Polygalic acid produces rapid antidepressant effects via modulation of hippocampal inflammation and brain-derived neurotrophic factor expression in mice.",
+      "summary": "Major depressive disorder represents a critical global health burden with limited rapid-acting therapeutic options. This study investigated the natural triterpenoid saponin polygalic acid for rapid antidepressant efficacy and its mechanistic relationship with neuroinflammation. In male C57BL/6 mice subjected to chronic unpredictable mild stress, acute intraperitoneal administration of polygalic acid (30 mg/kg) produced robust behavioral improvements 2 h postinjection (n = 8-10 per group), as evidenced by reduced immobility in the tail suspension and forced swimming tests (indicative of enhanced stress coping), restored sucrose preference (reversal of anhedonia), and decreased latency to feed in the novelty-suppressed feeding test (improved motivation) - all without altering locomotor activity or anxiety-like behavior in the open field test. Mechanistically, polygalic acid concurrently suppressed hippocampal nuclear factor-kappa B activation and elevated antiinflammatory cytokines (tumor necrosis factor-beta and interleukin-10) and brain-derived neurotrophic factor (BDNF). To causally examine whether inflammatory status gates polygalic acid's efficacy, coadministration of lipopolysaccharide, which induces acute systemic inflammation, completely abolished polygalic acid's behavioral and molecular effects. These findings demonstrate that polygalic acid produces ketamine-like rapid antidepressant effects specifically through the resolution of chronic neuroinflammatory dysregulation and BDNF restoration. However, the presence of acute inflammatory activation nullifies its therapeutic efficacy, establishing neuroinflammatory context as a critical determinant of treatment response. While limited to male subjects and acute (2-h) assessment, this work identifies polygalic acid as a promising rapid-acting antidepressant candidate and underscores the therapeutic importance of patient stratification based on inflammatory biomarkers when targeting the nuclear factor-kappa B-BDNF axis.",
+      "authors": [
+        {
+          "name": "Jinjin Xie"
+        },
+        {
+          "name": "Jie Dong"
+        },
+        {
+          "name": "Haixiu Liao"
+        },
+        {
+          "name": "Shuyan Liu"
+        },
+        {
+          "name": "Zhenni He"
+        },
+        {
+          "name": "Chen Zeng"
+        }
+      ],
+      "publishedAt": "2026-08-10",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42561025",
+      "title": "Oxytocin increases trust in men low in dispositional trust.",
+      "summary": "In recent years, increasing skepticism regarding oxytocin's (OT) influence on social behavior arose. Low power, HARKing (hypothesizing after the results are known), and replication failures have clouded the field. Here, we directly address these concerns with a high-powered, preregistered study that offers robust evidence for a causal effect of OT on trust among males with a low disposition to trust. We recruited 359 low-trusting men who participated in a trust game with complete anonymity. Results show that OT administration significantly increased trusting behavior by roughly 15%, with consistent effects across regression models with and without controls for personality traits. A pooled data analysis incorporating a previous sample (n = 219) of low-trusting individuals further strengthens this conclusion, yielding a statistically significant 16.9% increase in trust. No interaction effect was found between OT and the degree of dispositional trust, suggesting OT's effect may be uniform across the low-trusting spectrum. These findings present a strong case for OT's selective trust-enhancing role. By isolating OT's impact within a well-defined subpopulation and experimental context, this study resolves a key question in the debate over neurobiological determinants of trust.",
+      "authors": [
+        {
+          "name": "Bodo Vogt"
+        },
+        {
+          "name": "Paul Bengart"
+        },
+        {
+          "name": "Carolyn Declerck"
+        },
+        {
+          "name": "Ernst Fehr"
+        }
+      ],
+      "publishedAt": "2026-08-06",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42475653",
+      "title": "Multidomain Lifestyle Intervention in Mild Cognitive Impairment: Subgroup Analysis of the SUPERBRAIN-MEET Randomized Trial.",
+      "summary": "BACKGROUND AND OBJECTIVES: Mild cognitive impairment (MCI) is a high-risk stage for progression to dementia. The SUPERBRAIN-MEET trial previously demonstrated cognitive benefits of a multidomain lifestyle intervention (MLI) delivered through face-to-face sessions and digital platforms. The aim of this study was to examine whether the cognitive effects of the MLI varied according to sociodemographic characteristics, digital readiness, baseline cognitive status, and vascular risk profiles, in a prespecified subgroup analysis of the SUPERBRAIN-MEET randomized controlled trial.\nMETHODS: SUPERBRAIN-MEET was a 24-week, multicenter, outcome assessor-blinded, parallel-group randomized controlled trial conducted across 17 hospitals in South Korea. Adults aged 60-85 years with MCI were randomly assigned (1:1) to the MLI or control group. Subgroups were defined based on sociodemographic factors (sex, age, education, and living status), digital readiness (internet access, frequency of digital device use), cognitive status (MMSE score), and vascular risk profiles (body mass index [BMI], obesity status, smoking status, systolic and diastolic blood pressure, serum total cholesterol, low-density lipoprotein cholesterol, high-density lipoprotein cholesterol, fasting plasma glucose, and cardiovascular comorbidity). The primary outcome was the change in the repeatable battery for the assessment of neuropsychological status (RBANS) total index score from baseline to 24 weeks. Effect modification was assessed using linear mixed-effects models with interaction terms and false discovery rate correction.\nRESULTS: Of 300 randomized participants, 277 participants (mean age, 72.9 years; 69.3% female) were included in the modified intention-to-treat analysis (142 in the MLI group and 135 in the control group). MLI significantly improved RBANS total index scores compared with control at 24 weeks (between-group difference, 4.17 points; 95% CI 1.92-6.43). No subgroup interactions remained significant after false discovery rate correction, indicating consistent effects across subgroups.\nDISCUSSION: In this subgroup analysis of the SUPERBRAIN-MEET trial, the cognitive benefits of MLI were not significantly modified by sociodemographic factors, digital readiness, baseline cognitive status, or vascular risk profiles. These findings should be interpreted with caution, given the exploratory nature of subgroup analyses and limited statistical power. The results support the generalizability and scalability of technology-assisted multidomain lifestyle interventions for dementia prevention in older adults with MCI.\nTRIAL REGISTRATION INFORMATION: The trial was registered at ClinicalTrials.gov (NCT05023057; submitted August 20, 2021; first patient enrolled September 3, 2021; URL: clinicaltrials.gov/study/NCT05023057).",
+      "authors": [
+        {
+          "name": "Da Ae Kim"
+        },
+        {
+          "name": "Sun Min Lee"
+        },
+        {
+          "name": "Kyunghwa Sun"
+        },
+        {
+          "name": "Ji Hyun Park"
+        },
+        {
+          "name": "Yoo Kyoung Park"
+        },
+        {
+          "name": "Jee Hyang Jeong"
+        },
+        {
+          "name": "Chang Hyung Hong"
+        },
+        {
+          "name": "Jiwoo Jung"
+        },
+        {
+          "name": "Hae Ri Na"
+        },
+        {
+          "name": "Soo Hyun Cho"
+        },
+        {
+          "name": "Hyun Sook Kim"
+        },
+        {
+          "name": "Hong-Sun Song"
+        },
+        {
+          "name": "Muncheong Choi"
+        },
+        {
+          "name": "Bon D Ku"
+        },
+        {
+          "name": "Yeonsil Moon"
+        },
+        {
+          "name": "Hyun Jeong Han"
+        },
+        {
+          "name": "Yun Jeong Hong"
+        },
+        {
+          "name": "Eun-Joo Kim"
+        },
+        {
+          "name": "Geon Ha Kim"
+        },
+        {
+          "name": "Ko Woon Kim"
+        },
+        {
+          "name": "Hyemin Jang"
+        },
+        {
+          "name": "Soo Jin Yoon"
+        },
+        {
+          "name": "Hee-Jin Kim"
+        },
+        {
+          "name": "Seong Hye Choi"
+        },
+        {
+          "name": "So Young Moon"
+        }
+      ],
+      "publishedAt": "2026-07-20",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42430679",
+      "title": "Magnitude and Determinants of Placebo Response in Acute Migraine Trials: A Systematic Review and Meta-Analysis.",
+      "summary": "BACKGROUND AND OBJECTIVES: Migraine is a highly prevalent and disabling neurologic disorder. Beyond drug-specific mechanisms, the role of contextual, individual-related, and disease-related factors remains poorly characterized. We quantified placebo response in randomized controlled trials (RCTs) of acute migraine treatments and identified patient-level, drug-level, and study-level determinants.\nMETHODS: This meta-analytic review searched PubMed, Embase, Cochrane Central, ClinicalTrials.gov, and the European and Japanese Trial Registers from inception to November 2025 for published/unpublished, double-blind, parallel-group, phase 2 or 3 RCTs evaluating acute pharmacologic migraine treatments. Placebo rates with 95% CIs and prediction intervals (PIs) were pooled using random-effects models. Subgroup analyses and meta-regressions explored potential drivers. The primary outcome was 2-hour pain freedom after placebo administration. Secondary outcomes included 2-hour pain relief, sustained pain freedom, rescue medication use, global impression of improvement, and most bothersome symptom (MBS) freedom.\nRESULTS: We analyzed 126 RCTs published between 1991 and 2025, comprising 24,614 placebo-treated participants (mean age range, 34.8-45.2 years; female, 65.2%-96.9%). The pooled 2-hour pain freedom rate was 11% (95% CI 10%-12%; PI: 4%-27%). The highest estimates were observed for intranasal (14%; 95% CI 12%-16%) and subcutaneous (13%; 95% CI 8%-20%) administration, compared with oral (10%; 95% CI 9%-12%) (p < 0.05). A lower proportion of patients with severe baseline headache and a lower probability of receiving an active treatment were associated with greater responsiveness (β -1.38; 95% CI -2.37 to -0.38; p < 0.01 and β -1.20; 95% CI -2.02 to -0.38; p < 0.005, respectively). Placebo response increased significantly over time (β 0.03; 95% CI 0.01-0.04; p < 0.001), even after multivariable adjustment. Placebo rates were 34% for 2-hour pain relief, 9% for sustained pain freedom, 52% for rescue medication use, 24% for positive global impression, and 34% for MBS freedom. Exploratory analyses of pain relief showed high placebo responses among non-Caucasian individuals, in Asian countries, and in gepant RCTs.\nDISCUSSION: Placebo response represents a substantial and increasing component of outcomes in acute migraine RCTs. Improved trial design, standardized communication, and transparent reporting may enhance effect-size interpretation and preserve assay sensitivity in future trials.",
+      "authors": [
+        {
+          "name": "Luana Miyahira Makita"
+        },
+        {
+          "name": "Eric Katsuyama"
+        },
+        {
+          "name": "Rune Häckert Christensen"
+        },
+        {
+          "name": "Takao Takeshima"
+        },
+        {
+          "name": "Sait Ashina"
+        },
+        {
+          "name": "Elcio Juliato Piovesan"
+        },
+        {
+          "name": "Antonio Medina Luna"
+        },
+        {
+          "name": "Giovanna Nina Ueda"
+        },
+        {
+          "name": "Vanio do Livramento Junior Antunes"
+        },
+        {
+          "name": "Oguz Kagan Sahin"
+        },
+        {
+          "name": "Ana Luísa Paranzini Miguita"
+        },
+        {
+          "name": "Bezalel Hakkeem"
+        },
+        {
+          "name": "Thales Pardini Fagundes"
+        },
+        {
+          "name": "Barbara Antonia Dups Talah"
+        },
+        {
+          "name": "Mario Fernando Prieto Peres"
+        }
+      ],
+      "publishedAt": "2026-07-12",
+      "source": "PubMed"
+    }
+  }
+]
