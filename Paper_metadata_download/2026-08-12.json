@@ -1,0 +1,86 @@
+[
+  {
+    "paper": {
+      "id": "42578723",
+      "title": "Improving Screening for Adolescent Substance Use and Mental Health in Primary Care.",
+      "summary": "BACKGROUND: Mental health and substance use can coexist and worsen outcomes for youth. The goals of the Transformative and Evidence-based Approaches to Mental Health and Substance Use Screening (TEAMSS) quality improvement virtual learning collaborative were to enhance the implementation of screening and follow-up practices for adolescent substance use and mental health issues in primary care.\nMETHODS: TEAMSS engaged 160 clinicians at 27 pediatric primary care clinics in 18 states. Interventions focused on enhancing clinical processes related to screening, brief intervention, and follow-up for substance use, depression, anxiety, and suicide risk. The learning collaborative model was adapted for a virtual environment with learning sessions and action periods of shorter duration interspersed with individualized coaching.\nRESULTS: Clinics standardized processes for screening and intervention, incorporated use of validated screening tools, increased the use of electronic health records and mobile devices in screening, engaged interprofessional team members, identified community resources, and increased clinician and staff knowledge of evidence-based guidelines and quality improvement methods. Substance use screening significantly increased from 35% to 75%. Follow-up of adolescents with positive substance use screening increased from 69% to 86%. Depression screening increased from 82% to 90%, anxiety screening increased from 32% to 69%, and suicide risk screening increased from 18% to 41%.\nCONCLUSIONS: TEAMSS significantly improved care for substance use, depression, anxiety, and suicide risk for adolescents at participating primary care clinics. Adapting a learning collaborative approach to a virtual setting requires close attention to maintaining engagement with clinical care teams, especially those in busy primary care clinics.",
+      "authors": [
+        {
+          "name": "Ulfat Shaikh"
+        },
+        {
+          "name": "Anna B Correa"
+        },
+        {
+          "name": "Jennifer Monti"
+        },
+        {
+          "name": "Maria H Rahmandar"
+        },
+        {
+          "name": "Cheryl Courtlandt"
+        }
+      ],
+      "publishedAt": "2026-08-11",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42557078",
+      "title": "[Advances in the application of artificial intelligence in the whole-course management of bronchial asthma].",
+      "summary": "Bronchial asthma (asthma) is a common chronic inflammatory airway disease with a steadily increasing global disease burden. Current asthma management continues to face multiple challenges, including underdiagnosis, limited individualization of treatment strategies, poor long-term patient adherence, and insufficient accuracy in prognosis evaluation and risk prediction. In recent years, artificial intelligence (AI) technology has demonstrated unique advantages in the whole-course management of asthma. This article provides a systematic review of research progress in the application of AI to asthma diagnosis, assessment, treatment, and follow-up, aiming to offer new insights for further research and application of AI in the whole-course management of asthma.",
+      "authors": [
+        {
+          "name": "N Wang"
+        },
+        {
+          "name": "Y Zhou"
+        },
+        {
+          "name": "X Zhang"
+        },
+        {
+          "name": "H Su"
+        },
+        {
+          "name": "M Zhang"
+        }
+      ],
+      "publishedAt": "2026-08-06",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42306915",
+      "title": "Fear prioritizes feedforward sensory coding at the expense of contextual processing in monkey V1.",
+      "summary": "OBJECTIVE: The primary visual cortex (V1) supports both rapid feedforward coding of local features and contextual processing shaped by recurrent and top-down feedback. While fear learning is known to prioritize threat-predictive signals in V1, it remains unclear whether this prioritization uniformly enhances all stages of cortical processing or selectively biases certain computations. We investigated how fear conditioning modulates V1 population coding for simple gratings versus global contours, which rely on distinct temporal stages of integration.\nMETHODS: Monkeys were trained in a visual fear-conditioning paradigm. We utilized chronic microelectrodes to record V1 population activity while monkeys viewed conditioned and nonconditioned stimuli. Using a Fisher linear discriminant classifier, we quantified stimulus discriminability ( d ') during early and late response epochs to distinguish between feedforward and feedback-driven coding.\nRESULTS: Fear conditioning produced a striking temporal and stimulus-specific dissociation. For gratings, conditioning significantly enhanced orientation decoding during the early response epoch, consistent with a rapid retuning of feedforward encoding. This early facilitation was also present for contour stimuli involving contextual integration. By contrast, during the late response epoch, fear conditioning significantly reduced decoding performance for contours, while leaving grating discrimination largely unaffected.\nCONCLUSION: Fear conditioning does not act as a global gain control. Instead, it reconfigures V1 dynamics to prioritize rapid, feedforward threat detection at the functional cost of later, recurrent- and feedback-dependent contextual processing. This shift suggests an adaptive trade-off: emotional learning sharpens the detection of isolated predictive cues but reduces the fidelity of the complex spatial integration required for scene analysis.",
+      "authors": [
+        {
+          "name": "An Yan"
+        },
+        {
+          "name": "Zhengxuan Li"
+        },
+        {
+          "name": "Xiangmeng Fu"
+        },
+        {
+          "name": "Zhihan Li"
+        },
+        {
+          "name": "Yin Yan"
+        },
+        {
+          "name": "Kun Guo"
+        },
+        {
+          "name": "Wu Li"
+        }
+      ],
+      "publishedAt": "2026-07-10",
+      "source": "PubMed"
+    }
+  }
+]
