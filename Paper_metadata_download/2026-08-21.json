@@ -1,0 +1,484 @@
+[
+  {
+    "paper": {
+      "id": "42621128",
+      "title": "Orbitofrontal cortex contributes to context-dependent timing under ambiguity.",
+      "summary": "Adaptive decision-making requires flexibly adjusting the decision process when stimulus reliability changes. Most paradigms manipulate reliability by changing stimulus properties, whereas animals often face situations in which the physical inputs are unchanged but their informativeness varies. To address this, we designed a change-detection task in which the reward-predictive reliability of auditory cues varied across blocks while the cues themselves remained unchanged. Mice adjusted their waiting time accordingly, responding later when cues were less reliable. Importantly, these adjustments reflected sensitivity to the underlying sound statistics, rather than reliance solely on reward feedback. Inactivation of the orbitofrontal cortex (OFC) reduced this timing modulation. Modeling captured this effect as reduced context-dependent modulation of accumulation dynamics, accompanied by increased lapse-like responding. These findings suggest that OFC contributes to maintaining context-dependent timing under ambiguity and establish a tractable framework for studying flexible behavioral adjustment to changing cue statistics.",
+      "authors": [
+        {
+          "name": "Gabrielle Marmur"
+        },
+        {
+          "name": "Haneen Rajabi"
+        },
+        {
+          "name": "John Schwarcz"
+        },
+        {
+          "name": "Robert Reiner"
+        },
+        {
+          "name": "Jonathan Kadmon"
+        },
+        {
+          "name": "Eran Lottem"
+        }
+      ],
+      "publishedAt": "2026-08-20",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42620755",
+      "title": "The social dilemma of load shedding in Community Grids with vulnerable populations.",
+      "summary": "In situations of emergency failures and power supply shortages, utility companies face the critical decision of load-shedding (disconnecting customers involuntarily). Determining the principles by which load-shedding can best align with both economic imperatives and social norms presents a complex challenge. Existing load-shedding protocols, largely governed by economic considerations, risk undermining principles of energy justice by disproportionately affecting individuals dependent on durable medical equipment (DME). Here, we investigate the equity implications of load-shedding in cities. Taking northern New York City as an example, we identified the systemic disadvantages faced by residential DME users during energy outages. Through modeling and public surveys of 856 U.S. residents, we show that incorporating DME-related settlement costs of loss into load-shedding optimization can better safeguard medically vulnerable households and align outage management with public preferences for prioritizing vulnerable populations. Our findings also reveal that current compensation structures inadequately capture the social harm of outages, supporting policy reforms that embed social justice into grid resilience strategies and more systematically protect at-risk populations.",
+      "authors": [
+        {
+          "name": "Zhe Gong"
+        },
+        {
+          "name": "Bedoor Alshebli"
+        },
+        {
+          "name": "Jimmy Chih-Hsien Peng"
+        }
+      ],
+      "publishedAt": "2026-08-20",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42619176",
+      "title": "Behavioral and neurochemical assessment of intranasal gel containing Cocculus hirsutus extract in experimental anxiolytic Models.",
+      "summary": "OBJECTIVES: The present study was designed to develop and evaluate an intranasal gel formulation of Cocculus hirsutus extract (HACHL) for the management of anxiety. The primary objective was to enhance brain delivery through the intranasal route by prolonging the residence time of the formulation.\nMETHODS: The hydroalcoholic extract of Cocculus hirsutus leaves (HACHL) was subjected to preliminary phytochemical screening. Its anxiolytic activity was evaluated using various animal models, including the elevated plus maze, open field test, and light-dark box test. A intranasal gel formulation was developed using suitable polymers and excipients to facilitate intranasal delivery. The formulated gel was evaluated for physicochemical parameters. The anxiolytic activity of the developed intanasal gel was further assessed and compared with the plain HACHL and standard drug.\nRESULTS: The HACHL exhibited significant anxiolytic activity, as evidenced by increased time spent in open arms, increased crossing, and reduced anxiety-related behaviour in experimental models. The developed intranasal gel showed acceptable physicochemical properties and a sustained drug release profile. Pharmacological evaluation of the intranasal gel demonstrated enhanced anxiolytic activity compared to the HACHL alone, indicating improved drug delivery and efficacy.\nCONCLUSIONS: The findings suggest that HACHL possesses significant anxiolytic potential. The intranasal gel enhances its therapeutic effectiveness, due to potential to enhance nose to brain delivery and bioavailability. This study supports the potential application of intranasal delivery systems as a promising approach for the management of anxiety disorders.",
+      "authors": [
+        {
+          "name": "Pallavi Jadhav"
+        },
+        {
+          "name": "Suvarna Ingale"
+        },
+        {
+          "name": "Prabha Bhong"
+        }
+      ],
+      "publishedAt": "2026-08-20",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42616898",
+      "title": "Perceptual meta-uncertainty reveals enhanced calibration of sensory confidence in autism.",
+      "summary": "Atypical metacognition has been suggested to underlie autistic phenotypes, given its role in social cognition and behavioral flexibility. However, no study has quantitatively assessed metacognitive abilities in autism. Here, we measured meta-uncertainty-the noise corrupting estimates of one's own decision uncertainty-in autism. In three experiments, autistic and non-autistic participants (N = 145) performed orientation categorization tasks while simultaneously reporting their choice confidence. By independently manipulating each Bayesian component-sensory uncertainty, prior, and reward-and fitting a recently established process model, we assessed metacognitive abilities and their contingency on the Bayesian components while controlling for first-order decisions. Unlike non-autistic participants, autistic participants' meta-uncertainty depended on which decision component was manipulated and was lower than that of non-autistic participants, specifically when decisions were adjusted for sensory uncertainty. These findings reveal that metacognition in autism is not generally reduced but rather enhanced for inferences that rely primarily on sensory information.",
+      "authors": [
+        {
+          "name": "Laurina Fazioli"
+        },
+        {
+          "name": "Bat-Sheva Hadad"
+        },
+        {
+          "name": "Rachel N Denison"
+        },
+        {
+          "name": "Amit Yashar"
+        }
+      ],
+      "publishedAt": "2026-08-19",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42616867",
+      "title": "Programmable photonic neural engine with all-optical nonlinear activation and 40,000 connections.",
+      "summary": "The rapid advancement of artificial neural networks (ANNs) demands computational platforms with higher speed, energy efficiency, and scalability. Optical computing offers an appealing solution owing to the high-speed processing, inherent parallelism, and low energy consumption. However, existing optical neural network architectures face fundamental trade-offs between scalability, reconfigurability, and processing latency, constrained by the need to rely on electronic nonlinearities or fixed optical interconnections. Here, we report an end-to-end photonic neuromorphic engine that integrates all-optical nonlinearity into a loop-based, time-multiplexed photonic architecture. This approach enables all optical neurons to share common hardware, supporting enhanced connectivity and full reconfigurability with reduced latency. Implementations of four distinct network topologies, with a maximum of 40,000 optical connections for the single-layer perceptron, achieve digital-level inference accuracy and computational latency over two orders of magnitude shorter than state-of-the-art electronic processors, potentially paving the way for scalable, reconfigurable, and ultrafast optical artificial intelligence systems.",
+      "authors": [
+        {
+          "name": "Hao Sun"
+        },
+        {
+          "name": "Xinyi Zhu"
+        },
+        {
+          "name": "José Azaña"
+        }
+      ],
+      "publishedAt": "2026-08-19",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42616859",
+      "title": "Ultrawide-FOV full-color waveguides free of rainbow and fishbone artifacts via physics-constrained generative metagrating design.",
+      "summary": "Augmented reality (AR) displays are gaining prominence in consumer and industrial applications due to two-dimensional pupil-expanding waveguides, which achieve the essential dual requirements of compact form factors and large eyebox through innovative dual-axis beam replication technology. Nevertheless, these systems face an intrinsic trilemma compromising three critical parameters-efficiency, angular uniformity, and chromatic dispersion-with all three limitations becoming particularly pronounced at wide angles (>50°) across the visible spectrum, manifesting as fishbone artifacts (periodic non-uniformity patterns) and rainbow effects. To overcome these fundamental limitations, we present a physics-constrained generative adversarial network (PC-GAN) that systematically resolves the trilemma by incorporating two key physical principles: dilated pupil restraint ratio (DPRR) for uniformity control and periodic constraint theory (PCT) for dispersion management. This framework enables high-throughput discovery of metagrating designs while ensuring high-quality imaging performance in single-layer waveguides across the full visible spectrum and ultrawide field of view. Notably, the PC-GAN demonstrates its unique capability by autonomously discovering optimized snowflake-like metagrating (SLMG) geometries - fractal structures that provide breakthrough solutions for pupil expansion uniformity through their hierarchical light manipulation properties. Experimental realization of PC-GAN-optimized metagratings in disparate material systems (polymer and SiC) consistently delivered wide-angle, full-color operation in single-layer waveguides, while eliminating the characteristic fishbone artifacts and rainbow effects of conventional diffractive designs. This physics-constrained generative framework unlocks transformative potential for complex photonic systems beyond AR, enabling advanced designs ranging from ultrathin VR displays to multi-physics-optimized quantum optical devices.",
+      "authors": [
+        {
+          "name": "Mengguang Wang"
+        },
+        {
+          "name": "Yong Li"
+        },
+        {
+          "name": "Huihui Li"
+        },
+        {
+          "name": "Fei Wu"
+        },
+        {
+          "name": "Zeqing Yu"
+        },
+        {
+          "name": "Huai Xia"
+        },
+        {
+          "name": "Qiangbo Zhang"
+        },
+        {
+          "name": "Changwei Zhang"
+        },
+        {
+          "name": "Yiyang Liu"
+        },
+        {
+          "name": "Huaze Xie"
+        },
+        {
+          "name": "Chang Wang"
+        },
+        {
+          "name": "Zhenrong Zheng"
+        }
+      ],
+      "publishedAt": "2026-08-19",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42607168",
+      "title": "STELT: A spatiotemporal deep learning framework for diffusion-ordered NMR spectroscopy reconstruction with artifact suppression.",
+      "summary": "Diffusion Ordered NMR Spectroscopy (DOSY) is a powerful technique for studying mixtures by probing the diffusion behavior of mixed compounds and enabling their identification and separation in mixture samples. The performance of DOSY generally relies on the adopted reconstruction algorithm to determine diffusion coefficients from diffusion-dependent signal decays, thus producing a 2D spectrum that resolves components by chemical shift and molecular diffusion. Although deep-learning provides an effective approach to DOSY reconstruction, existing deep-learning-based reconstruction methods generally face the limitation of inadequate feature extraction, which may lead to reconstruction artifacts in some scenarios. Here, we propose STELT (Spatiotemporal Extraction Laplace Transform), a lightweight deep-learning framework based on spatiotemporal feature extraction. STELT uses a dual-branch architecture that combines a temporal convolution module to capture dynamic patterns in decay signals with a self-attention module to extract spatial features along the chemical-shift dimension. Experimental results demonstrate the proposed method achieves superior reconstruction accuracy and noise suppression with significantly reduced computational overhead, thereby offering a practical and efficient solution for high-quality DOSY analysis.",
+      "authors": [
+        {
+          "name": "Jingmin Lin"
+        },
+        {
+          "name": "Bo Chen"
+        },
+        {
+          "name": "Guolan Peng"
+        },
+        {
+          "name": "Hai Feng"
+        },
+        {
+          "name": "Yuqing Huang"
+        }
+      ],
+      "publishedAt": "2026-08-17",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42602694",
+      "title": "Associative learning of social interaction alters attention to human faces.",
+      "summary": "Beyond current goals and physical salience, selection history reflects how past experience automatically biases visual attention. While existing frameworks characterize how we learn to prioritize non-social regularities such as reward and spatial probability, whether selection history can incorporate abstract social structures governing interactions between others remains unknown. Across four experiments (N = 144), we examined whether observed social configurations produce lasting attentional biases toward individual agents. Participants first viewed pairs of human faces arranged in interacting (face-to-face) or non-interacting (back-to-back) configurations. In a subsequent cueing task, faces previously shown interacting captured attention more strongly than those shown non-interacting. This effect was abolished by face inversion and absent for non-social directional stimuli (arrows, animal faces), ruling out contributions from low-level visual features or general directional cueing. Together, these findings indicate that social interaction history induces lasting changes in the priority map, endowing faces with learned attributes that guide selection in social environments.",
+      "authors": [
+        {
+          "name": "Qingsong Tan"
+        },
+        {
+          "name": "Xiaodong Zhang"
+        },
+        {
+          "name": "Ke Jia"
+        },
+        {
+          "name": "Mengyuan Gong"
+        }
+      ],
+      "publishedAt": "2026-08-15",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42597666",
+      "title": "HCAR1-mediated lactate signaling modulates motor behavior and regulates spontaneous firing in Purkinje cells.",
+      "summary": "Lactate modulates several phenomena ranging from gene transcription to plasticity. Through its specific GPCR receptor HCAR1, lactate acts as a signaling molecule modulating neuronal excitability. Silencing lactate signaling promotes anxiety-like behavior and worsens epileptic seizures, highlighting the central role of HCAR1 in brain function. HCAR1 expression in the cerebellum supports the role of the receptor in motor coordination. Early experimental evidence suggesting HCAR1 expression in cerebellar Purkinje cells (PCs) together with its ability to modulate neuronal excitability qualifies the receptor as a possible modulator of PC activity with important implications for cerebellar-mediated diseases. This hypothesis was investigated using behavioral analysis and ex vivo electrophysiology that showed gait instability and motor learning defects in HCAR1 knockout mice associated with increased PC firing. We identified HCN channels as the downstream target of HCAR1. We conclude that lactate signaling is a modulator of PC excitability and revealed the HCAR1 role in motor behavior.",
+      "authors": [
+        {
+          "name": "Francesca Binda"
+        },
+        {
+          "name": "Lara Buscemi"
+        },
+        {
+          "name": "Nicolas Gurtner"
+        },
+        {
+          "name": "Lorenz Hirt"
+        },
+        {
+          "name": "Jean-Yves Chatton"
+        }
+      ],
+      "publishedAt": "2026-08-14",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42571269",
+      "title": "Dissecting disgust and fear in chimpanzees: From facilitation to disruption of cognitive processes.",
+      "summary": "Disgust and fear are emotions that evolved to address different types of threats: pathogens and predators, respectively. Yet the cognitive mechanisms underlying disgust remain poorly understood, particularly in non-human animals. We investigated how pathogen- and predator-related stimuli influence cognition in captive chimpanzees (Pan troglodytes), using touchscreen and eye-tracking tasks. In three experiments, subjects performed a number ordering task while exposed to images (e.g., carcasses, rotten food, invertebrates, snakes) or odors (e.g., of organic decomposition, emesis). Pathogen-related stimuli, particularly those linked to organic decomposition and fermentation, modulated performance in distinct temporal patterns, reducing accuracy and later disrupting efficiency upon re-exposure. In contrast, predator images enhanced performance by reducing response latencies. A fourth eye-tracking experiment further showed that both carcass and snake images captured and held attention. Overall, our results suggest distinct cognitive signatures for pathogen-versus predator-related threats in chimpanzees, offering insight into the evolution of defensive emotions.",
+      "authors": [
+        {
+          "name": "Cécile Sarabian"
+        },
+        {
+          "name": "Andrew J J MacIntosh"
+        },
+        {
+          "name": "André Gonçalves"
+        },
+        {
+          "name": "Nobuyuki Kawai"
+        },
+        {
+          "name": "Ikuma Adachi"
+        }
+      ],
+      "publishedAt": "2026-08-09",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42541122",
+      "title": "Investigating the relationship between affective valence and reinforcement learning.",
+      "summary": "Affective valence and reinforcement learning (RL) are increasingly recognized to be closely connected, yet the exact nature of their relationship remains unclear. Here, we investigated how RL-related computations contribute to affective valence, and how affective valence, in turn, contributes to RL. Applying an original computational method, we found that affective experience during RL tasks was best explained by a combination of three prominent theoretical perspectives: valence is determined by reward, prediction errors, and counterfactual comparisons. Further, we found that actions were reinforced by affective responses in addition to external rewards: participants preferred choice options that led to more positive affect, in addition to preferring options that led to greater reward. Altogether, our results illuminate the role of RL computations in affective experience and of affect in RL, providing mechanistic insight into affect, learning, and choice. Moreover, our studies validate a powerful new computational framework for future research on these topics.",
+      "authors": [
+        {
+          "name": "Daniel F Parr"
+        },
+        {
+          "name": "Seth Madlon-Kay"
+        },
+        {
+          "name": "Gregory R Samanez-Larkin"
+        },
+        {
+          "name": "Kevin S LaBar"
+        }
+      ],
+      "publishedAt": "2026-08-02",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42519067",
+      "title": "Age and loneliness relate to reduced trust learning and alterations in amygdala function.",
+      "summary": "Functional relationships are essential for healthy aging and they rely on social cognition skills such as establishing and monitoring whom to trust. However, aging and loneliness can negatively affect social brain function, potentially leading to a vicious cycle. Using functional MRI and computational modeling, we investigated trust learning in a sample of neurotypical older (64-84 years, n = 29 f/23 m) compared to younger adults (20-33 years, n = 31 f/31 m). Older participants displayed lower initial trust and less trust learning when repeatedly interacting with a trustworthy and an untrustworthy trustee. Their basolateral and central amygdala activation was lower during trust decisions, and this was associated with less optimal trust behavior. Computational modeling also revealed that a crucial learning parameter, precision of the trust prediction error, and activation in the dopaminergic midbrain were decoupled from basolateral amygdala activation, and this effect was pronounced in lonely older adults. These findings indicate that differences in amygdala and dopamine function at older ages together with higher loneliness could impair trust learning, leading to poorer social cognition and putting individuals' sociality and well-being at risk.",
+      "authors": [
+        {
+          "name": "Ronald Sladky"
+        },
+        {
+          "name": "Federica Riva"
+        },
+        {
+          "name": "Claus Lamm"
+        }
+      ],
+      "publishedAt": "2026-07-28",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42519035",
+      "title": "Temporal dynamics of frontoparietal processing during personal space intrusion.",
+      "summary": "Understanding the neural basis of personal space (PS) is crucial for elucidating the mechanisms of social behavior. We investigated EEG responses in healthy adults viewing approaching faces designed to simulate intrusions into PS. Approaching faces elicited stronger right N170 modulation than static faces, with weaker effects for non-face objects. Time-frequency analyses revealed early alpha-power decreases over the frontal region of interest (ROI), followed by later alpha-power decreases and gamma-power increases over the parietal ROI, selectively for approaching faces. Motion information was decoded earlier in the parietal ROI than in the frontal ROI, with the frontal ROI showing face-specific sensitivity. We further demonstrated sustained parietal-to-frontal low-gamma feedforward signaling during face approach, with late frontal-to-parietal alpha-band feedback. Crucially, feedforward signaling predicted individual PS size. Together, these findings suggest that coordinated frontoparietal interactions may facilitate rapid detection and continuous monitoring of PS intrusions, providing a mechanistic framework for adaptive social defense.",
+      "authors": [
+        {
+          "name": "Sijia Xiang"
+        },
+        {
+          "name": "Xinbo Zou"
+        },
+        {
+          "name": "Chuqing Luo"
+        },
+        {
+          "name": "Ning Liu"
+        }
+      ],
+      "publishedAt": "2026-07-28",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42502400",
+      "title": "PM2.5 induced neurotoxicity and depression unveiling exposure risks and mechanistic insights.",
+      "summary": "Fine particulate matter PM2.5 is increasingly linked to neuropsychiatric burden beyond its established cardiopulmonary effects. This narrative review integrates epidemiological, animal, and mechanistic evidence connecting PM2.5 exposure with depression and depression-related phenotypes. Human studies across different populations generally associate long-term PM2.5 exposure with elevated depression risk or symptom severity, with vulnerable windows including prenatal development and late life. Animal studies support biological plausibility by showing depression-like behaviors, electrophysiological changes, and neural injury after PM2.5 exposure. Component-focused evidence implicates metals, black carbon, organic compounds, and other constituents in oxidative stress, neuroinflammation, blood-brain barrier disruption, synaptic dysfunction, HPA axis dysregulation, neurotransmitter imbalance, and alterations in the kynurenine pathway. These findings support PM2.5 as a potential environmental risk factor for depression and highlight the need for component-resolved exposure assessment and mechanism-guided prevention strategies.",
+      "authors": [
+        {
+          "name": "Zonghao Ma"
+        },
+        {
+          "name": "Suk-Yu Yau"
+        }
+      ],
+      "publishedAt": "2026-07-26",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42502398",
+      "title": "Demographic change and selection patterns in thoroughbred racing horses over the 20th century.",
+      "summary": "The Thoroughbred horse is a legacy of centuries of selective breeding for speed, emerging from the admixture of British mares and imported Oriental stallions. While previous work explored its genetic diversity, inbreeding, and selection signatures, the breed demographic and selection dynamics during the 20th-century remain poorly understood. Here, we sequenced the genome of Phar Lap, a late-1920s/early-1930s racing champion, and analyzed the largest time-series of Thoroughbred whole-genome sequences, within a global panel of 850 horse genomes. Demographic modeling reveals a marked decline in genetic diversity since 1932, driven by a reduced effective population size, particularly until 1960. This aligns with a modest yet significant increase in long runs-of-homozygosity (ROH), suggesting that breeding practices only partially mitigated ROH accumulation and inbreeding depression. Temporal shifts in genetic variation identify candidate loci linked to racing performance, offering insights into past and ongoing selection, and new loci of major potential for the global racing industry.",
+      "authors": [
+        {
+          "name": "Hojjat Asadollahpour Nanaei"
+        },
+        {
+          "name": "Andaine Seguin-Orlando"
+        },
+        {
+          "name": "Kerry Negara"
+        },
+        {
+          "name": "James N MacLeod"
+        },
+        {
+          "name": "Ted Kalbfleish"
+        },
+        {
+          "name": "Ludovic Orlando"
+        }
+      ],
+      "publishedAt": "2026-07-26",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42502380",
+      "title": "A3 adenosine receptor regulates depression-like behaviors through astrocyte-nourished excitatory synapse formation.",
+      "summary": "Abnormal excitatory synaptic function plays a critical role in major depressive disorder. In this study, we investigated the role of the A3 adenosine receptor (A3AR), previously implicated in affective disorders, in excitatory synapse formation within prefrontal cortical circuits. Using a corticosterone-induced mouse model of depression, we found that the adenosine receptor activator 3'-deoxyadenosine (3'dA) produced antidepressant-like effects and selectively increased A3AR expression, whereas fluoxetine did not. 3'dA also restored the synaptic organizers neuroligin-2 (NLGN2) and neurexin-2 and elevated BDNF, excitatory synaptic markers (synapsin-1, PSD-95, and GluR1), and dendritic spine density in the PFC. Notably, enhanced NLGN2 immunoreactivity co-localized with astrocytes exclusively in 3'dA-treated mice but not in fluoxetine-treated mice. Pharmacological blockade of A3AR with MRS-1191 prevented the 3'dA-induced behavioral and molecular changes in this corticosterone-induced depressive-like mouse model. Together, our findings identify A3AR as a key regulator of NLGN2 expression and excitatory synapse formation and suggest a potential target for antidepressant therapies.",
+      "authors": [
+        {
+          "name": "Bai Li"
+        },
+        {
+          "name": "Meng Zeng"
+        },
+        {
+          "name": "Jiahui Liu"
+        },
+        {
+          "name": "Wanqing Huang"
+        },
+        {
+          "name": "Dan Pan"
+        },
+        {
+          "name": "Chunjie Xiao"
+        },
+        {
+          "name": "Jing Du"
+        }
+      ],
+      "publishedAt": "2026-07-26",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42472119",
+      "title": "The evolutionary significance of the earliest cloacal opening in Synapsida.",
+      "summary": "The cloaca is a fundamental structure of modern terrestrial vertebrates, including the terminal parts of the urogenital and digestive systems that converge in a single channel and opening (vent). Although it is widespread in amphibians and reptiles (including birds) and occurs in mammals, the fossil record of this structure is scarce. Here we present an exceptional specimen from the early Permian Bromacker locality (294 Ma), which includes a tail impression with two rows of elevated scales separated by a vertical slit, that we interpret as cloacal lips and vent. Because of its morphology and association with the footprint Dimetropus, we attribute this impression to caseid synapsids. This represents the first occurrence of a cloaca in the fossil record of stem mammals. The comparison with modern and fossil specimens allows us to hypothesize a vertical vent orientation for early crown tetrapods, that subsequently changed orientation at least three times during tetrapod evolution.",
+      "authors": [
+        {
+          "name": "Lorenzo Marchetti"
+        },
+        {
+          "name": "Antoine Logghe"
+        },
+        {
+          "name": "Arnaud Rebillard"
+        },
+        {
+          "name": "Mark J MacDougall"
+        },
+        {
+          "name": "Jörg Fröbisch"
+        }
+      ],
+      "publishedAt": "2026-07-19",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42472108",
+      "title": "MindTS-Net: A multimodal mindfulness-based intervention framework for children with Tourette syndrome.",
+      "summary": "Tourette syndrome affects children's daily functioning and creates a need for supervised support that responds to tic behaviors, emotional states, and interaction contexts. We developed MindTS-MMD, a Chinese multimodal dataset capturing emotion, tic-related behaviors, interaction context, and Valence-Arousal ratings, and MindTS-Net, a supervised digital adjunct linking multimodal emotion perception, mindfulness strategy planning, child-appropriate guidance generation, and dialogue-state tracking. Evaluation included dataset benchmarking, a 14-day primary clinical study with 60 children, and an independent external validation cohort of 57 children from a second clinical center. MindTS-Net improved emotion perception, strategy selection, and guidance quality compared with baseline approaches. In the primary study, children receiving MindTS-Net showed favorable Valence-Arousal changes and reduced tic burden. External validation showed consistent directions across perception, strategy, guidance, and intervention outcomes. These findings suggest that supervised multimodal digital support can complement pediatric tic management and provide a foundation for future multi-center research.",
+      "authors": [
+        {
+          "name": "Li Liping"
+        },
+        {
+          "name": "Fang Xiaoxia"
+        },
+        {
+          "name": "Zhang Huimin"
+        },
+        {
+          "name": "Wang Jianping"
+        },
+        {
+          "name": "Wu Haoyu"
+        },
+        {
+          "name": "Li Qian"
+        },
+        {
+          "name": "Song Huimin"
+        }
+      ],
+      "publishedAt": "2026-07-19",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42472101",
+      "title": "The naive brain detects face-to-face biological motion.",
+      "summary": "Detecting agents and their interactions is a cornerstone of social cognition. Vertebrates are known to possess innate sensitivity to animacy cues, such as self-propelled or biological motion, supported by subpallial circuits within the social behavior network (SBN). However, the neural mechanisms distinguishing the detection of animate motion from the recognition of socially meaningful relations remain unclear. Using visually naive female domestic chicks, we investigated the brain regions activated when observing point-light displays of hens moving face-to-face or back-to-back, a behavioral paradigm previously shown to reveal spontaneous sensitivity to social interaction. We found selective immediate early-gene expression in the nidopallium caudolaterale, homologous to the mammalian prefrontal cortex, but not in the nucleus taeniae of the amygdala and septum, subpallial areas in the SBN. This pattern suggests that while basic sensitivity to animate motion may rely on evolutionarily ancient subpallial circuits, the detection of socially relevant relations engages higher order pallial processing.",
+      "authors": [
+        {
+          "name": "Anastasia Morandi-Raikova"
+        },
+        {
+          "name": "Mirko Zanon"
+        },
+        {
+          "name": "Giorgio Vallortigara"
+        }
+      ],
+      "publishedAt": "2026-07-19",
+      "source": "PubMed"
+    }
+  }
+]
