@@ -1,0 +1,28 @@
+[
+  {
+    "paper": {
+      "id": "42219630",
+      "title": "Vacuum in-tube extraction (V-ITEX): A tutorial review of theoretical principles, operational parameters, and applications.",
+      "summary": "Headspace-based microextraction techniques, such as solid-phase microextraction (SPME) and in-tube extraction (ITEX) are commonly used as pre-concentration steps prior to gas chromatography mass spectrometry (GC-MS) for the analysis of volatile organic compounds. However, these techniques often face limitations when dealing with semi-volatile organic compounds, polar analytes, or complex matrices. Recently, the application of vacuum has emerged as an additional operational parameter capable of overcoming these constraints by enhancing mass transfer while utilizing mild extraction conditions. Vacuum in-tube extraction (V-ITEX), introduced in 2019, combines controlled reduced pressure, dynamic headspace extraction, and sorbent trapping. This tutorial review summarizes the fundamental principles of V-ITEX, explains the underlying theoretical principles, outlines key operational parameters and evaluates performance characteristics and limitations. Representative applications, such as food characterization and metabolomics in human and animal studies are presented. Practical troubleshooting strategies and best-practice recommendations are provided to support implementation of V-ITEX in analytical workflows. Overall, the review highlights the potential of V-ITEX as an alternative approach for headspace extraction, while emphasizing critical parameters that must be controlled for robust analytical performance.",
+      "authors": [
+        {
+          "name": "Lucie K Tintrop"
+        },
+        {
+          "name": "Simon Wacker"
+        },
+        {
+          "name": "Florian Kopiec"
+        },
+        {
+          "name": "Stefan Cretnik"
+        },
+        {
+          "name": "Pascal Fuchsmann"
+        }
+      ],
+      "publishedAt": "2026-06-01",
+      "source": "PubMed"
+    }
+  }
+]
