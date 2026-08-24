@@ -1,0 +1,139 @@
+[
+  {
+    "paper": {
+      "id": "42621721",
+      "title": "[Research progress on neural circuit mechanisms of acupuncture intervention in pain-related emotions].",
+      "summary": "The occurrence and development of pain-related emotions are closely associated with structural and functional alterations in central neural circuits. Acupuncture can effectively alleviate pain-related emotions and reduce pain-associated negative emotions such as anxiety, depression and pain-aversive memory, and its mechanism is tightly correlated with the regulatory effect of acupuncture on the functions of specific neural circuits. This article sorts out the pain-related emotion-associated neural circuits modulated by acupuncture, and summarizes the relevant circuits as follows： the anxiety-related circuits include rostral anterior cingulate cortex glutamatergic neurons → thalamus (rACCGlu→Th), rostral anterior cingulate cortex glutamatergic neurons → dorsal raphe nucleus (rACCGlu→DRN), rostral anterior cingulate cortex glutamatergic neurons → ventrolateral periaqueductal gray (rACCGlu→vlPAG), basolateral amygdala CaMKⅡ neurons → rostral anterior cingulate cortex (BLACaMKⅡ→rACC), and ventral tegmental area dopaminergic neurons → nucleus accumbens (VTADA→NAc)； the depression-related circuit is infralimbic cortex CaMKⅡα+ neurons → basolateral amygdala (ILCaMKⅡα+→BLA)； the circuit related to pain-aversive memory and reward is infralimbic cortex glutamatergic neurons → nucleus accumbens(ILGlu→NAc). Among these, acupuncture may exert analgesic and anxiolytic effects by inhibiting the rACCGlu→Th and rACCGlu→vlPAG circuits, and activating the rACCGlu→DRN, BLACaMKⅡ→rACC and VTADA→NAc circuits； produce analgesic and antidepressant effects by suppressing the ILCaMKⅡα+→BLA circuit； and achieve analgesic effects as well as regulate pain-aversive memory and reward by activating the ILGlu→NAc circuit. This review provides a reference for the research and application of neural circuit mechanisms underlying acupuncture treatment of pain-related emotions.",
+      "authors": [
+        {
+          "name": "Ren-Zhen Zhang"
+        },
+        {
+          "name": "Cui Ma"
+        },
+        {
+          "name": "Ting-Ting Dou"
+        },
+        {
+          "name": "Li Li"
+        },
+        {
+          "name": "Hong-Yu Lu"
+        },
+        {
+          "name": "Ming-Li Su"
+        },
+        {
+          "name": "Xing-Ke Yan"
+        }
+      ],
+      "publishedAt": "2026-08-20",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42621709",
+      "title": "[Electroacupuncture improves synaptic plasticity mediated by Glu/GABA balance in the medial prefrontal cortex of mice with perimenopausal depression].",
+      "summary": "OBJECTIVES: To observe the effect of electroacupuncture (EA) on depressive-like behaviors and sex hormone levels in perimenopausal depression mice, so as to explore its regulatory role in the glutamate (Glu)/γ- aminobutyric acid (GABA) balance in the medial prefrontal cortex (mPFC) and its impact on the structural and functional plasticity of mPFC synapses.\nMETHODS: Female C57BL/6J mice were randomly divided into control, model, estradiol (E2), and EA groups, with 14 mice in each group. The perimenopausal depression model was established using vinylcyclohexene dioxide (VCD) combined with chronic unpredictable mild stress (CUMS). Mice in the EA group received EA at \"Shenshu\" (BL23), \"Sanyinjiao\" (SP6), \"Baihui\" (GV20), and \"Yintang\" (GV24+) for 30 min. The E2 group was subcutaneously injected with E2 (10 μg·kg-1·d-1). Both interventions were performed once daily for 28 d. Behavioral assessments were conducted using the open field test (OFT), forced swimming test (FST), and sucrose preference test (SPT). Serum sex hormone levels were detected by ELISA. Golgi staining was used to observe the number and length of pyramidal neuron branches and assess their morphological changes in the mPFC. Western blot and whole-cell patch-clamp electrophysiology were used to detect the protein expression of vesicular glutamate transporter 1 (VGLUT1) and the frequency of miniature excitatory postsynaptic currents (mEPSC) of pyramidal neurons in the mPFC to evaluate presynaptic Glu levels；the protein expressions of the amplitude of postsynaptic density protein 95 (PSD95), N-methyl-D-aspartate receptor subtype 2B (NMDAR2B), N-methyl-D-aspartate receptor subtype 2A (NMDAR2A), α-amino-3-hydroxy-5-methyl-4-isoxazolepropionic acid receptor (AMPAR), and mEPSC amplitude to evaluate postsynaptic Glu activity；the protein expressions of presynaptic glutamic acid decarboxylase (GAD-65/67), GABA vesicular transporter (VGAT), and the frequency of miniature inhibitory postsynaptic currents (mIPSC) of pyramidal neurons in the mPFC to evaluate presynaptic GABA levels；and the protein expressions of postsynaptic GABA type A receptor subunit γ-2 (GABAARγ2), Gephyrin, and mIPSC amplitude to evaluate postsynaptic GABA activity, thereby assessing the Glu/GABA balance.\nRESULTS: Compared with the control group, the exploration time and distance in the central zone of the OFT (P<0.001), the SPT index (P<0.001), the serum levels of E2 and progesterone (PROG) (P<0.01), the number of dendritic branches, total dendritic length, Sholl radius, the number of intersections of mPFC pyramidal neurons (P<0.001, P<0.05), the protein expression levels of VGLUT1, NMDAR2B, GAD-65/67, Gephyrin, and VGAT (P<0.05, P<0.01), and the frequency of mIPSC (P<0.001) were all decreased in the model group. In contrast, the immobility time in the FST (P<0.05), the serum follicle-stimulating hormone (FSH) level (P<0.01), the protein expression levels of PSD95, NMDAR2A, and GABAARγ2 in the mPFC (P<0.05), and the amplitude of mEPSC and frequency ratio of mEPSC/mIPSC (P<0.01) were significantly increased. Compared with the model group, the exploration time and distance in the central area of the OFT (P<0.001, P<0.05), SPT index (P<0.001), number of dendritic branches, total dendritic length, radius of concentric circles and number of intersections (P<0.001, P<0.01, P<0.05), protein expression levels of VGLUT1, GAD-65/67, Gephyrin, and VGAT (P<0.05, P<0.01), and mIPSC frequency (P<0.001, P<0.01) were significantly increased in the E2 and EA groups. Conversely, the FST immobility time (P<0.01, P<0.05), expression levels of PSD95, GABAARγ2 and NMDAR2A (P<0.05, P<0.001), as well as the mEPSC amplitude and mEPSC/mIPSC frequency ratio (P<0.01, P<0.05) were decreased in both groups. In the E2 group, the serum E2 and PROG levels increased (P<0.01), while the serum FSH level decreased (P<0.01)；in the EA group, the protein expression of NMDAR2B increased (P<0.01).\nCONCLUSIONS: EA can improve the morphology and connectivity of pyramidal neurons in the mPFC and regulate synaptic structural and functional plasticity mediated by the Glu/GABA balance, thereby exerting a therapeutic effect on perimenopausal depression.",
+      "authors": [
+        {
+          "name": "Chu-Yao Huang"
+        },
+        {
+          "name": "Zhi-Si Zhang"
+        },
+        {
+          "name": "Shu-Min Chen"
+        },
+        {
+          "name": "Yue-Ying Mao"
+        },
+        {
+          "name": "Ke-Xing Zhang"
+        },
+        {
+          "name": "Wen-Hao Liu"
+        },
+        {
+          "name": "Jian-Peng Huang"
+        },
+        {
+          "name": "Jian-Hua Liu"
+        },
+        {
+          "name": "Wen-Bin Fu"
+        },
+        {
+          "name": "Cong Wang"
+        }
+      ],
+      "publishedAt": "2026-08-20",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42611997",
+      "title": "FEMA phase-out? Catastrophic extremes challenge decentralization of US flood insurance.",
+      "summary": "The U.S. National Flood Insurance Program (NFIP) faces growing solvency and affordability challenges amid proposals to decentralize the Federal Emergency Management Agency (FEMA) and shift disaster management to states. Catastrophic floods often span state boundaries, exposing multiple decentralized insurance pools simultaneously. Using a path-independent simulation framework that integrates risk-based premiums, hydrometeorologically clustered flood losses, and 2025 reinsurance contracts, we evaluate the stability of national and state-level pooling using historical data. National pooling markedly reduces systemic insolvency through cross-regional diversification, while many state pools exhibit structural fragility. State-level deficits are dominated by hyperclusters-coherent spatiotemporal losses induced by common atmospheric drivers-indicating that clustered loss governs failure. Since states must balance budgets and face borrowing restrictions to cover large losses, pool liquidity constrains decentralized systems. Existing reinsurance (including insurance-linked securities) does not always cover these clustered losses due to its misalignment with the clustered, spatiotemporal nature of hydroclimatic risk, covering only single flood events in traditional contracts and individual named storms in FloodSmart catastrophe bonds. A resilient and affordable NFIP will require hybrid financial design aligning risk-based premiums and reinsurance to balance chronic and catastrophic risk.",
+      "authors": [
+        {
+          "name": "Adam Nayak"
+        },
+        {
+          "name": "Mengjie Zhang"
+        },
+        {
+          "name": "Pierre Gentine"
+        },
+        {
+          "name": "Upmanu Lall"
+        }
+      ],
+      "publishedAt": "2026-08-18",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42611993",
+      "title": "A nose-to-brain circuit underlies anxiety regulation by nasal afferent frequency in mice.",
+      "summary": "Slow nasal breathing alleviates negative moods, but the precise nose-to-limbic pathways and their causal contributions remain unclear. Here, we identify a pathway in mice from olfactory sensory neurons (OSNs) in the nasal cavity to mitral cells in the olfactory bulb (OB), then to parvalbumin-positive (PV+) long-projecting interneurons in the perirhinal cortex (PRC), and subsequently to glutamatergic neurons in the posterior basolateral amygdala (pBLA), through which nasal afferent activity bidirectionally regulates anxiety in a frequency-dependent manner. Low-frequency nasal airflow or optogenetic OSN stimulation induced anxiolysis and increased PRC high-gamma power by activating PV+ neurons, whereas high-frequency had opposite effects. Chemogenetic silencing of the OB→PRCPV pathway eliminated the frequency-dependent regulation of anxiety-like behaviors driven by OSN stimulation. Selective activation or inhibition of the identified circuit generated opposing behavioral effects (anxiolytic vs. anxiogenic, respectively), paralleling the results of low- and high-frequency OSN stimulations. Strikingly, a 2-wk low-frequency nasal airflow/optogenetic OSN stimulation regimen ameliorated anxiety-like behaviors and restored PRC high-gamma activity in an anxiety model. This study reveals a nose-brain axis bidirectionally modulating anxiety via nasal afferent frequency, providing potential interventional strategies and targets for anxiety disorders.",
+      "authors": [
+        {
+          "name": "Xinsong Guo"
+        },
+        {
+          "name": "Mengyan Liu"
+        },
+        {
+          "name": "Qingcheng Xiong"
+        },
+        {
+          "name": "Howai Ngai"
+        },
+        {
+          "name": "Mingdong He"
+        },
+        {
+          "name": "Xinying Li"
+        },
+        {
+          "name": "Yingwei Zheng"
+        },
+        {
+          "name": "Fuqiang Xu"
+        },
+        {
+          "name": "Minghong Ma"
+        },
+        {
+          "name": "Ruiqi Wu"
+        }
+      ],
+      "publishedAt": "2026-08-18",
+      "source": "PubMed"
+    }
+  }
+]
