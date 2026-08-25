@@ -1,0 +1,20 @@
+2026-08-25 21:38:51,278 - INFO - 正在处理 2026-08-26 的论文数据
+2026-08-25 21:38:51,279 - INFO - 读取到 1 篇论文数据
+2026-08-25 21:38:51,279 - INFO - 正在处理第 1/1 篇论文
+2026-08-25 21:38:51,279 - INFO - 正在评审/翻译第 1 篇论文 (尝试 1/3)
+2026-08-25 21:38:51,279 - INFO - 使用模型: DeepSeek Chat
+2026-08-25 21:38:51,938 - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-08-25 21:38:56,195 - INFO - 第 1 篇论文处理成功
+2026-08-25 21:38:59,195 - INFO - 论文处理统计：总数 1，成功 1，失败 0
+2026-08-25 21:38:59,552 - INFO - 开始分析论文数据，时间范围：2026-08-18 至 2026-08-25
+2026-08-25 21:38:59,641 - INFO - 处理 2026-08-25 的数据：找到 1 篇论文
+2026-08-25 21:38:59,641 - DEBUG - Building prefix dict from the default dictionary ...
+2026-08-25 21:39:00,152 - DEBUG - Dumping model to file cache /tmp/jieba.cache
+2026-08-25 21:39:00,188 - DEBUG - Loading model cost 0.547 seconds.
+2026-08-25 21:39:00,188 - DEBUG - Prefix dict has been built successfully.
+2026-08-25 21:39:00,206 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-08-25 21:39:00,209 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-08-25 21:39:00,213 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-08-25 21:39:00,215 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-08-25 21:39:05,102 - INFO - 统计图表生成完成
+2026-08-25 21:39:05,110 - INFO - 日报已生成：newsletters/2026-08-26_daily_paper.md
