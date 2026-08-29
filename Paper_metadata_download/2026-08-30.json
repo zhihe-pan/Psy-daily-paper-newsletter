@@ -1,0 +1,176 @@
+[
+  {
+    "paper": {
+      "id": "42551401",
+      "title": "Intersection of vaccination, health literacy, education, and communication in South America: A scientometric mapping.",
+      "summary": "Vaccination-related challenges have become increasingly prominent worldwide, yet the temporal evolution and structural organization of the corresponding scientific literature in South America remain insufficiently characterized. This study aimed to systematically map and analyze the evolution of scientific production at the intersection of vaccination, health literacy, education, and communication in South America between 2015 and 2025, identifying temporal shifts, thematic structures, geographic asymmetries, and collaboration patterns including SARS-CoV-2 pre-pandemic, pandemic, and post-pandemic phases. A systematic mapping analysis with an integrated scientometric approach was conducted in accordance with PRISMA 2020 guidelines. Searches were performed in PubMed, Scopus, and Web of Science for studies published between January 2015 and November 2025. After duplicate removal, 476 records were screened by two independent reviewers, and 80 studies were included for thematic and network analysis using VOSviewer. Scientific production expanded substantially during the COVID-19 pandemic and showed marked shifts in the prominence and co-occurrence of vaccination-related terms. Before 2020, research primarily focused on vaccination coverage, influenza immunization, and educational interventions. During the pandemic, the literature expanded and incorporated a broader range of terms related to COVID-19, fear, information and vaccine hesitancy. In the post-pandemic period, the research agenda showed renewed attention to childhood immunization, vaccination coverage and regional knowledge gaps. Scientific output remains geographically concentrated, particularly in Brazil, and collaboration networks display structural fragmentation. The COVID-19 pandemic reshaped the mapped South American vaccination research landscape, expanding its thematic scope without overcoming geographic concentration or fragmented collaboration.",
+      "authors": [
+        {
+          "name": "Lara Vilela Augusto"
+        },
+        {
+          "name": "Leonardo Pereira de Araújo"
+        },
+        {
+          "name": "Evandro Neves Silva"
+        },
+        {
+          "name": "Jessié Martins Gutierres"
+        },
+        {
+          "name": "Andréa Mollica Amarante-Paffaro"
+        },
+        {
+          "name": "Leonardo Augusto de Almeida"
+        },
+        {
+          "name": "Patricia Paiva Corsetti"
+        }
+      ],
+      "publishedAt": "2026-08-20",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42470890",
+      "title": "Ethical challenges in outbreak trial design: from Ebola to Nipah.",
+      "summary": "Nipah virus causes sporadic outbreaks characterized by high mortality, with transmission concentrated within households and healthcare settings. Clinical trials of vaccines for high-mortality pathogens during outbreaks face significant methodological and ethical challenges, including due to short epidemic durations and variable community acceptance of standard individual randomized controlled trials (iRCTs). This paper examines key ethical issues in Nipah vaccine outbreak trial design. First, outbreak trials must recruit individuals at high risk of infection to reach efficacy endpoints before epidemics end, yet placebo controls may be controversial due to risks of infection among participants. Failure to accrue sufficient infections during outbreaks risks prolonged delays to vaccine licensure. Second, alternatives to classical iRCTs involve ethical and methodological trade-offs: cluster randomization may delay efficacy endpoints, especially when high transmission occurs in only a minority of clusters; trials involving delayed vaccination may involve similar risks (for control participants who are infected during the delay to vaccination) as for those in standard placebo iRCTs; and single arm trials risk failure to clarify vaccine efficacy due to their lack of controls. Third, although high pre-trial probability of experimental vaccine efficacy (>50% for recent Phase III vaccines) challenges traditional concepts of clinical equipoise, rigorous vaccine trials remain ethically acceptable. Fourth, policies for post-trial access to efficacious vaccines should be revised to provide accelerated access to control arm participants. Finally, ethical trial design depends on appropriate community engagement, which should begin early in outbreaks and ideally continue in inter-epidemic periods.",
+      "authors": [
+        {
+          "name": "Euzebiusz Jamrozik"
+        },
+        {
+          "name": "Lucie Abeler-Dörner"
+        },
+        {
+          "name": "Amol Chaudhari"
+        },
+        {
+          "name": "Phaik Yeong Cheah"
+        },
+        {
+          "name": "Robert Hinch"
+        },
+        {
+          "name": "Richard Jarman"
+        },
+        {
+          "name": "Tess Johnson"
+        },
+        {
+          "name": "Michael Parker"
+        },
+        {
+          "name": "Carolin Vegvari"
+        },
+        {
+          "name": "Nina Wressnigg"
+        },
+        {
+          "name": "Christophe Fraser"
+        }
+      ],
+      "publishedAt": "2026-08-20",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42378811",
+      "title": "Effectiveness and acceptability of an opt-out nudge to promote influenza vaccination among medical residents: A randomized controlled trial.",
+      "summary": "Nudging has been proposed as an effective tool for promoting influenza vaccination among healthcare workers. To be successful, nudges must be considered acceptable. This paper evaluated the effectiveness and the acceptability of a nudge promoting influenza vaccination among medical residents in four hospitals in France. The hypotheses were that exposure to an opt-out nudge would increase vaccination rates and that participants would express more acceptability and a higher feeling of autonomy when exposed to the nudge. It was also expected that the feeling of autonomy would be positively correlated with nudge acceptability and with nudge effectiveness. The study's subjects were 260 medical residents. At the end of the study, 5% of residents in the nudge group reported they had not been vaccinated versus 27% in the control group, suggesting that applying the nudge to all residents could have reduced the number of unvaccinated residents by 81%. Residents found the nudge very acceptable, especially when they had been exposed to it. Residents felt that the nudge did not reduce their autonomy. The feeling of autonomy was associated with the nudge's acceptability and effectiveness. These data suggest that nudging can complement other interventions promoting vaccination, but policymakers should consider its ethical implications.",
+      "authors": [
+        {
+          "name": "Adriaan Barbaroux"
+        },
+        {
+          "name": "Ilaria Serati"
+        },
+        {
+          "name": "Isabelle Milhabet"
+        }
+      ],
+      "publishedAt": "2026-08-20",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42349182",
+      "title": "The silica-based sorbents for the mixed-mode extraction of risdiplam and its metabolite from serum samples.",
+      "summary": "Analysis of risdiplam and its main metabolite is critical for pharmacokinetic studies and therapeutic drug monitoring in spinal muscular atrophy. However, current analytical methods face challenges due to low analyte stability, limited selectivity, and pronounced matrix effects, with only four studies published to date. In this work, a comprehensive analytical strategy was developed for the first time, combining optimized chromatographic separation with a novel sample preparation approach. The effects of methanol content, salt concentration, and pH on retention, peak symmetry, and resolution were systematically investigated. Chromatographic conditions were optimized using a central composite design, enabling rapid selection of mobile phase and achieving efficient separation of both compounds within 3.5 min. General trends in mobile phase composition were identified, indicating optimal performance at either low salt concentration and high pH or high salt concentration and low pH. For sample preparation, dispersive solid-phase extraction was introduced using newly synthesized hydrophobic and mixed-mode sorbents designed to provide hydrophobic, π-π, electrostatic, and hydrogen-bonding interactions. The extraction procedure was extensively optimized with respect to sorbent type and elution conditions (solvent composition and the addition of salt, formic acid, or ammonia). Compared with conventional non-polar sorbents, mixed-mode materials containing alkylamide, benzoic acid, cholesterol, and residual aminopropyl groups demonstrated superior recoveries and reproducibility. Finally, an alkylamide sorbent with acidified methanol-water elution was selected. The method enabled direct extraction from serum without protein precipitation, yielding recoveries of 86% and 53% for risdiplam and its metabolite, respectively. The proposed strategy provides a robust, selective, and efficient approach for risdiplam bioanalysis.",
+      "authors": [
+        {
+          "name": "Natalia Balińska"
+        },
+        {
+          "name": "Anna Lemska"
+        },
+        {
+          "name": "Maria Mazurkiewicz-Bełdzińska"
+        },
+        {
+          "name": "Sylwia Studzińska"
+        }
+      ],
+      "publishedAt": "2026-06-30",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42157389",
+      "title": "Attitudes and behaviours of consumers towards plant-based yoghurt alternatives: a cross-cultural study.",
+      "summary": "BACKGROUND: Increased awareness of sustainable food production and vegan, vegetarian and flexitarian diets are driving the growth in dairy substitutes, particularly plant-based yoghurts. To understand consumer perception or mind-set and facilitate adoption of plant-based yoghurt products, a multi-phase study using both qualitative and quantitative research methods was conducted to understand the differences between perceptions (cognitive, affective, and social responses) of consumers, belonging to Western and Asian cultural groups, to plant-based yoghurts compared with traditional dairy yoghurts. The study involved a qualitative focus group (n = 37, four sessions), a quantitative survey (n = 433) and a quantitative blind-tasting sensory experiment (n = 117), examining consumers perceptions and overall liking of the plant and dairy products. The focus groups produced terms used for further experiments.\nRESULTS: The quantitative survey showed that dairy yoghurts were preferred with higher overall liking scores compared to plant-based yoghurt alternatives, and displaying differential cognitive, affective, and social responses. However, these perceptions contrasted with blind consumer tasting panel results, which showed that both types of yoghurts were similarly liked by respondents producing similar overall liking scores. Furthermore, the studies found that consumers' negative responses towards plant-based yoghurt alternatives are primarily responsible for their lower popularity. Association towards emotion and health factors were common for both dairy and plant-based yoghurts as shown by linear models. However, dairy yoghurts were additionally associated with ingredient and cultural factors, and plant-based yoghurts were affected by social factors.\nCONCLUSION: Hence, addressing and overcoming the negative expectations regarding plant-based yoghurts is essential to facilitate their future adoption. The study has important implications for novel product development strategies to facilitate consumer adoption of plant-based yoghurts, especially for different cultural groups. © 2026 The Author(s). Journal of the Science of Food and Agriculture published by John Wiley & Sons Ltd on behalf of Society of Chemical Industry.",
+      "authors": [
+        {
+          "name": "Mitali K Gupta"
+        },
+        {
+          "name": "Jeremy J Cottrell"
+        },
+        {
+          "name": "Damir D Torrico"
+        },
+        {
+          "name": "Melindee Hastie"
+        },
+        {
+          "name": "Sally L Gras"
+        },
+        {
+          "name": "Frank R Dunshea"
+        },
+        {
+          "name": "Jing Lei"
+        }
+      ],
+      "publishedAt": "2026-07-08",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "41810763",
+      "title": "Exploring the role of diet in modulating stress and emotional health: a review on mental nutrition and cognitive resilience.",
+      "summary": "The rise in mental-health-related disorders, including anxiety, depression, and cognitive impairment worldwide, has increased the demand for preventative non-pharmacological interventions and intervention aimed at modifiable lifestyle factors - particularly diet. Growing evidence shows that plant-based nutrition, with its anti-inflammatory and neuroprotective effects, is critically important for cognitive resilience, emotional stability, and mental wellbeing. Essential nutrient and bioactive compounds such as ω-3 fatty acids, polyphenols, B vitamins, magnesium, and probiotics themselves act on the gut-brain axis to alleviate neuroinflammatory stress. Functional and adaptogenic foods - for example, Ashwagandha, Rhodiola, and Holy Basil - are becoming the focus of interest as they play a significant role in cortisol control and stress adaptation. All plant-based dietary patterns, such as the Mediterranean, DASH (Dietary Approaches to Stop Hypertension), and plant-based diets, show comparable associations with lower risk for depression, anxiety, and cognitive deficits through enhancing gut microbiome richness and balancing neurotransmitters. This review outlines the scientific basis of mental nutrition, highlighting the interconnections between dietary patterns, gut microbiota composition, diet-mediated modulation of neurotransmitter levels, and neuroinflammatory pathways that collectively influence mental health. © 2026 Society of Chemical Industry.",
+      "authors": [
+        {
+          "name": "Vinay Kumar Pandey"
+        },
+        {
+          "name": "Anjali Tripathi"
+        },
+        {
+          "name": "Priyvart Choudhary"
+        },
+        {
+          "name": "Shailendra Thapliyal"
+        }
+      ],
+      "publishedAt": "2026-07-08",
+      "source": "PubMed"
+    }
+  }
+]
