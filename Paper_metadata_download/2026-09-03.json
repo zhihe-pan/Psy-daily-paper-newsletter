@@ -1,0 +1,53 @@
+[
+  {
+    "paper": {
+      "id": "42683630",
+      "title": "Federated learning for multi-institutional AI in healthcare via digital pathology.",
+      "summary": "The integration of artificial intelligence (AI) in digital pathology has shown significant promise in advancing cancer diagnostics, grading, and treatment response prediction. However, widespread development and deployment of robust AI models face critical challenges due to data silos, privacy concerns, and the need for large-scale multi-institutional datasets. Federated Learning (FL) presents a transformative approach by enabling collaborative model training across hospitals without direct data sharing. In this review, we summarize recent developments in FL as applied to digital pathology, highlight pioneering use cases, and explore the technical, regulatory, and ethical hurdles. We discuss how FL can enable scalable, privacy-preserving AI models, and outline future directions for standardizing and validating FL-based approaches in clinical workflows.",
+      "authors": [
+        {
+          "name": "Ramin Soleimani"
+        },
+        {
+          "name": "Mohammadreza Azimi"
+        },
+        {
+          "name": "Nazanin Talebi"
+        }
+      ],
+      "publishedAt": "2026-09-02",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42683543",
+      "title": "The dual impact of digital integration and peer influence on smartphone addiction and psychological distress among Indonesian adolescents.",
+      "summary": "Adolescents in higher health professional education experience heightened academic and clinical pressures, increasing their vulnerability to mental health problems. This study examined the prevalence of depression, anxiety, and stress, and identified key psychosocial predictors among Indonesian adolescents. A cross-sectional survey was conducted among 1,886 health polytechnic adolescents from multiple campuses of an Indonesian Health Polytechnic. Participants completed an online questionnaire including the Depression, Anxiety, and Stress Scale (DASS-21), alongside measures of self-esteem, mobile attachment, peer influence, and smartphone addiction. Multivariable linear regression was performed to identify predictors of psychological distress. Nearly half of the adolescents experienced moderate to extremely severe anxiety (48.9 %), followed by stress (30.7 %) and depression (25.4 %). Peer influence was the strongest protective factor, showing significant negative associations with depression (β=-0.352, p<0.001) and anxiety (β=-0.407, p<0.001). In contrast, higher mobile attachment and smartphone addiction were consistently associated with increased depression and anxiety scores. Positive peer influence substantially reduces psychological distress, whereas problematic technology use elevates mental health risks. Universities should strengthen peer-support environments and promote digital wellness to improve student mental health.",
+      "authors": [
+        {
+          "name": "Marthoenis Marthoenis"
+        },
+        {
+          "name": "Julianti Jauhari"
+        }
+      ],
+      "publishedAt": "2026-09-02",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42547057",
+      "title": "Unlocking hidden hospital beds: national medical ward flow measures to make inpatient delays visible.",
+      "summary": "Australia's hospital performance framework measures emergency department throughput and elective surgery waiting times, but ignores the inpatient journey where older Australian patients face invisible delays. This Perspective proposes National Medical Measures, simple ward-level flow indicators, to make delay patterns observable throughout the acute episode. The National Health Reform Agreement Addendum 2026-2031 requires Health Ministers to develop performance indicators for long-stay patients and cross-sector interfaces; this policy window should include ward-flow measurement. These measures would deliver national visibility of inpatient delays for the first time, establishing the baseline evidence needed to inform earlier clinical intervention, future target setting, and capacity planning.",
+      "authors": [
+        {
+          "name": "Abigail Cliff"
+        }
+      ],
+      "publishedAt": "2026-08-04",
+      "source": "PubMed"
+    }
+  }
+]
