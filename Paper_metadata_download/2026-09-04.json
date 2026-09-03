@@ -1,0 +1,201 @@
+[
+  {
+    "paper": {
+      "id": "42691325",
+      "title": "The Cardiometabolic Effects of Menopause.",
+      "summary": "Cardiovascular disease (CVD) remains the leading cause of death among women, yet CVD risk is frequently underrecognized during midlife, when the menopause transition is accompanied by significant biological changes. Emerging evidence demonstrates that menopause represents a critical window for adverse cardiometabolic and vascular changes that extend beyond the effects of chronologic aging alone. Because obstetrician-gynecologists often serve as the primary clinicians for midlife care in women, they are uniquely positioned to recognize emerging cardiovascular risk, implement preventive strategies, and coordinate care with primary care or cardiology when appropriate. This Clinical Expert Series synthesizes current evidence on menopause-related characteristics associated with CVD risk, including timing and type of menopause, as well as menopause-related symptoms, including vasomotor symptoms, sleep disturbances, and depression. We also review longitudinal data characterizing changes in lipids, blood pressure, glucose metabolism, body composition, and vascular structure and function across the menopause transition. Collectively, these data support framing menopause as a key opportunity for CVD risk identification and early intervention. Incorporating menopause-specific factors into routine CVD risk assessment may enable earlier prevention strategies and ultimately improve long-term cardiovascular outcomes for women.",
+      "authors": [
+        {
+          "name": "Jana Karam"
+        },
+        {
+          "name": "Emily S Lau"
+        },
+        {
+          "name": "Chrisandra L Shufelt"
+        }
+      ],
+      "publishedAt": "2026-09-03",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42691293",
+      "title": "The Impact of Spirituality on the Professional Well-Being of Nurses.",
+      "summary": "The aim of this quantitative descriptive study was to examine the well-being of nursing students, clinicians, and nurse educators and the effect of daily spiritual experiences on their well-being. Researchers have studied these populations' mental health aspects; however, little has been reported regarding their spirituality. Participants completed the General Anxiety Disorder-7 Scale, Connor-Davidson Resilience Scale-10, Daily Spiritual Experience Scale, and Professional Quality of Life Scale. Participants who reported having a daily spiritual experience had lower levels of burnout and an increase in their resilience and compassion satisfaction scores.",
+      "authors": [
+        {
+          "name": "Kaye Wilson-Anderson"
+        },
+        {
+          "name": "Sally Rothacker-Peyton"
+        },
+        {
+          "name": "Pam Fifer"
+        },
+        {
+          "name": "Mary Waldo"
+        },
+        {
+          "name": "Katrina Charbonnier"
+        }
+      ],
+      "publishedAt": "2026-09-03",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42685189",
+      "title": "Light-tunable charge dynamics enable ultralow-power bidirectional lead-free perovskite synapses for intelligent vision.",
+      "summary": "Advanced vision systems for autonomous robotics require high efficiency, ultralow power consumption, and real-time decision-making. However, conventional vision sensors that rely on single-mode optical excitation fundamentally constrain their versatility. Here, we report a fully light-tunable optoelectronic synaptic device based on perovskite PEA2SnI4/C60 heterostructures that uniquely supports dual-mode bidirectional synaptic behaviour with potentiation under visible light and depression under near-infrared illumination, enabled by a synergistic mechanism of sub-bandgap absorption and interfacial carrier trapping-detrapping for wavelength-selective control. The heterostructure device features long-lasting synaptic plasticity, with excitatory and inhibitory retention times of 350 s and over 8000 s, respectively, and an ultralow energy consumption of ∼1 fJ per event. These exceptional characteristics enable unprecedented performance in neuromorphic vision tasks, including attention-enhanced traffic sign recognition, physical reservoir computing, and dynamic target detection using a 7 × 7 array device, which establishes a powerful and energy-efficient platform for next-generation robotic eyes and advances all-optical neuromorphic perceptions toward intelligent autonomy.",
+      "authors": [
+        {
+          "name": "Tingting Mei"
+        },
+        {
+          "name": "Bowei Zhang"
+        },
+        {
+          "name": "Tanzeela Yousaf"
+        },
+        {
+          "name": "Jan Seidel"
+        },
+        {
+          "name": "Dawei Su"
+        },
+        {
+          "name": "Zijian Feng"
+        },
+        {
+          "name": "Tianxu Huang"
+        },
+        {
+          "name": "Fandi Chen"
+        },
+        {
+          "name": "Zhi Li"
+        },
+        {
+          "name": "Chun Hui Wang"
+        },
+        {
+          "name": "Wenlong Cheng"
+        },
+        {
+          "name": "Yuerui Lu"
+        },
+        {
+          "name": "Yichen Liu"
+        },
+        {
+          "name": "Tom Wu"
+        },
+        {
+          "name": "Long Hu"
+        },
+        {
+          "name": "Miaoqiang Lyu"
+        },
+        {
+          "name": "Chun-Ho Lin"
+        },
+        {
+          "name": "Lianzhou Wang"
+        },
+        {
+          "name": "Dewei Chu"
+        }
+      ],
+      "publishedAt": "2026-09-03",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42685186",
+      "title": "Electrical control of induced magnetism in an air-stable two-dimensional semiconductor.",
+      "summary": "Dilute magnetic semiconductors (DMSs) provide a platform for electrically controlling spin interactions; however, conventional systems face limited gate tunability and structural disorder. Here, we demonstrate gate-switchable magnetism in air-stable, dilute Fe-doped PtSe2, a two-dimensional (2D) DMS that remains structurally homogeneous down to the atomically thin limit. Bulk crystals exhibit ferromagnetism with a Curie temperature of 320 kelvin, and this coupling persists in metallic devices down to seven layers. As thickness and carrier concentration further decrease, the system transitions to antiferromagnetic order, with a gate-tunable Néel temperature reaching 105 kelvin in five-layer semiconducting devices. Our first-principles calculations reveal a carrier-density-dependent crossover from Ruderman-Kittel-Kasuya-Yosida-mediated ferromagnetism to superexchange-driven antiferromagnetism. These findings demonstrate how induced magnetic order evolves from bulk to the 2D limit, providing a pathway to functional spintronic devices with electrically controlled magnetic states.",
+      "authors": [
+        {
+          "name": "Qi Zhang"
+        },
+        {
+          "name": "Mithun Ghosh"
+        },
+        {
+          "name": "Yaroslav Zhumagulov"
+        },
+        {
+          "name": "Oldřich Cicvárek"
+        },
+        {
+          "name": "Yuan Chen"
+        },
+        {
+          "name": "Fangchao Long"
+        },
+        {
+          "name": "Yijie Lin"
+        },
+        {
+          "name": "Ali Al Mejamai"
+        },
+        {
+          "name": "Johan Félisaz"
+        },
+        {
+          "name": "Iva Plutnarová"
+        },
+        {
+          "name": "Jianmin Yang"
+        },
+        {
+          "name": "Hue Thi Bich Do"
+        },
+        {
+          "name": "Jan Plutnar"
+        },
+        {
+          "name": "Michel Bosman"
+        },
+        {
+          "name": "Shengqiang Zhou"
+        },
+        {
+          "name": "Goki Eda"
+        },
+        {
+          "name": "Oleg V Yazyev"
+        },
+        {
+          "name": "Zdeněk Sofer"
+        },
+        {
+          "name": "Ahmet Avsar"
+        }
+      ],
+      "publishedAt": "2026-09-03",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42065436",
+      "title": "Nonlinear ion transport in a 2D Janus membrane with an angstrom pore: memristive and negative differential resistance phenomena.",
+      "summary": "We report nanofluidic memristive behavior and negative differential resistance (NDR) in a MoSSe angstrom pore using molecular dynamics (MD) simulations. The system exhibits pinched-loop hysteresis in its current-electric field (I-E) response when subjected to a sinusoidal electric field pulse. Furthermore, we identified a NDR region, marked by a conductance switch from low to high resistance beyond a critical threshold electric field. This switching behavior originates from electric field induced dipole ordering of water confined within the nanopore, leading to an increased translocation barrier. We further show that the system exhibits biological synapse like behavior, exhibiting neuromorphic functions such as short-term plasticity and paired-pulse facilitation/depression. These findings demonstrate that nanoscale confined solvent ordering can serve as a physical basis for achieving non-linear ion transport behavior, enabling applications in next-generation neuromorphic computing systems.",
+      "authors": [
+        {
+          "name": "Mohan Teja Dronadula"
+        },
+        {
+          "name": "Narayana R Aluru"
+        }
+      ],
+      "publishedAt": "2026-05-01",
+      "source": "PubMed"
+    }
+  }
+]
