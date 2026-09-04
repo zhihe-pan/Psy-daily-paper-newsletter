@@ -1,0 +1,66 @@
+[
+  {
+    "paper": {
+      "id": "42486203",
+      "title": "Liposomes versus Sphingosomes: Microfluidic DoE-Guided development of lipid nanocarriers for the delivery of a synthetic hMAO inhibitor.",
+      "summary": "Human monoamine oxidases (hMAO) are mitochondrial flavoenzymes responsible for the oxidative deamination of endogenous and exogenous amines, including key neurotransmitters. Their dysregulation has been associated with the onset and progression of neuropsychiatric and neurodegenerative disorders, such as depression and Parkinson's disease. Although pharmacological inhibition of hMAO represents a well-established therapeutic strategy, currently available inhibitors still present limitations, highlighting the need for both novel active compounds and advanced formulation approaches to improve their therapeutic performance. In this study, two lipid-based nanocarrier systems, namely phosphatidylcholine-based liposomes and sphingomyelin-based vesicles (sphingosomes), were developed for the delivery of BT12, a promising novel benzo[b]thiophene-derived hMAO inhibitor characterized by extremely low aqueous solubility. A microfluidic approach combined with a multi-step Design of Experiments (DoE) strategy was employed to design and optimize both formulations. In this context, the systematic DoE strategy enabled the identification of critical process parameters influencing key quality attributes, including particle size, polydispersity index, and theoretical encapsulation efficiency. The optimized formulations (size < 100 nm; PDI ≈ 0.2) exhibited comparable physicochemical and morphological properties, as well as good colloidal stability under refrigerated conditions and in biologically relevant media. While sphingosomes showed a comparatively higher theoretical encapsulation efficiency (35.8 ± 1.1%) compared to liposomes (20.4 ± 0.7%), in vitro release studies demonstrated controlled and sustained release profiles for both systems over 72 h, with sphingosomes displaying slower release kinetics. Biological evaluation on SH-SY5Y neuronal-like cells indicated that both formulations were well tolerated, with liposomes exhibiting slightly higher cytocompatibility. Confocal microscopy of fluorescently labeled nanoparticles confirmed efficient cellular association and/or uptake for both systems, with no evident differences between formulations. Overall, these findings highlight the role of lipid composition in modulating nanocarrier performance, revealing a balance between comparatively greater BT12 retention and cytocompatibility, and supporting the rational design of lipid-based delivery systems for poorly water-soluble hMAO inhibitors.",
+      "authors": [
+        {
+          "name": "Giorgio Buttitta"
+        },
+        {
+          "name": "Michele Coluccia"
+        },
+        {
+          "name": "Simone Bonacorsi"
+        },
+        {
+          "name": "Francesca Diomede"
+        },
+        {
+          "name": "Guya Diletta Marconi"
+        },
+        {
+          "name": "Jacopo Pizzicannella"
+        },
+        {
+          "name": "Elena De Falco"
+        },
+        {
+          "name": "Paolo Guglielmi"
+        }
+      ],
+      "publishedAt": "2026-09-03",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "41880895",
+      "title": "Rapid and stabilization-free detection of chloride ion in silver chloride suspension using time-resolved scattering spectroscopy.",
+      "summary": "Chloride ion (Cl-) detection is essential for environmental monitoring and industrial process control, yet conventional methods face limitations in stability, cost, or speed, especially in dynamic precipitation systems. To overcome these challenges, we report a novel time-resolved scattering spectroscopy-short-wavelength decrease & long-wavelength increase spectra (SDLI), observed during the formation of AgCl suspensions. With the passage of time, the extinction of light at short wavelengths exhibited a monotonic decrease, while the extinction at long-wavelength region displayed the increase. Notably, the sum of extinction at two equilibrium wavelengths where the decrease and increase rates were mathematically balanced provided a time-independent parameter correlated with Cl- concentration, eliminating the need for suspension stabilization. This dual-wavelength strategy reduced detection time from >10 min to under 1 min with enhanced precision and achieved a detection limit of 0.013 mg/L. Mechanistic investigations suggested that the SDLI phenomenon arose from the wavelength-dependent differential responses of small-angle forward scattering light and transmitted light to increasing particle size, which ultimately led to opposite trends in extinction. The method was successfully applied to tap water and copper sulfate electroplating baths, demonstrating high precision, robustness, and suitability for rapid on-site analysis in complex matrices.",
+      "authors": [
+        {
+          "name": "Xue-Fang Zhang"
+        },
+        {
+          "name": "Le-Qian Hu"
+        },
+        {
+          "name": "Bei-Fa He"
+        },
+        {
+          "name": "Jie Tan"
+        },
+        {
+          "name": "Meng-Meng Lei"
+        },
+        {
+          "name": "Liu-Chuang Zhao"
+        }
+      ],
+      "publishedAt": "2026-03-26",
+      "source": "PubMed"
+    }
+  }
+]
