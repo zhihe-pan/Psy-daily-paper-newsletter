@@ -1,0 +1,399 @@
+[
+  {
+    "paper": {
+      "id": "42703743",
+      "title": "When an AI-generated diagnosis begins to matter: the AI consequence point.",
+      "summary": "A patient can arrive at a consultation already organised around an AI-generated disease name. When does that use become relevant to diagnostic quality and safety - not merely to AI adoption? We define the AI consequence point: the first identifiable moment at which a patient's previsit use of diagnostic AI materially changes what happens next in care. This change may involve whether or when the patient seeks care, how the problem is presented, which explanations are considered credible, or how diagnostic decisions are negotiated. The concept refers not to AI use itself, but to the point at which that use becomes consequential for the diagnostic process. Curiosity, momentary surprise, and a label that leaves no durable trace do not qualify. AI exposure is not the AI consequence point; an AI label is not a diagnosis. Benefits and harms are both possible: earlier appropriate care and better preparation, or delay, fixation, narrowed attention, and authority conflict. Diagnostic safety research should measure previsit framing, prespecify observable material changes in the three domains, and examine how clinical responses amplify or correct them.",
+      "authors": [
+        {
+          "name": "Haruki Saito"
+        },
+        {
+          "name": "Tetsuya Ohira"
+        }
+      ],
+      "publishedAt": "2026-09-07",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42685083",
+      "title": "Three-dimensional printing of ice structures via evaporative cooling in vacuum.",
+      "summary": "We demonstrate an approach to three-dimensional (3D) printing of ice structures by exploiting evaporative cooling. A micrometer-sized water jet is used to 3D print inside a vacuum chamber. The reduced ambient pressure leads to rapid evaporation of the extruded water, extracting latent heat, and quickly cooling the water well below 0 °C. Once deposited, the water freezes almost instantaneously into stable ice structures. We achieved high-fidelity printing via two distinct deposition techniques: layer-by-layer deposition for intricate 3D structures (e.g., a Christmas tree), and support-free mid-air printing for upright profiles (e.g., an in profile face), all achieved without cryogenic infrastructure, supporting materials, or external refrigeration. This approach directly visualizes fundamental thermodynamic principles-latent heat, evaporative cooling, and pressure-dependent phase transitions-while offering a relatively simple and scalable platform for ice-templated microfluidics and tissue engineering, or even extraterrestrial 3D printing.",
+      "authors": [
+        {
+          "name": "Menno Demmenie"
+        },
+        {
+          "name": "Stefan Kooij"
+        },
+        {
+          "name": "Daniel Bonn"
+        }
+      ],
+      "publishedAt": "2026-09-03",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42685081",
+      "title": "From wild to domestic: Single-cell transcriptomic perspectives on hippocampal regulation and evolution.",
+      "summary": "How domestication shapes brain evolution remains an open question. In this study, we integrated single-nucleus RNA sequencing (snRNA-seq), population genomics, and machine learning to investigate the hippocampal evolution under domestication. Across-species comparisons revealed that hippocampal cell type profiles are largely conserved across vertebrate species, while supporting the presence of adult hippocampal neurogenesis in birds. We further found that domestication and selective breeding likely influence the cellular composition and molecular regulation of the hippocampus. Our findings provide cellular evidence supporting the hypothesis that domestication affects adult hippocampal neurogenesis. Additionally, we showed that genes associated with neural progenitor cells (NPC) states and cell-marker programs are enriched for signatures of selection. Many of these genes function as regulators of neurogenesis and pathways mediating stress and fear reduction. Specifically, we identified selection at the FKBP5 promoter that may influence its expression in the NPC lineage, potentially contributing to stress-response regulation during domestication. Collectively, these results suggest that domestication is associated with hippocampal remodeling as part of an adaptive response to human-managed environments. This study provides a cellular and genetic perspective on how domestication reshapes the brain and offers a basis for further investigation into the mechanisms of neural evolution within the context of microevolution.",
+      "authors": [
+        {
+          "name": "Li-Rong Hu"
+        },
+        {
+          "name": "Yun-Mei Wang"
+        },
+        {
+          "name": "Jing-Yi Xie"
+        },
+        {
+          "name": "Li-Jiao Gu"
+        },
+        {
+          "name": "Si Si"
+        },
+        {
+          "name": "Zheng-Xi Liu"
+        },
+        {
+          "name": "Lan Long"
+        },
+        {
+          "name": "Tingting Yin"
+        },
+        {
+          "name": "Ali Esmailizadeh"
+        },
+        {
+          "name": "Fei Wu"
+        },
+        {
+          "name": "Xing Guo"
+        },
+        {
+          "name": "Nicolas Alexandre"
+        },
+        {
+          "name": "Yang-Qing Lu"
+        },
+        {
+          "name": "Ming-Li Li"
+        },
+        {
+          "name": "Ming-Shan Wang"
+        }
+      ],
+      "publishedAt": "2026-09-03",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42673459",
+      "title": "Asymmetrical modulation of fear expression via GABAB receptors in the mouse medial habenula.",
+      "summary": "The medial habenula (MHb) is implicated in regulating emotional responses to aversive events. Studies in zebrafish have identified a remarkable morphological left-right asymmetry in the dorsal habenula (zebrafish equivalent of mammalian MHb)-interpeduncular nucleus (IPN) pathway and its asymmetrical roles in behavior. However, there is little evidence for structural or functional lateralization in the mammalian MHb-IPN pathway. Here, we investigated the synaptic properties of left- and right-MHb afferents to the IPN and their roles in the expression of conditioned fear in mice. We found that each IPN neuron receives inputs from both left and right MHb, but the left MHb-originating synapses exhibit lower release probability and higher γ-aminobutyric acid type B receptor (GABABR)-mediated potentiation compared to the right MHb-originating synapses. Interestingly, these asymmetrical properties persist in the inversus visceral mutant mice with normal internal organ laterality (situs solitus), but nearly disappear in those with reversed internal organ laterality (situs inversus). Behaviorally, chemogenetic inhibition of cholinergic neurons and conditional deletion of GABABR in the left, but not the right, MHb significantly attenuated cue-dependent fear recall. Our results demonstrate functional asymmetry of the MHb under partial influence of the nodal flow in mice, revealing a predominant role of GABABR-mediated signaling in the left MHb-IPN pathway in modulating fear memories. These findings suggest that lateralized MHb pathways could represent a fundamental principle in the neural regulation of emotion across species but that they develop differently in zebrafish and mice.",
+      "authors": [
+        {
+          "name": "Cihan Önal"
+        },
+        {
+          "name": "Peter Koppensteiner"
+        },
+        {
+          "name": "Mary Muhia"
+        },
+        {
+          "name": "Elodie Le Monnier"
+        },
+        {
+          "name": "Ryuichi Shigemoto"
+        }
+      ],
+      "publishedAt": "2026-08-31",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42673458",
+      "title": "Functional fractionation of large-scale brain networks in the human subcortex.",
+      "summary": "The human brain operates through large-scale networks whose subcortical components are critical for consciousness, emotion, and cognition. While cortical network connectivity has been mapped with increasing precision, subcortical network mapping has lagged far behind due to two fundamental barriers: the overlapping and correlated nature of brain networks, which conventional analytic methods cannot disentangle, and the inherently low signal-to-noise ratio of functional imaging data within the subcortex. As a result, no consensus or normative atlas for subcortical functional brain connectivity exists-a critical gap that has impeded both basic neuroscience and the development of targeted neuromodulatory therapies. In this work, we address these barriers using NASCAR, a tensor decomposition method explicitly designed to separate overlapping and correlated networks, applied to resting-state functional MRI data from 1,000 healthy individuals in the Human Connectome Project. This approach enabled us to fractionate four large-scale brain networks into 15 highly reproducible subnetworks spanning both cortical and subcortical structures, revealing their sites of neuroanatomic overlap and defining a normative whole-brain functional atlas grounded in subcortical connectivity. As proof of principle for the translational potential of this framework, we show that individual patterns of subnetworks predict levels of consciousness in patients with severe traumatic brain injury. By establishing a gold-standard, openly accessible reference for subcortical functional brain organization, this work expands the landscape of human brain network mapping and opens avenues for precision targeting in the treatment of a broad spectrum of neurological and psychiatric disorders.",
+      "authors": [
+        {
+          "name": "Jian Li"
+        },
+        {
+          "name": "Alexander S Atalay"
+        },
+        {
+          "name": "Mark D Olchanyi"
+        },
+        {
+          "name": "Morgan K Cambareri"
+        },
+        {
+          "name": "Satrajit S Ghosh"
+        },
+        {
+          "name": "Andreas Horn"
+        },
+        {
+          "name": "Laura D Lewis"
+        },
+        {
+          "name": "Emery N Brown"
+        },
+        {
+          "name": "Bruce Fischl"
+        },
+        {
+          "name": "Hannah C Kinney"
+        },
+        {
+          "name": "Brian L Edlow"
+        }
+      ],
+      "publishedAt": "2026-08-31",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42673452",
+      "title": "Affect labeling down-regulates amygdala only in a dominant native language.",
+      "summary": "A successful strategy to down-regulate emotions is to simply label them (e.g., saying \"I'm sad\" when feeling sad). It however remains unresolved which mechanism is responsible for the efficacy of this approach known as affect labeling. Here, we constrain the proposed mechanisms of affect labeling by testing the scope of affect labeling in a new population previously neglected: bilinguals. Specifically, we examined two bilingual groups (Spanish-English, Spanish-Catalan) that varied in language dominance (N = 151). In unbalanced bilinguals, labeling reduced amygdala activity only in the dominant, native language, a pattern reproduced across both bilingual groups. In contrast, and surprisingly, balanced bilinguals showed no amygdala down-regulation in either language. Furthermore, the difference in amygdala activity between languages was larger with a reduced use of the second language. Connectivity analyses paralleled these effects: while the coupling between amygdala-ventrolateral prefrontal cortex was higher during affect labeling in a dominant native language, the relationship reversed in a weak second language. Overall, our findings identify language dominance as a boundary condition on affect labeling and suggest that current theories must incorporate language experience when explaining its neural regulatory effects.",
+      "authors": [
+        {
+          "name": "Tatiana Davydova"
+        },
+        {
+          "name": "Lidón Marin Marin"
+        },
+        {
+          "name": "Anastasia Cherednichenko"
+        },
+        {
+          "name": "Alexander Fengler"
+        },
+        {
+          "name": "Jesús Adrián Ventura"
+        },
+        {
+          "name": "María de Los Ángeles Palomar García"
+        },
+        {
+          "name": "Marc-Lluís Vives"
+        },
+        {
+          "name": "Víctor Costumero"
+        }
+      ],
+      "publishedAt": "2026-08-31",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42673451",
+      "title": "Aligning private incentives with societal goals in smallholder agriculture.",
+      "summary": "Small-scale farmers in low-income countries are often encouraged to adopt new inputs and practices that generate significant societal benefits, such as improved nutrition, food safety, and environmental sustainability. The limited observability of these attributes, combined with small production scale and misaligned private incentives, leads to adoption levels below the social optimum. Addressing this issue often requires combining instruments identified by different scientific disciplines, spanning across multiple policy sectors, an exercise that is rarely articulated jointly. This paper aims to clarify this, through a simple conceptual framework that explains how farmers decide whether to adopt socially desirable inputs and practices, given the returns and costs they face, their access to financial instruments, and the information and preferences that shape their decisions. It identifies the relevant policy channels, and asks whether the social returns justify the public cost of delivering them. We apply it to three case studies: aflatoxin mitigation, biofortified crop varieties, and conservation agriculture. For each, we identify which parameters bind, which instruments can move them, and how emerging technologies may further contribute. The agenda that follows moves from seeking single-instrument fixes toward identifying the right combination of existing and emerging policy-actionable tools.",
+      "authors": [
+        {
+          "name": "Gashaw T Abate"
+        },
+        {
+          "name": "Kaleab Baye"
+        },
+        {
+          "name": "Tanguy Bernard"
+        },
+        {
+          "name": "Jordan Chamberlin"
+        },
+        {
+          "name": "Ruth Hill"
+        },
+        {
+          "name": "Rachid Moussadek"
+        },
+        {
+          "name": "Lamine Senghor"
+        }
+      ],
+      "publishedAt": "2026-08-31",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42621372",
+      "title": "Targeted FcRn to deliver epitope-optimized RBD confers broad-spectrum mucosal protection against SARS-CoV-2.",
+      "summary": "Current respiratory vaccines face two major obstacles: limited breadth of protection and insufficient induction of mucosal immunity. Here, we present a neonatal Fc receptor (FcRn)-targeted mucosal delivery strategy integrating computational antigen design to address both challenges. Using severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) as a model virus, we employed Epigraph to generate T cell epitope-optimized consensus sequences for the receptor-binding domain (RBD) and incorporated them into a modified human IgG1 Fc framework engineered for enhanced FcRn binding, yielding a single fusion antigen. In vitro, this antigen efficiently binds FcRn, facilitating epithelial transcytosis and prolonging mucosal retention. In vivo, it elicits robust cellular, humoral, and mucosal immune responses against SARS-CoV-2 and its major variants in both respiratory and systemic compartments, with evidence of tissue-resident memory responses. Following intranasal administration, the antigen conferred complete cross-protection against lethal challenge with representative SARS-CoV-2 and its variants. Notably, a low antigen dose of 0.2 μg in a two-dose regimen achieved full protection. Immunomics further revealed that this design induces a broader T and B cell repertoire. Collectively, this study establishes a generalizable framework that combines epitope-optimized antigen design with FcRn-mediated mucosal delivery, providing a promising strategy for broad-spectrum vaccine development against rapidly evolving respiratory viruses.",
+      "authors": [
+        {
+          "name": "Xinlan Chen"
+        },
+        {
+          "name": "Yan Wu"
+        },
+        {
+          "name": "Yanhai Wang"
+        },
+        {
+          "name": "Chenshu Zhao"
+        },
+        {
+          "name": "Lijuan Fang"
+        },
+        {
+          "name": "Xuerui Zhu"
+        },
+        {
+          "name": "Jia Lu"
+        },
+        {
+          "name": "Xiao Gao"
+        },
+        {
+          "name": "Zhongfa Zhang"
+        },
+        {
+          "name": "Haoyu Li"
+        },
+        {
+          "name": "Yingrui Yan"
+        },
+        {
+          "name": "Pengfei Zhou"
+        },
+        {
+          "name": "Xiaoyan Pan"
+        }
+      ],
+      "publishedAt": "2026-08-20",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42566727",
+      "title": "Clinical Reasoning: A 79-Year-Old Man With Subacute Onset Involuntary Facial Movements and Discoordination.",
+      "summary": "A 79-year-old man with metastatic Merkel cell carcinoma undergoing cancer-directed treatment was admitted to the hospital with 1 week of bilateral upper and lower extremity tremor and nearly continuous involuntary facial movements. These abnormal movements of his face, head, and limbs were exacerbated by purposeful movement. Examination revealed dysarthria with tremulous speech, intention tremors of the head and all extremities, distally diminished vibration sense with hyporeflexia, bilateral upper extremity dysdiadochokinesis, bilateral lower extremity dysmetria on heel-to-shin testing, and truncal ataxia. MRI of the brain showed no acute abnormalities. CSF and serum testing showed evidence of CNS inflammation with a CSF lymphocytic pleocytosis and elevated total protein. Diagnosis was ultimately made using serum and CSF studies. Here, we discuss the differential diagnosis of 2 weeks of diffuse intention tremor, involuntary facial movements, and ataxia. We discuss the workup, diagnosis, acute and nonacute management of this condition, as well as important clinical points regarding the broader category into which this diagnosis falls.",
+      "authors": [
+        {
+          "name": "Amara Plaza-Jennings"
+        },
+        {
+          "name": "Prashanth Rajarajan"
+        },
+        {
+          "name": "Meabh O'Hare"
+        },
+        {
+          "name": "Galina Gheihman"
+        },
+        {
+          "name": "Giovanna Sophia Manzano"
+        }
+      ],
+      "publishedAt": "2026-08-07",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42555885",
+      "title": "Associations Between Cerebral Amyloid Angiopathy, Cognitive Impairment, and Depressive Symptoms.",
+      "summary": "BACKGROUND AND OBJECTIVES: Cerebral amyloid angiopathy (CAA) is associated with intracerebral hemorrhage, cognitive decline, and dementia. We examined (1) associations between CAA, cognitive impairment, and depressive symptoms; (2) whether depressive symptoms mediate the relationship between CAA and cognition; and (3) whether CAA neuroimaging markers predict depressive symptom severity.\nMETHODS: Recruitment occurred through memory and stroke prevention clinics across 2 sites. Cross-sectional data from probable CAA and controls were analyzed. Neuropsychological tests were grouped into episodic memory, executive function, and processing speed domains. Scores ≥5 on the Geriatric Depression Scale: Short Form (GDS-15) defined \"possible depression.\" Regression and mediation analyses examined associations among CAA status, cognition, and depressive symptoms, and in CAA, associations between neuroimaging biomarkers and GDS-15.\nRESULTS: In 85 CAA (mean age 73.5; 35.3% female) and 83 controls (mean age 68.8; 62.7% female), CAA status was associated with poorer performance across cognitive domains. Higher GDS-15 scores were associated with poorer performance across domains. CAA participants had higher odds of \"possible depression\" (odds ratio 15.71; 95% CI 4.26-80.05, p < 0.001) and scored 2.71 times higher on the GDS-15 than controls (95% CI 2.10-3.51, p < 0.001). In mediation, \"possible depression\" accounted for significant proportions of the effect of CAA on episodic memory (11%; β = -0.14, 95% CI -0.30 to -0.03, p = 0.014) and executive function (9%; β = -0.14, 95% CI -0.30 to -0.02, p = 0.016), but not processing speed (2%; β = -0.04, 95% CI -0.18 to 0.08, p = 0.56). In 81 CAA participants, higher GDS-15 scores were associated with lower mean cortical thickness (count ratio [CR] 1.33 per SD decrease in thickness, 95% CI 1.09-1.62, p = 0.005), presence of cortical superficial siderosis (CR 2.04, 95% CI 1.35-3.09, p < 0.001), and higher CAA small vessel disease total score (CR 1.16, 95% CI 1.00-1.35, p = 0.047).\nDISCUSSION: CAA participants exhibited greater depressive symptoms and poorer cognition than controls. Depressive symptoms mediated a small portion of the association between CAA and cognition. Cerebral cortex damage may underlie some depressive symptoms. Interventions targeting CAA-related neurodegeneration and treatment of depressive symptoms may support cognitive health in CAA.",
+      "authors": [
+        {
+          "name": "Nikita Nukala"
+        },
+        {
+          "name": "Ryan T Muir"
+        },
+        {
+          "name": "Andrew E Beaudin"
+        },
+        {
+          "name": "Cheryl R McCreary"
+        },
+        {
+          "name": "Myrlene Gee"
+        },
+        {
+          "name": "Krista Nelles"
+        },
+        {
+          "name": "Feryal Saad"
+        },
+        {
+          "name": "Janina Valencia"
+        },
+        {
+          "name": "Glen C Jickling"
+        },
+        {
+          "name": "Dylan X Guan"
+        },
+        {
+          "name": "Zahinoor Ismail"
+        },
+        {
+          "name": "Richard M Camicioli"
+        },
+        {
+          "name": "Eric E Smith"
+        }
+      ],
+      "publishedAt": "2026-08-05",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42242815",
+      "title": "Dual-modal deep learning model with microstrip isoelectric focusing and imaging strategy for feed classification.",
+      "summary": "BACKGROUND: Accurate identification of animal-derived feed ingredients is essential for ensuring livestock safety and preventing disease transmission. However, conventional analytical methods (e.g., PCR, microscopy) are often hindered by high costs, low throughput, or limited universality. Furthermore, single-modal approaches face inherent \"blind spots\": biochemical methods may struggle with biologically homologous species, while visual inspection fails with indistinguishable powders. Therefore, there is a critical need for an intelligent analytical strategy that synergizes multidimensional information for robust classification in complex matrices.\nRESULTS: Herein, we established a dual-modal deep learning framework integrated with an array-format microstrip isoelectric focusing (mIEF) device. This platform simultaneously captures orthogonal analytical features: microscopic biochemical fingerprints via stable mIEF profiling, and macroscopic physical textures via digital RGB imaging. To maximize identification accuracy, a dual-branch ResNet18 model equipped with a channel attention mechanism was constructed. This algorithm adaptively fuses the two modalities, effectively compensating for the limitations of individual sensors. The proposed model achieved a superior classification accuracy of 96.53% across 15 feed categories, significantly outperforming single-modal baselines (mIEF-only: 83.47%; image-only: 49.33%). Notably, the integrated device supports parallel processing of 12-24 samples per run at an estimated cost of less than $1.5 per sample.\nSIGNIFICANCE: This study presents a practical analytical strategy for feed traceability by integrating mIEF-based protein fingerprinting with digital image analysis. The combination of biochemical and visual information improves classification performance compared with either modality alone, while the array-format device supports parallel sample processing at low cost. The proposed platform provides a feasible approach for routine screening of animal-derived feed ingredients, particularly in laboratories where rapid, accessible, and cost-effective methods are needed.",
+      "authors": [
+        {
+          "name": "Youli Tian"
+        },
+        {
+          "name": "Xiunan Lu"
+        },
+        {
+          "name": "Yiren Cao"
+        },
+        {
+          "name": "Ke-Er Chen"
+        },
+        {
+          "name": "Qiang Zhang"
+        },
+        {
+          "name": "Weiwen Liu"
+        },
+        {
+          "name": "Chunhua Sun"
+        },
+        {
+          "name": "Xu Xu"
+        },
+        {
+          "name": "Yuxing Wang"
+        },
+        {
+          "name": "Chengxi Cao"
+        }
+      ],
+      "publishedAt": "2026-06-11",
+      "source": "PubMed"
+    }
+  }
+]
