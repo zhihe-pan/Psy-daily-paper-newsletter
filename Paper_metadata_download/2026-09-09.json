@@ -1,0 +1,381 @@
+[
+  {
+    "paper": {
+      "id": "42708350",
+      "title": "MDMA-Assisted Therapy May Decrease PTSD Symptoms, Dissociation, Depression, and Functional Disability: A Systematic Review and Meta-Analysis.",
+      "summary": "There is a need for new effective treatment options for posttraumatic stress disorder (PTSD), as many people with PTSD do not fully recover despite current treatments. 3,4-methylenedioxymethamphetamine (MDMA)-assisted psychotherapy (MDMA-AT) is emerging as a new treatment option. We assessed the current body of MDMA-AT evidence for effectiveness in treating PTSD, associated impairments, and quality of life by conducting a systematic review and meta-analysis of randomized controlled trials. Databases from ClinicalTrials.gov, MEDLINE, PsycInfo, PsycArticles, and Cochrane Library were searched from inception to June 2025. Data from seven randomized control trials (both published and unpublished) compared MDMA-AT with low-dose MDMA or placebo control combined with psychotherapy. Identified studies were not included in recent article retractions. Effect sizes were calculated using standardized mean difference for Clinician-Administered PTSD Scale scores and mean difference for secondary measures. MDMA-AT may significantly improve PTSD, dissociation, depression, and functional impairment, compared to controls, but not sleep quality. These results support MDMA-AT for PTSD core symptoms and quality-of-life measures. The evidence, however, is limited by small sample sizes in some studies, challenges with blinding in psychedelic studies, use of non-standardized therapies, and a common sponsor for all trials. While limitations exist, these findings provide evidence for a new emerging treatment option for PTSD.",
+      "authors": [
+        {
+          "name": "Warwick M Green"
+        },
+        {
+          "name": "Sanket B Raut"
+        },
+        {
+          "name": "Fionnghuala L J James"
+        },
+        {
+          "name": "David M Benedek"
+        },
+        {
+          "name": "Robert J Ursano"
+        },
+        {
+          "name": "Vincent F Capaldi"
+        },
+        {
+          "name": "Luke R Johnson"
+        }
+      ],
+      "publishedAt": "2026-09-08",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42626340",
+      "title": "Pediatric occipital lobe epilepsy: A modern review of etiological classification, management, and outcomes.",
+      "summary": "Pediatric occipital lobe epilepsy (OLE) comprises syndromes with seizures originating from the posterior cerebral cortex. Previously \"benign\", recent International League Against Epilepsy (ILAE) updates reclassified these as self-limited or structural focal epilepsies, reflecting their complex causes and morbidity potential. The 2017 ILAE guidelines shifted from syndromic recognition to an etiology-driven approach. High-resolution magnetic resonance imaging is crucial to differentiate self-limited genetic syndromes from structural OLE (e.g., focal cortical dysplasia), as the latter often requires surgery. Self-limited epilepsy with autonomic seizures (formerly Panayiotopoulos syndrome) presents with prolonged nocturnal autonomic seizures. Childhood occipital visual epilepsy (previously Gastaut type) manifests as frequent, brief daytime visual hallucinations. Despite high seizure freedom rates with monotherapy, patients face neurocognitive challenges in visuospatial processing and academic performance. For drug-resistant structural cases, surgery offers high seizure freedom rates, though with risk of visual deficits. Accurate differentiation between idiopathic and structural OLE is essential for improving outcomes. The shift from \"benign\" to \"self-limited\" terminology emphasizes the need to monitor cognitive comorbidities and syndrome evolution. Early diagnosis is critical to avoid clinical mimics and enhance neurodevelopmental outcomes. This review examines the evolving landscape of pediatric OLE, highlighting the shift from syndromic to etiological classification and management strategies.",
+      "authors": [
+        {
+          "name": "Preeti Srivastava"
+        },
+        {
+          "name": "Deb Sanjay Nag"
+        },
+        {
+          "name": "Shikha Swaroop"
+        },
+        {
+          "name": "Sanjay Kumar Tanti"
+        },
+        {
+          "name": "Shikhar Deep Jain"
+        },
+        {
+          "name": "Rishi Anand"
+        },
+        {
+          "name": "Gaurav Patel"
+        }
+      ],
+      "publishedAt": "2026-08-21",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42626218",
+      "title": "Antibiotic stewardship in the context of management of early onset neonatal sepsis-an evolving paradigm shift.",
+      "summary": "Early onset neonatal sepsis (EOS) is a rare but potentially life-threatening condition in term and late preterm infants. Clinicians face the challenge of promptly identifying and treating the small subset of neonates with true sepsis, while avoiding unnecessary intervention in the majority who remain unaffected. The clinical overlap between sepsis and normal physiological adaptation in the first 72 hours of life, combined with the limitations of current diagnostic modalities, has historically led to a culture of presumed safety, resulting in the overtreatment of many healthy infants with antibiotics. Such early antibiotic exposure is associated with numerous invasive procedures, disruption of mother-infant bonding, increased healthcare utilisation, and significant costs. Moreover, the global rise of antibiotic resistance, the slow pace of novel antibiotic development, and growing concerns regarding microbiome dysgenesis and its long-term health consequences have catalysed a paradigm shift. Neonatal antibiotic stewardship now stands as a cornerstone of EOS management, seeking to balance the imperative for rapid, effective therapy against the risks of antimicrobial overuse. This review traces the evolution of antibiotic stewardship within neonatal care, highlighting the development and implementation of risk-based guidelines and strategies and decision-support models designed to curtail inappropriate antibiotic use without compromising clinical safety. By synthesising contemporary evidence and practice innovations, we emphasise the necessity for ongoing evaluation and refinement of stewardship approaches to optimise outcomes for neonates at risk of EOS. The journey of neonatal antibiotic stewardship is dynamic and ongoing, demanding sustained collaboration, research, and a commitment to safe, evidence-based clinical practice.",
+      "authors": [
+        {
+          "name": "Amit Kandhari"
+        },
+        {
+          "name": "Megha Jagga"
+        },
+        {
+          "name": "Sujoy Banerjee"
+        }
+      ],
+      "publishedAt": "2026-08-21",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42626154",
+      "title": "Pediatric kidney transplant disparities.",
+      "summary": "BACKGROUND: Kidney transplantation (KT) is essential for end-stage renal disease, significantly improving survival and quality of life. Yet, in pediatric renal disease management, minority children face poorer dialysis outcomes and reduced access to transplantation.\nAIM: To identify and understand these differences in the pediatric population.\nMETHODS: Using ICD-10 codes, we queried the 2022 Health Care Cost and Use Project Kid's Inpatient Database for admissions with a primary or secondary diagnosis of severe chronic kidney disease (sCKD), namely stages 4 and 5, or a KT procedure. Patient demographics, insurance types, and hospital stay metrics were assessed through statistical analyses including Wilcoxon Rank Sum, χ 2, and logistic regression.\nRESULTS: A total of 636 hospital admissions related to KT surgery and 3733 hospital admissions with sCKD as the primary diagnosis were identified. In both the KT and sCKD cohorts, most patients were White (42.6% vs 36.6%), male (59.8% in both groups), aged 12-18 years (57.9% vs 50.3%), and insured by Medicaid (35.7% vs 43.0%). KT and sCKD hospitalizations were uncommon among infants aged 0-1 year (1.6% and 9.9%, respectively). Analysis of income quartiles based on patients' residential zip codes demonstrated no significant differences between those who underwent KT and those with sCKD without transplant. Although mortality rates did not differ statistically between groups, a numerical difference was observed, with higher mortality in the sCKD cohort compared to the KT cohort (16 deaths vs 4 deaths).After adjusting for socioeconomic and geographic factors, Black race was independently associated with lower odds of undergoing KT (adjusted odds ratio 0.69; 95% confidence interval: 0.53-0.89).\nCONCLUSION: Pediatric KT recipients were more likely to be male, White, and aged 12-18 years. Racial disparities persist, with ethnic minority groups-particularly Black patients-facing reduced access to KT. These findings underscore the necessity of implementing targeted interventions to promote equitable access to pediatric KT.",
+      "authors": [
+        {
+          "name": "Sathyaprasad C Burjonrappa"
+        },
+        {
+          "name": "Sanjana Eranki"
+        },
+        {
+          "name": "Jasmin Capellan"
+        }
+      ],
+      "publishedAt": "2026-08-21",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42625967",
+      "title": "Chronic postsurgical pain in children: Current evidence and clinical perspectives.",
+      "summary": "The chronification of acute pain following surgery is increasingly recognized, with a reported prevalence of 10%-63%, likely reflecting the increasing number of surgical interventions performed in the pediatric population. This pain is more severe after high-risk surgeries, such as spine surgery, hernia repair, and thoracotomy. Currently, the literature reports highly variable definitions of chronic postsurgical pain (CPSP) owing to a lack of objective diagnostic parameters. The International Association for the Study of Pain defines CPSP as \"chronic pain that develops or increases in intensity after surgery or a tissue injury and persists beyond three months, without other causes\". This pain can be localized to the surgical field or referred to the affected nerve domain. Similarly, the reported incidence of CPSP in children is largely from low-quality studies and varies between 20% and 50% in the studied population. Its neuropathic features are strongly associated with psychological consequences, functional limitations, and adverse long-term health outcomes. Potential risk factors in the pediatric population include psychosocial behaviors, pre-existing pain, postsurgical pain intensity, and the type of surgery performed. Proposed pathophysiological mechanisms include a pro-inflammatory state after surgery, leading to altered peripheral and central sensitization, genomic factors, epigenetic modifications, and altered brain physiology associated with chronic pain. Understanding the pathophysiology helps target interventions for pre-existing pain, surgery-related pain, anxiety, and opioid-induced hyperalgesia. Preoperative protocolized analgesic strategies, cognitive behavioral therapy, and acupuncture have been tried with varied success rates, although concrete data are lacking. The literature on regional analgesia is still limited in the pediatric population and represents a potential area for further research. Furthermore, rehabilitation interventions addressing postoperative trajectories with early referral to transitional pain clinics may offer promising avenues for improving outcomes. There is a significant knowledge gap, a scarcity of available data on CPSP, and difficulties in addressing pain in the pediatric population, underscoring the need for this review.",
+      "authors": [
+        {
+          "name": "Poonam Godhwal"
+        },
+        {
+          "name": "Anju Gupta"
+        },
+        {
+          "name": "Aarzoo Sirohi"
+        },
+        {
+          "name": "Nishkarsh Gupta"
+        }
+      ],
+      "publishedAt": "2026-08-21",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42541912",
+      "title": "International phase IV field study to validate the European Organisation for Research and Treatment of Cancer questionnaire for assessing the health-related quality of life of cancer survivors: The EORTC QLQ-SURV100.",
+      "summary": "INTRODUCTION: Cancer survivors face unique and persistent health-related quality of life (HRQoL) challenges. Existing HRQoL questionnaires for survivors lack content regarding chronic physical issues and have typically included limited cancer types and languages/cultures, affecting breadth of content and generalisability. We developed and validated the EORTC QLQ-SURV100, a questionnaire to assess HRQoL in disease-free survivors of diverse cancers. A conceptual framework of HRQoL in cancer survivors, developed in previous study phases and conceptualised as survivors' self-reported physical, mental and social functioning and well-being, formed the basis for questionnaire content.\nMETHODS: The QLQ-SURV100 was administered to 1480 participants across 46 centres in 21 countries (31% breast cancer, 23% colorectal, 22% prostate, 24% other cancers), who had completed primary treatment 1-10 years earlier and had no evidence of active disease. Structural validity of the 21 multi-item questionnaire scales was assessed via confirmatory factor analysis; test-retest reliability via intraclass correlation coefficients (ICCs); construct validity through known-group comparisons; and cross-cultural validity and sex invariance through differential item functioning (DIF). Item response theory (IRT) analyses evaluated item redundancy and performance.\nRESULTS: The QLQ-SURV100 showed strong structural validity (Comparative Fit Index = 0.951; Tucker-Lewis Index = 0.944; Root Mean Square Error of Approximation = 0.046), with most standardised factor loadings > 0.7. Test-retest ICCs exceeded 0.7 for 27 of 35 scales and 0.6 for 34 scales. Known-groups analyses supported most hypotheses, confirming sensitivity to treatment, comorbidity, age, sex, and education. DIF analysis indicated minor cross-cultural item bias, but no sex-related DIF. IRT analysis found no redundant items.\nCONCLUSIONS: The EORTC QLQ-SURV100 showed satisfactory structural validity, test-retest reliability and construct validity; limited item redundancy; and measurement invariance across the sex and language groups examined.",
+      "authors": [
+        {
+          "name": "Louis Fox"
+        },
+        {
+          "name": "Marieke van Leeuwen"
+        },
+        {
+          "name": "Jennifer M Jones"
+        },
+        {
+          "name": "Amal Al-Omari"
+        },
+        {
+          "name": "Haneen Abaza"
+        },
+        {
+          "name": "Muna Al-Khaifi"
+        },
+        {
+          "name": "Martin Eichler"
+        },
+        {
+          "name": "Sue Hartup"
+        },
+        {
+          "name": "Galina Velikova"
+        },
+        {
+          "name": "Nanna Friðriksdóttir"
+        },
+        {
+          "name": "Juhee Cho"
+        },
+        {
+          "name": "Nathalie Vanlaer"
+        },
+        {
+          "name": "Anne Rogiers"
+        },
+        {
+          "name": "Stefania Costi"
+        },
+        {
+          "name": "Silvia Soncini"
+        },
+        {
+          "name": "Trille Kristina Kjær"
+        },
+        {
+          "name": "Volker Arndt"
+        },
+        {
+          "name": "Daniela Doege"
+        },
+        {
+          "name": "Ali Alkan"
+        },
+        {
+          "name": "Hiroto Ishiki"
+        },
+        {
+          "name": "Elke Rammant"
+        },
+        {
+          "name": "Jannike Baumann"
+        },
+        {
+          "name": "Marianne Sinn"
+        },
+        {
+          "name": "Maria Antonietta Annunziata"
+        },
+        {
+          "name": "Juan Ignacio Arraras"
+        },
+        {
+          "name": "Mieke Van Hemelrijck"
+        },
+        {
+          "name": "Andrea Pace"
+        },
+        {
+          "name": "Naomi Clatworthy"
+        },
+        {
+          "name": "Victoria King"
+        },
+        {
+          "name": "Lærke Kjær Tolstrup"
+        },
+        {
+          "name": "Akihiko Shimomura"
+        },
+        {
+          "name": "Meropi Kontogianni"
+        },
+        {
+          "name": "Samantha C Sodergren"
+        },
+        {
+          "name": "Nikolina Vukšić"
+        },
+        {
+          "name": "Morten Aagaard Petersen"
+        },
+        {
+          "name": "Jacobien M Kieffer"
+        },
+        {
+          "name": "Michael Jefford"
+        },
+        {
+          "name": "Tara Chalk"
+        },
+        {
+          "name": "Teresa Young"
+        },
+        {
+          "name": "Nayanaben Borda"
+        },
+        {
+          "name": "Ofir Morag"
+        },
+        {
+          "name": "Amelie Harle"
+        },
+        {
+          "name": "Duška Petranović"
+        },
+        {
+          "name": "Elena Meggiolaro"
+        },
+        {
+          "name": "Silvia De Padova"
+        },
+        {
+          "name": "Femke Jansen"
+        },
+        {
+          "name": "Nazim Serdar Turhal"
+        },
+        {
+          "name": "Chiara Maria Navarra"
+        },
+        {
+          "name": "Ingo Baumann"
+        },
+        {
+          "name": "Cecilie Delphin Amdal"
+        },
+        {
+          "name": "Vassilios Vassiliou"
+        },
+        {
+          "name": "Monica Pinto"
+        },
+        {
+          "name": "Saiko Kurosawa"
+        },
+        {
+          "name": "Ingvild Vistad"
+        },
+        {
+          "name": "Muna Al-Balushi"
+        },
+        {
+          "name": "Ahmad Al-Ghoche"
+        },
+        {
+          "name": "Linda Dirven"
+        },
+        {
+          "name": "Andreia Capela"
+        },
+        {
+          "name": "Zeinab Elsayed"
+        },
+        {
+          "name": "Sara Montemuiño"
+        },
+        {
+          "name": "Patricia Willisch"
+        },
+        {
+          "name": "Neil Aaronson"
+        },
+        {
+          "name": "Lonneke van de Poll-Franse"
+        },
+        {
+          "name": "EORTC Quality of Life Group"
+        }
+      ],
+      "publishedAt": "2026-08-22",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42297345",
+      "title": "Anauralia and aphantasia: Prevalence and distinct associations with personality, well-being and self-regulation in a large, representative sample.",
+      "summary": "Prevalence rates and psychological correlates of anauralia (absence of auditory imagery) and aphantasia were examined in a large and representative sample (N = 32,784), by presenting two questions about sensory imagery in the 13th wave of the New Zealand Attitudes and Values Study (NZAVS). The single auditory and visual items employed showed excellent concordance with multi-item imagery questionnaires (Plymouth Sensory Imagery Questionnaire, VVIQ) and revealed closely similar prevalence rates for anauralia and aphantasia (.8%), with the latter showing excellent agreement with earlier estimates of aphantasia prevalence. Importantly, anauralia and aphantasia were associated with distinct psychological profiles. Anauralia, but not aphantasia, was associated with higher conscientiousness and contrary to our initial hypothesis anauralics reported better self-control, including superior control of health-related behaviours compared with individuals who experience typical auditory imagery. Aphantasics, but not anauralics, reported: higher levels of perfectionism and psychological distress; poorer wellbeing; lower self-esteem; and stronger feelings of being an outsider compared to participants reporting typical visual imagery. The latter comparisons of anauralic and aphantasic participants with those reporting typical imagery were highly reliable but relatively small in size (Glass's delta = .2 - .3). Contrary to hypothesis, individual differences in auditory imagery were unrelated to religious beliefs or frequency of praying. Implications of these findings are discussed.",
+      "authors": [
+        {
+          "name": "Anthony J Lambert"
+        },
+        {
+          "name": "Zoé Mi Schelp"
+        },
+        {
+          "name": "Gage Quigley-Tump"
+        },
+        {
+          "name": "Victoria Tan"
+        },
+        {
+          "name": "Suzanne Purdy"
+        },
+        {
+          "name": "Chris Sibley"
+        }
+      ],
+      "publishedAt": "2026-07-19",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42297344",
+      "title": "Distinct neurocognitive pathways underlying the effects of ostracism and social rejection on visual perspective-taking.",
+      "summary": "Social exclusion, including ostracism (being ignored) and social rejection (direct negative feedback), exerts different effects on visual perspective-taking (VPT). However, existing theories and empirical studies have failed to adequately explain these differences, with the underlying neurocognitive mechanisms remaining unclear. This study compared the behavioral and event-related potential (ERP) effects of ostracism (Cyberball game) and social rejection (modified get-acquainted paradigm) on VPT, quantifying three ERP components: fronto-central N200, centro-parietal P300 and temporo-parietal LSW, which reflect general conflict monitoring, conflict execution and sustained information integration, and specifically index self-other perspective conflict detection, perspective transformation resource investment and non-egocentric perspective maintenance in VPT respectively. Results showed the social rejection group had higher negative affect, reduced high-conflict VPT accuracy, larger N200 amplitudes and attenuated P300/LSW amplitudes (especially in the other-inconsistent condition), while the ostracism group exhibited slower VPT reaction times without accuracy loss or significant ERP attenuation. These findings indicate social rejection impairs VPT by heightening conflict monitoring, while ostracism affects VPT via cognitive deconstruction and processing slowing, two distinct pathways aligning with integrated theoretical interpretations. This study clarifies the need to distinguish ostracism and social rejection in social cognition research and provides neurocognitive evidence for VPT deficits after social exclusion.",
+      "authors": [
+        {
+          "name": "Man Zheng"
+        },
+        {
+          "name": "Qian Tang"
+        },
+        {
+          "name": "Suhao Peng"
+        }
+      ],
+      "publishedAt": "2026-07-19",
+      "source": "PubMed"
+    }
+  }
+]
