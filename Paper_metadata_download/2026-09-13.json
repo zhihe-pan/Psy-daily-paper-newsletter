@@ -1,0 +1,249 @@
+[
+  {
+    "paper": {
+      "id": "42314953",
+      "title": "Cerebellar metabolic alterations and childhood physical abuse as biomarkers in bipolar disorder with comorbid borderline personality disorder.",
+      "summary": "Our study investigated the neuropsychological mechanisms underlying BD comorbid with BPD by examining childhood trauma and metabolic changes in the cerebellum. We found that BD & BPD patients reported higher levels of physical abuse and demonstrated distinct cerebellar metabolic profiles characterized by elevated NAA/Cr and Cho/Cr ratios in the right cerebellum compared to BD patients without BPD. Notably, these ratio changes were driven by significantly increased absolute NAA concentrations and decreased creatine levels, whereas absolute choline concentrations and NAA/Cho ratios remained unchanged. Physical abuse was inversely correlated with the right cerebellar Cho/Cr ratio. These findings suggest that childhood trauma may interact with cerebellar energy metabolic dysfunction-characterized by neuronal hypermetabolism (elevated NAA) and compromised energy buffering (reduced Cr)-in the pathophysiology of this comorbidity. This study provides new insights into the biological underpinnings linking early-life adversity and cerebellar neurochemical alterations in BD & BPD.",
+      "authors": [
+        {
+          "name": "Xiaodong Song"
+        },
+        {
+          "name": "Dong Huang"
+        },
+        {
+          "name": "Shuya Yan"
+        },
+        {
+          "name": "Qilin Zhong"
+        },
+        {
+          "name": "Ying Wang"
+        },
+        {
+          "name": "Yiliang Zhang"
+        },
+        {
+          "name": "Jianzhao Zhang"
+        },
+        {
+          "name": "Shilin Liu"
+        },
+        {
+          "name": "Shuming Zhong"
+        },
+        {
+          "name": "Yanbin Jia"
+        }
+      ],
+      "publishedAt": "2026-07-12",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42302888",
+      "title": "Neuroimaging studies of non-suicidal self-injury in young adults with major depressive disorder.",
+      "summary": "Non-suicidal self-injury (NSSI) is highly prevalent in adolescents with major depressive disorder (MDD), elevating suicide risk and indicating poor prognosis. While neuroimaging studies have examined NSSI and MDD separately, systematic reviews focusing on major depressive disorder with non-suicidal self-injury (nsMDD) remain scarce. In accordance with PRISMA guidelines, this study systematically reviewed 24 neuroimaging studies (2013-2025) involving 2379 participants (mean age ≤23 years) from PubMed, PsycInfo, and Embase. Using the Newcastle-Ottawa scale for quality assessment, we found 20 functional magnetic resonance imaging (resting-state fMRI and task fMRI) and 4 structural magnetic resonance imaging (MRI) studies. Key findings identified distinct neural signatures specific to nsMDD that differentiate it from depression without NSSI, including: suppression of the frontal gyrus, reduced volume of the putamen, abnormal activation of the lingual gyrus, midline cortical structures, and the prefrontal-limbic-mesencephalic circuit. In terms of neural networks, the default mode network exhibits enhanced connectivity with other neural networks, while the frontoparietal network shows abnormal suppression. Despite limitations including cross-sectional designs, gender imbalance, and scarce multimodal data, these findings provide a basis for targeted intervention that require longitudinal validation of their clinical utility.",
+      "authors": [
+        {
+          "name": "Xiaodan Dong"
+        },
+        {
+          "name": "Zhiqiu He"
+        },
+        {
+          "name": "Haiyan Xie"
+        }
+      ],
+      "publishedAt": "2026-07-12",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42276282",
+      "title": "Cell-type-specific CB1R signaling modulates prefrontal synaptic responses to HF-rTMS in chronically stressed mice.",
+      "summary": "High-frequency repetitive transcranial magnetic stimulation (HF-rTMS) is an effective treatment for depression, but its synaptic mechanisms remain incompletely understood. Using a chronic unpredictable mild stress (CUMS) mouse model, we investigated whether cannabinoid receptor 1 (CB1R) signaling in distinct neuronal populations contributes to the amelioration of depressive-like behaviors by HF-rTMS through modulation of prefrontal inhibitory synaptic transmission. Behavioral assessments were combined with whole-cell patch-clamp recordings of spontaneous inhibitory postsynaptic currents (sIPSC) in prefrontal cortex pyramidal neurons, along with systemic pharmacological CB1R blockade (AM281) and conditional knockout mice with deletion of CB1R in glutamatergic (vGlut1-CB1R-KO) or GABAergic (GAD2-CB1R-KO) neuronal populations. sIPSC frequency and amplitude were analyzed as indirect indices of presynaptic release and postsynaptic receptor function, respectively. HF-rTMS ameliorated CUMS-induced depressive-like behaviors and partially normalized sIPSC alterations (frequency and amplitude), which were attenuated by AM281. In vGlut1-CB1R-KO mice, baseline sIPSC frequency was reduced and half-width prolonged; CUMS exacerbated these alterations and induced anhedonia/anxiety, yet HF-rTMS failed to rescue any behavioral or synaptic changes. In contrast, GAD2-CB1R-KO mice exhibited baseline anxiety-like behavior accompanied by increased sIPSC frequency, consistent with loss of presynaptic CB1R-mediated suppression of GABA release, but showed attenuated-CUMS-induced depressive-like behaviors,; HF-rTMS partially modulated postsynaptic function (increased amplitude, accelerated kinetics). These findings suggest that glutamatergic CB1R signaling contributes to the ability of HF-rTMS to modulate presynaptic inhibitory function. Meanwhile, GABAergic CB1R ablation is accompanied by reduced behavioral vulnerability to chronic stress and may shift HF-rTMS actions toward potential postsynaptic modulatory processes. Collectively, these observations implicate cell-type-specific CB1R signaling in shaping the synaptic responses of prefrontal inhibitory circuits to HF-rTMS.",
+      "authors": [
+        {
+          "name": "Cui-Hong Zhou"
+        },
+        {
+          "name": "Huan Yu"
+        },
+        {
+          "name": "Lang He"
+        },
+        {
+          "name": "Rui Liu"
+        },
+        {
+          "name": "Jin-Hua Zhang"
+        },
+        {
+          "name": "Hua-Ning Wang"
+        },
+        {
+          "name": "Zheng-Wu Peng"
+        }
+      ],
+      "publishedAt": "2026-07-12",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42264393",
+      "title": "Reproducible social phenotyping of 5xFAD mice in the Agora maze (Sociobox).",
+      "summary": "Neuropsychiatric (depression, schizophrenia, etc.) and neurological disorders (Alzheimer's disease, AD, Parkinson's disease) are characterized by disruptions in cognition including social interaction and recognition. Developing tools for the assessment of social behaviour in mouse models and its relevance is essential to further advance our understanding of social impairments in these diseases. In the Agora maze for rodents, stranger mice confined into cubicles around the perimeter of the open square mirror the agora (marketplace) in ancient cities. Up to 5 social interaction partners are presented and can be freely selected for interaction (exposure). In the discrimination phase one novel mouse (SNew) is presented while 4 familiar partners remain. Interaction time is recorded via video observation. In Exp 1, we validated the test with different strains of wild-type male mice (C57BL/6J, Balb/c, NMRI, PLBWT) that were able to readily identify SNew and spent significantly more time in zones adjacent to their cubicle; only NMRI mice did not prefer SNew. Exp. 2 explored 5xFAD Alzheimer mice and showed normal exploration and discrimination when aged 5 and 8 months old. Repeat of the experiment in a second cohort confirmed robustness of this phenotype, but also reproducibility of the behavioural paradigm. The Agora task allows semi-automated evaluation of preference for social novelty in a more complex paradigm by expanding the number of social interaction partners from 2 (three-chamber test) to 5 (or more), while still avoiding physical approaches and aggressive episodes. Thus, Agora provides a more physiological behavioural paradigm which is highly robust and reproducible.",
+      "authors": [
+        {
+          "name": "Sheila Sanchez-Garcia"
+        },
+        {
+          "name": "Bettina Platt"
+        },
+        {
+          "name": "Gernot Riedel"
+        }
+      ],
+      "publishedAt": "2026-07-12",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42264041",
+      "title": "From waking to emotion: The cortisol awakening response and autobiographical memory specificity relationship depends on the cue valence.",
+      "summary": "Autobiographical memory (AM) supports self-continuity and emotional well-being. AM specificity, the ability to retrieve memories tied to a distinct time and place, is a key marker of psychological functioning. Autobiographical retrieval is shaped by both emotional and biological factors: positive emotional cues typically elicit more specific memories than negative ones, while neuroendocrine processes involved in daily adaptation may also modulate remembering. In this context, the Cortisol Awakening Response (CAR), a rapid increase in cortisol after awakening, is thought to mobilize cognitive and emotional resources. This study examined whether cue valence (positive, negative, neutral) is related to AM specificity in healthy older adults and whether this effect depends on the CAR. Sixty-three participants aged 57-88 years completed the Autobiographical Memory Test and provided saliva samples on two consecutive weekdays. Positive cues elicited a higher proportion of specific memories than neutral or negative cues. Although the CAR was not associated with overall AM specificity, its association with AM specificity differed by cue valence, with a significant difference between negative and neutral cues. These findings suggest that anticipatory endocrine activity may be differentially related to autobiographical retrieval depending on the emotional valence of the cue.",
+      "authors": [
+        {
+          "name": "Pablo Rivas-Diaz"
+        },
+        {
+          "name": "David Trillo-Figueroa"
+        },
+        {
+          "name": "Daniela Batallas"
+        },
+        {
+          "name": "Teresa Peiró"
+        },
+        {
+          "name": "Vanesa Hidalgo"
+        },
+        {
+          "name": "Alicia Salvador"
+        }
+      ],
+      "publishedAt": "2026-07-12",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42259395",
+      "title": "The neural correlates of community subjective well-being and its relationship to social support.",
+      "summary": "Community subjective well-being (CSWB) represents the degree to which individuals feel satisfied with where they live and is crucial for personal flourishing and societal well-being. However, the neural mechanisms underlying CSWB remain poorly understood. To address this issue, we conducted an innovative study combining predictive analysis and fractional amplitude of low-frequency fluctuations (fALFF) to investigate spontaneous brain dynamics associated with CSWB. Our results identified distinct brain regions linked to social cognition and emotional regulation that contribute to predicting individuals' CSWB. Specifically, the fALFF of regions within the default mode network (DMN) and subcortical network (i.e., positively weighted group), including anterior cingulate cortex, parahippocampus, and putamen, showed positive correlations with CSWB. Conversely, the fALFF of regions within the DMN, salience network, and dorsal attention network (i.e., negatively weighted group), including middle temporal gyrus, precuneus, and supramarginal gyrus, exhibited negative correlations with CSWB. Additionally, the specificity of these contributing regions in predicting individuals' CSWB was demonstrated by excluding the effect of individual subjective well-being. Furthermore, mediation analysis revealed that the average fALFF of the positively weighted group statistically mediated the relationship between social support and CSWB. These findings provide the first robust evidence for the neural basis of individual differences in CSWB and advance our understanding of how social support influences CSWB.",
+      "authors": [
+        {
+          "name": "Liang Shi"
+        }
+      ],
+      "publishedAt": "2026-07-12",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42248365",
+      "title": "Astrocytic AT1R deficiency ameliorates LPS-induced depressive-like behaviors through lactoferrin-mediated astrocyte polarization.",
+      "summary": "Hypertension is associated with increased vulnerability to depression, and the angiotensin II type 1 receptor (AT1R), a central target of antihypertensive therapy, has also been implicated in mood disorders. The AT1R is abundantly expressed in astrocytes, but the role of astrocytic AT1R in depression pathogenesis remains unknown. Here, we investigated the role of astrocytic AT1R in a lipopolysaccharide (LPS)-induced mouse model of depression. LPS markedly increased AT1R expression in the medial prefrontal cortex (mPFC). Astrocytic AT1R deficiency attenuated depressive-like behaviors, reduced the A1/A2 astrocyte ratio, and restored lactoferrin (LF) expression in the mPFC, potentially via a PPARγ-dependent mechanism. Consistently, AT1R inhibition in primary cultured astrocytes reversed the LPS-induced shift toward the neurotoxic A1 phenotype, while pharmacological blockade of AT1R upregulated LF expression in C6 cells. Moreover, both in vivo and in vitro administration of lactoferrin improved LPS-induced depressive-like behaviors, likely by decreasing the A1 astrocyte level rather than via ferroptosis pathways. These findings reveal an astrocytic AT1R/LF pathway as a novel regulator of reactive astrocyte polarization under inflammatory conditions. Our study highlights astrocytic AT1R as a key therapeutic target bridging neuroinflammation, hypertension, and depression.",
+      "authors": [
+        {
+          "name": "Xiaoxiao Li"
+        },
+        {
+          "name": "Xingyue Duan"
+        },
+        {
+          "name": "Lijian Gao"
+        },
+        {
+          "name": "Ying Bai"
+        },
+        {
+          "name": "Jingjing Wang"
+        },
+        {
+          "name": "Hancheng Tong"
+        },
+        {
+          "name": "Yuelei Li"
+        },
+        {
+          "name": "Siye Zhang"
+        },
+        {
+          "name": "Zhi-Qing David Xu"
+        },
+        {
+          "name": "Hui Li"
+        }
+      ],
+      "publishedAt": "2026-07-12",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42235646",
+      "title": "Chronic stress reconfigures microcircuits of prefrontal cortex via divergent remodeling of pyramidal neurons and interneurons.",
+      "summary": "BACKGROUND: Major depressive disorder (MDD) is a debilitating psychiatric condition associated with the dysfunction of the medial prefrontal cortex (mPFC). While the excitation-inhibition (E/I) imbalance is considered a hallmark of MDD, the precise cell-type-specific microcircuit remodeling and its consequences on network dynamics remain poorly understood.\nMETHODS: We employed the chronic unpredictable mild stress (CUMS) paradigm to induce depression-like behaviors in mice. 16-channel microelectrode arrays were used to record single-unit activity and local field potentials (LFPs) in the mPFC of freely moving animals.\nRESULTS: CUMS mice exhibited an aberrant E/I state, characterized by excitatory pyramidal neurons (PYR) hypoactivity with irregular firing and inhibitory interneurons (INT) hyperactivity with more regular firing. Circuit connectivity analysis indicated a specific reduction in putative PYR-INT excitatory connections, concurrent with an increased spike suppression probability in putative INT-PYR inhibitory connections in CUMS mice. At the population level, these cellular and connection changes were accompanied by a significant decrease in pairwise synchrony among PYR ensembles. Additionally, LFP recordings revealed frequency-specific alterations, including suppressed gamma (γ) oscillations and enhanced delta (δ) and beta (β) power.\nCONCLUSION: Our findings delineate a sequential pathology where chronic stress disrupts the reciprocal PYR and INT microcircuit via decoupled excitation and enhanced inhibition, potentially contributing to the degradation of mPFC network coding. Restoring this specific connectional balance may represent a novel therapeutic strategy for depression.",
+      "authors": [
+        {
+          "name": "Yichen Che"
+        },
+        {
+          "name": "Ziyuan Ma"
+        },
+        {
+          "name": "Jiayuan Zhang"
+        },
+        {
+          "name": "Shubin Chen"
+        },
+        {
+          "name": "Fang Yang"
+        },
+        {
+          "name": "Lina Qiao"
+        },
+        {
+          "name": "Jing Yang"
+        },
+        {
+          "name": "Danlei Liu"
+        },
+        {
+          "name": "Jifeng Zhang"
+        },
+        {
+          "name": "Guoqing Guo"
+        },
+        {
+          "name": "Caihui Cha"
+        },
+        {
+          "name": "Xuefeng Zheng"
+        },
+        {
+          "name": "Liping Sun"
+        }
+      ],
+      "publishedAt": "2026-07-12",
+      "source": "PubMed"
+    }
+  }
+]
