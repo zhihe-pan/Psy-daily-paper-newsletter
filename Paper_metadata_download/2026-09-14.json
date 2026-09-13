@@ -1,0 +1,86 @@
+[
+  {
+    "paper": {
+      "id": "42732089",
+      "title": "GLP-1 receptor agonist use and mental health outcomes in adolescents with obesity: a retrospective review.",
+      "summary": "OBJECTIVES: Adolescent obesity is associated with increased rates of depression and suicidality. Glucagon-like peptide-1 receptor agonists (GLP-1RAs) are increasingly used to treat pediatric obesity, yet concerns remain regarding potential psychiatric effects. This study evaluated changes in depressive symptoms and suicidality screening scores among adolescents with obesity treated with GLP-1RAs in a pediatric endocrinology setting. We evaluated changes in depressive symptoms and suicidality following initiation of GLP-1RA therapy in adolescents with obesity.\nMETHODS: We performed a retrospective chart review of adolescents aged 12-21 years with obesity treated with liraglutide or semaglutide at a single academic center between June 2022 and December 2024. Demographic, clinical, and psychosocial data were extracted from the electronic health record at baseline and follow-up. Depressive symptoms or suicidality were screened at clinic visits per protocol using either the Patient Health Questionnaire-9 (PHQ-9) or the Ask Suicide-Screening Questions (ASQ), respectively. Analyses were restricted to patients with paired baseline and follow-up assessments using the same instrument. Paired nonparametric tests were used for longitudinal comparisons.\nRESULTS: Forty-four adolescents met inclusion criteria. Among patients with paired PHQ-9 data (n=15), the median PHQ-9 score decreased significantly from 6 (IQR 2-14) at baseline to 1 (IQR 0-5) at follow-up (p=0.003), independent of changes in BMI. Among patients with paired ASQ data (n=23), no increase in suicidality or new suicidal ideation was observed.\nCONCLUSIONS: In this small, exploratory retrospective review, no evidence of short-term psychological harm or increased suicidality was observed among adolescents receiving GLP-1RA therapy. These findings support the short-term psychosocial safety of GLP-1RA therapy in adolescents with obesity. Larger prospective case-control studies are needed to better characterize psychiatric safety and psychosocial outcomes.",
+      "authors": [
+        {
+          "name": "Jeries Said"
+        },
+        {
+          "name": "Melodee Liegl"
+        },
+        {
+          "name": "Amy Y Pan"
+        },
+        {
+          "name": "Elizabeth Dabrowski"
+        }
+      ],
+      "publishedAt": "2026-09-13",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42723250",
+      "title": "N8-Modified Quino[4,3,2-Kl]acridines as Promising Antimalarial G-Quadruplex Ligands.",
+      "summary": "To face the increasing multidrug resistance of the malaria parasite Plasmodium falciparum, the development of new compounds that act in novel ways is urgent. G-quadruplexes (G4), Guanine-rich secondary structures of DNA and RNA sequences, have an essential role in cell survival and cell metabolism regulation, including in Plasmodium. We have recently demonstrated that the G-quadruplex ligand RHPS4, an acridine derivative, displays strong antiplasmodial activity by disrupting P. falciparum through G4 stabilization, leading to parasite death. Based on this original mode of action, we propose here a series of new RHPS4 analogues. These derivatives were then tested against P. falciparum and on human cells to evaluate their selectivity index. They exhibited IC50 values ranging from 70 nM to up to 10 µM with cationic analogues more active than neutral ones. Their ability to interact and stabilize G-quadruplex DNA structures was also evaluated. Among all RHPS4 analogues, the compound 8b (N8-ethyl) exhibited the best activity (70 nM), a high selectivity index (143), and a significant capacity to stabilize the G4 structures.",
+      "authors": [
+        {
+          "name": "Steve Saulnier"
+        },
+        {
+          "name": "Marco Antônio G B Gomes"
+        },
+        {
+          "name": "Mariam Salim"
+        },
+        {
+          "name": "Maxime Guichonnet"
+        },
+        {
+          "name": "Michel Nguyen"
+        },
+        {
+          "name": "Laure Vendier"
+        },
+        {
+          "name": "Flore Nardella"
+        },
+        {
+          "name": "Jean-Michel Augereau"
+        },
+        {
+          "name": "Dennis Gomez"
+        },
+        {
+          "name": "Anne Robert"
+        },
+        {
+          "name": "Françoise Benoit-Vical"
+        }
+      ],
+      "publishedAt": "2026-09-11",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42708658",
+      "title": "Sensitivity analysis in the face of rare events.",
+      "summary": "Molecular motors and other complex nonequilibrium systems are controlled by large sets of design parameters, and optimizing those parameters requires computing sensitivities-derivatives of dynamical observables with respect to the parameters. When the system's dynamics involves rare events, both the observable and its sensitivity are difficult to estimate from direct simulation. We present a practical computational pipeline that addresses both challenges by combining importance sampling with a Markov state model (MSM). The MSM separately captures the slow, rare-event dynamics and the fast, local dynamics, and the chain rule connects those two pieces to yield an efficient sensitivity estimator. An iterative reweighting procedure based on the RiteWeight algorithm substantially reduces approximation errors from the MSM coarse-graining. We validate the approach on diffusion in the Müller-Brown potential, where the sensitivity of a transition rate to landscape parameters can be computed exactly. We then use sensitivities to optimize the directional bias of a particle-based model of a catalysis-driven molecular motor.",
+      "authors": [
+        {
+          "name": "John Strahan"
+        },
+        {
+          "name": "Todd R Gingrich"
+        }
+      ],
+      "publishedAt": "2026-09-08",
+      "source": "PubMed"
+    }
+  }
+]
