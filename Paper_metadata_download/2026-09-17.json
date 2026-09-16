@@ -1,0 +1,62 @@
+[
+  {
+    "paper": {
+      "id": "42748016",
+      "title": "Impostor syndrome in nurse education: identity and practice.",
+      "summary": "This commentary explores the growing prevalence of impostor syndrome among nurse lecturers in university settings. Even though impostor syndrome has an impact on personality, wellbeing, and productivity, it frequently goes unnoticed due to the professionalism and resilience associated with the role. Impostor syndrome, or the impostor phenomenon, is characterised by persistent self-doubt despite evident achievement and is particularly recognised among early-career academics adjusting to unfamiliar systems and expectations. The discussion critically analyses impostor syndrome as a contemporary issue in academic practice, drawing on Professional Standards Framework (PSF) dimensions, Staff and Educational Development Association (SEDA) values, educational theories, pedagogical literature, institutional policies, and wider academic culture. It highlights how it is shaped by organisational structures and professional identity tensions, particularly during the transition from clinical practice to academia. The experience has implications beyond the individual, influencing teaching confidence, student learning, and the preparedness of the future nursing workforce. Addressing impostor syndrome requires supportive mentorship, inclusive academic environments, and a wider recognition of the systemic factors contributing to the experience.",
+      "authors": [
+        {
+          "name": "Maria Tomy"
+        }
+      ],
+      "publishedAt": "2026-09-16",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42747061",
+      "title": "Association between parental socioeconomic characteristics and overweight and obesity among adolescents.",
+      "summary": "OBJECTIVES: Adolescent overweight and obesity are rising global concerns, with prevalence increasing from 8 % in 1990 to 20 % in 2022. In India, adolescents constitute 21 % of the population and face growing risks of obesity-related complications. Parental education and occupation influence adolescents' dietary habits, physical activity, and lifestyle patterns, yet their role in shaping obesity outcomes in the Indian context remains underexplored. This study assessed the association between parental education and occupation with overweight and obesity among school-going adolescents in Lucknow.\nMETHODS: Analytical cross-sectional study was conducted among 502 adolescents aged 10-19 years from government, government-aided, and private schools in urban and rural areas of Lucknow. Multistage sampling was used. BMI-for-age percentiles (CDC 2022) classified nutritional status. Data were collected using a pre-tested questionnaire. Statistical analysis included descriptive measures, chi-square tests, and logistic regression using SPSS v24, with p<0.05 considered significant.\nRESULTS: Overweight and obesity were more prevalent among adolescents in private schools (18.5 and 12.5 %) and urban areas (16.8 and 12.5 %). Higher parental education showed significant associations with adolescent overweight/obesity (fathers: p=0.022; mothers: p=0.026). Maternal occupation was significantly linked to obesity (p=0.009), with adolescents of skilled working mothers showing highest rates. Logistic regression indicated that private school attendance (AOR=1.4; p=0.044) and upper socio-economic status (AOR=3.54; p=0.030) were independent predictors of overweight/obesity.\nCONCLUSION: Parental education, maternal occupation, socio-economic status, and school type significantly influence adolescent overweight and obesity. Adolescents from higher-income families and private schools are at greater risk, underscoring the need for targeted interventions promoting healthy behaviours across diverse socio-economic groups.",
+      "authors": [
+        {
+          "name": "Ajit Kumar Singh"
+        },
+        {
+          "name": "Ritika Chaturvedi"
+        },
+        {
+          "name": "Reema Kumari"
+        },
+        {
+          "name": "Saurabh Kashyap"
+        },
+        {
+          "name": "Abhishek Singh"
+        }
+      ],
+      "publishedAt": "2026-09-16",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42566980",
+      "title": "Hepatitis B among hospital nurses worldwide: a meta-analysis of seroprevalence studies.",
+      "summary": "BACKGROUND: Nurses face disproportionate occupational risk for hepatitis B virus (HBV) infection, yet global data on their seroprevalence remain fragmented. We aimed to provide the first comprehensive global estimate of HBsAg seroprevalence specifically among hospital-based nurses.\nMETHODS: In this systematic review and meta-analysis, we searched PubMed, Scopus, EMBASE, and Web of Science from inception to Dec 31, 2025. We included studies reporting laboratory-confirmed HBsAg seroprevalence in hospital nurses. A random-effects model with Freeman-Tukey double arcsine transformation was used to estimate pooled prevalence. Heterogeneity was explored through subgroup analyses and meta-regression.\nFINDINGS: Forty-six studies from 28 countries, comprising 11,524 nurses, were included. The global pooled HBsAg prevalence was 3.2% (95% CI 2.3-4.4; I2 = 88.7%). Burden was highest in Africa (5.6%, 95% CI 4.1-7.3) and lowest in Europe (1.5%, 95% CI 0.4-3.0). Prevalence was significantly higher in low- and middle-income countries compared to high-income countries (3.6% vs 0.8%; p = 0.003). Meta-regression identified an inverse correlation between full vaccination coverage and HBsAg positivity (coefficient - 0.0028; p < 0.001). The temporal trend of HBV prevalence among nurses remained stagnant over the study period (p = 0.190).\nCONCLUSION: Approximately one in thirty hospital nurses worldwide lives with chronic HBV. The decoupling of occupational prevalence from declining global trends indicates a persistent protection gap. Ensuring mandatory three-dose immunization regimens and rigorous post-exposure surveillance, particularly in LMICs, is essential to eliminate HBV as an occupational hazard for the nursing workforce.",
+      "authors": [
+        {
+          "name": "Fang Li"
+        },
+        {
+          "name": "Jiateng Wang"
+        },
+        {
+          "name": "Wenqing Zhang"
+        }
+      ],
+      "publishedAt": "2026-08-26",
+      "source": "PubMed"
+    }
+  }
+]
