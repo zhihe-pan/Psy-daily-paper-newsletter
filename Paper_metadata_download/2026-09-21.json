@@ -1,0 +1,89 @@
+[
+  {
+    "paper": {
+      "id": "42763628",
+      "title": "Earthquake preparedness and earthquake-related anxiety among emergency department patients: a cross-sectional study.",
+      "summary": "OBJECTIVES: To describe earthquake-preparedness behaviors and earthquake-related anxiety responses in emergency department patients and examine associated factors and the relationship between the two composites.\nMETHODS: This cross-sectional study included 3,964 adults presenting to an emergency department in an earthquake-prone region between July and December 2025. A structured questionnaire assessed sociodemographic and housing characteristics, 15 binary preparedness behaviors, and five earthquake-related anxiety items. Preparedness was summarized as a behavioral composite (0-15) and anxiety as an exploratory composite (5-25). Nonparametric tests, effect sizes, false discovery rate adjustment, exploratory internal-structure analyses, and multivariable regression were used.\nRESULTS: Median preparedness was 9 (IQR, 7-12) and median anxiety was 13 (IQR, 7-18). Knowledge-based behaviors were common, whereas practical measures were less frequent. Most group differences had small effect sizes. Preparedness showed a multidimensional structure, whereas anxiety showed a single-dimension exploratory structure. The inverse correlation was very weak (Spearman's ρ=-0.107; 95 % CI, -0.140 to -0.070). After adjustment, higher anxiety was associated with lower preparedness (B=-0.074; 95 % CI, -0.090 to -0.059), and higher preparedness with lower anxiety (B=-0.241; 95 % CI, -0.289 to -0.193).\nCONCLUSIONS: Practical preparedness remained incomplete. Preparedness and anxiety were weakly associated; findings are exploratory and should not be interpreted causally or diagnostically.",
+      "authors": [
+        {
+          "name": "Burak Demirci"
+        },
+        {
+          "name": "Burak Akın"
+        },
+        {
+          "name": "Enes Ferhatlar"
+        },
+        {
+          "name": "Selman Gündoğan"
+        },
+        {
+          "name": "Ömer Kilim"
+        },
+        {
+          "name": "Abuzer Coskun"
+        }
+      ],
+      "publishedAt": "2026-09-20",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42757991",
+      "title": "Low-Dose Clozapine Versus Aripiprazole in Borderline Personality Disorder: A Prospective Naturalistic Study.",
+      "summary": "BACKGROUND: Borderline personality disorder (BLPD) is a complex and debilitating psychiatric condition with high prevalence and clinical and psychosocial burden. Psychotherapy is the recommended first-line treatment but, in real-world clinical practice, most individuals with BLPD are prescribed psychotropic medications, including atypical antipsychotics. The literature suggests that second-generation antipsychotics may exert moderate effects on specific symptoms, but data remain limited and head-to-head comparisons are lacking. This prospective, naturalistic, follow-up study aimed to address this gap by comparing the efficacy and tolerability of low-dose clozapine versus aripiprazole in individuals with BLPD.\nMETHODS: Twenty-three patients were treated with either low-dose clozapine (n = 9) or aripiprazole (n = 14) based on clinical indication. Participants were assessed at hospital admission (T0), discharge (T1), and 3-month follow-up (T2) on emotional dysregulation, dissociative experiences, depressive symptoms, impulsivity, and quality of life. Treatment tolerability was evaluated at T1.\nRESULTS: Significant improvements in dissociation, depression, impulsivity, and quality of life were observed at both T1 and T2, independently of treatment group. Compared to aripiprazole, clozapine was associated with greater reductions in dissociative experiences at hospital discharge and in depressive symptoms at follow-up. Both treatments were safe and well tolerated.\nCONCLUSIONS: Our results suggest that low-dose clozapine is safe and may offer superior benefits for dissociative and depressive symptoms in patients with severe BLPD. Although further research is needed, these findings highlight the role of clozapine as a valuable pharmacological option in BLPD, particularly for patients with high clinical severity and inadequate response to other antipsychotics.",
+      "authors": [
+        {
+          "name": "Michele Francesco D'Incalci"
+        },
+        {
+          "name": "Carlo Maria Congedo"
+        },
+        {
+          "name": "Giulia Agostoni"
+        },
+        {
+          "name": "Margherita Bechi"
+        },
+        {
+          "name": "Nicola Lanzano"
+        },
+        {
+          "name": "Federica Cocchi"
+        },
+        {
+          "name": "Carmelo Guglielmino"
+        },
+        {
+          "name": "Marco Spangaro"
+        },
+        {
+          "name": "Roberto Cavallaro"
+        },
+        {
+          "name": "Laura Sforzini"
+        },
+        {
+          "name": "Marta Bosia"
+        }
+      ],
+      "publishedAt": "2026-09-18",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "41556817",
+      "title": "Emotions in Simulation-Based Education Through the Eyes of the Colour Monster.",
+      "summary": "Learners in simulation-based education (SBE) experience a kaleidoscope of emotions, which shape learning, performance, and professional identity formation. This article provides a conceptual commentary of the emotional landscape in SBE, using the children's book The Colour Monster as an illustrative lens, while also highlighting the complexities of emotions in adult learners. Lessons drawn from this book highlight that feeling emotions is a normal and expected part of the learning process, the critical importance of the facilitator in helping participants work with their emotions, and the potential role of emotional regulation strategies in optimizing emotions for learning and performance. Deepening appreciation of these concepts may facilitate more consistent appreciation and integration of emotion into simulation design and delivery.",
+      "authors": [
+        {
+          "name": "Emma Claire Phillips"
+        }
+      ],
+      "publishedAt": "2026-01-20",
+      "source": "PubMed"
+    }
+  }
+]
