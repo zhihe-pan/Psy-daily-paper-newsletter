@@ -1,0 +1,74 @@
+[
+  {
+    "paper": {
+      "id": "42570622",
+      "title": "AQbD-guided development of a robust and green SI-RP-HPLC method for impurity profiling of an efonidipine hydrochloride ethanolate and chlorthalidone combination, with LC-MS and NMR-based identification of degradation product in efonidipine.",
+      "summary": "Efonidipine Hydrochloride Ethanolate (EHE) and Chlorthalidone (CTD) are co-formulated for the management of hypertension owing to their complementary pharmacological actions. Ensuring accurate impurity profiling in such combination formulations is vital for maintaining drug stability, safety and regulatory compliance. However, conventional analytical techniques often face challenges related to sustainability and robustness. Reverse Phase High-Performance Liquid Chromatography (RP-HPLC) remains a key analytical approach for impurity determination, yet the integration of Quality by Design (QbD) principles into its development is still evolving. The present study focuses on developing a novel, sustainable RP-HPLC method for impurity profiling of EHE and CTD tablets using a QbD approach and green chemistry. Chromatographic separation was achieved on a Zorbax SB C8 column (150 mm × 4.6 mm, 5 µm). Critical method parameters such as mobile phase composition and pH were systematically optimized through QbD to enhance method robustness. A photolytic degradation product of EHE was identified as Efonidipine Related Compound A, and a plausible photolytic degradation pathway was proposed. A photolytic degradation product was identified in the LC-MS and its structure was confirmed through NMR spectroscopy. The developed green method exhibited excellent resolution, precision and reproducibility across multiple batches, allowing for effective separation and quantification of impurities. This green QbD-optimized, environmentally sustainable RP-HPLC method provides a reliable and scalable solution for impurity profiling in complex pharmaceutical formulations, aligning with modern quality control and regulatory expectations.",
+      "authors": [
+        {
+          "name": "Pranav S Bang"
+        },
+        {
+          "name": "Vishnu P Choudhari"
+        },
+        {
+          "name": "Vikram S Gharge"
+        }
+      ],
+      "publishedAt": "2026-08-12",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42541921",
+      "title": "Opportunities and challenges of sub-1μm particle columns in ultra-high-pressure liquid chromatography: A theoretical framework.",
+      "summary": "Kinetic plots were used to assess the theoretical resolving power of sub-1 μm non-porous particle-packed columns in UHPLC conditions. The use of sub-750 nm particle-packed columns enables substantially faster (> 2x) separations for high molecular-weight molecules such as peptides and proteins in the high-velocity regime compared to state-of-the-art 1.5 μm packed columns. This gain, however, is fundamentally constrained by intrinsic limitations: the markedly reduced permeability restricts attainable column lengths under current pressure limits (P = 1500 bar), while mitigation of viscous heating requires small internal diameters, thereby increasing susceptibility to extra-column dispersion. Furthermore, only analytes with sufficiently low diffusion coefficients can achieve meaningful efficiencies, positioning nanoparticle columns primarily for (bio)macromolecular separations. Self-assembly-based column packing can produce highly ordered sphere arrangements (i.e., face-centered cubic structures) that markedly reduce eddy dispersion. Such column technology, based on 750 nm particles, would enable separations that are 20-35 times faster than conventional randomly packed columns using 1.5 µm particles. However, due to the markedly reduced permeability and higher column performance per unit length, such improvement in speed would be limited by the extremely short optimal column length of face-centered cubic packed columns (< 1.5 cm), rendering these columns impractical when used in current LC systems.",
+      "authors": [
+        {
+          "name": "Hanrong Wen"
+        },
+        {
+          "name": "Ken Broeckhoven"
+        },
+        {
+          "name": "Sebastiaan Eeltink"
+        }
+      ],
+      "publishedAt": "2026-08-12",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42537266",
+      "title": "Isomer-specific separation and analysis of 42 bile acids in intestinal contents using ultra-high performance liquid chromatography-tandem mass spectrometry.",
+      "summary": "Bile acids (BAs) are recognized as established disease biomarkers, yet quantitative studies have largely focused on serum or plasma, with insufficient attention paid to intestinal contents that hold significant pathophysiological importance. Accurate quantification of intestinal BAs is key to elucidating disease mechanisms. However, this analysis remains highly challenging due to the complex matrix of intestinal contents and the presence of numerous bile acid isomers. This study focuses on developing and validating a rapid, accurate, and sensitive UPLC-MS/MS method for the simultaneous quantification of 42 BAs (covering 11 isomer groups) in intestinal contents, and its application to depression research. Samples were pretreated using lyophilization followed by composite solvent extraction. Chromatographic separation used a CORTECSTM Premier T3 column with gradient elution. Among the 11 isomer groups, baseline separation was achieved for most of them. The method validation results showed excellent linearity with r2 ≥ 0.996; recoveries ranged 86.73% - 111.03%; stability tests under various conditions including room temperature storage for 24 h, 4 °C for 7 days, -80 °C for 90 days, and three freeze-thaw cycles yielded RSD ≤ 14.41%. Intra-day and inter-day precision RSD ≤ 16.10%. The lower limits of quantification ranged from 0.1 to 2.0 ng/mL. Applying to intestinal contents from a CUMS-induced depression SD rat model, the method revealed significant differences in 14 BAs compared with normal rats, among which Iso-HDCA was upregulated as much as 6-fold, suggesting that BAs detection should be given attention in exploring the mechanisms of depression.",
+      "authors": [
+        {
+          "name": "Lingyu Dun"
+        },
+        {
+          "name": "Jingjing Zhang"
+        },
+        {
+          "name": "Kang Ji"
+        },
+        {
+          "name": "Xu Zhang"
+        },
+        {
+          "name": "Yanjun Jia"
+        },
+        {
+          "name": "Longxia Wen"
+        },
+        {
+          "name": "Fangdi Hu"
+        }
+      ],
+      "publishedAt": "2026-08-12",
+      "source": "PubMed"
+    }
+  }
+]
