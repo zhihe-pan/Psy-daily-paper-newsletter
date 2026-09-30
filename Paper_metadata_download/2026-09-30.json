@@ -1,0 +1,244 @@
+[
+  {
+    "paper": {
+      "id": "42803097",
+      "title": "Selective umami taste impairment in anosmic Parkinson's disease: associations with non-motor symptoms.",
+      "summary": "BACKGROUND AND PURPOSE: Olfactory dysfunction (OD) is a well-established prodromal feature of Parkinson's disease (PD). However, the association between olfactory loss and gustatory alterations - particularly umami perception - and their relationship with non-motor symptoms (NMS), affective status, reward-related eating behavior, and quality of life (QoL) remain incompletely characterized. The purpose of this study was to investigate the relationship between objectively defined anosmia and taste perception, NMS, mood disturbances, reward-driven eating behavior, and QoL in patients with PD.\nMETHODS: This cross-sectional study included 150 patients with idiopathic PD. Olfactory function was assessed using the Brief Smell Identification Test (BSIT). Patients with self-reported complete olfactory loss and BSIT scores ≤8 were classified as anosmic (n = 75), while the remaining patients were classified as non-anosmic (n = 75). Gustatory perception of the five basic tastes (sweet, sour, salty, bitter, and umami) was evaluated using visual analogue scales (VAS). Reward-related eating behavior was assessed using the Palatable Eating Motives Scale (PEMS), Food Cravings Questionnaire-Trait (FCQ-T), and Power of Food Scale (PFS). Non-motor symptom burden was evaluated using an olfaction-adjusted Non-Motor Symptoms Scale (NMSS Total*). Mood, anxiety, and QoL were assessed using the Beck Depression Inventory (BDI), Beck Anxiety Inventory (BAI), and Parkinson's Disease Questionnaire-39 (PDQ-39).\nRESULTS: Anosmic patients demonstrated significantly lower umami VAS scores compared with non-anosmic patients (p = 0.018), while no significant differences were observed for the other basic taste modalities. NMSS Total* scores were numerically higher in the anosmic group, with significantly greater impairment in the Mood/Cognition and Sexual domains. Depressive symptom severity was significantly higher in anosmic patients (p = 0.023). Although total PDQ-39 scores did not differ between groups, the Mobility and Cognition subdomains were significantly more impaired in anosmic patients. A weak negative correlation was observed between salty taste perception and depressive symptom severity.\nCONCLUSION: The findings indicate that anosmia in PD is selectively associated with impaired umami taste perception and increased involvement of specific non-motor symptom domains, particularly affective and motivational features, suggesting a distinct chemosensory-related non-motor symptom profile. In PD, objectively defined anosmia is associated with selective umami taste impairment and increased depressive and non-motor symptom burden, indicating that chemosensory dysfunction reflects a clinically relevant non-motor symptom profile.",
+      "authors": [
+        {
+          "name": "Zehra Yavuz"
+        },
+        {
+          "name": "Halil Önder"
+        },
+        {
+          "name": "Fatma Akçelebi Eldek"
+        },
+        {
+          "name": "Selim Selçuk Çomoglu"
+        }
+      ],
+      "publishedAt": "2026-09-28",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42743582",
+      "title": "In-water recompression for severe decompression illness in competitive freediving: a case report.",
+      "summary": "INTRODUCTION: Decompression illness (DCI) is a recognised risk of freediving. When timely hyperbaric oxygen therapy (HBOT) is unavailable, oxygen-based in-water recompression (IWR) may be considered.\nMETHODS: A 49-year-old competitive freediver developed severe neurological DCI within minutes of surfacing from a dive to 117 metres of seawater at a sanctioned competition, with altered mental status, right facial droop, right hemiparesis and aphasia. With an anticipated 24-48 h delay to HBOT, emergency IWR was initiated with a full-face mask and 100% oxygen. Incremental ascent from 18 msw over 14.5 min produced substantial recovery. Residual gait instability and pronator drift prompted a second oxygen-IWR 5.5 h later from 15 msw over 41 min, achieving complete resolution.\nRESULTS: While this case had an excellent outcome, IWR carries significant risks including oxygen toxicity and drowning, and review identified serious safety and ethical failures. Patient selection is key; perceived benefit must be weighed carefully against risk.\nCONCLUSIONS: IWR may be considered for DCI when HBOT is not promptly accessible. No IWR guidelines exist specifically for freedivers. The success of this case does not establish that deeper exposures were necessary or superior to shallower protocols. IWR is high-risk, requiring proper selection, trained personnel and favorable conditions.",
+      "authors": [
+        {
+          "name": "Jake Johnston"
+        },
+        {
+          "name": "Juan Valdivia"
+        },
+        {
+          "name": "Leigh Baker"
+        },
+        {
+          "name": "Kelly Heape"
+        }
+      ],
+      "publishedAt": "2026-09-15",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42686501",
+      "title": "High-level estrogen impairs memory via estrogen receptor signaling in a hypothalamic-hippocampal neural circuit.",
+      "summary": "Normal estrogen exposure, as observed in eumenorrheic women of reproductive age, is important for neurocognition, as demonstrated by postmenopausal hormone replacement. However, the cognitive effects of sustained high-level estrogen in the context of oral contraceptives or pregnancy are unclear. Here, we show that high estrogen induces temporary memory dysfunction in mice without affecting mood-related behaviors or exploratory motivation, which is associated with altered gene expression in the lateral hypothalamus (LH). Depletion of neuronal estrogen receptor α/β (ERα/β) in the LH rescues estrogen- or pregnancy-induced cognitive dysfunction. Single-nucleus RNA-seq revealed that ERα, the predominant ER in the LH, is enriched in Gamma-Aminobutyric Acid-releasing (GABAergic) neurons and that high-level estrogen downregulates GABA-A receptor signaling within LHGABA neurons, concurrent with increased spontaneous firing activity of LHGABA neurons during high estrogen exposure or pregnancy. LHGABA neurons project to the hippocampal Cornu Ammonis 3 (CA3). Chemogenetic suppression of CA3-projecting LHGABA neurons protects against high estrogen-induced cognitive dysfunction, while activation of CA3-projecting LHGABA neurons causes cognitive dysfunction. Lastly, we observed task-specific memory impairment in women during late pregnancy, which was associated with elevated circulating estrogen levels even after correcting for other covariates. These findings delineate a molecular and neural mechanism underlying the cognitive effects of high-level estrogen, with implications for understanding the brain fog associated with pregnancy or oral contraceptives.",
+      "authors": [
+        {
+          "name": "Xin Li"
+        },
+        {
+          "name": "Nan Zang"
+        },
+        {
+          "name": "Qianru Zhao"
+        },
+        {
+          "name": "Yuxiang Sun"
+        },
+        {
+          "name": "Udhaya Kumar Siva Kumar"
+        },
+        {
+          "name": "Mengyu Hua"
+        },
+        {
+          "name": "Wenjun Zhou"
+        },
+        {
+          "name": "Yanyan Qi"
+        },
+        {
+          "name": "Hu Chen"
+        },
+        {
+          "name": "Longqing Xia"
+        },
+        {
+          "name": "Jun Qin"
+        },
+        {
+          "name": "Lei Sun"
+        },
+        {
+          "name": "Chaitra Rai"
+        },
+        {
+          "name": "Chao Cheng"
+        },
+        {
+          "name": "Zhandong Liu"
+        },
+        {
+          "name": "Li Chen"
+        },
+        {
+          "name": "Yong Xu"
+        },
+        {
+          "name": "Zhaoyong Hu"
+        },
+        {
+          "name": "Hongjie Li"
+        },
+        {
+          "name": "Xinguo Hou"
+        },
+        {
+          "name": "Yanlin He"
+        },
+        {
+          "name": "Xianghua Zhuang"
+        },
+        {
+          "name": "Zheng Sun"
+        }
+      ],
+      "publishedAt": "2026-09-27",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42478363",
+      "title": "From Precision Machining to Hybrid Microfabrication: A Review on Quadrupole and Ion Trap Mass Analyzer Manufacturing.",
+      "summary": "RATIONALE: As quadrupole and ion trap mass analyzers are miniaturized toward millimeter scales, fabrication quality increasingly constrains analytical performance. Micrometer-scale deviations in electrode geometry, surface finish, and assembly alignment can introduce higher order multipole fields, thereby degrading resolution, sensitivity, and ion transmission. Conventional precision machining and sequential assembly therefore face increasing difficulty in simultaneously achieving field fidelity, geometric complexity, and scalable integration.\nMETHODS: This narrative review compares conventional subtractive manufacturing with four advanced routes: microelectromechanical systems (MEMS), low-temperature co-fired ceramics (LTCC), additive manufacturing (AM), and printed-circuit-board (PCB)-based architectures. A process-problem-performance framework is used to link each process to the error modes it mitigates or introduces and to the analytical performance affected.\nRESULTS: MEMS provides high planar registration but remains limited in forming true 3D electrode surfaces. LTCC reduces assembly burden and supports multilayer integration but is constrained by shrinkage and feature resolution. AM offers monolithic 3D freedom, although electrode-grade performance requires surface engineering, metallization, and control of dielectric and vacuum-related effects. PCB-based architectures enable rapid prototyping and field synthesis but usually lack field-critical geometric precision. Across these routes, no single technology simultaneously maximizes fabrication precision, geometric freedom, and scalable integration.\nCONCLUSIONS: Hybrid manufacturing strategies that allocate field-critical, structural, interconnect, packaging, and calibration functions to complementary processes represent the most practical route toward reproducible next-generation quadrupole and ion trap mass analyzers. Future progress will depend on standardized comparisons of fabrication tolerance, surface quality, RF compatibility, material stability, and demonstrated analytical performance.",
+      "authors": [
+        {
+          "name": "Yukang Feng"
+        },
+        {
+          "name": "Junpeng Zhang"
+        },
+        {
+          "name": "Yingying Li"
+        },
+        {
+          "name": "Lihong Liu"
+        },
+        {
+          "name": "Bin He"
+        },
+        {
+          "name": "Ligang Hu"
+        },
+        {
+          "name": "Guibin Jiang"
+        }
+      ],
+      "publishedAt": "2026-07-21",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42409570",
+      "title": "Microalgal co-cultivation meets media recycling: A pathway to serum and amino-acid reduction in cultivated meat.",
+      "summary": "With an ever-increasing global population, demand for protein production per capita will increase. Consequently, sustainable food alternatives such as cultivated meat (CM) are urgently required. However, large-scale CM cell-systems face key challenges, particularly high media costs driven by amino acids and the need for ethically-sourced growth factors. Microalgae offer promising solutions, producing high protein yields with all essential amino acids simply from light, CO2, nutrient-rich or spent CM media. We present a path towards a circular CM strategy. It integrates spent CM-industry media to grow Chlorella BDH-1 as a substitute-source for reduced amino acids and serum, and combines the outcome with beneficial mammalian cell-algae co-cultivation, that similarly produces algal biomass. We identified algal growth conditions for maximum protein yield and demonstrated that two recycling rounds using industry-derived spent CM media maximize microalgal biomass yield per unit volume of waste media. We obtained algal lysate, determined thermal processing as the most cost-effective and mammalian cell-beneficial approach, and identified consumed lysate components. Overall, the algal lysate could substitute for reduced serum and amino acids with some conditions even exceeding standard growth medium performance by over 2-fold. We demonstrated synergistic effects of the algal lysate with our co-cultivation. This combination compensated for a 50% reduction in standard amino acid and serum amounts while achieving a 40% cell proliferation improvement. These results illustrate the potential for substantial reduction in reliance on high-cost and resource-intensive media components, providing a strong empirical basis for future techno-economic assessments to advance cost-effective sustainable circular cell culture systems.",
+      "authors": [
+        {
+          "name": "M Oey"
+        },
+        {
+          "name": "M L Schlieker"
+        },
+        {
+          "name": "U C Marx"
+        },
+        {
+          "name": "B Agustinus"
+        },
+        {
+          "name": "D M Vargas Reyes"
+        },
+        {
+          "name": "M Chandar"
+        },
+        {
+          "name": "B Hankamer"
+        },
+        {
+          "name": "H P Lo"
+        }
+      ],
+      "publishedAt": "2026-07-07",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42409542",
+      "title": "Simultaneously achieving high sensitivity and long-term chromatic stability in anthocyanin-loaded PVA/chitosan nanofibers for real-time food spoilage monitoring.",
+      "summary": "Anthocyanin-based colorimetric pH indicators for intelligent food packaging often face the challenge of achieving simultaneous high sensitivity and long-term color stability. In this study, we developed a highly responsive electrospun nanofiber patch by immobilizing red cabbage-derived anthocyanins within a polyvinyl alcohol/chitosan (PVA/CS) matrix. Characterization of surface morphology and intermolecular interactions revealed a uniform, highly porous fibrous architecture that facilitates rapid analyte diffusion, while hydrogen bonding ensures stable anthocyanin immobilization within the polymer matrix. The patch exhibited reversible halochromic transitions from red (acidic) to green (alkaline) across pH 1-12. It responded rapidly to ammonia vapors, showing visible color changes within 60 s with a total color difference (ΔE) of 35.25 ± 1.22. Moreover, the patch demonstrated robust chromatic stability under refrigeration, exhibiting minimal ΔE variation (0.62 ± 0.02 over 21 days at 4 °C) and maintaining ΔE < 5 under dynamic humidity conditions. The patch also exhibited consistent and reversible color responses over eight acidic-basic vapor cycles, confirming the chemical reversibility of anthocyanin transformations within the PVA/CS matrix. During real-time spoilage monitoring of fish and chicken, the patch displayed progressive and visually distinct color shifts that strongly correlated with rising pH and total volatile basic nitrogen levels. Overall, this study presents a robust and scalable nanofiber sensing platform that overcomes the sensitivity-stability trade-off of conventional anthocyanin indicators, advancing their applicability in intelligent food packaging.",
+      "authors": [
+        {
+          "name": "Faizan E Mustafa"
+        },
+        {
+          "name": "Shichen Li"
+        },
+        {
+          "name": "Bong-Kee Lee"
+        }
+      ],
+      "publishedAt": "2026-07-07",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42407126",
+      "title": "Identification of key substances and mechanisms of action for the pleasurable aroma of Shaoxing Huangjiu based on GC-MS, molecular docking, and sensory evaluation.",
+      "summary": "Shaoxing Huangjiu, a traditional Chinese rice wine, is renowned for its distinctive aroma. However, the key compounds responsible for its pleasurable sensory experience remain unclear. This study integrates GC-MS data, molecular docking, network pharmacology, and sensory evaluation to identify the aroma compounds and their receptor mechanisms. Among 100 identified volatiles, 34 emotion- or reward-related receptors (e.g., DRD2, HRH3, GPR119, and S1PR1) were targeted. Molecular docking revealed that benzyl benzoate (BB) exhibited the strongest affinity (-9.2 kcal/mol), interacting with multiple receptors via hydrophobic and π-π interactions. Sensory evaluation confirmed that BB and 2-phenylethyl acetate elicited the highest hedonic scores. These findings identify key aroma compounds responsible for Huangjiu's pleasurable aroma and propose a molecular framework linking aroma perception with receptor-level interactions. This study provides new insights for optimizing the flavor and functional properties of traditional fermented beverages.",
+      "authors": [
+        {
+          "name": "Qi Peng"
+        },
+        {
+          "name": "Daquan Lou"
+        },
+        {
+          "name": "Xiaoyan Jiang"
+        },
+        {
+          "name": "Liping Deng"
+        },
+        {
+          "name": "Mengsha Hu"
+        },
+        {
+          "name": "Guangfa Xie"
+        }
+      ],
+      "publishedAt": "2026-08-26",
+      "source": "PubMed"
+    }
+  }
+]
