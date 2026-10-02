@@ -1,0 +1,436 @@
+[
+  {
+    "paper": {
+      "id": "42503400",
+      "title": "Decoding anxiety: Plasma lipids and proteins as causal agents.",
+      "summary": "Anxiety disorders represent a major psychiatric burden, yet their molecular underpinnings remain poorly understood. While observational studies have linked circulating lipids and proteins to mental health, causal inference is hampered by confounding and reverse causation. Here, we leveraged two-sample Mendelian randomization (MR) to systematically evaluate the causal effects of 179 plasma lipid species and 4907 plasma proteins on anxiety disorders, using two large-scale independent GWAS datasets for replication. Significant findings from the primary inverse variance weighted analysis were validated using Bayesian Weighted MR and MR Robust Adjusted Profile Score methods to mitigate potential pleiotropy. Sensitivity analyses and reverse MR assessed robustness and directionality. Mediation analyses further explored whether protein signatures mediate lipid-anxiety associations. We identified three lipids with robust causal effects, with sterol ester (27:1/20:5) consistently conferring a protective effect across both cohorts. Additionally, 31 proteins showed significant causal links to anxiety. Notably, the protective effect of sterol ester (27:1/20:5) was partially mediated by the upregulation of SERPINA4 and ICT1, both of which exhibited protective associations. Our findings provide genetic evidence for causal roles of the plasma lipidome and proteome in anxiety disorders, and unveil a specific lipid-protein-anxiety pathway that may offer novel biomarkers and therapeutic targets. These results underscore the value of integrating multi-omic MR to dissect psychiatric disease mechanisms.",
+      "authors": [
+        {
+          "name": "Jiahui He"
+        },
+        {
+          "name": "Zehan Zhang"
+        },
+        {
+          "name": "Yanan Wang"
+        },
+        {
+          "name": "Simin Chen"
+        },
+        {
+          "name": "Qinglin Liu"
+        },
+        {
+          "name": "Kaiyue Ru"
+        },
+        {
+          "name": "Xinyi Lv"
+        },
+        {
+          "name": "Yuehan Song"
+        },
+        {
+          "name": "Feng Li"
+        }
+      ],
+      "publishedAt": "2026-08-12",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42501761",
+      "title": "Effects of early postnatal dopamine transporter (DAT) inhibition on social and cognitive behavior in a rat model of autism.",
+      "summary": "Autism spectrum disorder (ASD) is a neurodevelopmental condition characterized by deficits in social behavior and cognition. Increasing evidence suggests that alterations in dopaminergic neurotransmission, including changes in dopamine transporter (DAT) function, may contribute to ASD-related behavioral abnormalities. This study investigated whether selective DAT inhibition during early postnatal development influences behavioral and molecular alterations in a rat model of ASD induced by prenatal exposure to sodium valproate (NaVP). Pregnant Wistar rats received NaVP (600 mg/kg, i.p.) on gestational day 12.5. Male offspring were treated with the selective DAT inhibitor CE-123 (10 mg/kg, i.p.) once daily from postnatal day (PND) 10-23. Behavioral assessments during adolescence (PND25-42) evaluated social interaction, recognition memory, spatial preference, anxiety-like behavior, locomotor activity, and aversive memory. DAT, dopamine D2 receptor, brain-derived neurotrophic factor (BDNF), and interleukin-1β (IL-1β) protein expression were assessed in selected brain regions. Prenatal NaVP exposure impaired social novelty discrimination, declarative, spatial, and aversive memory, reduced locomotor activity, and increased anxiety-like behavior. These behavioral alterations were accompanied by elevated DAT and dopamine D2 receptor expression. Early postnatal CE-123 treatment attenuated several ASD-like behavioral abnormalities, normalized DAT and dopamine D2 receptor expression, increased BDNF levels in the prefrontal cortex (PFC), and increased IL-1β expression, without inducing non-specific locomotor stimulation. Together, these findings demonstrate that early postnatal CE-123 treatment was associated with long-lasting behavioral improvements accompanied by alterations in dopaminergic markers and BDNF expression. Although these findings support a role for dopaminergic regulation and neuroplasticity in the observed behavioral effects, the underlying mechanisms require further investigation.",
+      "authors": [
+        {
+          "name": "Ewa Gibula-Tarlowska"
+        },
+        {
+          "name": "Pawel Grochecki"
+        },
+        {
+          "name": "Justyna Lubinska"
+        },
+        {
+          "name": "Maya Sliwa"
+        },
+        {
+          "name": "Irena Smaga"
+        },
+        {
+          "name": "Marta Marszalek-Grabska"
+        },
+        {
+          "name": "Gert Lubec"
+        },
+        {
+          "name": "Tymoteusz Slowik"
+        },
+        {
+          "name": "Weronika Slotwinska"
+        },
+        {
+          "name": "Robert Kotlinski"
+        },
+        {
+          "name": "Joanna Listos"
+        },
+        {
+          "name": "Ewa Kedzierska"
+        },
+        {
+          "name": "Malgorzata Filip"
+        },
+        {
+          "name": "Jolanta H Kotlinska"
+        }
+      ],
+      "publishedAt": "2026-08-12",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42492845",
+      "title": "Disentangling oscillatory and aperiodic neural activity in autism: A spectral parameterization analysis of neurofeedback intervention.",
+      "summary": "BACKGROUND: Autism Spectrum Disorder (ASD) is characterized by atypical neural oscillations and heterogeneous alterations in excitation/inhibition (E/I) balance, the directionality of which varies across individuals, neural circuits, and developmental stages. While Alpha-band neurofeedback (NFB) is a promising intervention, its underlying neurophysiological mechanisms remain unclear, partly due to the conflation of periodic and aperiodic signals in traditional EEG analysis.\nMETHODS: This randomized controlled trial recruited 40 children with ASD, assigned to either an experimental group (Alpha-training NFB) or a no-feedback group. Resting-state EEG and behavioral assessments (SRS, ABC) were collected pre- and post-intervention. We employed spectral parameterization to decompose neural activity into aperiodic (1/f slope, offset) and periodic (periodic alpha power, center frequency) components.\nRESULTS: NFB training yielded significant behavioral improvements in social cognition and relating skills. Physiologically, the experimental group exhibited a significant steepening of the aperiodic slope (increased exponent), reflecting a reduction in neural noise and potential optimization of inhibitory modulation. Furthermore, we observed enhanced periodic alpha power and an acceleration of the alpha center frequency (ACF), indicative of improved neural efficiency and maturation. These physiological shifts in frontal and occipital regions were significantly correlated with improvements in behavioral scores.\nCONCLUSION: Alpha-training NFB was associated with improvements in caregiver-rated behavioral scores and modulated spectral features of resting-state EEG in children with ASD. These findings validate the utility of spectral parameterization markers in evaluating neuromodulatory interventions.",
+      "authors": [
+        {
+          "name": "Yuqi Li"
+        },
+        {
+          "name": "Juanmei Wu"
+        },
+        {
+          "name": "Nan Liu"
+        },
+        {
+          "name": "Xiaoli Li"
+        },
+        {
+          "name": "Tianyi Zhou"
+        },
+        {
+          "name": "Jiannan Kang"
+        }
+      ],
+      "publishedAt": "2026-08-12",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42486440",
+      "title": "Exploring zebrafish models of ADHD: A systematic review of genetic and pharmacological approaches.",
+      "summary": "BACKGROUND: Attention-deficit/hyperactivity disorder (ADHD) is a neurodevelopmental disorder characterized by inattention, hyperactivity, and impulsivity. Animal models are widely used to investigate the underlying mechanisms of ADHD and evaluate therapeutic interventions. Zebrafish (Danio rerio) have emerged as promising model organisms due to their genetic similarity to humans, rapid development, and suitability for behavioural and pharmacological studies.\nOBJECTIVE: To systematically review zebrafish models investigated in ADHD research, focusing on genetic and pharmacological approaches used to model ADHD-related phenotypes, and critically evaluate their behavioural, neurobiological, and pharmacological validity in relation to face, construct, and predictive validity.\nMETHODS: A literature search of PubMed, Scopus, and Web of Science databases was conducted up to March 2026 using the search terms \"zebrafish\" AND (\"ADHD\" OR \"attention-deficit/hyperactivity disorder\"). Original research articles investigating zebrafish models of ADHD were included. Studies focusing on unrelated diseases, non-zebrafish models, or drug testing in normal fish were excluded.\nRESULTS: 13 studies met the inclusion criteria. Both genetic and pharmacological models successfully reproduced key ADHD-like phenotypes, including hyperactivity, impulsivity, attention deficits, and cognitive impairments. Genetic models involving genes such as lphn3.1, adgrl3.1, per1b, micall2b, chmp7, ghrelin, foxp2, syn3, and rbfox1 demonstrated alterations in dopaminergic and GABAergic signaling pathways. Pharmacological models, particularly PFOS exposure, induced behavioural and neurochemical changes consistent with ADHD. Several ADHD-related phenotypes were partially reversed by methylphenidate or atomoxetine, supporting the translational relevance of these models.\nCONCLUSION: Zebrafish provide a robust platform for investigating the genetic, molecular, and environmental mechanisms underlying ADHD. Their suitability for behavioural assessment and high-throughput screening highlights their potential for translational and therapeutic research.",
+      "authors": [
+        {
+          "name": "Diveyaa Sivakumar"
+        },
+        {
+          "name": "Yasumasa Bessho"
+        },
+        {
+          "name": "Rosmaliza Ramli"
+        }
+      ],
+      "publishedAt": "2026-08-12",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42456812",
+      "title": "Postpartum scarcity-adversity disrupts maternal behavior without altering anxiety-like behavior or cognition.",
+      "summary": "Exposure to postpartum resource scarcity disrupts maternal caregiving and shapes long-term offspring outcomes. However, it remains unclear whether adversity-induced alterations in maternal behavior reflect generalized changes in anxiety-like behavior or cognition. Here, we assessed maternal behavior, anxiety-like behavior, and cognitive performance in postpartum rats exposed to a scarcity-adversity paradigm from postpartum days (PD) 2-9. Consistent with prior reports, scarcity-adversity dams displayed increased insensitive pup-directed behaviors such as stepping, dragging, and shoving pups. Despite these robust alterations in adverse caregiving, scarcity-adversity dams did not differ from controls in anxiety-like behavior in the elevated zero maze (PD 3) or the open field test (PD 5). Furthermore, no between-group differences were observed in spatial working memory in the spontaneous alternation task (PD 7) or novel object recognition memory (PD 9). These findings suggest that postpartum scarcity-adversity increases adverse pup-directed behaviors without producing broad alterations in anxiety-like behavior or cognitive function. These results constrain interpretations of adversity-induced maternal behavior changes and suggest that adverse caregiving of pups is not readily explained by generalized affective or cognitive dysregulation.",
+      "authors": [
+        {
+          "name": "Erin Lauraine"
+        },
+        {
+          "name": "Millie Rincón-Cortés"
+        }
+      ],
+      "publishedAt": "2026-08-12",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42456811",
+      "title": "Environmental enrichment during social isolation prevents behavioral impairments and morphological alterations of the midcingulate cortex in aggressive socially isolated mice.",
+      "summary": "Social isolation (SI) in rodents affects neuronal integrity and behavioral regulation. On the other hand, enriched environment (EE) has been reported to yield beneficial behavioral and neural effects in group-housed rodents. The midcingulate cortex (MCC) is a brain region that is increasingly implicated in socioemotional regulation; however, whether SI induces structural alterations in this region, and whether EE can mitigate such effects, remains unclear. In the present study, we examined the behavioral consequences of SI and the associated dendritic alterations in MCC pyramidal neurons. Furthermore, we evaluated the preventive potential of EE against SI-induced impairments. Adult male Swiss mice were housed for six weeks in grouped conditions, individually in standard conditions (SC isolated), or individually in an enriched environment (EE isolated) that contains sensory, motor, and cognitive stimuli. Behavioral assessments included aggression, sociability, and anxiety-like behavior. Subsequently, Golgi-Cox staining was used to quantify dendritic complexity and spine density in MCC pyramidal neurons. Our results showed that SI markedly increased aggression and anxiety-like behavior and reduced sociability. Importantly, it produced structural alterations in MCC, particularly reduced dendritic complexity and spine density, which point to this region as a structural target of SI. EE housing during SI attenuated behavioral alterations and preserved MCC dendritic structure, indicating a potential neuroprotective effect on neuronal morphology. These results provide new evidence that MCC is structurally vulnerable to SI and responsive to EE, which suggests that EE may be a valuable strategy to improve animal welfare and mitigate the impacts of prolonged SI.",
+      "authors": [
+        {
+          "name": "Ihsane Ait-Mansour"
+        },
+        {
+          "name": "Ilias Chaibi"
+        },
+        {
+          "name": "Mohamed Bennis"
+        },
+        {
+          "name": "Saadia Ba-M'hamed"
+        },
+        {
+          "name": "Fatima-Zahra Lamghari-Moubarrad"
+        }
+      ],
+      "publishedAt": "2026-08-12",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42431380",
+      "title": "Taurine modulates hippocampal BDNF/TrkB/ERK1/CREB signaling and behavioral outcomes in a model of early life neglect.",
+      "summary": "Early life trauma/stress is associated with behavioral abnormalities, memory impairment, and long-term neurodevelopmental alterations. Brain-derived neurotrophic factor (BDNF) and its associated signaling pathways have been investigated for their roles in linking stress with neurological complications. Taurine (TAU), the most abundant non-protein amino acid in the body, is known for its significant effects on the central nervous system (CNS); however, its precise mechanisms of action are vague. This study aimed to investigate the effects of TAU on the BDNF/TrkB/ERK1/CREB signaling pathway in the hippocampus and its impact on memory, cognitive deficits, and depression-like behaviors in the maternal separation and early weaning (MSEW) model. The amino acid TAU was administered to mouse offspring (50 and 100 mg/kg, s.c., started on the post-natal day; PND = 6) of the control and MSEW model. Behavioral tests revealed significant memory impairments and depression-like behavior during puberty, with no significant changes in memory indices observed in adult offspring. Notably, TAU treatment significantly ameliorated memory impairments and reduced cognitive disorder and depression markers during puberty (PND = 35). In the MSEW group, the expression/levels of BDNF, TrkB, ERK1, and CREB were markedly downregulated during puberty, while no significant changes were detected in adult animals (PND = 85). Notably, the TAU administration significantly upregulated components of the BDNF/TrkB/ERK1/CREB signaling pathway in both juvenile and adult mice. These findings suggest that TAU may have therapeutic potential in mitigating early-life trauma-induced neurodevelopmental deficits by modulating the BDNF/TrkB/ERK1/CREB pathway. Given the critical role of this signaling pathway in various CNS disorders, further investigations are warranted to explore the effects of TAU in the CNS and to elucidate its potential as a candidate for further investigation in stress-related neurodevelopmental and neurobehavioral disorders.",
+      "authors": [
+        {
+          "name": "Mohammad Mehdi Ommati"
+        },
+        {
+          "name": "Heresh Rezaei"
+        },
+        {
+          "name": "Shuzhe Song"
+        },
+        {
+          "name": "Ruoyao Chang"
+        },
+        {
+          "name": "Asma Najibi"
+        },
+        {
+          "name": "Sepideh Maghami"
+        },
+        {
+          "name": "Kiana Yousefipour"
+        },
+        {
+          "name": "Hossein Niknahad"
+        },
+        {
+          "name": "Reza Heidar"
+        }
+      ],
+      "publishedAt": "2026-08-12",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42419463",
+      "title": "Complementary functional gradient and SFC analyses reveal network abnormalities in adolescent depression subtypes.",
+      "summary": "BACKGROUND: Adolescent major depressive disorder (MDD) emerges during a sensitive neurodevelopmental period and is frequently accompanied by non-suicidal self-injury (NSSI), a clinically important behavioral phenotype associated with affective dysregulation. Although prior resting-state fMRI studies have identified distributed functional abnormalities in adolescent MDD, it remains unclear whether MDD with NSSI is associated with alterations in macroscale functional organization, stepwise cross-network propagation, or both. We therefore combined functional gradient (FG) analysis and stepwise functional connectivity (SFC) to characterize group-related differences from the complementary perspectives of gradient-based functional organization and multi-step network propagation.\nMETHODS: Using resting-state fMRI data from 135 adolescents classified as healthy controls (HC), adolescents with major depressive disorder and non-suicidal self-injury (MDD-NSSI), and adolescents with major depressive disorder without NSSI (MDD-noNSSI), we estimated functional gradients based on the Schaefer-400 parcellation. Between-group differences in Gradient 1 (G1) and Gradient 2 (G2) were assessed using pairwise Welch's t-tests, followed by global BH-FDR correction across all 2400 ROI-wise tests. Bonferroni correction was additionally used as a conservative sensitivity analysis. To avoid circular seed selection, weighted SFC was performed using an a priori sgACC/BA25 seed set rather than ROIs selected from the gradient analysis. Stepwise propagation maps were computed from step 1 to step 7. For ROI-wise SFC comparisons, pairwise Welch's t-tests were performed within each contrast and step, followed by exploratory within-network BH-FDR correction separately within each canonical functional network.\nRESULTS: Functional gradient analysis revealed distinct gradient profiles across the two patient groups. After global BH-FDR correction across 2400 ROI-wise tests, G1 showed extensive differences in MDD-noNSSI versus HC and in MDD-NSSI versus MDD-noNSSI, whereas the G1 difference between MDD-NSSI and HC was relatively limited. By contrast, G2 showed extensive and robust differences in MDD-NSSI versus HC and in MDD-NSSI versus MDD-noNSSI, while MDD-noNSSI showed a weaker G2 difference relative to HC. The exploratory sgACC/BA25-seeded SFC analysis showed HC-relative propagation abnormalities mainly involving limbic temporal pole and orbitofrontal parcels. Compared with HC, MDD-NSSI showed broader exploratory within-network-corrected limbic involvement and additional somatomotor reductions, whereas MDD-noNSSI showed a more focal left temporal pole propagation pattern. No direct SFC difference between MDD-NSSI and MDD-noNSSI survived exploratory within-network BH-FDR correction.\nCONCLUSION: FG findings provided direct evidence for different gradient-related profiles between adolescent MDD with and without NSSI, whereas sgACC/BA25-seeded SFC provided exploratory HC-relative propagation evidence. MDD-noNSSI was mainly associated with broad G1-related displacement, whereas MDD-NSSI was associated with G2-related redistribution and broader HC-relative limbic-cortical propagation abnormalities from the sgACC/BA25 seed.",
+      "authors": [
+        {
+          "name": "Chengyang Zeng"
+        },
+        {
+          "name": "Zhigang Wu"
+        },
+        {
+          "name": "Rui Yang"
+        },
+        {
+          "name": "Qi Liu"
+        },
+        {
+          "name": "Sijin Li"
+        },
+        {
+          "name": "Zhijun Yao"
+        },
+        {
+          "name": "Yu Fu"
+        },
+        {
+          "name": "Xiuzhen Wang"
+        }
+      ],
+      "publishedAt": "2026-08-12",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42409120",
+      "title": "Fear conditioning with five footshocks is sufficient to produce stress-enhanced fear learning in rats but does not produce physiological characteristics of stress.",
+      "summary": "Stress-enhanced fear learning (SEFL) is widely used in rodent studies to understand how prior experience with stress amplifies subsequent fear conditioning. SEFL procedures using rats often implement prolonged stress exposure (15 unsignaled footshocks) and sex differences are rarely, if ever, observed. Here, we first investigated how a 5-shock contextual fear conditioned procedure (unsignaled footshocks) influences subsequent fear learning, with the hypothesis that females would be more sensitive to SEFL under these conditions following similar work showing female mice are sensitive to SEFL with more mild procedures. 5 inescapable footshocks prior to subsequent fear conditioning with a single context-footshock pairing produced robust enhancement of later contextual freezing, and this effect was observed in both males and females to a similar extent. Further experiments demonstrated that SEFL remained intact even when the initial footshocks were signaled by a cue. While experience with 5 unsignaled footshocks did not increase freezing following a single-trial of delay conditioning, it did enhance freezing to a novel cue, consistent with stress-enhanced fear responding (SEFR). Both 5 and 15 shocks increased expression of the immediate early gene zif268 in several brain regions associated with stress, including the prelimbic and infralimbic cortices, the anterior and posterior retrosplenial cortex, and the paraventricular nucleus. While zif268 expression in the basolateral amygdala was increased following 5 shocks, this was not the case following 15 shocks. Serum corticosterone was selectively increased in females following 15 footshocks, but in neither sex following 5 footshocks. Together, these findings demonstrate that experience with 5 footshocks is sufficient to produce a SEFL-like effect despite not showing physiological changes identical to a 15-footshock stress procedure.",
+      "authors": [
+        {
+          "name": "Yeeun Bae"
+        },
+        {
+          "name": "Payton K Robinson"
+        },
+        {
+          "name": "Sydney Trask"
+        }
+      ],
+      "publishedAt": "2026-08-12",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42398543",
+      "title": "Prenatal exposure to high- but not low-molecular-weight poly(I:C) produces selective sociability deficits in offspring.",
+      "summary": "Social deficits following maternal immune activation (MIA) are widely used to model the impact of prenatal inflammation on autism spectrum disorder (ASD). Since the immune response to polyinosinic:polycytidylic acid (poly(I:C)) depends on its molecular weight, we hypothesized that poly(I:C) molecular composition shapes the emergence of social deficits in offspring. Pregnant Wistar rats received a single subcutaneous injection of low- or high-molecular-weight poly(I:C) (LMW or HMW; 10 mg/kg) on gestational day 14. Offspring of both sexes were assessed for social behavior in early life and adulthood using the homing response and social interaction tests, respectively. Open field and elevated plus maze tasks controlled for locomotor activity and anxiety-like behavior. Data were analyzed using nested linear mixed models accounting for litter and cohort effects. HMW, but not LMW, poly(I:C) significantly impaired neonatal homing responses, indicating early disruption of maternal affiliation. In adulthood, HMW-exposed offspring of both sexes showed reduced social investigation, with males additionally exhibiting increased social approach. Furthermore, both HMW- and LMW-exposed males displayed hyperlocomotion and increased time in the centre of the open field, without accompanying changes in anxiety-like behavior. In summary, although both HMW- and LMW-exposed offspring showed alterations in basal activity, only HMW poly(I:C) produced robust deficits in early social communication and adult social behavior. These findings identify molecular weight as a key determinant of MIA model outcomes and support HMW poly(I:C) as the more reliable and translationally valid preparation for modeling ASD-associated prenatal immune challenges.",
+      "authors": [
+        {
+          "name": "Daniela Kuncicka"
+        },
+        {
+          "name": "Simona Ondrackova"
+        },
+        {
+          "name": "Karin Estokova"
+        },
+        {
+          "name": "Dominika Radostova"
+        },
+        {
+          "name": "Daniela Cernotova"
+        },
+        {
+          "name": "Frantisek Staud"
+        },
+        {
+          "name": "Hana Brozka"
+        },
+        {
+          "name": "Ales Stuchlik"
+        }
+      ],
+      "publishedAt": "2026-08-12",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42385951",
+      "title": "Hippocampal plasticity predicts behavioral lateralization and stress resilience in laying hen chicks.",
+      "summary": "Perinatal environmental conditions can shape neural and cognitive development in poultry, yet the combined effects of lighted-incubation and immediate post-hatch feed and water access remain unknown. In this exploratory study, layer chick embryos were exposed to continuous light during embryonic days 18-21 and provided with immediate post-hatch access to feed and water, as exemplified in on-farm hatching systems. Hippocampal expression of neural plasticity markers (i.e., BDNF, DCX, PCNA) was measured in left and right hemispheres at eight weeks of age to assess structural plasticity and lateralization, and its relationship to lateralized visuomotor responses within the same individual chicks. The different plasticity markers correlated highly with each other and were combined in a hippocampal plasticity index. Neither lighted incubation nor immediate feed and water access altered hippocampal plasticity or lateralization, suggesting that these traits may reflect intrinsic hemispheric organization rather than early-life modulatory effect by environmental conditions. We did, however, find a pronounced left-right asymmetry, particularly in the caudal hippocampus (p = 0.04). Behavioral observations from a multitasking and step detour test revealed potential hemisphere-specific associations in these exploratory analyses. Right-hemispheric plasticity negatively correlated with latency to detect a predator, consistent with right-hemispheric dominance in threat detection. Higher overall hippocampal plasticity was associated with faster return to foraging after predator exposure (p = 0.01), hinting at a link between hippocampal plasticity and stress resilience, as has been found in mice. Detouring behavior also correlated with opposite patterns of hippocampal plasticity (p = 0.002), suggesting interactions between structural asymmetrical plasticity and lateralized cognitive processing. These findings suggest that hippocampal plasticity may primarily reflect intrinsic developmental trajectories, with early-life environmental factors exerting only modest effects, if any. These preliminary findings highlight the potential importance of considering intrinsic neural organization alongside perinatal environmental conditions in shaping cognitive and behavioral traits.",
+      "authors": [
+        {
+          "name": "Catharina M H Broekmeulen"
+        },
+        {
+          "name": "Jamie R Tulip"
+        },
+        {
+          "name": "Timothy Boswell"
+        },
+        {
+          "name": "Michael J Toscano"
+        },
+        {
+          "name": "Tom V Smulders"
+        }
+      ],
+      "publishedAt": "2026-08-12",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42361861",
+      "title": "Preserved gaze cueing in Parkinson's disease: Differential temporal modulation of social and non-social attentional orienting.",
+      "summary": "Parkinson's disease (PD) is associated with impairments in social cognition, yet it remains unclear whether basic mechanisms of social attention are also affected. The present study examined attentional orienting to social (gaze) and non-social (arrow) cues in patients with Parkinson's disease and healthy older adults using a spatial cueing task with manual responses. Cue validity (valid vs. invalid) and stimulus onset asynchrony (100 vs. 300 ms) were manipulated. Both gaze and arrow cues elicited reliable cueing effects in both groups, with no evidence of reduced attentional orienting in Parkinson's disease. The temporal profile of cueing differed across cue types: orienting elicited by arrow cues increased at the longer interval, whereas gaze cueing remained relatively stable. This pattern was observed in both groups and was robust to individual differences in age, education, and IQ. These findings indicate that basic gaze-triggered attentional orienting is preserved in Parkinson's disease and suggest that social attentional mechanisms may remain intact despite impairments reported in higher-order social cognition.",
+      "authors": [
+        {
+          "name": "Andrea Marotta"
+        },
+        {
+          "name": "Ilaria Corbo"
+        },
+        {
+          "name": "Barbara Blasutto"
+        },
+        {
+          "name": "Francesca Favieri"
+        },
+        {
+          "name": "Giuseppe Forte"
+        },
+        {
+          "name": "Diana Martella"
+        },
+        {
+          "name": "Nicoletta Locuratolo"
+        },
+        {
+          "name": "Francesco Fattapposta"
+        },
+        {
+          "name": "Maria Casagrande"
+        }
+      ],
+      "publishedAt": "2026-08-12",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42361857",
+      "title": "Acupuncture attenuates depression-like behavior by modulating the glu-mGluR3-BDNF signaling pathway in the prefrontal cortex of rats.",
+      "summary": "OBJECTIVE: The present study investigated whether acupuncture alleviates CUMS-induced depressive-like behaviors in rats and examined whether the Glu-mGluR3-BDNF signaling pathway is associated with these effects, identifying mGluR3 as a potential molecular correlate rather than a confirmed causal mediator.\nMETHODS: Male Sprague-Dawley (SD) rats were randomly allocated into six groups: Control, CUMS, CUMS + FXT, CUMS + AP, CUMS + SAP, and CUMS + RA. Depression was induced using the CUMS protocol. Behavioral assessments, including the OFT, FST, EPM, and SPT, were conducted to evaluate depressive-like behaviors. Histological examination of the prefrontal cortex (PFC) was performed using Hematoxylin, Eosin, and Nissl staining, while immunofluorescence was employed to quantify astrocyte density within this region. Protein and gene expressions of EAAT1, GAD67, GAD65, GIRK2, BDNF, and mGluR3 in the PFC tissue were quantified using Western blot and RT-PCR, respectively.\nRESULTS: After 28 days of CUMS, rats in the CUMS group exhibited a significant reduction in body weight compared to Controls. After 21 days of intervention, acupuncture significantly enhanced sucrose preference, increased central zone occupancy in the OFT, and reduced immobility time in the FST relative to the CUMS group. At the molecular level, acupuncture markedly upregulated EAAT1, GABA, and BDNF expression and concurrently downregulated GAD65, GAD67, Glu, and mGluR3 levels. Notably, these beneficial effects were significantly attenuated in the sham acupuncture and mGluR3 agonist groups.\nCONCLUSION: Acupuncture ameliorates core depressive-like behaviors in CUMS rats. These therapeutic effects are accompanied by enhanced astrocyte activity and mitigated glutamate toxicity in the prefrontal cortex (PFC), and were associated with coordinated changes in the Glu-mGluR3-BDNF signaling pathway. Within this pathway, mGluR3 emerged as a potential molecular substrate linked to the antidepressant-like response to acupuncture; however, its causal role and cell-type-specific regulation remain to be validated in future studies.",
+      "authors": [
+        {
+          "name": "Meng Li"
+        },
+        {
+          "name": "Zhuoran You"
+        },
+        {
+          "name": "Jingyu Zeng"
+        },
+        {
+          "name": "Jingxuan Li"
+        },
+        {
+          "name": "Jianguo Li"
+        },
+        {
+          "name": "Simin Yan"
+        },
+        {
+          "name": "Muhammad Shahzad Aslam"
+        },
+        {
+          "name": "Peng Li"
+        },
+        {
+          "name": "Junliang Shen"
+        },
+        {
+          "name": "Siyu Liu"
+        },
+        {
+          "name": "Lianlian Ning"
+        },
+        {
+          "name": "Hui Fang"
+        },
+        {
+          "name": "Shuqiong Huang"
+        },
+        {
+          "name": "Keli Chen"
+        },
+        {
+          "name": "Chongyao Hao"
+        },
+        {
+          "name": "Xianjun Meng"
+        }
+      ],
+      "publishedAt": "2026-08-12",
+      "source": "PubMed"
+    }
+  }
+]
