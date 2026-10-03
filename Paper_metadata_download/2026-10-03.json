@@ -1,0 +1,62 @@
+[
+  {
+    "paper": {
+      "id": "42664528",
+      "title": "Myth-busting influenza and fear of adverse reactions in healthcare workers: two experimental studies on vaccination intentions.",
+      "summary": "BACKGROUND: Seasonal influenza causes significant global harms, and vaccinating healthcare workers (HCW) is central to protecting both staff and patients. However, HCW influenza vaccination rates remain below targets. Misconceptions, particularly concerns about adverse reactions, are frequently cited barriers, and many campaigns use myth-busting materials to counter these beliefs. This study tested whether correcting influenza myths and addressing concerns about adverse reactions leads to an increase in vaccine intentions.\nMETHODS: Two online experimental studies were conducted. HCW participants were of primary interest but a general population sample was included for comparison. In Experiment 1 (HCW n = 514; general population n = 401), participants viewed images debunking common influenza myths, with randomisation to materials that either included or excluded an additional image addressing adverse reactions. Experiment 2 (HCW n = 535; general population n = 1200) focused exclusively on adverse reaction messaging, with participants randomised to one of four image formats. Vaccination intention was the primary outcome.\nRESULTS: In Experiment 1, myth-busting significantly increased vaccination intentions (all p < .001, all ηp2 > 0.12) in both samples. Adding an adverse reactions image produced no additional increase. In Experiment 2, no overall effects emerged for HCW, but a significant interaction (p = .011, ηp2 = 0.04) indicated that effects varied by image: one increased intentions (p = .029, dz = 0.25), two showed null effects, and one produced a marginal backfire effect (p = .052 dz = -0.21). In the general population sample, intentions increased overall (p < .001, dz = 0.15) with no interaction.\nCONCLUSIONS: Vaccination intentions were reliably higher after viewing myth-busting materials than before, but control intentions were not. Myth-busting is therefore an effective approach to increasing influenza vaccination intentions. In contrast, explicitly addressing mild adverse reactions did not reliably raise intentions and, for one set of materials, marginally reduced them. Campaigns targeting HCW should therefore test adverse reaction messaging before implementation.",
+      "authors": [
+        {
+          "name": "Lewis Bott"
+        },
+        {
+          "name": "Jiawen Liu"
+        },
+        {
+          "name": "Aimee Challenger"
+        },
+        {
+          "name": "Eryl Powell"
+        },
+        {
+          "name": "Petroc Sumner"
+        }
+      ],
+      "publishedAt": "2026-09-11",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42607628",
+      "title": "Overestimation of racial ingroup worry about the COVID-19 vaccine and medical racism.",
+      "summary": "We investigate whether there is pluralistic ignorance-a group-level shared misperception of what other group members are doing, thinking, or feeling-around COVID-19 vaccination and medical racism. We focus on two distinct anti-vaccination movements grounded in distinct racial groups: Black Americans and White Americans. Black American vaccine hesitancy is uniquely grounded in the history and continued reality of medical racism. White American vaccine hesitancy is influenced by factors including social media use, institutional mistrust, and psychological reactance. A Qualtrics panel sample (N = 2425) obtained by recruiting 50% Black (n = 1209) and 50% White (n = 1216) Americans were asked how worried they were regarding medical racism, HIV misinformation, COVID-19 vaccine safety, and whether the COVID-19 vaccine was violating individual rights. They were then asked how worried they felt the average White American and average Black American were on these issues. Black Americans had higher levels of worry on all items than White Americans. Among Black participants, there was a consistent pattern of overestimation of other Black Americans' worry across all issues-both COVID-19 related and medical racism related. Among the White participants, overestimation of group worry was only present for the COVID-19 items, not the items relating to medical racism. For both groups, one's own worry about each outcome and exhibiting Actively Open-Minded Thinking were predictors of overestimations of other's worry.",
+      "authors": [
+        {
+          "name": "Samantha L Heiman"
+        },
+        {
+          "name": "Nathaniel Geiger"
+        }
+      ],
+      "publishedAt": "2026-09-11",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "10.1002/ejsp.354",
+      "title": "Effects of power on emotion and expression during a controversial group discussion",
+      "summary": "AbstractThe approach/inhibition theory of power proposes that elevated social power increases the experience and expression of positive emotions and that reduced social power increases the experience and expression of negative emotions (Keltner, Gruenfeld, & Anderson, 2003). The evidence to date for these proposed relationships is correlational. Studies that have attempted to find a causal link between power and emotions have failed to do so. The current study manipulated social power in 61 three‐person groups that engaged in a meaningful discussion (explanations for poverty in the US) that produced disagreements and strong emotions. High power individuals experienced and expressed more positive emotions and less anger than low power individuals did. High power individuals were also more likely than low power individuals to openly express their opinions during the group discussion. Implications for theory and future research are discussed. Copyright © 2006 John Wiley & Sons, Ltd.",
+      "authors": [
+        {
+          "name": "Jennifer L. Berdahl"
+        },
+        {
+          "name": "Paul Martorana"
+        }
+      ],
+      "publishedAt": "2026-10-03",
+      "source": "Crossref"
+    }
+  }
+]
