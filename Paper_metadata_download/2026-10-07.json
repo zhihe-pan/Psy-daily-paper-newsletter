@@ -1,0 +1,48 @@
+[
+  {
+    "paper": {
+      "id": "42820430",
+      "title": "Mixed-valence molecules as platforms for ultrafast cooling via sudden electric-field switching.",
+      "summary": "In this article, we propose the concept of ultrafast cooling under sudden electric field quenching based on the use of binuclear mixed valence (MV) molecules. The formalism earlier developed in the study of molecular quantum cellular automata is used by considering the scenario in which one polarized MV dimer (\"driver-cell\") creates a dipole electric field acting on the adjacent dimer (\"working cell\"). To describe such dimers, the conventional vibronic theory of MV compounds adapted to the present case is applied. The considered process includes two distinct stages: (1) sudden decrease in the driver-cell polarization leading to a violation of the thermal equilibrium, and (2) subsequent dielectric relaxation restoring the thermal equilibrium, accompanied by the heat exchange between the dimers and the phonon bath. In search of a switching regime under which such a two-step process is accompanied by heat absorption (cooling), we face the need to suppress as much as possible the transitions between the ground and excited vibronic states. This is shown to be possible if the fast partial quenching of the driver-cell polarization occurs without changing its sign and also provided that the polarization does not approach too close to the avoided crossing point of two low-lying vibronic levels vs field. For this switching regime, the heat absorption arises from decreasing the energy gap between the two low-lying levels, which creates underpopulation of the excited level, resulting in heat transfer from the phonon bath to the quantum subsystem, i.e., cooling of the environment. It is shown that for systems with a strong vibronic coupling and/or weak electron transfer, this type of cooling is possible for a wider range of the driver-cell polarization variation, which makes MV systems with weak delocalization promising candidates for performing ultrafast cooling.",
+      "authors": [
+        {
+          "name": "Andrew Palii"
+        },
+        {
+          "name": "Boris Tsukerblat"
+        }
+      ],
+      "publishedAt": "2026-10-01",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42596911",
+      "title": "Volume changes of the limbic system and their link to age-related memory decline in healthy adults.",
+      "summary": "BACKGROUND: Global population aging highlights the need to explore age-related limbic system alterations, which are closely linked to emotion, memory, and cognition. Heterogeneous volume changes of limbic subregions and their memory-related impacts in healthy aging remain poorly understood.\nMETHODS: A total of 315 cognitively normal adults aged 20-89 years were divided into four age cohorts. T1-weighted MRI was applied to quantify volumes of core limbic subregions. Memory and general cognition were evaluated via the Mini-Mental State Examination (MMSE) and Hopkins Verbal Learning (HOP), covering immediate recall, delayed recall, and delayed recognition. Associations between regional brain volumes and memory performance were analyzed.\nRESULTS: Most regions of the limbic system exhibited a trend of volume reduction across all four age groups. The right anterior basal forebrain atrophied starting from young adulthood, while the fornix, left basal forebrain, and bilateral hypothalamus shrank significantly in late middle-aged and older adults, respectively. Uniquely, the volume of the left septal nucleus exhibits an abnormal increase. MMSE scores declined gradually, with accelerated loss after 65 years. Older adults exhibited lower immediate and delayed recall scores, positively correlated with the volumes of the nucleus accumbens, hypothalamus, fornix, and basal forebrain. No correlation existed between left septal nucleus volume and memory.\nCONCLUSION: Healthy aging causes heterogeneous limbic structural changes, which are essential for sustaining immediate and delayed memory. This advances understanding of the neural mechanisms underlying normal cognitive aging.",
+      "authors": [
+        {
+          "name": "Haoyan Luo"
+        },
+        {
+          "name": "Wenlong Jia"
+        },
+        {
+          "name": "Qikai Wu"
+        },
+        {
+          "name": "Yangyang Li"
+        },
+        {
+          "name": "Lingzhen Li"
+        },
+        {
+          "name": "Dong Cui"
+        }
+      ],
+      "publishedAt": "2026-08-28",
+      "source": "PubMed"
+    }
+  }
+]
