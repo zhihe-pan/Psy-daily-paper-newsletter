@@ -1,0 +1,100 @@
+[
+  {
+    "paper": {
+      "id": "42673911",
+      "title": "Anti-neuroinflammatory and neuroprotective effects of sweroside and swertiamarin from Swertia bimaculata in an in vitro microglial activation model.",
+      "summary": "Neuroinflammation, driven by microglial overactivation and subsequent pro-inflammatory cascades, is a hallmark of neurodegenerative pathologies. This study presents a phytochemical investigation of Swertia bimaculata (Siebold & Zucc.) Hook. f. & Thomson ex C. B. Clarke (S. bimaculata), resulting in the isolation of 11 monomeric compounds, including secoiridoid glycosides, xanthones, and flavonoids. An integrated pipeline of network pharmacology and molecular docking identified Sweroside (SS) and Swertiamarin (ST) as key bioactive constituents targeting core inflammatory proteins like NLRP3, Caspase-1, and IL-1β. Experimental validation in LPS/ATP-activated BV2 cells demonstrated that SBE, SS, and ST significantly suppressed mRNA expression of iNOS and the NLRP3 inflammasome while reducing reactive oxygen species (ROS) and intracellular Ca2+ accumulation. Mechanistically, these effects were mediated by the activation of the Nrf2/HO-1 signaling pathway. Furthermore, in an HT-22 neuron co-culture system, these components exhibited neuroprotective effects in this in vitro co-culture system by normalizing serotonin (5-HT) levels and modulating 5-HT-2A expression. Further in vivo animal studies are required to determine whether the cellular effects observed in this study translate to therapeutic benefits against neurodegenerative and mood disorders in vivo.",
+      "authors": [
+        {
+          "name": "Hai-Shuo Huang"
+        },
+        {
+          "name": "Yan Yang"
+        },
+        {
+          "name": "Wang-Long Sheng"
+        },
+        {
+          "name": "Yi-Nuo Fu"
+        },
+        {
+          "name": "Xian-Ju Huang"
+        }
+      ],
+      "publishedAt": "2026-09-09",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42664828",
+      "title": "Exosomal innovations in neurodegenerative disorders: Emerging insights and intranasal route.",
+      "summary": "Neurodegenerative disorders, including Alzheimer's disease (AD), Parkinson's disease (PD), and Multiple Sclerosis (MS), represent a substantial and growing global health burden, collectively accounting for millions of disability-adjusted life years (DALYs) worldwide and severely impacting cognition, mood, behavior, and motor function. Current therapies, particularly small-molecule drugs, are challenged by the blood-brain barrier (BBB), resulting in poor central nervous system (CNS) bioavailability, systemic adverse effects, and suboptimal patient adherence, underscoring the urgent need for novel delivery platforms. Exosomes, endogenous nanoscale extracellular vesicles (30-150 nm) derived from sources such as mesenchymal stem cells, neural stem cells, and immune cells, have emerged as highly promising biogenic drug carriers owing to their low immunogenicity, inherent biocompatibility, cargo versatility (proteins, mRNA, miRNA), and unique innate ability to cross the BBB, positioning them as superior alternatives to synthetic nanocarriers such as liposomes, niosomes, and solid lipid nanoparticles for targeted CNS delivery. This review provides a comprehensive overview of exosome biology and therapeutics for AD, PD, and MS, covering classification, isolation and characterization methods, drug-loading strategies and a comparative analysis of administration routes (intravenous, intracerebral, intrathecal, intra-arterial, and intranasal). Particular emphasis is placed on the intranasal route, which offers a non-invasive, direct nose-to-brain pathway via the olfactory and trigeminal nerves, effectively bypassing the BBB while minimizing systemic exposure. The review also examines the dual therapeutic and pathological roles of exosomes in BBB function, and emphasizes preclinical and early clinical evidence across AD, PD, and MS. Finally, the review outlines the major manufacturing, regulatory, and standardization hurdles that must be addressed including GMP-grade scale-up, consistent particle-based dosing benchmarks, and large placebo-controlled trials before intranasal exosome therapeutics can progress from promising preclinical candidates to approved disease-modifying treatments for neurodegenerative disorders.",
+      "authors": [
+        {
+          "name": "Rajashree Hirlekar"
+        },
+        {
+          "name": "Srushti Agnihotri"
+        },
+        {
+          "name": "Shalom Sathe"
+        },
+        {
+          "name": "Mangal Nagarsenkar"
+        }
+      ],
+      "publishedAt": "2026-09-09",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42567613",
+      "title": "\"Three-in-one\" integrated self-powered sensor for cadmium ion detection: On-site screening, sensitive quantification, and built-in verification functions.",
+      "summary": "Self-powered electrochemical sensors (SPES) have emerged as an eco-friendly detection technology, but reported SPES face challenges in on-site detection, quantitative sensitivity, and result credibility. To address these issues, a three-in-one SPES was developed that integrates on-site screening, sensitive quantification, and built-in verification functions, thereby realizing efficiency, sensitivity, and reliability. In the on-site screening process, the polyaniline (PANI)-based cathode exhibits a rapid multicolorimetric response (6-s signal response) to cadmium ions (Cd2+), enabling efficient semi-quantitative analysis without complex instrument. In the sensitive quantification process, V2C MXene drives e--h+ separation and enhances the power generation capacity. A linear relationship between the output power and Cd2+ concentration was established in the range between 1.5 nM and 10 μM with the limit of detection (LOD) of 0.5 nM (S/N = 3). During the built-in validation process, K2S2O8 activation enhances the open-circuit voltage in the non-ohmic region, and K2S2O8 transformation reduces ohmic loss (ηohmic) in the ohmic region. This double reaction enables the orthogonal generation and effective separation of two power peaks, establishing an interdependent and verifiable mapping model. In summary, the novel SPES design offers a practical and versatile platform for efficient, sensitive and reliable detection.",
+      "authors": [
+        {
+          "name": "Xingyu Ji"
+        },
+        {
+          "name": "Xiaojiao Du"
+        },
+        {
+          "name": "Jun Sun"
+        },
+        {
+          "name": "Bing Zhang"
+        },
+        {
+          "name": "Kunshan Yao"
+        },
+        {
+          "name": "Yan Li"
+        },
+        {
+          "name": "Qin Liao"
+        }
+      ],
+      "publishedAt": "2026-08-08",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42567579",
+      "title": "Cell micropatterning using an indium-tin-oxide patterned microarray chip.",
+      "summary": "Cell micropatterning is an essential technology for elucidating intercellular crosstalk and the behavior of single cells and cell populations. However, conventional micropatterning methods based on chemically modified cell-adhesive and nonadhesive surfaces face significant challenges. These methods involve challenges in optimizing substrate surfaces for culturing different cell types and exhibit variations in micropatterning precision. In this study, we propose a novel cell micropatterning method using an indium-tin-oxide (ITO) patterned microarray chip in combination with ultraviolet C (UVC, 254 nm) irradiation. By exposing an ITO microarray chip with adhered cells to UVC light, U-87 cells on the ITO layer proliferated to form a cell layer. Simultaneously, contact between adjacent cell layers was prevented, resulting in the formation of independent U-87 cell layers with the same geometry as the ITO layer. This method allows structurally unrestricted cell culture on a flat surface and free coating of the culture surface with materials that are most suitable for cell culture and eliminates the need for additional processes such as temperature control or voltage application during micropatterning. Furthermore, because the process does not rely on cell-adhesive or nonadhesive chemical factors, which vary significantly among cell types, it is expected to provide consistent performance across diverse cell species. Therefore, the proposed method enables the construction of optimal, low-stress cell culture environments on a simple planar platform without requiring specialized microstructures or adhesion factors.",
+      "authors": [
+        {
+          "name": "Hidetaka Ueno"
+        },
+        {
+          "name": "Shohei Yamamura"
+        }
+      ],
+      "publishedAt": "2026-08-08",
+      "source": "PubMed"
+    }
+  }
+]
