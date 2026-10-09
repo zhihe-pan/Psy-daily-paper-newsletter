@@ -1,0 +1,25 @@
+[
+  {
+    "paper": {
+      "id": "42847973",
+      "title": "Staged Margin Assessment in Cutaneous Cancers: A Scoping Review.",
+      "summary": "BACKGROUND: Large or very deep tumors may pose challenges for Mohs micrographic surgery when affecting functionally complex areas. Staged margin assessment techniques may be applied in these cases.\nOBJECTIVE: To characterize staged margin assessment techniques in cutaneous malignancies and describe reported outcomes (local recurrence rate and follow-up duration).\nMATERIALS AND METHODS: This scoping review sought to include articles describing staged surgical techniques with separate steps for (1) analysis of peripheral margins using excision or Mohs surgery with en face sectioning and (2) excision of the remaining, central tumor with traditional vertical sectioning.\nRESULTS: Among the 6,202 articles identified, 27 were included. Most studies (85.2%) were case based with tumor types consisting of melanoma in situ (65.7%), melanoma (19.7%), extramammary Paget disease (5.4%), dermatofibrosarcoma protuberans (4.9%), and keratinocyte malignancies (1.9%). Staged margin assessment methodology varied between studies; 41% of the studies specified interdisciplinary central debulking, most commonly with plastic surgery.\nCONCLUSION: Low levels of evidence supported staged margin assessment techniques. The methodology was diverse and applied to a variety of cutaneous malignancies, allowing for peripheral tumor clearance followed by interdisciplinary central debulking if traditional Mohs surgery was not feasible.",
+      "authors": [
+        {
+          "name": "Jay Patel"
+        },
+        {
+          "name": "Ellen Chinchilli"
+        },
+        {
+          "name": "Ella Engels"
+        },
+        {
+          "name": "Franki Lambert Smith"
+        }
+      ],
+      "publishedAt": "2026-10-08",
+      "source": "PubMed"
+    }
+  }
+]
