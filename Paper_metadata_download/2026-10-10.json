@@ -1,0 +1,181 @@
+[
+  {
+    "paper": {
+      "id": "42580449",
+      "title": "STING-targeted nanomedicine in combination cancer immunotherapy: From rational design to formulation engineering to clinical translation.",
+      "summary": "Although STING agonists have shown potential in reversing the \"cold\" tumor microenvironment (TME) by activating the cyclic GMP-AMP synthase (cGAS)-stimulator of interferon genes (STING) pathway, their efficacy as monotherapy remains limited, and combination therapies face challenges such as poor synergy, suboptimal timing, and safety concerns. Nanocarriers have evolved from passive drug delivery vehicles into active immunomodulatory platforms, providing critical support for precision combination therapy through co-loading of multiple agents, spatiotemporally coordinated release, and cell-specific targeting. This review delineates STING-centered combination immunotherapy through rational nanocarrier engineering, from physicochemical tuning to programmable delivery. We catalogue nanoplatforms for multi-agent co-encapsulation, examine surface targeting and temporal modulation. Finally, we analyze clinical translational barriers and advance solutions, hoping to offer insights into the clinical translation of nanocarrier-based STING-targeted combination immunotherapy.",
+      "authors": [
+        {
+          "name": "Na Qu"
+        },
+        {
+          "name": "Ju Guo"
+        },
+        {
+          "name": "Meng Zhang"
+        },
+        {
+          "name": "Mingxia Liu"
+        },
+        {
+          "name": "Changyu Yu"
+        },
+        {
+          "name": "Yujing Li"
+        },
+        {
+          "name": "Chenguo Zheng"
+        },
+        {
+          "name": "Xin Li"
+        },
+        {
+          "name": "Zhiyuan Shi"
+        },
+        {
+          "name": "Junjie Xie"
+        }
+      ],
+      "publishedAt": "2026-09-23",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42468848",
+      "title": "Dissecting emotional and cardiac contributions to duration perception: Evidence from two EEG experiments.",
+      "summary": "Time perception is inherently malleable, influenced by both emotional and bodily states. Past research suggests that transient heartbeat-linked interoceptive signals can modulate time perception, with some studies reporting that brief stimuli presented during cardiac systole are perceived as shorter than those during diastole. Here, we used electroencephalography (EEG) across two experiments to examine how such cardiac-phase effects are neurally instantiated, and how they interact with emotional content of the stimuli. In Experiment 1, participants judged the duration of brief neutral visual stimuli (Gabor patches) presented during systole or diastole. We did not observe a reliable group-level behavioural cardiac-phase effect. Despite that, EEG revealed systolic modulation of late visual activity. Crucially, exploratory analyses showed that more negative late cortical activity predicted temporal underestimation only during systole, not diastole. In Experiment 2, we extended this design to emotionally salient stimuli (neutral vs fearful faces). Fearful faces were perceived as shorter in duration and accompanied by enhanced N170-like negativity compared to neutral faces. But this effect was not modulated by cardiac phase, suggesting that emotional salience is a much more powerful driver of duration perception than subtle cardiac fluctuations. Yet, even for faces, enhanced EEG negativity predicted temporal contraction only during systole. Together, these findings reveal that while group-level behavioural cardiac-phase effects are variable, the systole-specific neural mechanism, whereby reduced cortical activity predicts temporal contraction, replicated across both experiments. This suggests that cardiac signals can shape duration perception through transient modulation of cortical processing.",
+      "authors": [
+        {
+          "name": "Irena Arslanova"
+        },
+        {
+          "name": "Magda Jaglinska"
+        },
+        {
+          "name": "Manos Tsakiris"
+        }
+      ],
+      "publishedAt": "2026-08-26",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42462874",
+      "title": "Neural dynamics of racial categorization of faces in Black Africans residing in China.",
+      "summary": "While recent research has revealed earlier neural-based racial categorization of other-race compared to same-race faces in White and Asian samples, neural dynamics underlying racial categorization in Black Africans remain unclear. We recorded electroencephalography (EEG) from Black adults from African countries and residing in China who performed an individual identification task on faces presented in repetition (faces of one racial category shown repeatedly) or alternating (other-race and same-race faces alternated) conditions, respectively. Racial categorization was assessed by quantifying repetition suppression (RS) of neural responses to faces across these two conditions. We found RS for both phase (the P2 amplitudes) and non-phase-locked (theta band, 3-8 Hz) responses to Black (but not Asian or White) faces. This neural profile was consistent with participants' faster responses to Black than White/Asian faces in an explicit racial categorization task. Furthermore, the theta-band RS effect predicted implicit negative attitudes toward Black faces across the participants. These results indicate earlier categorization of same-race (vs. other-race) faces in Black Africans residing in China, contrasting with the other-race priority in race categorization of faces observed in Asian and White samples.",
+      "authors": [
+        {
+          "name": "Yuqing Zhou"
+        },
+        {
+          "name": "Tianyu Gao"
+        },
+        {
+          "name": "Shihui Han"
+        }
+      ],
+      "publishedAt": "2026-08-26",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42413862",
+      "title": "Shared and culture-specific brain networks for emotional facial discrimination: Evidence from predictive modeling.",
+      "summary": "Whether emotional facial expressions are perceived universally or are culture-specific has been a topic of debate in affective neuroscience. To address this, we employed connectome-based predictive modeling (CPM) to analyse whole-brain connectivity data from an emotional face discrimination task, examining cultural influences on emotional facial perception in White Americans and Han Chinese. We demonstrated that individual differences in emotional facial discrimination could be predicted in both groups. However, there was limited overlap in the network predictors between groups, with the motor regions, inferior semi-lunar lobule, and culmen emerging as shared hubs at both the network and node levels. Group-specific patterns were also observed. In the Chinese group, unique predictive nodes included the inferior occipital gyrus, cingulate gyrus, and cerebellar tonsil, with dominant contributions arising from cerebellar-motor interactions. In contrast, the White American group showed distinct involvement of the superior temporal gyrus, nodule, and culmen, with primary predictive contributions driven by the motor network. Notably, the predictive model trained on White Americans showed success in generalizing to Han Chinese individuals, whereas the reverse was not observed. These differences may reflect cultural differences in the functional relevance of core predictive networks. Classification analyses validated the functional importance of CPM-identified nodes, showing that activity in these regions distinguished cultural groups in their responses to emotional faces and baseline conditions. These findings offer unique insights into the neural mechanisms by which culture influences emotional facial perception, underscoring the importance of predictive modeling in cultural neuroscience.",
+      "authors": [
+        {
+          "name": "Toluwani Joan Amos"
+        },
+        {
+          "name": "Weitie Han"
+        },
+        {
+          "name": "Ruili Sun"
+        },
+        {
+          "name": "Zhenlan Jin"
+        },
+        {
+          "name": "Junjun Zhang"
+        },
+        {
+          "name": "Ling Li"
+        }
+      ],
+      "publishedAt": "2026-08-26",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42413861",
+      "title": "Exploring the experiences of autistic and non-autistic aphantasics: A qualitative study.",
+      "summary": "Visual imagery - the creation of images mentally without the corresponding sensory input - plays an important role in multiple cognitive processes. The lack of conscious visual imagery, known as aphantasia, has been linked to autistic traits. However, there is a lack of qualitative studies exploring the experiences of aphantasics, autistic or non-autistic. The current study aimed to investigate the experiences of autistic and non-autistic aphantasics qualitatively, exploring possible similarities and differences that might shed light on links or differential mechanisms. Qualitative framework analysis and quantifying methods were used to analyse data collected via an online survey. A total of 25 aphantasic adults with a clinical diagnosis of autism, and 25 age-matched non-autistic aphantasic comparison participants, completed a series of questionnaires and an open-ended question, providing data for the current analyses. Three themes were identified, each with four subthemes: imagery (auditory and other sensory imagery, inner speech, spatial and navigation, dreams), thinking (abstract thinking, thinking in words, creativity, memory), and emotions and socialization (own emotions, others' emotions, social relationship, feeling different). Significantly more non-autistic than autistic participants endorsed the subtheme concerning \"auditory and other sensory imagery\", while the opposite was the case for the subtheme \"verbal thinking\". This is the first study to explore the lived experience of autistic and non-autistic aphantasic adults through qualitative methods. We hope to promote wider public understanding and appreciation of the different, but certainly not deficient, experiences of aphantasia and its intersection with autism.",
+      "authors": [
+        {
+          "name": "Sheng Zhong"
+        },
+        {
+          "name": "Katherine Jones"
+        },
+        {
+          "name": "Kathryn F Knight"
+        },
+        {
+          "name": "Fraser Milton"
+        },
+        {
+          "name": "Ginny Russell"
+        },
+        {
+          "name": "Adam Zeman"
+        },
+        {
+          "name": "Francesca Happé"
+        }
+      ],
+      "publishedAt": "2026-08-26",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42362083",
+      "title": "Seeing is believing: mental imagery amplifies moral, emotional, and motivational responding to mentally constructed hypothetical events.",
+      "summary": "Mental imagery is theorised to support important mental simulation processes, yet there remains little direct evidence of its functional impact on affective, moral, and motivation outcomes. This study examined whether the ability to generate visual mental imagery amplifies \"as-if-real\" responding to a mentally constructed harm event. Using a modified laboratory harm provocation paradigm, Aphantasics (individuals with no or minimal visual imagery; N = 32) and Visualisers (those with normal to high imagery ability; N = 48) were asked to write down the sentence \"I hope [name of a loved one] is in a car accident\", followed by instructed mental simulation of the event. The Aphantasic group reported significantly lower anxiety, guilt, moral violation, sense of responsibility and control, as well as urge to neutralise (cancel) the effects the sentence relative to the Visualiser group, but similar perceptions of event likelihood and severity. While Aphantasics were also less likely to engage in neutralisation behaviour than Visualisers, this effect reflected baseline group differences in age and thought-action fusion beliefs. Mental imagery ratings and episodic detail reports confirmed that visualisers generated more vivid and detailed representations of the imagined event. These findings support emulation theory by demonstrating that scene-based mental imagery makes mental events more real, eliciting greater \"as-if-real\" response. Results have implications for understanding the cognitive mechanisms involved in the development of obsessions and obsessive-compulsive symptoms, and suggest that aphantasia may confer reduced vulnerability to such responses.",
+      "authors": [
+        {
+          "name": "Julie L Ji"
+        },
+        {
+          "name": "Adam S Radomsky"
+        },
+        {
+          "name": "Jackie Andrade"
+        }
+      ],
+      "publishedAt": "2026-08-26",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "10.3390/ijerph19084676",
+      "title": "Depression and Perceived Social Support among Unemployed Youths in China: Investigating the Roles of Emotion-Regulation Difficulties and Self-Efficacy",
+      "summary": "In recent years, the issue of youth unemployment has begun to emerge in China. Unemployed young people are at high risk of depression and other mental health problems. The present study investigates influential factors related to depression and examines the possible mediating effects of difficulties in emotion regulation and self-efficacy between perceived social support and depressive symptoms among unemployed youths in China. Through community recruitment, 511 unemployed young people from Shanghai participated in this cross-sectional survey. The results demonstrate that the prevalence of probable depression in the sample was 49.3% (95% CI: 45.0–53.7%). Moreover, we found that both the perceived social support and self-efficacy were significant negative predictors of depression, whereas difficulties in emotion regulation were positive predictors of depression. In addition, the analysis results indicate that difficulties in emotion regulation and self-efficacy partially mediate the relationship between perceived social support and depression. Overall, this cross-sectional study reveals that depression and mental health problems among China’s unemployed youths are concerning while identifying emotion-regulation difficulties as a risk factor for these and social support and self-efficacy as protective factors, all of which warrant our attention in preventing and intervening with cases of youth depression.",
+      "authors": [
+        {
+          "name": "Zhiya Hua"
+        },
+        {
+          "name": "Dandan Ma"
+        }
+      ],
+      "publishedAt": "2026-10-10",
+      "source": "Crossref"
+    }
+  }
+]
