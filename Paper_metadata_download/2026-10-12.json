@@ -1,0 +1,220 @@
+[
+  {
+    "paper": {
+      "id": "42631357",
+      "title": "Molecular Basis for Activation to Inhibition Switching in Kv7.2 Channel Modulators.",
+      "summary": "Kv7 voltage-gated potassium channels play a critical role in controlling electrical properties of excitable tissues. Neuronally-expressed Kv7 channels are involved in both common and rare neuropsychiatric disorders, ranging from epilepsy to depression and neurodegenerative diseases; thus, they represent attractive therapeutic targets. However, no Kv7 modulator is currently available for clinical use. Improved knowledge of the functional and structural determinants responsible for ligand-induced Kv7 channel modulation is likely to fill this gap. In the present work, we describe the cryo-electron microscopy structures of human Kv7.2 channels in complex with two retigabine analogues: compound 60 (c60), which we previously described as a Kv7 activator with improved pharmacokinetic and pharmacodynamic properties, and the newly designed compound 106 (c106), which acts as a potent Kv7 blocker. Although both compounds occupy the same pocket at the S5-S6 interface in the pore domain, docking and molecular dynamics simulations and electrophysiological experiments revealed that the opposite functional behavior is due to their differential interaction, involving the L307 residue. Thus, we herein provide novel mechanistic insights into the molecular mechanisms governing Kv7 channel modulation by exogenous ligands which may prove useful to target Kv7 channels with more potent and selective modulators.",
+      "authors": [
+        {
+          "name": "Tania Ciaglia"
+        },
+        {
+          "name": "Giusy Carleo"
+        },
+        {
+          "name": "Zhenni Yang"
+        },
+        {
+          "name": "Francesca Di Matteo"
+        },
+        {
+          "name": "Federica De Rosa"
+        },
+        {
+          "name": "Gerardina Smaldone"
+        },
+        {
+          "name": "Zhao-Bing Gao"
+        },
+        {
+          "name": "Marco D'Alì"
+        },
+        {
+          "name": "Rita Turcio"
+        },
+        {
+          "name": "Demin Ma"
+        },
+        {
+          "name": "Veronica Di Sarno"
+        },
+        {
+          "name": "Nannan Su"
+        },
+        {
+          "name": "Salvatore Vincenzo Giofrè"
+        },
+        {
+          "name": "Giacomo Pepe"
+        },
+        {
+          "name": "Pietro Campiglia"
+        },
+        {
+          "name": "Alessia Bertamino"
+        },
+        {
+          "name": "Francesco Miceli"
+        },
+        {
+          "name": "Jiangtao Guo"
+        },
+        {
+          "name": "Nunzio Iraci"
+        },
+        {
+          "name": "Carmine Ostacolo"
+        },
+        {
+          "name": "Maurizio Taglialatela"
+        }
+      ],
+      "publishedAt": "2026-10-11",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42622295",
+      "title": "Solar-Driven Redox-Catalyzed Direct Alcohol Fuel Cells.",
+      "summary": "Direct alcohol fuel cells (DAFCs) running on liquid alcohols offer higher energy densities and much easier and safer operation than hydrogen. However, DAFCs face significant challenges in using high-loading Pt-based catalysts at both the anode and cathode, where the alcohol oxidation reaction and oxygen reduction reaction still suffer slow kinetics, as well as alcohol crossover causing cathode poisoning. Here, we report a breakthrough in alternative solar-driven redox-catalyzed direct alcohol fuel cells (SR-DAFCs), that avoid using Pt catalysts and can operate with a range of alcohols. They mechanistically alter the conventional solid/liquid/gas heterogeneous electrocatalytic reaction pathways, into liquid homogeneous organic redox couples that mediated alcohol photocatalytic oxidation reaction at the anode, and oxygen electrochemical reduction reaction at cathode. The SR-DAFCs exhibited record high-power density up to 319.2 mW cm-2 with various alcohols feed, that is 3 times higher than traditional DAFC, demonstrating great potential of using unrefined alcohols as an economical fuel source for wider applications.",
+      "authors": [
+        {
+          "name": "Le Yang"
+        },
+        {
+          "name": "Zhilin Zhang"
+        },
+        {
+          "name": "Xiao Lin"
+        },
+        {
+          "name": "Shu Zhang"
+        },
+        {
+          "name": "Yingchen Peng"
+        },
+        {
+          "name": "Chengdong Fang"
+        },
+        {
+          "name": "Liubin Feng"
+        },
+        {
+          "name": "Ye Yang"
+        },
+        {
+          "name": "Dongping Zhan"
+        },
+        {
+          "name": "Wen-Feng Lin"
+        },
+        {
+          "name": "Jia-Jia Chen"
+        }
+      ],
+      "publishedAt": "2026-08-20",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42622290",
+      "title": "Solid Additive Engineering Breaks the Stability-Conductivity Trade-Off in Halide Electrolytes for Robust All-Solid-State Batteries.",
+      "summary": "Solid-state electrolytes (SSEs) inherently face a stability-conductivity trade-off, whereby strategies that enhance moisture tolerance and oxidative stability often compromise Li+ transport. Here, inspired by additive engineering in liquid electrolytes, we demonstrate that a similar concept can be translated into solid electrolytes. A solid-additive engineering strategy is developed by incorporating oxide nanoparticles into halide SSEs, enabling stability regulation without sacrificing fast ion transport. Combined experimental characterizations and atomistic simulations reveal that a fraction of the additives participates in local interfacial reconstruction that generates disordered Li-ion coordination environments, whereas the majority remains as chemically stable nanodomains within the electrolyte matrix. This cooperative structural regulation simultaneously enhances ionic conductivity, electrochemical stability, and moisture tolerance. Moreover, ASSBs exhibit markedly improved cycling reversibility and high-voltage stability. Full cells incorporating such solid additives sustain stable operation over 3300 cycles at 1 C and retain considerable reversibility even at 4.8 V. The solid additive effect is further demonstrated across multiple halide electrolytes. These findings establish solid additive engineering as a general and cost-effective strategy for overcoming the intrinsic stability-conductivity trade-off in SSEs, providing new opportunities for the design of robust solid-state battery chemistries.",
+      "authors": [
+        {
+          "name": "Haochang Zhang"
+        },
+        {
+          "name": "Fiaz Hussain"
+        },
+        {
+          "name": "Hailun Jin"
+        },
+        {
+          "name": "Tiancai Ren"
+        },
+        {
+          "name": "Zhepu Shi"
+        },
+        {
+          "name": "Chunlei Zhao"
+        },
+        {
+          "name": "Ying Li"
+        },
+        {
+          "name": "Hongtao Li"
+        },
+        {
+          "name": "Jiuwei Lei"
+        },
+        {
+          "name": "Qi Guo"
+        },
+        {
+          "name": "Jianhui Wang"
+        },
+        {
+          "name": "Wen Tang"
+        },
+        {
+          "name": "Shuaika Liang"
+        },
+        {
+          "name": "Wen Yin"
+        },
+        {
+          "name": "Zi-Feng Ma"
+        },
+        {
+          "name": "Yusheng Zhao"
+        },
+        {
+          "name": "Xueliang Sun"
+        },
+        {
+          "name": "Wei Xia"
+        }
+      ],
+      "publishedAt": "2026-08-20",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42489116",
+      "title": "Directional Second Sphere Effect on CO2 Activation and Reduction by Iron Porphyrin in Aprotic and Protic Media.",
+      "summary": "The topological directionality of functional groups in the secondary coordination sphere (SCS) plays a decisive role in enzymatic small-molecule activation but remains underexplored in synthetic systems. Here, we investigate how symmetry remodeling of a urea-based SCS modulates electrocatalytic CO2-to-CO reduction using two atropisomeric iron porphyrins, αβαβ-UrFe and α2β2-UrFe, which differ solely in the spatial arrangement of identical hydrogen-bond donor groups. Switching from a face-to-face to an adjacent urea-arms configuration enables unprecedented CO2-to-CO conversion under strictly aprotic conditions, in the absence of Brønsted or Lewis acids. Combined electrochemical, spectroscopic, kinetic, and DFT studies reveal that the adjacent positioning of the urea arms weakens the stabilization of the initial [Fe─CO2] intermediate but creates a more open and dynamically reorganizable SCS that permits insertion of a second CO2 molecule as an oxygen-atom acceptor, to yield CO and CO3 2-. Under protic conditions, this improved active-site accessibility, combined with a dissymmetrization of the activated CO2 molecule, accelerates proton transfer, with CO2-to-CO reduction reaching turnover frequency of up to 2.72 × 107 s-1, among the highest reported for homogeneous catalysis. These results establish directional interactions within the SCS as powerful design strategy for boosting molecular catalysis.",
+      "authors": [
+        {
+          "name": "Ashutosh Vishwakarma"
+        },
+        {
+          "name": "Sami Essid"
+        },
+        {
+          "name": "Sarah Bouery"
+        },
+        {
+          "name": "Régis Guillot"
+        },
+        {
+          "name": "Bernard Boitrel"
+        },
+        {
+          "name": "Philipp Gotico"
+        },
+        {
+          "name": "Marie Sircoglou"
+        },
+        {
+          "name": "Zakaria Halime"
+        }
+      ],
+      "publishedAt": "2026-07-23",
+      "source": "PubMed"
+    }
+  }
+]
