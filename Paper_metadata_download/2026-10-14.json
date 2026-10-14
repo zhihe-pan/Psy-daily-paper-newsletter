@@ -1,0 +1,40 @@
+[
+  {
+    "paper": {
+      "id": "42852438",
+      "title": "Pharmacist Consults in a Canadian Post-Intensive Care Clinic: A 5-Year Quantitative Analysis.",
+      "summary": "BACKGROUND: Intensive care unit (ICU) survivors face significant drug-related challenges. Pharmacists can play a crucial role in addressing these issues in critical care recovery clinics.\nOBJECTIVES: To describe the nature and number of pharmacy interventions per patient within a post-ICU clinic, while also exploring the patient characteristics that might predict those who would benefit from a pharmacist's intervention.\nMETHODS: A retrospective cohort study, which included all patients with a pharmacist consult record from a post-ICU clinic between March 2019 and July 2024, was conducted at the McGill University Health Centre, Montréal, Quebec. The pharmacists' interventions were categorized as follows: medication changes, such as medication cessation, medication initiation, medication substitution, or dosage adjustment; review of adverse drug events; review of drug interactions; laboratory monitoring; patient education; coordination of care; vaccination; and others. The relationship between patient characteristics and benefits derived from a pharmacist intervention was analyzed using stepwise logistic regression.\nRESULTS: Across the 129 patients who met the inclusion criteria, a mean of 3 interventions (range 0-10) were recorded. The most frequent interventions were patient education (provided to 72 patients, 55.8%), coordination of care (68 patients, 52.7%), medication cessation (42 patients, 32.6%), and dosage adjustment (21 patients, 16.3%). The stepwise logistic regression identified the number of medications being taken when the patient was seen at the post-ICU clinic as the only significant factor determining the likelihood of benefit from a pharmacist intervention (odds ratio 1.182, 95% confidence interval 1.085-1.289, p < 0.001).\nCONCLUSIONS: Pharmacists working in multidisciplinary post-ICU clinics provided a range of patient-centred interventions, with the number of medications at the time of attending the post-ICU clinic identified as the primary factor influencing which patients would benefit from a pharmacist encounter.",
+      "authors": [
+        {
+          "name": "Meriem Khatem"
+        },
+        {
+          "name": "Béatriz Noé"
+        },
+        {
+          "name": "Cai Qi Xu"
+        },
+        {
+          "name": "Angelica Le"
+        },
+        {
+          "name": "Ghina Moussa"
+        },
+        {
+          "name": "Anthony Rainone"
+        },
+        {
+          "name": "David Hornstein"
+        },
+        {
+          "name": "Jonathan F Mailman"
+        },
+        {
+          "name": "Marc M Perreault"
+        }
+      ],
+      "publishedAt": "2026-10-09",
+      "source": "PubMed"
+    }
+  }
+]
