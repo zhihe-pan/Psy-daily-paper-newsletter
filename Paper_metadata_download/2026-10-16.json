@@ -1,0 +1,275 @@
+[
+  {
+    "paper": {
+      "id": "42873880",
+      "title": "Vitamin D binding protein in ventral CA3 of the hippocampus drives stress-induced depression.",
+      "summary": "The ventral hippocampus plays a crucial role in regulating emotional and motivated behaviors. However, the molecular mechanisms underlying its dysfunction in major depressive disorder (MDD) remain poorly understood. Here, we identified elevated expression of vitamin D binding protein (VDBP) in the hippocampi of chronic unpredictable mild stress (CUMS)-susceptible mice, which correlated with the severity of depression-like behaviors. Notably, VDBP up-regulation was specifically in ventral CA3 excitatory (vCA3CaMKIIα) neurons. CA3CaMKIIα VDBP overexpression led to inhibited neuronal activity, synaptic and dendritic impairments, and, ultimately, depression-like behaviors. Conversely, vCA3CaMKIIα-specific VDBP knockdown enhanced resilience to chronic stress. Mechanistically, VDBP directly interacted with PIK3R3 to inhibit the PI3K-Akt-mTOR pathway in a cell-autonomous manner, leading to excessive autophagy and subsequent neuronal dysfunction. Chemogenetic activation, intervention using the Akt-specific activator SC79, and site-specific mutation disrupting the VDBP-PIK3R3 interaction ameliorated vCA3CaMKIIα VDBP-induced depression-like phenotypes. Collectively, these findings underscore the critical involvement of vCA3CaMKIIα neuron-derived VDBP in stress-induced depressive pathology and highlight its potential as a therapeutic target for MDD.",
+      "authors": [
+        {
+          "name": "Yan Kong"
+        },
+        {
+          "name": "Zihan Huang"
+        },
+        {
+          "name": "Cuiju Zeng"
+        },
+        {
+          "name": "Yinghan Xu"
+        },
+        {
+          "name": "Zhijun Zhang"
+        }
+      ],
+      "publishedAt": "2026-10-14",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42866703",
+      "title": "Trait anxiety selectively amplifies reward learning under uncertainty, while N3 sleep attenuates it.",
+      "summary": "Adaptive learning under uncertainty requires distinguishing random variability (stochasticity) from true environmental change (volatility), yet how trait anxiety and sleep together influence it remains unclear. Across two preregistered experiments, participants completed a probabilistic reversal-learning task that independently manipulated volatility and stochasticity. Hierarchical Bayesian modeling showed that in stable but noisy environments, individuals with higher trait anxiety appeared to treat stochastic fluctuations as indicators of genuine change, resulting in over updating and lower evidence accumulation, while preserving normative trends in volatile environments. In a second experiment combining task performance with overnight sleep electroencephalography, greater N3 sleep was associated with reduced updating and higher evidence accumulation in stable environments among individuals with higher trait anxiety. These findings suggest that trait anxiety selectively alters how uncertainty is computationally represented, while N3 sleep appears to attenuate it. Together, these findings provide a computational framework linking anxiety, sleep, and adaptive learning under uncertainty.",
+      "authors": [
+        {
+          "name": "Rakshita Deshmukh"
+        },
+        {
+          "name": "Arjun Ramakrishnan"
+        }
+      ],
+      "publishedAt": "2026-10-13",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42866261",
+      "title": "Lateralized vagal oxytocin receptor signaling separately controls feeding and socioemotional functions via hypothalamic oxytocin neurons.",
+      "summary": "Oxytocin neurons in the paraventricular hypothalamus (PVHOxt) regulate feeding, anxiety, and social behaviors. Activation of Oxt receptor (Oxtr)-expressing vagal sensory neurons engages these PVHOxt neurons and improves hyperphagic obesity; however, their roles in anxiety and sociability remain unclear. Here, we activated vagal Oxtr-expressing neurons in male mice using a single intraperitoneal (IP) Oxt injection or chemogenetics. IP Oxt reduced anxiety-like behavior, enhanced social interaction, and suppressed feeding while activating both vagal sensory neurons and PVHOxt neurons. These effects were abolished by chemogenetic inhibition of PVHOxt neurons or central Oxtr blockade. Subdiaphragmatic vagotomy revealed lateralized functions: right-side vagotomy eliminated anxiolytic and prosocial effects, whereas left-side vagotomy blocked feeding suppression. Consistently, chemogenetic activation of left-sided neurons suppressed feeding, while right-sided activation reduced anxiety and increased sociability. These findings identify Oxtr-expressing vagal sensory neurons as a major peripheral pathway in which left- and right-sided inputs differentially control feeding and socioemotional behaviors.",
+      "authors": [
+        {
+          "name": "Kengo Iba"
+        },
+        {
+          "name": "Yuta Masuda"
+        },
+        {
+          "name": "Rika Kitano"
+        },
+        {
+          "name": "Kento Ohbayashi"
+        },
+        {
+          "name": "Yukio Ago"
+        },
+        {
+          "name": "Hirotaka Nagai"
+        },
+        {
+          "name": "Tomoyuki Furuyashiki"
+        },
+        {
+          "name": "Chikara Abe"
+        },
+        {
+          "name": "Yusaku Iwasaki"
+        }
+      ],
+      "publishedAt": "2026-10-13",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42835520",
+      "title": "Structures of multiple states of the nicotinamide nucleotide transhydrogenase from Escherichia coli.",
+      "summary": "Nicotinamide nucleotide transhydrogenase couples hydride transfer between NAD(H) and NADP(H) to proton translocation, supporting cellular NADPH production. Here we present cryo-EM structures of full-length Escherichia coli transhydrogenase in apo, substrate-bound, and inhibitor-bound states. In the apo state, both copies of the NADP(H)-binding domain (dIII) adopt a face-down configuration, with the binding pocket partially embedded in transmembrane domain dII, plugging the cytoplasmic side of the proton channel. NADP+ or NADPH binding to dIII is accompanied by detachment of one or both dIII copies from dII and increased orientational dynamics. Detachment of dIII from dII allows a conformation compatible with hydride transfer between NADP(H) in dIII and NAD(H) in dI, and is accompanied by conformational changes in the dII proton channel that close periplasmic access and open cytoplasmic access. Palmitoyl-CoA stabilizes an apo-like conformation, trapping dIII in a face-down configuration. These results define the structural basis for transhydrogenase regulation through interdomain conformational coupling.",
+      "authors": [
+        {
+          "name": "Jiao Li"
+        },
+        {
+          "name": "Sangjin Hong"
+        },
+        {
+          "name": "Rui Hao"
+        },
+        {
+          "name": "Kai Zhang"
+        },
+        {
+          "name": "Robert B Gennis"
+        },
+        {
+          "name": "Jiapeng Zhu"
+        }
+      ],
+      "publishedAt": "2026-10-06",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42831126",
+      "title": "Robust multimodal emotion recognition under incomplete modalities via transformer conditional variational autoencoders.",
+      "summary": "Multimodal emotion recognition (MER) has gained increasing research interest owing to its ability to integrate complementary emotional cues from textual, acoustic, and visual modalities. However, real-world applications often suffer from incomplete multimodal inputs caused by sensor failures, communication disruptions, or noisy environments, resulting in missing modalities or corrupted features. To address these challenges, this study proposes RMM-TCVAE, a robust MER framework based on a Transformer-based Conditional Variational Autoencoder. The framework combines modality-specific encoders, a conditional Transformer Reconstruction Network for recovering missing modalities, and a Gated Multimodal Fusion Network for adaptive cross-modal integration. Experiments on CMU-MOSI, CMU-MOSEI, and IEMOCAP demonstrate that RMM-TCVAE consistently outperforms strong baselines under incomplete multimodal conditions, achieving 84.8% accuracy on CMU-MOSEI and yielding improvements of up to 2.9 percentage points in Acc and 3.1 percentage points in WAF across fixed missing-rate experiments. Ablation and visualization analyses support the effectiveness of RMM-TCVAE under incomplete multimodal conditions.",
+      "authors": [
+        {
+          "name": "Shuai Wang"
+        },
+        {
+          "name": "Juan Li"
+        },
+        {
+          "name": "Zhong Wu"
+        },
+        {
+          "name": "Baoli Wang"
+        },
+        {
+          "name": "Qi Wang"
+        }
+      ],
+      "publishedAt": "2026-10-05",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42824227",
+      "title": "Evidence for early and late prediction error-associated ERP responses during probabilistic cueing.",
+      "summary": "Probabilistic relationships are omnipresent in our sensory environment. According to some predictive coding models, the processing of deviations from expectation should be accompanied by enhanced neuronal responses, reflecting a prediction error, while expected stimuli should lead to suppression of brain responses. However, probabilistic cueing designs show no clear picture regarding prediction error and expectation suppression. Here, we measured event-related potentials (ERPs) while participants were presented with a probabilistic cueing procedure with low, high, or equal-probable stimuli, while the task relevance of the probabilistic relations was varied. Our data show enhanced ERPs to infrequent stimuli in early (increased negative amplitudes over posterior electrodes) and late (increased positive amplitudes over central electrodes) time windows, driven by a prediction error and not by expectation suppression. While early visual responses are independent of task-relevance of predictive information, later and hierarchically higher effects are potentiated if predictive information is explicitly attended.",
+      "authors": [
+        {
+          "name": "Insa Schlossmacher"
+        },
+        {
+          "name": "Alena Schlotmann"
+        },
+        {
+          "name": "Sebastian Schindler"
+        },
+        {
+          "name": "Robert Moeck"
+        },
+        {
+          "name": "Thomas Straube"
+        }
+      ],
+      "publishedAt": "2026-10-02",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42775128",
+      "title": "Auditory associative learning drives synaptic responses in tail of the striatum spiny projection neurons.",
+      "summary": "The association of cues with the absence or presence of danger is crucial to survival. The synaptic changes that enable association with the absence of danger are unknown, but a role for the tail of the striatum (TS) has been implicated. To investigate this, we conditioned mice to associate a contextual environment with the threat of foot-shock, which led to freezing, and a sound cue (CS) with the absence of shock, which suppressed contextual freezing. After learning, the CS strongly activated SPNs relative to controls, including a large direct pathway (dSPN) calcium response to sound onset that persisted during anesthesia. In the brain slices of conditioned mice, dSPNs exhibited enhanced synaptic responses to auditory thalamic inputs, with higher NMDA and AMPA receptor-mediated responses, decreased GABAergic inputs, and increased density of dendritic spines. Thus, auditory association with the absence of danger involves enhancement of TS synaptic responses to the associated sound.",
+      "authors": [
+        {
+          "name": "Adrien Stanley"
+        },
+        {
+          "name": "Se Joon Choi"
+        },
+        {
+          "name": "Anika Frank"
+        },
+        {
+          "name": "Emily Makowicz"
+        },
+        {
+          "name": "Stefano Cataldi"
+        },
+        {
+          "name": "N Shashaank"
+        },
+        {
+          "name": "Eugene V Mosharov"
+        },
+        {
+          "name": "Clay Lacefield"
+        },
+        {
+          "name": "Maria Concetta Miniaci"
+        },
+        {
+          "name": "David Sulzer"
+        }
+      ],
+      "publishedAt": "2026-09-23",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42761384",
+      "title": "Perioperative carbohydrate loading improves comfort without adverse metabolic or neonatal effects in gestational diabetes mellitus.",
+      "summary": "Preoperative carbohydrate loading has been known to overcome discomfort and complications associated with cesarean section, but there is a scarcity of evidence on its safety and benefits in patients with gestational diabetes mellitus (GDM). In this study, pregnant women with normoglycemia and GDM were recruited and grouped according to their nutritional choice prior to cesarean delivery. Blood samples and clinical data were collected, and maternal comfort scores based on self-reports and neonatal data recorded. Metabolomic profiling was performed to explore underlying metabolic responses. Results showed perioperative carbohydrate loading significantly reduced thirst, hunger, and anxiety compared with fasting controls in both the normal and GDM groups. The two groups showed no significant differences at any time point in terms of glycemic measures, inflammatory markers, or maternal and neonatal outcomes. Metabolomic analysis revealed distinct but partially overlapping alterations in metabolic pathways at 1 h before surgery between the two groups.",
+      "authors": [
+        {
+          "name": "Siqi Liu"
+        },
+        {
+          "name": "Yuxiang Bai"
+        },
+        {
+          "name": "Xiaochang Yang"
+        },
+        {
+          "name": "Longqiong Wang"
+        },
+        {
+          "name": "Hongli Li"
+        },
+        {
+          "name": "Guangmin Song"
+        },
+        {
+          "name": "Ruohan Hu"
+        },
+        {
+          "name": "Tongzhi Wu"
+        },
+        {
+          "name": "Xiaoqing Tan"
+        },
+        {
+          "name": "Qingrong Wu"
+        },
+        {
+          "name": "Hua Zhang"
+        },
+        {
+          "name": "Chang Chen"
+        }
+      ],
+      "publishedAt": "2026-09-19",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42761378",
+      "title": "A synthesis of recorded fine-scale threats to imperiled species in the United States.",
+      "summary": "Biodiversity in the United States faces mounting anthropogenic pressures, with an increasing number of species at risk of extinction. We present the most extensive synthesis of recorded threats confronting U.S. imperiled species to date, considering species assessments from NatureServe and the IUCN Red List for over 16,000 species. Our results demonstrate the value of identifying fine-scale threats species face. Species occupying multiple ecosystems tend to see more recorded threats on average, and threat prevalence differs by ecosystem. Certain taxa (particularly corals, reptiles, amphibians, bivalves, and mammals) face disproportionately high recorded threat numbers. Climate change is both the fastest-growing recorded threat and the most ubiquitous IUCN threat category among species with up-to-date assessments. This analysis also highlights significant data gaps, revealing that most imperiled species have outdated or incomplete threat assessments, and over half lack even an initial evaluation. Gaps are disproportionately found among invertebrates, plants, and fungi.",
+      "authors": [
+        {
+          "name": "Talia E Niederman"
+        },
+        {
+          "name": "Laura A Nunes"
+        },
+        {
+          "name": "Lindsay M Dreiss"
+        },
+        {
+          "name": "Alison M Gainsbury"
+        }
+      ],
+      "publishedAt": "2026-09-19",
+      "source": "PubMed"
+    }
+  }
+]
