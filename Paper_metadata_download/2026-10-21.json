@@ -1,0 +1,37 @@
+[
+  {
+    "paper": {
+      "id": "42899701",
+      "title": "Investigation of surface and subsurface defects of Cu(111) surface by scanning tunneling microscopy.",
+      "summary": "Various types of surface defects are observed using scanning tunneling microscopy (STM) on a clean Cu(111) surface. Detailed STM images of defects show an asymmetric structure comprised of a bright protrusion inside a hexagonal depression. Protrusions are consistently aligned in the same direction, Cu[001], on the surface. The defects are observed to interact with one another, as each defect is separated by an integer multiple of half the Fermi wavelength, evident from the quasiparticle interference oscillations resulting from the defects. This interaction is also suspected to dictate the orientation of the defects, resulting in their uniform alignment. Ab initio density functional theory methods are used to investigate Cu(111) surface defects and adatoms. Simulated STM images using the Tersoff-Hamann scheme are compared to STM images. Results are also discussed in the context of existing literature on similar structures.",
+      "authors": [
+        {
+          "name": "Killian Walshe"
+        },
+        {
+          "name": "Brian Walls"
+        },
+        {
+          "name": "Alexei Yu Aladyshkin"
+        },
+        {
+          "name": "Victor N Matveev"
+        },
+        {
+          "name": "Kuanysh Zhussupbekov"
+        },
+        {
+          "name": "Andrey M Ionov"
+        },
+        {
+          "name": "Igor V Shvets"
+        },
+        {
+          "name": "Sergey I Bozhko"
+        }
+      ],
+      "publishedAt": "2026-10-20",
+      "source": "PubMed"
+    }
+  }
+]
