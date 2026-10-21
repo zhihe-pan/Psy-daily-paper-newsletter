@@ -1,0 +1,63 @@
+[
+  {
+    "paper": {
+      "id": "42721858",
+      "title": "NeoGen-BC: A synergistic framework combining generative protein language models and multi-window deep learning for designing shared neoantigens in breast cancer.",
+      "summary": "Breast cancer, particularly hormone receptor-positive (HR+) and triple-negative (TNBC) subtypes, is often immunologically \"cold,\" limiting immunotherapy efficacy. Neoantigen-based vaccines hold promise but face challenges from inaccurate identification and overreliance on HLA binding affinity, which poorly captures true immunogenicity. Most approaches focus on patient-specific (private) neoantigens, hindering scalability. In contrast, recurrent driver mutations in ESR1 and PIK3CA produce shared (public) neoantigens suitable for off-the-shelf vaccines, yet systematic discovery and design frameworks for breast cancer are lacking. We developed NeoGen-BC, a synergistic framework advancing from neoantigen prediction to rational design. It integrates protein language model (PLM) embeddings with Retrieval-Augmented Generation (RAG) and a multi-scale MCNN-BiLSTM classifier to capture immunogenic features beyond peptide-HLA binding. A sliding-window strategy maps epitopes from driver mutations, while a controlled ProtGPT2 generative module explores immunogenic peptide space. Candidates are refined via biophysical filtering, structural validation, and immunogenicity screening. NeoGen-BC achieved an AUC of 0.9053 on an independent test set, outperforming other machine learning models. It identified immunogenic peptides difficult to assess by MHC-II binding tools like NetMHCIIpan 4.3 and accurately detected validated MHC class II-restricted shared neoantigens from ESR1 (Y537S, D538G) and PIK3CA (H1047R) mutations, often missed by conventional predictors. De novo generated peptides matched experimentally validated ESR1 neoantigens in physicochemical and structural properties, showing favorable MHC-II binding and immunogenicity. NeoGen-BC provides a computational foundation for next-generation \"tunable antigen\" vaccine design by prioritizing immunogenicity alongside peptide-MHC binding characteristics. The framework enables scalable identification of candidate peptide vaccines targeting shared breast cancer vulnerabilities and may complement emerging therapeutic strategies, including oral SERD-based approaches aimed at enhancing immune modulation and advancing precision immunotherapy.",
+      "authors": [
+        {
+          "name": "Van The Le"
+        },
+        {
+          "name": "Juan Peter Timothy Yuune"
+        },
+        {
+          "name": "Jiun-I Lai"
+        },
+        {
+          "name": "Yu-Yen Ou"
+        }
+      ],
+      "publishedAt": "2026-09-30",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42648826",
+      "title": "Multiplexed EDL-FET biosensor with tannic acid stabilization for simultaneous p-Tau217 and Aβ42/Aβ40 detection in plasma and whole blood from stroke patients.",
+      "summary": "Alzheimer's disease (AD) is a leading cause of disability in aging societies, underscoring the need for practical blood-based biomarker assays. Stroke patients face an elevated risk of AD-related cognitive impairment, yet reliable, scalable tools for early biomarker assessment in this population remain lacking. Current platforms are limited by low throughput, instability, and demanding sample preparation that restricts point-of-care translation. This study addresses the need for a multiplexed, clinically practical biosensor capable of simultaneously measuring AD-relevant biomarkers in both plasma and whole blood. An eight-channel electric double-layer field-effect transistor (EDL-FET) platform was developed to simultaneously measure phosphorylated tau (p-tau217) and the Aβ42/Aβ40 ratio in plasma and whole blood. Standardized surface modification with tannic acid (TA)-assisted antibody immobilization enabled stable chip performance under wet storage for at least 10 days. Clinically, 54 plasma and 32 whole-blood samples from stroke patients were stratified into cognitively impaired (MMSE ≤24) and unimpaired (MMSE >24) groups. p-tau217 significantly differentiated cognitive status in both matrices, with the strongest performance in plasma. Combining p-tau217 with Aβ42/Aβ40 in plasma yielded a receiver operating characteristic (ROC) area under the curve (AUC) of 0.938. Plasma p-tau217, alone or in combination, demonstrated higher sensitivity for detecting cognitive impairment, while whole-blood measurements offered practicality, with preserved sample integrity and minimal pre-analytical requirements. This work presents the first multiplexed EDL-FET platform for simultaneous AD biomarker profiling in stroke patients using both plasma and whole blood. The integration of p-tau217 and Aβ42/Aβ40 on a stable, multi-channel chip demonstrates a novel route toward point-of-care AD risk stratification in high-risk populations, pending validation in larger, multi-center cohorts.",
+      "authors": [
+        {
+          "name": "Shang-Chi Chien"
+        },
+        {
+          "name": "I-Yin Chang"
+        },
+        {
+          "name": "Yong-Chuan Chen"
+        },
+        {
+          "name": "Yi-Zhen Lai"
+        },
+        {
+          "name": "Yu-Fang Chen"
+        },
+        {
+          "name": "Pei-Lun Sun"
+        },
+        {
+          "name": "Bor-Ran Li"
+        },
+        {
+          "name": "Yu-Lin Wang"
+        },
+        {
+          "name": "Jung-Chih Chen"
+        }
+      ],
+      "publishedAt": "2026-08-26",
+      "source": "PubMed"
+    }
+  }
+]
