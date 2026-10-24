@@ -1,0 +1,63 @@
+[
+  {
+    "paper": {
+      "id": "42908452",
+      "title": "[Explanation on modern mechanism of \"for abdominal-diseases, Zusanli is indicated\": acupuncture at Zusanli (ST36) regulates the brain-gut \"neuro-immune axis\" for the treatment of diarrhea-predominant irritable bowel syndrome].",
+      "summary": "Diarrhea-predominant irritable bowel syndrome (IBS-D) is a functional intestinal disorder characterized by recurrent abdominal pain, diarrhea and altered defecation habits. It is frequently comorbid with psychological disorders such as anxiety and depression, which greatly impair the quality of life. Accumulating evidence demonstrates that the core pathological links of IBS-D involve disrupted brain-gut interaction and dysregulation of the brain-gut \"neuro-immune axis\", including visceral hypersensitivity, low-grade mucosal inflammation, impaired intestinal barrier function, gut microbiota dysbiosis and abnormal autonomic nerve modulation. Zusanli (ST36) is an essential acupoint for digestive disorders, and the ancient maxim \"for abdominal-diseases, Zusanli is indicated\" summarizes its prominent clinical value in abdominal ailments. Modern studies have verified that acupuncture at ST36 can remodel vagal-sympathetic balance via the peripheral afferent-central integration-autonomic efferent circuit, modulate central nociceptive and emotional processing, and exert regulatory effects on brain-gut peptide signals such as 5-hydroxytryptamine, suppress immune activation and release of inflammatory mediators, improve the expression of tight-junction proteins and intestinal mucosal permeability, as well as modulate microbiota-metabolite-related pathways. Thereby, it attenuates the neuro-immune feedback of \"stress-inflammation-pain amplification\", alleviates visceral hypersensitivity and relieves symptoms including abdominal pain and diarrhea. Taking the classical maxim \"for abdominal-diseases, Zusanli is indicated\" as a clue, this paper reviews research advances regarding acupuncture at ST36 in treating IBS-D by regulating the brain-gut \"neuro-immune axis\". Limitations of current evidence are also pointed out, including insufficient circuit verification, unclear stimulus parameter-effect relationship and non-standardized clinical protocols, so as to provide references for standardized application and mechanistic exploration of acupuncture at ST36 in treating functional gastrointestinal disorders.",
+      "authors": [
+        {
+          "name": "Jiachen Ma"
+        },
+        {
+          "name": "Yongjun Chen"
+        },
+        {
+          "name": "Yucen Xia"
+        }
+      ],
+      "publishedAt": "2026-10-23",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42908446",
+      "title": "[Mechanism of electroacupuncture at \"Hegu\" (LI4) in regulating the VP-TG pathway for trigeminal neuralgia].",
+      "summary": "OBJECTIVES: To establish a mouse model of trigeminal neuropathic pain induced by chronic constriction injury of the infraorbital nerve (CION), screen the optimal frequency of electroacupuncture (EA) for trigeminal neuralgia (TN), so as to explore the peripheral-central interaction mechanism of the \"Hegu\" (LI4)-ventral posterior nucleus (VP)-trigeminal ganglion (TG) pathway.\nMETHODS: Male C57BL/6J mice were used to establish the TN model via the CION method. EA (2 Hz or 100 Hz or 2 Hz/100 Hz) was applied to bilateral LI4 for 30 min each time, once every other day, for a total of 12 times. Mechanical withdrawal thresholds (MWTs) of the vibrissal pad were measured using von Frey filaments. Anxiety-like behaviors were assessed by the elevated plus maze (EPM) test, and depression-like behaviors by the tail suspension (TS) test and sucrose preference (SP) test. Neuronal activities in 8 brain regions, including the dorsal raphe nucleus (DRN), VP, and spinal trigeminal nucleus caudalis (Sp5C), etc. were evaluated by c-Fos immunofluorescence. Double immunofluorescence labeling was used to detect co-expressions of c-Fos with 5-hydroxytryptamine (5-HT), glutamate (Glu), or γ-aminobutyric acid (GABA) in the DRN to identify activated neuron subtypes. Neural connectivities between \"Hegu\"-dorsal root ganglion (DRG)-spinal dorsal horn (DH)- VP and TG-Sp5C-VP were traced using chemical or viral tracers.\nRESULTS: After the treatment, compared with the sham group, the MWTs of mice were significantly decreased in the model group (P<0.000 1). The MWTs in the 2 Hz, 100 Hz, and 2 Hz/100 Hz EA groups were all increased (P<0.05, P<0.001), and the analgesic effect of the 2 Hz/100 Hz EA was superior to those of the 2 Hz and 100 Hz EA groups (P<0.05, P<0.01). In the EPM test, the time spent in the open arms was significantly decreased in the model group (P<0.000 1), while it was increased in the 100 Hz EA and 2 Hz/100 Hz EA groups (P<0.01, P<0.000 1). Moreover, the time spent in the open arms was longer in the 2 Hz/100 Hz EA group than in the 2 Hz EA group (P<0.01). In the TS and SP tests, the immobility time was increased and the sucrose preference was decreased in the model group (P<0.000 1), whereas EA reversed these changes (P<0.000 1, P<0.001). The 2 Hz/100 Hz EA group showed a more significant improvement in depression-like behavior than the 2 Hz and 100 Hz EA groups (P<0.05, P<0.01). Tracing results showed that after injection of a chemical tracer into LI4, tracer signals were observed in the C6 and C7 DRGs. After injection of a retrograde trans-multisynaptic virus into the VP, viral expression was observed in the DH, Sp5C, and TG. Immunofluorescence results showed that neuronal activity in the Sp5C, VP, ventral posteromedial nucleus (VPM), parafascicular nucleus (PaF), and DRN was increased in the model group (P<0.01, P<0.000 1, P<0.05), while EA reversed these changes (P<0.000 1, P<0.01, P<0.001). Compared with the sham group, the model group showed decreased 5-HT neuronal activity (P<0.000 1) and increased Glu and GABA neuronal activities (P<0.000 1, P<0.05) in the DRN, all of which were reversed by 2 Hz/100 Hz EA (P<0.001, P<0.000 1, P<0.05).\nCONCLUSIONS: The 2 Hz/100 Hz EA is superior to single-frequency stimulation in improving mechanical hypersensitivity and associated negative affective behaviors in CION model mice. Under CION conditions, abnormal activation was observed in the Sp5C, VP, VPM, PaF, and DRN, accompanied by decreased activity of 5-HT neurons and increased activities of GABA and Glu neurons in the DRN, and 2 Hz/100 Hz EA can reverse these phenomena. The tracing results indicated the existence of neuroanatomical connections of the LI4-DRG-DH-VP and TG-Sp5C-VP pathways. These findings provide objective evidence for investigating the LI4-VP-TG response mechanism underlying EA intervention in TN.",
+      "authors": [
+        {
+          "name": "Haoda Zhang"
+        },
+        {
+          "name": "Dong Wang"
+        },
+        {
+          "name": "Zhe Liu"
+        },
+        {
+          "name": "Zonglin Wu"
+        },
+        {
+          "name": "Yuerong Chen"
+        },
+        {
+          "name": "Nisang Chen"
+        },
+        {
+          "name": "Liang Chen"
+        },
+        {
+          "name": "Zhanpeng Wang"
+        },
+        {
+          "name": "Jianqiao Fang"
+        },
+        {
+          "name": "Yuanyuan Wu"
+        }
+      ],
+      "publishedAt": "2026-10-23",
+      "source": "PubMed"
+    }
+  }
+]
