@@ -1,0 +1,156 @@
+[
+  {
+    "paper": {
+      "id": "42913460",
+      "title": "Sustainable Thermoplastic Thermal Interface Adhesive Derived from Poly(lipoic acid) and Boron Nitride for Efficient Electronic Thermal Management.",
+      "summary": "The escalating power density of electronics demands thermal interface materials (TIMs) that simultaneously offer high thermal conductivity, strong adhesion, and environmental sustainability. Conventional thermally conductive adhesives (TCAs) face inherent trade-offs among these properties, often relying on non-recyclable thermosets. Here, we present a sustainable thermoplastic TCA composed of a poly(lipoic acid) (polyLA)-based dynamic polymer matrix integrated with polyvinylpyrrolidone-modified hexagonal boron nitride (BN@PVP). The polyLA matrix incorporates catechol moieties and reversible Fe3+-carboxyl/catechol coordination bonds, creating a dynamically reconfigurable network. This design yields an adhesive (LD50Fe100) with high toughness (1.52 MJ m-3), and strong lap shear adhesion (884 kPa on PMMA and 1210 kPa on steel). The dynamic bonds enable room-temperature self-healing (93.1% efficiency) and robust recyclability. At a BN@PVP loading of 40 wt %, the composite (BN@LD50Fe100) achieves a thermal conductivity of 1.2 W m-1 K-1 while maintaining enhanced mechanical properties. LED chip heat dissipation experiments demonstrate a 4 °C lower operating temperature compared to devices without a TIM, with stable thermal performance over multiple cycles. This work provides a promising material strategy to overcome the traditional trade-offs in TCAs, offering a path toward repairable, reusable, and efficient thermal management solutions for advanced electronic packaging.",
+      "authors": [
+        {
+          "name": "Shuichang Chen"
+        },
+        {
+          "name": "Yuchen Zhang"
+        },
+        {
+          "name": "Yue Lin"
+        },
+        {
+          "name": "Peng Ni"
+        },
+        {
+          "name": "Yan Fang"
+        },
+        {
+          "name": "Yunxiang Weng"
+        },
+        {
+          "name": "Qinhui Chen"
+        },
+        {
+          "name": "Haiqing Liu"
+        }
+      ],
+      "publishedAt": "2026-10-23",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42604551",
+      "title": "Association between thyroid peroxidase antibody positivity and the risk of perinatal depression: a meta-analysis.",
+      "summary": "OBJECTIVES: Perinatal depression (PND) impacts a substantial subset of females globally and confers significant risk to maternal-infant health and offspring development, but current evidence on the association between thyroid peroxidase antibody (TPOAb) positivity and the risk of PND is uncertain. This study aims to evaluate the association between TPOAb positivity and the risk of PND.\nMETHODS: We systematically searched PubMed, Web of Science, Embase, the Cochrane Library, and PsycINFO from their inception to March 1, 2025. Cohort, case-control, and cross-sectional studies evaluating the association between TPOAb positivity and the risk of PND were included. This meta-analysis was conducted according to the PRISMA 2020 checklist. The risk of bias in the included studies was assessed by the Newcastle-Ottawa Scale (NOS). Data synthesis was performed using random-effects model and fixed-effects model.\nRESULTS: After screening, 11 studies with 10,559 patients were eligible. The pooled relative risk (RR) indicated that females positive for TPOAb exhibited a significantly higher risk to develop PND (RR=1.52, 95 %CI [1.16-1.99], p<0.05). A moderate degree of heterogeneity was presented among the included studies (I2=52 %).\nCONCLUSIONS: This meta-analysis demonstrated that perinatal TPOAb positivity is associated with an increased risk of PND. However, given the moderate heterogeneity and the limited number of included studies, future well-designed prospective studies assessing TPOAb positivity at specific time points during pregnancy are warranted to improve the quality of evidence.",
+      "authors": [
+        {
+          "name": "Zixuan Feng"
+        },
+        {
+          "name": "Zixin Wu"
+        },
+        {
+          "name": "Jin Zhou"
+        },
+        {
+          "name": "Mingjie Mao"
+        },
+        {
+          "name": "Yazhou Wen"
+        },
+        {
+          "name": "Shanwu Feng"
+        }
+      ],
+      "publishedAt": "2026-10-09",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42497021",
+      "title": "Design of a dual-route acoustic-feature and EfficientNet-B0 spectrogram-based voice-screening device for Parkinson's disease assessment.",
+      "summary": "OBJECTIVES: Parkinson's disease (PD) can affect vocal production before severe motor symptoms become apparent. This study presents a device-oriented dual-route voice-screening framework that combines interpretable acoustic descriptors with spectrogram-based transfer learning for PD assessment support.\nMETHODS: Publicly available sustained-vowel /a/ recordings from the Parkinson Speech Dataset with Multiple Types of Sound Recordings were used for algorithmic evaluation. The proposed handheld device, dashboard, and connectivity workflow were treated as a conceptual deployment scenario. The acoustic route generated an integrated acoustic-feature vector and grouped representation-level summaries of selected descriptor families. The spectrogram route generated RGB color-mapped and grayscale time-frequency representations, which were processed using an EfficientNet-B0 transfer-learning convolutional neural network.\nRESULTS: Among conventional acoustic-feature classifiers, the Ensemble Boosting Classifier achieved the highest AUC point estimate for the integrated acoustic-feature route. Grouped representation-level evidence showed weak-to-moderate discrimination for acoustic descriptor families. RGB and grayscale spectrograms processed through the EfficientNet-B0 route produced reported AUC point estimates of 0.93 and 0.89, respectively, within the available public-dataset evaluation.\nCONCLUSIONS: The proposed framework combines interpretable acoustic descriptors and spectrogram-based transfer learning within a device-oriented screening-support workflow. Integrated acoustic features support interpretable reporting, while spectrogram-based transfer learning provides higher representation-level discrimination. Future validation with physical prototypes, standardized acquisition protocols, and independent clinical cohorts is required before clinical deployment.",
+      "authors": [
+        {
+          "name": "Wenxiang Zhou"
+        },
+        {
+          "name": "Ziwei Yu"
+        },
+        {
+          "name": "Shujuan Luo"
+        }
+      ],
+      "publishedAt": "2026-10-08",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42240611",
+      "title": "Behavioral test batteries in zebrafish: methodological variability, experimental design, and implications for neurobehavioral research.",
+      "summary": "The zebrafish (Danio rerio) is a widely used model organism for studying neurobehavioral processes and neuropsychiatric disorders. Numerous protocols in adult zebrafish assess anxiety-like, locomotor, social and cognitive responses. The increasing experimental complexity and experimentation throughput has led many studies to combine multiple assays into behavioral test batteries. However, the methodological implications of such multi-test designs remain insufficiently understood. Here, we examined current practices in zebrafish behavioral batteries through an initial laboratory survey followed by a systematic literature analysis. Responses from 24 active zebrafish behavioral neuroscience laboratories were used to characterize experimental workflows and guide a targeted PubMed literature search. We further analyzed 357 studies employing the novel tank test (NTT) to assess the prevalence of multi-assay designs, identify commonly co-reported behavioral paradigms, and evaluate methodological variability. Our analyses confirm the central role of the NTT, frequently combined with the light-dark, open field, social interaction, and Y-maze tasks, and indicate that multi-assay experimental designs are common in the literature. However, methodological descriptions also often lacked sufficient clarity on whether assays were conducted sequentially in the same animals (as test batteries) or performed in independent cohorts. These findings highlight an important methodological gap in the field, and emphasize the need for greater clarity and consistency in the design and reporting of zebrafish behavioral batteries to improve the interpretability and comparability of multi-domain behavioral phenotyping.",
+      "authors": [
+        {
+          "name": "Barbara D Fontana"
+        },
+        {
+          "name": "Eduarda T Saccol"
+        },
+        {
+          "name": "João V Borba"
+        },
+        {
+          "name": "Cássio M Resmim"
+        },
+        {
+          "name": "Murilo S de Abreu"
+        },
+        {
+          "name": "Allan V Kalueff"
+        },
+        {
+          "name": "Denis B Rosemberg"
+        }
+      ],
+      "publishedAt": "2026-10-04",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42228355",
+      "title": "Exploring the effects of mindfulness meditation on resting-state functional connectivity: an overview.",
+      "summary": "Mindfulness meditation has received growing interest in research over the past decades. Mindfulness meditation training (MMT) can be employed as a mental practice to improve cognitive skills such as attention and emotion regulation and may promote well-being. Neuroimaging studies have emerged to understand the effects of MMT on brain functioning. However, no review exists on the effects of MMT on resting-state brain functional connectivity (rsFC) in healthy meditation-naïve adults specifically. We, therefore, aimed to provide an overview of studies that investigated the effects of MMT on rsFC in healthy meditation-naïve adults, as well as their link to cognitive and clinical measures. Several studies reported changes in MMT-induced rsFC within and between regions of the default mode (DMN), salience (SN), and central executive (CEN) networks. Both increases and decreases in rsFC have been observed for brain regions associated with these networks after MMT, each with differential roles in emotion regulation, stress, and cognitive functions. Some studies highlighted associations between changes in rsFC after MMT and modifications in cognitive performance and psycho-affective measures, which may be influenced by MMT-specific characteristics such as practice duration or delivery methods. MMT may induce a reorganization in the brain's functional architecture by altering rsFC within and between these networks and seems to modify processes related to attention, executive memory, emotional regulation, stress, and resilience. Investigating functional connectivity during rest in key brain networks seems a promising approach to understand the effects of mindfulness meditation on overall well-being.",
+      "authors": [
+        {
+          "name": "Thomas Le François"
+        },
+        {
+          "name": "Charlotte E Hilberdink"
+        },
+        {
+          "name": "Bérengère Guillery-Girard"
+        },
+        {
+          "name": "Elise Leroux"
+        },
+        {
+          "name": "Pascal Delamillieure"
+        },
+        {
+          "name": "Maxime Tréhout"
+        },
+        {
+          "name": "Gaël Chételat"
+        },
+        {
+          "name": "Annick Haelewyn"
+        },
+        {
+          "name": "Eric Bui"
+        }
+      ],
+      "publishedAt": "2026-10-04",
+      "source": "PubMed"
+    }
+  }
+]
