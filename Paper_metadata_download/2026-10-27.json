@@ -1,0 +1,307 @@
+[
+  {
+    "paper": {
+      "id": "42929312",
+      "title": "FXIa inhibitors and secondary stroke prevention.",
+      "summary": "PURPOSE OF REVIEW: Patients with noncardioembolic ischemic stroke face a substantial residual risk of recurrence despite antiplatelet therapy, while conventional anticoagulation is unsuitable due to an unacceptably high bleeding risk. Activated factor XI (FXIa) inhibition promises anticoagulant efficacy while sparing hemostasis. We appraise the evidence of FXIa-inhibitors in secondary stroke prevention considering the pivotal OCEANIC-STROKE trial.\nRECENT FINDINGS: Phase-2 trials of asundexian and milvexian were reassuring on safety but neutral on imaging-based endpoints, establishing that covert infarcts are a poor surrogate. In the phase-3 OCEANIC-STROKE trial, asundexian added to single or dual antiplatelet therapy reduced recurrent ischemic stroke by 26%, consistently across subtypes, without any excess of major bleeding or intracranial hemorrhage. By contrast, asundexian was inferior to apixaban in atrial fibrillation, a result attributable to dose, comparator, and setting. Consistent with this, the monoclonal antibody abelacimab, which achieves near-complete FXIa-inhibition, reduced bleeding relative to rivaroxaban in atrial fibrillation, though its effect on thromboembolic events has not been established.\nSUMMARY: FXIa-inhibition is the first anticoagulant strategy preventing recurrent stroke after noncardioembolic ischemic stroke without a bleeding penalty. Confirmation of a class effect from further trials is awaited, alongside questions of duration, deeper inhibition, and use in other cardiovascular indications.",
+      "authors": [
+        {
+          "name": "Lina Palaiodimou"
+        },
+        {
+          "name": "Aikaterini Theodorou"
+        },
+        {
+          "name": "Maria-Ioanna Stefanou"
+        },
+        {
+          "name": "Georgios Tsivgoulis"
+        }
+      ],
+      "publishedAt": "2026-10-26",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42929311",
+      "title": "Psychopharmacological advances in neurorehabilitation after traumatic brain injury.",
+      "summary": "PURPOSE OF REVIEW: Pharmacotherapy is widely used to manage neuropsychiatric sequelae that may interfere with neurorehabilitation after traumatic brain injury (TBI), despite limited TBI-specific evidence. This review summarizes psychopharmacological evidence from the past 18 months and proposes a three-step approach: deprescribing potentially recovery-limiting medications, characterizing individual neuropsychiatric symptoms, and selecting symptom-targeted treatments to support cognitive, emotional, behavioral, and functional recovery after TBI.\nRECENT FINDINGS: Methylphenidate shows the most consistent evidence for selected cognitive outcomes, particularly attention and processing speed. Pharmacological approaches to agitation, sleep-wake disorders, depression, fatigue, and posttraumatic headache have been studied, but TBI-specific evidence remains limited or heterogeneous. Sedative, anticholinergic, and cognitive adverse effects, cardiovascular risks, and dependence require consideration in TBI neurorehabilitation.\nSUMMARY: No pharmacological treatment is established as disease-modifying after TBI. Given the limited evidence, psychopharmacotherapy should be individualized, symptom-targeted, and integrated into multidisciplinary TBI neurorehabilitation. Continuous medication review and deprescribing should accompany careful treatment selection and monitoring. Future trials should determine whether symptom improvement translates into better rehabilitation participation, functional independence, and long-term health-related quality of life.",
+      "authors": [
+        {
+          "name": "Vincent Arcani"
+        },
+        {
+          "name": "Charles Iruthayanathar"
+        },
+        {
+          "name": "Katrin Rauen"
+        }
+      ],
+      "publishedAt": "2026-10-26",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42923915",
+      "title": "Three-Dimensional Computed Tomography-Based Mapping of the Intraosseous Safe Zone for Acetabular Cup Screw Fixation: A Retrospective, Single-Center Cohort Study.",
+      "summary": "BACKGROUND: Conventional safe zones are defined by the proximity of acetabular cup screws to intrapelvic vessels; however, this relationship varies among individuals. This study aimed to define the intraosseous safe zone in which the screws remain entirely within bone without penetrating the medial wall.\nMETHODS: Three-dimensional computed tomography data for 30 hips of female patients with normal acetabular morphology were analyzed. A hemispherical cup was positioned virtually, and screw trajectories were evaluated in 24 directions using a clock-face coordinate system referenced to the ipsilateral anterior superior iliac spine. Bone thickness was measured in each direction, and intraosseous safe zones were defined for screw lengths of 15, 20, 25, 30, 40, and 50 mm. Heatmaps were generated to visualize the distribution of safe regions, and the angular range in which screws remained intraosseous in all cases was determined.\nRESULTS: The median patient age was 50.1 years. The intraosseous safe zone was consistently located in the posterosuperior region for all screw lengths. The extent of the safe zone significantly decreased as the screw length increased (p < 0.01), whereas shorter screws expanded the safe zone toward the posteroinferior region. The angular range of the intraosseous safe zone was consistently the greatest at the 11 and 11:30 o'clock positions for 15, 20, and 25 mm screws.\nCONCLUSIONS: The findings provide a useful framework for preoperative planning and conceptualizing safe screw trajectories in total hip arthroplasty.\nCLINICAL RELEVANCE: Directing screws toward the posterosuperior acetabulum, particularly around the 11 o'clock region, may enhance safety by maintaining intraosseous fixation and avoiding intrapelvic neurovascular injury. Shorter screws may expand safe fixation options toward the posteroinferior region.",
+      "authors": [
+        {
+          "name": "Takamitsu Sato"
+        },
+        {
+          "name": "Rui Hirasawa"
+        },
+        {
+          "name": "Shigeo Hagiwara"
+        },
+        {
+          "name": "Hiroyuki Kaneko"
+        },
+        {
+          "name": "Hiroyuki Hamano"
+        },
+        {
+          "name": "Yuya Kawarai"
+        },
+        {
+          "name": "Junichi Nakamura"
+        },
+        {
+          "name": "Seiji Ohtori"
+        }
+      ],
+      "publishedAt": "2026-10-25",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42905551",
+      "title": "C1ql2 gates stress vulnerability by regulating microglia-mediated synaptic pruning in the BLA-vHPC circuit.",
+      "summary": "Synaptic remodeling in emotional circuits contributes to the development of stress-related emotional disorders. However, such remodeling generally exhibits considerable heterogeneity across specific neuronal populations and the underlying molecular mechanisms remain poorly understood. Here, we identified C1ql2 as a key molecular regulator that governs projection-specific synaptic vulnerability within basolateral amygdala (BLA). Transcriptional profiling revealed that C1ql2 expression is enriched in BLA neurons projecting to ventral hippocampus (BLA→vHPC PNs), but not in those projecting to nucleus accumbens (NAc), and is significantly down-regulated following chronic social defeat stress (CSDS). Gain- and loss-of-function manipulations demonstrated that C1ql2 regulates stress-induced neuronal remodeling in BLA→vHPC PNs, including dendritic hypertrophy, synaptic outgrowth, and enhanced glutamatergic transmission, thereby shaping susceptibility to anxiety-like behavior. We further found that CSDS-induced C1ql2 loss impairs microglial engulfment of BLA→vHPC PNs synapses, leading to aberrant synaptic accumulation. Our findings establish C1ql2-mediated neuron-microglia cross talk that critically regulates circuit-specific synaptic pathophysiology in stress-related disorders.",
+      "authors": [
+        {
+          "name": "Chun-Yan Wang"
+        },
+        {
+          "name": "Wei-Zhu Liu"
+        },
+        {
+          "name": "Shuang-Mei Liao"
+        },
+        {
+          "name": "Jing Niu"
+        },
+        {
+          "name": "Han-Qing Pan"
+        },
+        {
+          "name": "Wen-Jie You"
+        },
+        {
+          "name": "Ke Zhao"
+        },
+        {
+          "name": "Bao Ma"
+        },
+        {
+          "name": "Ming-Fen Lu"
+        },
+        {
+          "name": "Jia-Xin Zou"
+        },
+        {
+          "name": "Ping Hu"
+        },
+        {
+          "name": "Wen-Hua Zhang"
+        },
+        {
+          "name": "Bing-Xing Pan"
+        }
+      ],
+      "publishedAt": "2026-10-22",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42905547",
+      "title": "Unveiling the structure of Leishmania flagella through cryoelectron tomography.",
+      "summary": "Leishmania are unicellular parasites that cause the serious disease leishmaniasis, presenting ongoing global challenges as existing treatments face issues with resistance and toxicity. Leishmania contain a single motile flagellum, essential for transmission, which has the conserved [9 + 2] microtubule arrangement. We used cryoelectron tomography to determine the ultrastructure of the Leishmania tarentolae 96-nm repeat and paraflagellar rod. While the overall structure, including three broad radial spokes and two-headed outer dynein arms, resembles other eukaryotes like Trypanosoma brucei, Tetrahymena, and Opisthokonts, the Leishmania flagellum also exhibits unique and asymmetrical features. These include asymmetrically shaped radial spoke heads similar to T. brucei, suggesting this may represent a kinetoplastid-specific feature. Further, Leishmania contain an additional inner-junction and 8-nm wide A2 protofilament hole. Strikingly, Leishmania have many doublet-specific structures such as outer dynein arm tethers, interdoublet linkers, and heterogeneous connections to the paraflagellar rod. In this work, we show that divergent structural traits of Leishmania flagella highlight lineage-specific adaptations within eukaryotes.",
+      "authors": [
+        {
+          "name": "Dylan Wilburn"
+        },
+        {
+          "name": "Justine Pinskey"
+        },
+        {
+          "name": "Hao Zhu"
+        },
+        {
+          "name": "Binita Nepal"
+        },
+        {
+          "name": "Nhan Phan"
+        },
+        {
+          "name": "Dawn M Wetzel"
+        },
+        {
+          "name": "Daniela Nicastro"
+        }
+      ],
+      "publishedAt": "2026-10-22",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42826379",
+      "title": "Medium-Term Cognitive Outcome in Patients With CNS Lymphomas Treated With Chimeric Antigen Receptor T-Cell Therapy.",
+      "summary": "BACKGROUND AND OBJECTIVES: Chimeric antigen receptor (CAR) T-cell therapy has demonstrated promising efficacy results in CNS lymphomas, with reassuring rates of acute neurotoxicity. However, the neurologic outcome of these brain-injured patients remains unknown beyond the short term. Our objective was to report on the medium-term neurocognitive evolution.\nMETHODS: We retrospectively selected isolated CNS lymphomas treated with CAR T cells (June 2021-April 2024) at Pitié-Salpêtrière Hospital who had neuropsychological follow-up as part of routine care (various tests evaluating main cognitive domains: language, memory, executive functions, visuospatial abilities, and overall functioning). We collected the results of the various cognitive tests from the patients' medical records at baseline, in the absence of tumoral progression; 6 weeks (W6); 6 months (M6); and 12 months (M12) after CAR T-cell therapy. We used paired Student t tests to compare follow-up values of neurocognitive variables with their baseline values. The primary outcome was the difference in Montreal Cognitive Assessment (MoCA) scores between baseline and M12.\nRESULTS: Thirty patients (43% female, 57% male) were included, of whom 21 had neuropsychological assessment up to M12. Their median age was 61 years (range 30-82). At baseline, MoCA score was 23.5 (range 11-29) and 34%-80% of patients had abnormal scores in the main cognitive domains. Nineteen (63%) patients experienced acute neurotoxicity (6 (20%) of grade ≥3). Twenty-one patients (70%) maintained or improved their MoCA score at W6, while 9 (30%) worsened theirs. The occurrence and severity of neurotoxicity were significantly associated with these 2 types of initial trajectories (p = 0.003, 95% CI 1.78-1,227.01). There was a significant improvement of MoCA score at M6 (mean 24.7 vs 22.6, p = 0.002, 95% CI 0.92-3.37) and M12 (mean 25.4 vs 22.1, p < 0.001, 95% CI 2.12-4.92) compared with baseline. Language score significantly improved between baseline and M12 (mean Z-score of -0.6 vs -0.1; p = 0.02, 95% CI 0.08-0.9). Scores addressing memory, executive functions, visuo-spatial functions, and anxiety/depression were stable or improved, although not significantly.\nDISCUSSION: Midterm neurocognition follow-up in patients with CNS lymphoma treated by CAR T cells seems reassuring, with no significant cognitive worsening, and even an improvement in general cognitive functioning, even in patients who experienced severe acute neurotoxicity. These results should be confirmed with longer follow-up.",
+      "authors": [
+        {
+          "name": "Sirine Mersali"
+        },
+        {
+          "name": "Rémy Chapelle"
+        },
+        {
+          "name": "Monica Ribeiro"
+        },
+        {
+          "name": "Nicolas Weiss"
+        },
+        {
+          "name": "Dimitri Psimaras"
+        },
+        {
+          "name": "Loïc Le Guennec"
+        },
+        {
+          "name": "Cristina Birzu"
+        },
+        {
+          "name": "Khê Hoang-Xuan"
+        },
+        {
+          "name": "Ines Boussen"
+        },
+        {
+          "name": "Marine Baron"
+        },
+        {
+          "name": "Véronique Morel"
+        },
+        {
+          "name": "Madalina Uzunov"
+        },
+        {
+          "name": "Valérie Friser"
+        },
+        {
+          "name": "Sylvain Choquet"
+        },
+        {
+          "name": "Caroline Houillier"
+        }
+      ],
+      "publishedAt": "2026-10-02",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42508993",
+      "title": "Self-reported geriatric impairments and treatment toxicity in older patients with multiple myeloma.",
+      "summary": "Frailty influences treatment outcomes in older patients with multiple myeloma (MM), yet existing frailty tools capture limited geriatric domains and are incompletely studied in the context of contemporary therapies. We prospectively evaluated patient-reported comprehensive geriatric assessment (CGA) domains and their associations with treatment toxicity and patient-reported outcomes (PRO) in older adults with MM. Patients aged ≥60 years with newly diagnosed or relapsed/refractory MM initiating a new therapy completed electronic CGA and PRO questionnaires at baseline and 4 months. Outcomes included clinician- and patient-reported treatment toxicity, treatment adaptations, health care use, and health-related quality of life (HRQOL). A cumulative deficit frailty index (FI) was derived from CGA and HRQOL domains. Among 90 patients (mean age, 72 years), geriatric impairments were common, particularly physical function domains. High-grade nonhematologic toxicities were significantly associated with older age, comorbidities, patient-reported functional limitations, and anxiety. Toxicity rates on the PRO version of the Common Terminology Criteria for Adverse Events (CTCAE) were higher than on CTCAE, highlighting a discordance between physician- and patient-reported treatment toxicity. Frailty was present in 22% and associated with worse baseline HRQOL and increased high-grade nonhematologic toxicity but not treatment adaptations or health care use. Average CGA and HRQOL scores remained stable over 4 months, although individual trajectories varied. Patient-reported geriatric impairments are prevalent in older adults with MM and strongly associated with nonhematologic toxicities even in the contemporary treatment era. Physician-reported CTCAE may not fully reflect patients' symptom burden. Heterogeneity in individual geriatric trajectories during treatment emphasize the need for longitudinal assessment. This study was registered at www.clinicaltrials.gov as NCT05918185.",
+      "authors": [
+        {
+          "name": "Nadine Abdallah"
+        },
+        {
+          "name": "Rosalyn Marar"
+        },
+        {
+          "name": "Claire Yee"
+        },
+        {
+          "name": "Anna Bodily"
+        },
+        {
+          "name": "Mia Truman"
+        },
+        {
+          "name": "Tanya M Wildes"
+        },
+        {
+          "name": "Terri Menser"
+        },
+        {
+          "name": "Megan Weivoda"
+        },
+        {
+          "name": "Sarah Aug"
+        },
+        {
+          "name": "Byron Smith"
+        },
+        {
+          "name": "Francis Buadi"
+        },
+        {
+          "name": "Prashant Kapoor"
+        },
+        {
+          "name": "Angela Dispenzieri"
+        },
+        {
+          "name": "Suzanne Hayman"
+        },
+        {
+          "name": "David Dingli"
+        },
+        {
+          "name": "Wilson Gonsalves"
+        },
+        {
+          "name": "Joselle Cook"
+        },
+        {
+          "name": "Saurabh Zanwar"
+        },
+        {
+          "name": "Moritz Binder"
+        },
+        {
+          "name": "Taxiarchis Kourelis"
+        },
+        {
+          "name": "Morie Gertz"
+        },
+        {
+          "name": "Rahma Warsame"
+        },
+        {
+          "name": "Yi Lin"
+        },
+        {
+          "name": "S Vincent Rajkumar"
+        },
+        {
+          "name": "Amylou Dueck"
+        },
+        {
+          "name": "Shaji Kumar"
+        }
+      ],
+      "publishedAt": "2026-10-15",
+      "source": "PubMed"
+    }
+  }
+]
