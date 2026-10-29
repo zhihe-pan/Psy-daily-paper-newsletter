@@ -1,0 +1,78 @@
+[
+  {
+    "paper": {
+      "id": "42759278",
+      "title": "Transcriptional changes in microglial Kcnk2 during fear memory reconsolidation and TREK-1-associated regulation of TNF-α invitro.",
+      "summary": "Fear memory is associated with microglial tumor necrosis factor-alpha (TNF-α) production; however, the potassium (K+) channel-related mechanisms underlying microglial TNF-α regulation remain incompletely understood. Using in silico reanalysis of a whole-brain microglial microarray dataset obtained after contextual fear conditioning, we identified 20 K+ channel-related transcripts altered during fear memory reconsolidation, including Tnf. Promoter motif enrichment analysis revealed a shared GC-rich regulatory signature among these genes. During reconsolidation, Tnf and Kcnk2 (encoding the two-pore domain K+ channel TREK-1) transcripts were significantly increased in microglia isolated from the prefrontal cortex and hippocampus, accompanied by reduced microglial K+ levels. Furthermore, hippocampal microglial Tnf expression was positively correlated with Kcnk2 expression during reconsolidation. To investigate the potential association between TREK-1-related signaling and microglial TNF-α responses, in vitro mechanistic analyses were performed. TREK-1 knockdown significantly reduced TNF-α production in primary CD11b+ microglia. Pharmacological inhibition of TREK-1 with Spadin decreased basal and lipopolysaccharide-induced TNF-α production, whereas activation with LPS2336 increased TNF-α levels in BV-2 microglial cells. Reduction of extracellular K+ concentrations enhanced TNF-α production in BV-2 cells, an effect attenuated by TREK-1 inhibition. In contrast, comparable TREK-1-associated regulation was not observed in J774.1 macrophages, suggesting a microglia-specific mechanism under the present in vitro conditions. Collectively, these findings identify coordinated alterations in microglial Kcnk2, Tnf, and K+ levels during fear memory reconsolidation and demonstrate TREK-1-associated regulation of TNF-α production in microglia in vitro.",
+      "authors": [
+        {
+          "name": "Runen Cheng"
+        },
+        {
+          "name": "Mai Sakai"
+        },
+        {
+          "name": "Sayako Kanno"
+        },
+        {
+          "name": "Mana Nemoto"
+        },
+        {
+          "name": "Chiaki Ono"
+        },
+        {
+          "name": "Yoshie Kikuchi"
+        },
+        {
+          "name": "Mizuki Hino"
+        },
+        {
+          "name": "Yasuto Kunii"
+        },
+        {
+          "name": "Hiroshi Komatsu"
+        },
+        {
+          "name": "Saya Kikuchi"
+        },
+        {
+          "name": "Motoko Maekawa"
+        },
+        {
+          "name": "Yuji Owada"
+        },
+        {
+          "name": "Takaaki Abe"
+        },
+        {
+          "name": "Hiroaki Tomita"
+        },
+        {
+          "name": "Zhiqian Yu"
+        }
+      ],
+      "publishedAt": "2026-10-08",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "10.1111/j.2044-8341.2011.02029.x",
+      "title": "Specificity of emotion regulation deficits in social anxiety: An internet study",
+      "summary": "Objectives.\n                     There is evidence for an association between social anxiety and emotion regulation difficulties. This study investigates that emotion regulation difficulties are specific to two domains of social anxiety.\n                  \n                  \n                    Design and Method.\n                     An explorative study was conducted to examine the associations between emotion regulation facets and social anxiety in the normal population.\n                    N\n                    = 149 healthy volunteers participated in an internet‐based survey.\n                  \n                  \n                    Measures.\n                     Emotion regulation deficits were measured by the Difficulties in Emotion Regulation Scale which consists of six subscales. Social anxiety was measured by the Social Phobia Scale and the Social Interaction Anxiety Scale.\n                  \n                  \n                    Results.\n                     Hierarchical regression analyses showed that anxiety of interactive social situations is associated with non‐acceptance of negative emotions, impulse control difficulties, and lack of functional emotion regulation strategies over and above the impact of age and general psychopathology. In contrast, anxiety of being observed by others was not specifically associated with emotion regulation strategies.\n                  \n                  \n                    Conclusion.\n                     The results support the hypothesis that specific emotion regulation deficits are relevant to specific aspects of social anxiety. Implications for further research and therapy are discussed.",
+      "authors": [
+        {
+          "name": "Silke Rusch"
+        },
+        {
+          "name": "Stefan Westermann"
+        },
+        {
+          "name": "Tania M. Lincoln"
+        }
+      ],
+      "publishedAt": "2026-10-29",
+      "source": "Crossref"
+    }
+  }
+]
