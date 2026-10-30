@@ -1,0 +1,226 @@
+[
+  {
+    "paper": {
+      "id": "42954009",
+      "title": "Psychological Predictors of Symptom Severity in Disorders of Gut-Brain Interaction: A Machine Learning Approach.",
+      "summary": "BACKGROUND/AIMS: : Disorders of gut-brain interaction (DGBI) exhibit heterogeneous symptom burdens and psychosocial variability. We aimed to identify severity-based phenotypes via unsupervised clustering and evaluate the psychological factors independently associated with symptom severity using machine learning.\nMETHODS: : We analyzed 480 patients with DGBI who completed validated gastrointestinal symptom scales and a psychological battery assessing anxiety, depression, childhood trauma, social support, resilience, and Type D personality. K-means clustering (k = 2) yielded low-severity groups (n = 281) and high-severity groups (n = 199). Between-group differences were examined using Welch's t-test with false discovery rate (FDR) correction and Cohen's d. Five logistic regression models with different feature sets were compared under stratified 5-fold cross-validation. Feature importance was assessed via bootstrap odds ratios with 95% confidence intervals.\nRESULTS: : The high-severity group showed significantly elevated anxiety and depressive symptoms (Cohen's d = 0.55-0.92 for the Beck Anxiety Inventory [BAI]; d = 0.56-0.63 for the Beck Depression Inventory) and higher childhood trauma scores on physical abuse, sexual abuse, and physical neglect subscales after FDR correction. The BAI-only model (area under the receiver operating characteristic curve [AUC] = 0.750) nearly matched the full 17-feature model (AUC = 0.753; accuracy = 71.3%; balanced accuracy = 69.9%), suggesting that the incremental contribution of multidimensional psychological profiling beyond anxiety assessment alone was limited.\nCONCLUSIONS: : Anxiety symptoms, particularly somatic and physiological dimensions, are the primary psychological determinants of DGBI severity. Childhood trauma associations are likely to operate through anxiety and depression pathways. These findings support routine somatic anxiety screening in gastroenterology to identify candidates for brain-gut behavioral therapies.",
+      "authors": [
+        {
+          "name": "Sung-Hoon Yoon"
+        },
+        {
+          "name": "Dawoon Jung"
+        },
+        {
+          "name": "Dae-Jin Kim"
+        },
+        {
+          "name": "Chan-Mo Yang"
+        },
+        {
+          "name": "Young Hyeon Ahn"
+        },
+        {
+          "name": "June-Woo Kim"
+        },
+        {
+          "name": "Yong-Sung Kim"
+        },
+        {
+          "name": "Suck-Chei Choi"
+        },
+        {
+          "name": "Sang-Yeol Lee"
+        }
+      ],
+      "publishedAt": "2026-10-29",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42952064",
+      "title": "Delayed and prolonged hypotension and watershed cerebral infarction following coil embolization of an extracranial carotid artery aneurysm: A possible baroreceptor-mediated complication.",
+      "summary": "Extracranial carotid artery aneurysms (ECAAs) are rare vascular lesions increasingly treated by endovascular approaches when open repair is unfavorable. Although hemodynamic depression related to carotid baroreceptor activation is recognized during carotid interventions, delayed and prolonged hypotension after primary coil embolization of an ECAA is rarely reported. A 64-year-old man underwent primary coil embolization for an enlarging high cervical ECAA because severe proximal internal carotid artery tortuosity precluded safe stent reconstruction. After an initially uneventful recovery, progressive hypotension developed approximately 1-2 hours after the procedure and ultimately required vasopressor support through postoperative day 16. Recurrent hypotension was followed by acute neurological deterioration. Computed tomography angiography showed no large-vessel occlusion, aneurysm rupture, or overt parent artery compromise, whereas diffusion-weighted magnetic resonance imaging demonstrated a left watershed infarction consistent with hypoperfusion. Blood pressure augmentation resulted in rapid neurological recovery. Because the aneurysm was adjacent to the carotid bulb, carotid baroreceptor activation related to post-embolization geometric change was considered a possible mechanism. This case highlights the need for careful hemodynamic monitoring after coil embolization of ECAAs near the carotid bulb, even without balloon angioplasty or stent deployment.",
+      "authors": [
+        {
+          "name": "Jinho Shin"
+        },
+        {
+          "name": "Kyoungsoo Ryou"
+        },
+        {
+          "name": "Jinwook Baek"
+        },
+        {
+          "name": "Sangpyung Lee"
+        },
+        {
+          "name": "Seonghwan Kim"
+        },
+        {
+          "name": "Taejoon Park"
+        }
+      ],
+      "publishedAt": "2026-10-29",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42717676",
+      "title": "Sex Differences in Suicide Mortality: Epidemiology, Modifying Factors, and Clinical Implications. A Narrative Review.",
+      "summary": "BACKGROUND: In Western industrialized nations, the sexes differ in suicide mortality and the prevalence of diagnosed depression. Men have a higher mortality from suicide than women (figures for Germany, 2024: 18.2 vs. 6.9 per 100 000), but the 12-month prevalence of clinically diagnosed depression in women is double that in men (10-12% vs. 5-6%). This situation has been called the sex-suicide paradox. In this article, we present a structured analysis of the relevant sex-specific epidemiology and the modifying factors that account for these findings.\nMETHODS: This narrative review was created according to the SANRA recommendations on the basis of publications retrieved by a selective search in the PubMed and Cochrane Library databases (2000–2026) and the cause-of-death statistics of the German Federal Statistical Office (2003–2024).\nRESULTS: In 2024, the suicide rate in Germany was 18.2 per 100 000 men (n = 7414) and 6.9 per 100 000 women (n = 2958). The relative risk for suicide in men is higher by a factor of 2.6 (95% CI: [2.5; 2.8]). Affective disorders are associated with ca. 90% of all suicides, although psychological autopsy studies are subject to methodological limitations, including recall bias. Men over age 85 are particularly vulnerable, with a suicide rate of 45.7 per 100 000. Modifying factors contributing to this sex disparity include the choice of more lethal means of suicide (e.g., hanging, which accounts for 50.5% of male suicides) and an often unrecognized, externalizing depression in men.\nCONCLUSION: It may be possible to lower mortality from suicide in men through greater sensitivity for sex-specific symptomatic presentations, greater attention to somatic risk factors in old age, and implementation of low-threshold, sex-sensitive preventive measures.",
+      "authors": [
+        {
+          "name": "Robert Rudolf Becker"
+        }
+      ],
+      "publishedAt": "2026-09-10",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42702585",
+      "title": "Gut-Brain Axis-Mediated Neurological Manifestations in Inflammatory Bowel Disease: Mechanisms and Disease Spectrum.",
+      "summary": "Inflammatory bowel disease (IBD) is a chronic immune-mediated disorder of the gastrointestinal tract that is frequently associated with neuropsychiatric comorbidities, such as anxiety, depression, and other neurological disorders. Accumulating evidence suggests that these neuropsychiatric disorders are secondary conditions caused by impaired gut-brain communication. The gut-brain axis connects the gut and the brain via neural, endocrine, and immune signaling pathways, disruption of which is usually caused by intestinal microbiota imbalance, intestinal barrier damage, neuroinflammation and immune activation, and neuroendocrine pathway abnormalities. These pathways constitute the pathological basis of the disease spectrum of neuropsychiatric comorbidities in IBD patients. This article comprehensively reviews the core mechanisms and disease spectrum of gut-brain axis-mediated neurological and mental complications in IBD, and discusses potential therapeutic strategies and challenges.",
+      "authors": [
+        {
+          "name": "Bingchan Sun"
+        },
+        {
+          "name": "Guoxin Wang"
+        },
+        {
+          "name": "Xiaoxia Li"
+        },
+        {
+          "name": "Huimin Liu"
+        },
+        {
+          "name": "Huan Xv"
+        },
+        {
+          "name": "Qifang Wu"
+        },
+        {
+          "name": "Hongtao Li"
+        },
+        {
+          "name": "Xiangrong Ye"
+        },
+        {
+          "name": "Xijin Wang"
+        },
+        {
+          "name": "Mingfu Tong"
+        }
+      ],
+      "publishedAt": "2026-09-06",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42679481",
+      "title": "Characterization of indochrome C: a novel blue pigment with cryoprotective potential from Arthrobacter antioxidans QL17T isolated from Mount Everest.",
+      "summary": "A water-soluble blue pigment, indochrome C, was isolated from Arthrobacter antioxidans QL17T and structurally characterized as a glycosylated diazaindophenol (C20H23N3O12) bearing a C-linked pyranose moiety. Its biosynthesis was strongly cold-enhanced, with yields at 5 °C and 15 °C approximately threefold higher than those at 25 °C. Pigment-deficient and overproducing mutants generated by heavy-ion beam mutagenesis confirmed its role in freeze-thaw protection. Indochrome C significantly improved bacterial survival during freezing, reduced intracellular oxidative stress, and exhibited strong ABTS and DPPH radical scavenging activity. Splat cooling assays demonstrated concentration-dependent ice recrystallization inhibition, comparable to that of trehalose on a mass basis. Differential scanning calorimetry revealed moderate freezing point depression, reduced melting enthalpy, and a lower fraction of freezable water, while molecular dynamics simulation supported its interaction with the ice-surface through hydrogen bonding. Indochrome C remained stable over pH 4-10 and at temperatures up to 60 °C, and no adverse effects were observed under the tested conditions. These findings establish indochrome C as a promising natural blue pigment with cryoprotective potential in food and biotechnology.",
+      "authors": [
+        {
+          "name": "Xue Yu"
+        },
+        {
+          "name": "Wei Zhang"
+        },
+        {
+          "name": "Kan Jiang"
+        },
+        {
+          "name": "Gaosen Zhang"
+        },
+        {
+          "name": "Yujie Wu"
+        },
+        {
+          "name": "Shiyu Wu"
+        },
+        {
+          "name": "Xiaomin Niu"
+        },
+        {
+          "name": "Liguo Yang"
+        },
+        {
+          "name": "Shuqing Dong"
+        },
+        {
+          "name": "Qi Feng"
+        },
+        {
+          "name": "Tuo Chen"
+        },
+        {
+          "name": "Guangxiu Liu"
+        }
+      ],
+      "publishedAt": "2026-10-16",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42679443",
+      "title": "Robotic sorting and artificial intelligence in material recovery facilities: a review of published research and expert perspectives.",
+      "summary": "Material Recovery Facilities (MRFs) are essential to municipal recycling infrastructure, but face difficulties in sorting due to the growing complexity of recyclable material streams and contamination in their inputs. The limitations of traditional sorting technologies and reliance on manual sorters at MRFs have driven interest in integrating robotic systems that combine artificial intelligence (AI) detection with robotic actuation. This paper presents a review of AI and robotic sorting at MRFs, based on insights from recent literature and expert consultations. The literature review uncovered advances in AI algorithms and datasets, application of new sensors and multi-modal sensing systems, and novel robotic gripping and grasping strategies. Expert consultations identified a shift toward deploying AI systems as standalone detection tools, particularly for quality control and facility monitoring, and a movement away from robotic integration due to limitations in speed, reliability, and gripper effectiveness. The analysis reveals three key challenge areas: (1) practical deployment and economic viability of robotic sorting systems, (2) limitations in AI performance and data availability, and (3) robot-specific challenges related to gripping and grasping. The paper outlines future research directions to address these challenges and advance the field.",
+      "authors": [
+        {
+          "name": "Tanmay Haldankar"
+        },
+        {
+          "name": "Kelsea Schumacher"
+        }
+      ],
+      "publishedAt": "2026-09-17",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42535783",
+      "title": "Sex-Specific Injury Patterns and Clinical Course After Suspected Violent Crime: An Analysis of Data From the TraumaRegister DGU.",
+      "summary": "BACKGROUND: Injury due to violent crime is a growing problem. 217 000 cases were reported in Germany in 2024, the largest number since 2007. Until now, research has mainly focused on perpetrator profiles and analyses of crime statistics, while sex-specific differences in injury patterns, clinical course, and outcome have not received sufficient attention.\nMETHODS: This retrospective, multicenter study included cases of moderate or severe injury (Abbreviated Injury Scale, AIS ≥ 3) probably caused by violence that were documented in the trauma registry of the German Trauma Society (Deutsche Gesellschaft für Unfallchirurgie; TR-DGU) in the years 2009-2024. The data were analyzed for sex-specific differences in demographic features, injury patterns, clinical course before and during hospitalization, and outcome.\nRESULTS: Of the 8759 persons with a documented injury caused by violence, 7324 (83.6%) were male. Stabbing injuries were the most common type (50.3%), followed by blows (33.2%) and gunshot wounds (7.2 %). Compared to the women who sustained injuries from violence, the men were younger (36 vs. 43 years, p < 0.001) and were more often taken to a hospital at night (p < 0.001) or on a weekend (p < 0.001). Women were injured less often but had more serious injuries, more commonly on the neck, face, spine, and pelvis, with a higher mean Injury Severity Score (ISS) (19.2 vs. 15.8, p < 0.001) and a mortality that was nearly twice as high (15.3% vs. 7.9%, p < 0.001).\nCONCLUSION: Our analysis reveals marked sex-specific differences in the pattern and outcome of injuries due to violent crime. Men are more commonly affected, but women sustain more severe injuries and have a higher mortality and worse outcomes. There is an urgent need for preventive measures and for sex-specific approaches to treatment, with appropriate training for doctors and nurses, because hospitals play a key role in the acute care of victims of sex-specific violence.",
+      "authors": [
+        {
+          "name": "Ahmed Ellafi"
+        },
+        {
+          "name": "Konstantin Reiter"
+        },
+        {
+          "name": "Michael Zyskowski"
+        },
+        {
+          "name": "Gregor Bielesch"
+        },
+        {
+          "name": "Markus Schwarz"
+        },
+        {
+          "name": "Rolf Lefering"
+        },
+        {
+          "name": "Peter Biberthaler"
+        },
+        {
+          "name": "Marc Hanschen"
+        },
+        {
+          "name": "Olivia Bohe"
+        }
+      ],
+      "publishedAt": "2026-07-31",
+      "source": "PubMed"
+    }
+  }
+]
