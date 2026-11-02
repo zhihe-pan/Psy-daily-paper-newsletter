@@ -1,0 +1,167 @@
+[
+  {
+    "paper": {
+      "id": "42960440",
+      "title": "Depth-adaptive suppression of subject-dependent interference for robust cross-subject EEG emotion recognition.",
+      "summary": "OBJECTIVES: Cross-subject electroencephalography (EEG) emotion recognition is limited by inter-subject variability, which embeds subject-specific nuisance information in learned representations and reduces generalization to unseen individuals.\nMETHODS: We propose a two-stage layer-adaptive subject-interference suppression framework built on EEG Conformer. In the search stage, differentiable gates and adversarial subject classifiers are attached to hierarchical representations from the patch embedding layer and Transformer blocks to estimate where subject information is most strongly encoded. The top-ranked layers are then fixed and the model is retrained for final emotion classification. A subject-aware supervised contrastive regularizer is further used to improve label-consistent cross-subject representation learning.\nRESULTS: Experiments on SEED under strict leave-one-subject-out evaluation show improved performance over representative machine-learning, domain-adaptation, and deep-learning baselines. Auxiliary experiments on SEED-IV indicate adaptability under a more challenging label setting. Layer-wise probing shows that subject-specific information remains decodable across depths but is relatively stronger in shallow and early intermediate representations.\nCONCLUSIONS: Selective depth-aware suppression provides a practical and interpretable strategy for robust EEG-based affective brain-computer interfaces.",
+      "authors": [
+        {
+          "name": "Weiwei Liu"
+        },
+        {
+          "name": "Liangxun Shuo"
+        }
+      ],
+      "publishedAt": "2026-10-30",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42958894",
+      "title": "Development and psychometric properties of the Prison Fellowship Good Citizenship Inventory (GCI): a values-based assessment for correctional settings.",
+      "summary": "PURPOSE: This study aims to describe the development and psychometric validation of the Prison Fellowship Good Citizenship Inventory (GCI), a values-based assessment instrument designed to measure the internalization of six prosocial values (Community, Affirmation, Productivity, Restoration, Responsibility and Integrity) among prison program participants as an alternative to deficit-focused assessment approaches.\nDESIGN/METHODOLOGY/APPROACH: Following multistage development, including item drafting, pilot testing and expert review, the GCI was administered to 559 prisoners across five state correctional facilities. Psychometric evaluation used principal axis factoring and confirmatory factor analysis to establish factor structure, with additional analyses examining internal consistency reliability, factorial invariance across gender, convergent validity (correlations with responsibility, conscientiousness and agreeableness measures) and criterion validity (associations with well-being, flourishing and criminogenic risk factors).\nFINDINGS: Results supported a five-factor structure combining Responsibility and Integrity into a single dimension, with adequate internal consistency reliability (a = 0.66-0.86) across all scales. Factorial invariance testing confirmed measurement equivalence across gender groups. The GCI demonstrated significant convergent validity with established personality and responsibility measures (r = 0.42-0.57) and criterion validity through associations with human flourishing, psychological well-being and reduced antisocial characteristics, supporting the theorized relationships between prosocial values and positive outcomes.\nORIGINALITY/VALUE: The GCI provides corrections professionals with a psychometrically sound, strengths-based assessment tool that evaluates program effectiveness beyond traditional recidivism metrics by measuring positive value development. This values-based approach offers a theoretically grounded alternative to risk-focused assessment models, aligning with emerging research on strength-based rehabilitation and desistance-focused interventions in correctional settings.",
+      "authors": [
+        {
+          "name": "Michael Denhof"
+        },
+        {
+          "name": "Leigha Scott"
+        },
+        {
+          "name": "Chelsea Hunsucker"
+        },
+        {
+          "name": "Angela King"
+        },
+        {
+          "name": "Theresa Ferry"
+        }
+      ],
+      "publishedAt": "2026-10-30",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42945523",
+      "title": "Despite High Hepatitis C Virus Testing, Treatment Gaps Remain: A Study Among Syringe Services Program Participants in Massachusetts.",
+      "summary": "BACKGROUND: People who inject drugs are less likely to initiate hepatitis C virus (HCV) treatment, and less likely to achieve sustained virologic response if they do start, than the general population. The objective of this analysis was to examine whether healthcare experiences were associated with HCV testing and treatment outcomes among people who inject drugs in Massachusetts.\nMETHODS: We analyzed baseline data from an HIV prevention study, which enrolled participants from two Massachusetts syringe service programs from 2020 to 2025. We assessed lifetime HCV testing and treatment outcomes, sociodemographics, substance use behaviors, and healthcare experiences (e.g., comfort with providers) and calculated bivariate associations.\nRESULTS: Among 185 participants (median age of 40, 43% cisgender women), 97% had ever been tested for HCV; 71% of those tested had ever received a positive test result. However, among those who tested positive, only 41% initiated treatment. Most participants reported comfort discussing their injection drug use with a provider (79%) and feeling welcome in medical clinics (75%). Cisgender men and those feeling welcome in medical clinics reported higher proportions of treatment initiation compared to their counterparts (both p<0.05).\nCONCLUSIONS: Despite pervasive testing and high treatment completion rates, treatment initiation remains suboptimal. Feeling welcome in medical clinics may be an important, modifiable indicator of HCV treatment engagement. The gap between HCV testing and treatment initiation persists. Understanding factors that shape HCV testing and treatment engagement can generate actionable insights for ongoing elimination efforts in New England.",
+      "authors": [
+        {
+          "name": "Leah C Shaw"
+        },
+        {
+          "name": "Katie B Biello"
+        },
+        {
+          "name": "Darien M Sproesser"
+        },
+        {
+          "name": "Yuni S Jimenez"
+        },
+        {
+          "name": "Marguerite E Beiser"
+        },
+        {
+          "name": "Katrina Baumgartner"
+        },
+        {
+          "name": "Douglas S Krakower"
+        },
+        {
+          "name": "Michelle Bordeu"
+        },
+        {
+          "name": "Matthew J Mimiaga"
+        },
+        {
+          "name": "Christopher M Bositis"
+        },
+        {
+          "name": "Angela R Bazzi"
+        }
+      ],
+      "publishedAt": "2026-10-27",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42934051",
+      "title": "From Aspiration to Accountability: Human Rights-Based Care and Support for Older Persons at the UN Convention Moment.",
+      "summary": "The emerging United Nations process toward a legally binding instrument on the human rights of older persons is not only a legal milestone; it is an accountability test for geriatric psychiatry, brain health, dementia care, mental health services, long-term care, community care, palliative care, digital systems, and implementation science. The legal protection gap has been documented through the Madrid International Plan of Action on Ageing, the Open-ended Working Group on Ageing, OHCHR analyses, Independent Expert reports, and legal scholarship. As the Human Rights Council moves this work into an Intergovernmental Working Group to elaborate a legally binding instrument, geriatric psychiatry and allied fields have a responsibility to contribute clinical, ethical, scientific, and implementation expertise. This essay argues that the future Convention should be understood not only as a legal text but as an opportunity to make dignity, agency, legal capacity, supported decision-making, brain health, mental health, care, support, participation, and freedom from discrimination real in everyday systems. Ageism causes measurable health harms; mentalism and ableism compound exclusion; dementia and cognitive impairment can trigger diagnosis-based loss of voice and agency; grief, loneliness, coercion, and institutionalization reveal failures of supportive care; and artificial intelligence can deepen or mitigate ageism, digital exclusion, and epistemic injustice. Strengths-based approaches emphasizing wisdom, resilience, community capacity, and learning health systems offer a way forward. Building on the WPA-SOAP White Paper, Leiden Summary Statement, and WHO/OHCHR tools, this essay offers an implementation-focused bridge from principle to practice and from aspiration to accountability.",
+      "authors": [
+        {
+          "name": "Kiran Rabheru"
+        },
+        {
+          "name": "Dilip V Jeste"
+        },
+        {
+          "name": "Charles F Reynolds"
+        }
+      ],
+      "publishedAt": "2026-10-26",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42932242",
+      "title": "Fear of falling in older adults living in the community: a review of multicomponent interventions to inform proportionate care.",
+      "summary": "BACKGROUND: Fear of falling among older adults can trigger physical deconditioning because of activity avoidance and is associated with an increased risk of recurrent falls.\nAIMS: This study aimed to determine whether multicomponent interventions combining physical activity with psychologically informed components reduce fear of falling more than interventions without psychological components in community-dwelling adults aged ≥65 years.\nMETHODS: A literature search for empirical studies focused on interventions to treat fear of falling in community-dwelling adults >65 years was conducted on Ovid SP, Embase, PubMed and CINAHL. The search yielded six randomised-controlled trials and one pre-post study. Studies were critically appraised using the Critical Appraisal Skills Programme analysis tools and findings were synthesised narratively and organised into themes.\nFINDINGS: Seven empirical studies were identified, encompassing six multicomponent programmes. Each programme combined physical exercise with psychologically informed strategies. The analysis of the studies found significant reductions in fear of falling in patients undergoing the programme. One trial found no additional benefit from combining cognitive behavioural therapy with tai chi compared with tai chi alone.\nCONCLUSIONS: Multicomponent programmes involving physical and psychological component are associated with reductions in fear of falling, although implementation may be constrained by resources. A two-tier approach may support proportionate care, with lower-resource interventions offered initially and escalation to Otago exercise combined with formal cognitive behavioural therapy for individuals identified as having severe fear of falling following assessment.\nIMPLICATIONS FOR PRACTICE: Community nurses should assess fear of falling alongside physical fall risks and provide individualised interventions. A stepped approach combining exercise and psychologically informed strategies may support proportionate fear of falling management.",
+      "authors": [
+        {
+          "name": "Ho Ki Chiu"
+        },
+        {
+          "name": "Emma Menzies-Gow"
+        }
+      ],
+      "publishedAt": "2026-10-26",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42900164",
+      "title": "The AMPK kinase Sak1 activates separase and promotes its nuclear localization during mitosis.",
+      "summary": "Accurate chromosome segregation during mitosis requires the precise regulation of separase, a protease that cleaves cohesin to trigger the separation of sister chromatids. Here, we identify the AMPK-activating kinase Sak1 as a novel regulator of separase in Saccharomyces cerevisiae. Using a suppressor screen, we discovered a hypermorphic SAK1-E50K allele that restored separase activity and nuclear localization in esp1-2 and pds1Δ mutants. We demonstrated that Sak1 phosphorylates separase independently of Snf1 activation, enhancing its enzymatic function and promoting nuclear accumulation. Loss of Sak1 delays Cdc14 activation and phenocopies FEAR pathway defects, establishing Sak1 as a mitotic regulator. Extending these findings to humans, we demonstrated that human separase and the tumor suppressor kinase LKB1, which is homologous to Sak1, physically associate. This finding reveals an evolutionarily conserved regulatory link between LKB1 and separase, highlighting the kinase-protease interplay as a critical mechanism for ensuring faithful mitotic progression.",
+      "authors": [
+        {
+          "name": "David Vaquero-Pelaz"
+        },
+        {
+          "name": "José-Antonio Rodriguez-Rodriguez"
+        },
+        {
+          "name": "Malina Carmina Ilinca"
+        },
+        {
+          "name": "Esther Casas-Fernández"
+        },
+        {
+          "name": "Amparo Picard"
+        },
+        {
+          "name": "Francisco Del Caño-Ochoa"
+        },
+        {
+          "name": "Isabel Vernia"
+        },
+        {
+          "name": "Toni Gabaldón"
+        },
+        {
+          "name": "Maria Angeles Juanes"
+        },
+        {
+          "name": "Ethel Queralt"
+        }
+      ],
+      "publishedAt": "2026-10-20",
+      "source": "PubMed"
+    }
+  }
+]
