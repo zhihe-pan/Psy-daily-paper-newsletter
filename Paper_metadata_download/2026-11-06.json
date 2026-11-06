@@ -1,0 +1,116 @@
+[
+  {
+    "paper": {
+      "id": "42987138",
+      "title": "Women's cardiovascular health in Aotearoa New Zealand: insights from a systematic literature review.",
+      "summary": "Heart disease (HD) is a leading cause of morbidity and mortality globally, yet it remains understudied, underdiagnosed and undertreated in women. Although attention towards gender equity in heart health has increased, significant knowledge gaps persist in understanding the impact, incidence and experiences of women living with HD in Aotearoa New Zealand. This systematic review identified and synthesised evidence on the heart health of women in Aotearoa New Zealand, focussing on clinical outcomes, awareness of HD and lived experiences. The review followed a registered protocol (PROSPERO: CRD420246000029). Systematic searches of Ovid MEDLINE, PubMed, Embase, CINAHL, Cochrane Library, ProQuest Health & Medical and ProQuest Dissertations identified studies published between 2000 and 2024. Inclusion/exclusion criteria were defined in PROSPERO and refined in Covidence. Eligible studies were assessed for risk of bias using Joanna Briggs Institute appraisal tools, and data were synthesised using Braun and Clarke's thematic framework. The search identified 61 papers. Key themes included: delayed diagnosis for women and lower likelihood of receiving guideline recommended treatments; pronounced equity gaps for Māori and Pacific women, who face higher premature cardiovascular mortality and barriers to care; the psychological burden of HD and women's experiences of reduced or delayed care; and the essential role of culturally responsive, patient centred models of care in improving outcomes. The literature reveals ongoing gaps in diagnosis, treatment and care for women with HD in Aotearoa New Zealand. Addressing these inequities requires gender specific and culturally grounded strategies to improve cardiovascular outcomes for diverse communities.",
+      "authors": [
+        {
+          "name": "Kylie Short"
+        },
+        {
+          "name": "Carol T Bussey"
+        },
+        {
+          "name": "Susan M Crabtree"
+        },
+        {
+          "name": "Julia Shanks"
+        }
+      ],
+      "publishedAt": "2026-11-05",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42981417",
+      "title": "Mechano-electrochemical energy harvesting and self-powered sensing via dynamic liquid metal-electrolyte interfaces.",
+      "summary": "Wearable devices, stretchable sensors, and soft electronics benefit from harvesting ambient energy using compliant materials, yet existing approaches often face limitations in power density, scalability, and electrode adaptability. Here, we report a liquid metal mechano-electrochemical energy harvester (LMMEEH) that converts mechanical stimuli into electricity through dynamically regulated electrode-electrolyte interfaces. Mechanical motion changes the interfacial area and drives asymmetric Faradaic reactions associated with dynamic oxide formation and dissolution, generating electrical output. The fluidity, high surface tension, and self-renewing surface chemistry of liquid metals enable rapid interfacial reformation, large reversible deformation, and stable cyclic operation. The device achieves a power density of 140.2 microwatts per square meter and scales to a 40-unit array producing 2 volts. Spatial and temporal programming of the liquid metal interfaces further enables synchronized three-phase alternating-current generation. We demonstrate wave-driven emergency lighting, self-powered pressure sensing, and real-time physiological monitoring. This work establishes dynamic liquid metal electrochemical interfaces as a scalable strategy for soft mechanical energy harvesting and self-powered electronics.",
+      "authors": [
+        {
+          "name": "Xiangbo Zhou"
+        },
+        {
+          "name": "Hongda Lu"
+        },
+        {
+          "name": "Jialu Wang"
+        },
+        {
+          "name": "Yipu Guo"
+        },
+        {
+          "name": "Liping Gong"
+        },
+        {
+          "name": "Jian Shu"
+        },
+        {
+          "name": "Zhisheng Lv"
+        },
+        {
+          "name": "Haiping Du"
+        },
+        {
+          "name": "Shiwu Zhang"
+        },
+        {
+          "name": "Michael D Dickey"
+        },
+        {
+          "name": "Weihua Li"
+        }
+      ],
+      "publishedAt": "2026-11-04",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42817885",
+      "title": "Arterial Resident But Not Monocyte-Derived Macrophages Require Endothelial CSF1.",
+      "summary": "BACKGROUND: Tissue-resident macrophages (T-RMøs) accumulate at sites predisposed to atherosclerosis in the healthy aortic intima. T-RMøs require local cues for their maintenance, but the niche signals governing their persistence in arterial tissue remain poorly defined. Here, we identify distinct, spatially compartmentalized sources of CSF1 (colony-stimulating factor 1) that regulate T-RMø populations in the healthy aorta and during atherosclerosis, a chronic inflammatory disease.\nMETHODS: Conditional Csf1 gene deletion (global, endothelial, arterial endothelial, and mesenchymal cell) or systemic antibody blockade was performed in normal or hypercholesterolemic Ldlr-/- mice. Cx3cr1 lineage tracing of T-RMøs initiated before hypercholesterolemia distinguished these cells from monocyte-derived macrophages in atherosclerotic lesions. Bone marrow transplantation enabled lineage tracing of T-RMøs and Csf1 deletion in endothelial cells. Ccr2 lineage tracing directly assessed monocyte-derived macrophages. A novel en face immunoconfocal microscopy approach accurately enumerated macrophages in aortic lesions.\nRESULTS: Conditional Csf1 deletion revealed that arterial endothelial cell-derived CSF1 is essential for T-RMø steady-state maintenance. In contrast, adventitial macrophages rely on CSF1 produced by PDGFRβ (platelet-derived growth factor-beta)-expressing mesenchymal, but not endothelial, cells. CSF1 primarily supports intimal macrophage proliferation and retention rather than survival. Postnatal parabiosis revealed only occasional clusters of parabiont blood monocyte-derived macrophages in the normal intima. During hypercholesterolemia-initiated atherogenesis, the abundance of T-RMøs increases then gradually declines, while an inflammatory response consisting of monocyte recruitment progressively expands the total number of lesion macrophages. Endothelial, but not mesenchymal, CSF1 is required for optimal macrophage accumulation in 4-week foam cell lesions. Lineage tracing showed that CSF1, specifically endothelial-derived CSF1, is required for the maintenance of T-RMøs, but not monocyte-derived macrophages, in atherosclerotic lesions.\nCONCLUSIONS: Our study uncovers a unique role of local endothelial cell CSF1 in maintaining the intimal, but not adventitial, T-RMø niche during homeostasis and early stages of atherosclerosis and reveals that maintenance of monocyte-derived macrophages in lesions is distinct.",
+      "authors": [
+        {
+          "name": "Marwan G Althagafi"
+        },
+        {
+          "name": "Hisham M Ibrahim"
+        },
+        {
+          "name": "Sharon J Hyduk"
+        },
+        {
+          "name": "Stylianos Z Prattas"
+        },
+        {
+          "name": "Mark Roufaiel"
+        },
+        {
+          "name": "Edouard Al-Chami"
+        },
+        {
+          "name": "Corey A Scipione"
+        },
+        {
+          "name": "Chanele K Polenz"
+        },
+        {
+          "name": "Sarah A Dick"
+        },
+        {
+          "name": "Slava Epelman"
+        },
+        {
+          "name": "Clinton S Robbins"
+        },
+        {
+          "name": "Myron I Cybulsky"
+        }
+      ],
+      "publishedAt": "2026-10-01",
+      "source": "PubMed"
+    }
+  }
+]
