@@ -1,0 +1,355 @@
+[
+  {
+    "paper": {
+      "id": "42993565",
+      "title": "Respiratory phase orchestrates human olfactory cortical dynamics.",
+      "summary": "Olfaction is fundamental to perception, memory, and emotion, yet the neural basis of human odor processing remains poorly understood. We demonstrate that odor-evoked brain activity is organized by respiratory phase-not absolute time-revealing that natural breathing structures olfactory cortical dynamics. Using simultaneous nasal respiration and electroencephalography recordings in [Formula: see text] participants, we delivered naturalistic odors (peppermint, oregano, and grapefruit) synchronized to individual breathing cycles. Odor presentation elicited respiratory phase-locked event-related spectral perturbations (RPL-ERSPs) in frontal and temporal regions, emerging during the first breath after stimulus onset. The most discriminative neural signatures were theta-band activity during inhalation and alpha-band activity during exhalation, patterns that were obscured in traditional time-locked analyses due to natural variability in breath duration. Leave-one-subject-out cross-validation of RPL-ERSPs achieved reliable odor detection (peppermint: AUC [Formula: see text] 0.79; oregano: AUC [Formula: see text] 0.67; grapefruit: AUC [Formula: see text] 0.62), establishing that phase-locked features generalize across individuals. To connect neural responses to perceptual experience without relying on odor naming-which can be disproportionately impaired in some populations-we quantified odor recognition using free-response descriptions scored with a semantic-similarity approach. Behavioral recognition strength paralleled the neural decoding hierarchy across odors, establishing the perceptual validity of RPL-ERSPs. RPL-ERSPs revealed rapid habituation, with decoding performance declining over repeated presentations, due to selective degradation of the most informative phase-locked features. These findings establish respiratory rhythm as a temporal scaffold for human olfactory cortical processing, positioning RPL-ERSPs as a sensitive, task-free approach for assessing olfactory function. We provide an open-source, respiration-synchronized olfactometer design to enable replication and adoption.",
+      "authors": [
+        {
+          "name": "Alisa Y Hathaway"
+        },
+        {
+          "name": "Todd P Coleman"
+        }
+      ],
+      "publishedAt": "2026-11-06",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42970690",
+      "title": "Lifetime stressor exposure is associated with altered trust formation and social learning in dynamic interactions.",
+      "summary": "Although trust is fundamental to social interactions, how lifetime stressor exposure relates to the cognitive processes underlying trust remains poorly understood. Using the Stress and Adversity Inventory (STRAIN) to assess cumulative lifetime stressor exposure, combined with an adaptation of the repeated trust game and computational modeling (Hierarchical Gaussian Filtering), we investigated how stressors experienced over the life course relate to three core aspects of trust dynamics-initial trust formation, learning about others' intentions, and adaptation to changes in trustworthiness-in 168 adults. Greater lifetime stress was associated with stronger negativity biases, lower initial trust, and heightened uncertainty about others' intentions, increases that were general rather than specific to partner type. These more pessimistic priors were not accompanied by poorer reading of partners: Higher lifetime stress was associated with greater differentiation between prosocial and selfish trustees, driven by reduced investment in the selfish trustee alone. Computational analyses further indicated greater belief volatility, consistent with faster model-implied updating of perceived trustworthiness. These findings provide novel evidence that lifetime stress is associated with a profile consistent with recalibration, rather than a degradation, of the cognitive mechanisms underlying trust, with potential consequences for relationship formation and social functioning. They also provide a computationally grounded framework for understanding associations between adversity and social cognition and generate testable predictions for future experimental work.",
+      "authors": [
+        {
+          "name": "Jonas P Nitschke"
+        },
+        {
+          "name": "Nace Mikus"
+        },
+        {
+          "name": "Livia Scanferla"
+        },
+        {
+          "name": "George M Slavich"
+        },
+        {
+          "name": "Claus Lamm"
+        }
+      ],
+      "publishedAt": "2026-11-02",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42970675",
+      "title": "Transcranial magnetic stimulation to the dorsolateral prefrontal cortex modulates single-neuron activity in humans.",
+      "summary": "Transcranial magnetic stimulation (TMS) to the dorsolateral prefrontal cortex (dlPFC) is an established treatment for depression, yet the fundamental question of how cortical stimulation influences single neurons in deep brain circuits critical for mood regulation remains unanswered. Using a rare opportunity to record from intracranial microelectrodes while TMS was delivered in four neurosurgical patients, we evaluated the responses of 185 single neurons. Artifact cleaning enabled single-neuron spikes to be resolved as early as 8 ms after stimulation. We found that single-pulse TMS to the left dlPFC elicited time-locked firing responses in 46% of neurons (26% facilitated only, 19% suppressed only, 1% both). These responses occurred within deep bilateral cortical and subcortical structures, including the putamen and thalamus. Single-pulse TMS tended to facilitate spiking in striato-thalamic putative inhibitory neurons from ~8 ms, peaking at ~80 to 100 ms, and decaying until ~600 ms. In contrast, putative excitatory neurons and limbic areas were suppressed with a slower time course lasting to ~1,000 ms. TMS-evoked potentials recorded from intracranial depth macroelectrodes to quantify network activity revealed that the modulation of responsive neurons was positively correlated with cortico-striato-thalamic network activity and anticorrelated with limbic network activity in one participant with sufficient network and unit sampling. These results suggest that dlPFC TMS recruits a high percentage of neurons spanning cortical and subcortical brain regions bilaterally. The recruitment pattern selectively involves increasing the firing rate of inhibitory neurons in executive control networks while suppressing limbic excitatory drive, providing a candidate cellular mechanism for how cortical stimulation modulates distributed brain networks.",
+      "authors": [
+        {
+          "name": "Charles W Dickey"
+        },
+        {
+          "name": "Umair Hassan"
+        },
+        {
+          "name": "Hiroto Kawasaki"
+        },
+        {
+          "name": "Ariane E Rhone"
+        },
+        {
+          "name": "Christopher C Cline"
+        },
+        {
+          "name": "Matthew A Howard"
+        },
+        {
+          "name": "Nicholas T Trapp"
+        },
+        {
+          "name": "Aaron D Boes"
+        },
+        {
+          "name": "Joel I Berger"
+        },
+        {
+          "name": "Corey J Keller"
+        }
+      ],
+      "publishedAt": "2026-11-02",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42874932",
+      "title": "Scalable cultured gut microbiota-derived nanovesicles for oral augmentation of checkpoint blockade therapy.",
+      "summary": "Microbiota-targeted strategies, such as fecal microbiota transplantation (FMT), hold promise for enhancing immunotherapy but face clinical challenges including safety risks, batch-to-batch variability, and dependence on substantial quantities of donor fecal material. To overcome these limitations, we established a standardized in vitro expansion platform for responder patient-derived gut microbiota. Through optimization of culture conditions, we achieved stable viability and retention of key immunotherapy-enhancing strains over serial passages, enabling a scalable 6.4 × 107-fold expansion. Leveraging this platform, we engineered hybrid nanovesicles derived from bacterial protoplasts, followed by silica surface coating (HNVs@Silica) for oral delivery. The silica shell significantly improved nanovesicle stability under gastrointestinal conditions and conferred superior antitumor efficacy compared with uncoated counterparts. Notably, HNVs@Silica produced from the 2nd, 4th, and 6th passages retained comparable potency in augmenting anti-PD-1 (αPD-1) therapy. Mechanistically, HNVs@Silica remodeled intestinal immunity, particularly within Peyer's patches, by activating and expanding effector CD8+ T cells. This local response enhanced the priming and systemic dissemination of tumor-specific T cells, thereby improving the efficacy of αPD-1. Collectively, our findings establish a safe, scalable, and orally bioavailable alternative to FMT for enhancing cancer immunotherapy.",
+      "authors": [
+        {
+          "name": "Lin Chen"
+        },
+        {
+          "name": "Nilupaier Tayier"
+        },
+        {
+          "name": "Hao Wu"
+        },
+        {
+          "name": "Guangnian Liu"
+        },
+        {
+          "name": "Shuai Wang"
+        },
+        {
+          "name": "Yu Zhu"
+        },
+        {
+          "name": "Jiayi Sun"
+        },
+        {
+          "name": "Yining Niu"
+        },
+        {
+          "name": "Chenchao Feng"
+        },
+        {
+          "name": "Liwei You"
+        },
+        {
+          "name": "Guang Hu"
+        },
+        {
+          "name": "Xiaoqing Cao"
+        },
+        {
+          "name": "Huiying Liu"
+        },
+        {
+          "name": "Motao Zhu"
+        }
+      ],
+      "publishedAt": "2026-10-31",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42863096",
+      "title": "Randomized Trial of Hypofractionated Postmastectomy Radiation Therapy in Women With Breast Reconstruction (RT CHARM, Alliance A221505).",
+      "summary": "PURPOSE: Patients with breast cancer requiring postmastectomy radiation therapy (PMRT) often desire breast reconstruction. Reconstructions can be adversely affected by PMRT, and fear of reconstruction complications has discouraged adoption of short-course radiation therapy used after lumpectomy. To fill the evidence gap, we conducted a noninferiority trial of hypofractionated versus conventional PMRT in patients undergoing breast reconstruction. The primary outcome was reconstruction complication rate, a composite of wound healing, readmission, capsular contracture, unplanned reoperation, and reconstruction failure.\nMETHODS: Women with unilateral invasive breast cancer with planned immediate or delayed reconstruction and PMRT were randomly assigned (1:1) to 50 Gy (25 fractions/5 weeks) or 42.56 Gy (16 fractions/3 weeks). This study was designed with a noninferiority margin of 10%, assuming a 2-year reconstruction complication rate of 25% with conventional PMRT. Randomization was stratified by immediate versus delayed and autologous versus implant-only reconstruction.\nRESULTS: Between 2018 and 2021, 898 patients enrolled with a median follow-up of 3.9 years; 825 patients were evaluable for the primary end point. The 24-month reconstruction complication rates were 12.3% (52/422) with hypofractionated PMRT and 10.2% (41/403) with conventional PMRT, corresponding to an estimated difference of -2.1% (95% CI, -6.5 to 2.2). The complication rate was higher (regardless of arm) with implant-only versus autologous reconstruction (odds ratio = 1.65). There was no statistically significant difference in 36-month locoregional recurrence rates: 1.5% (95% CI, 0.7 to 3.2) with hypofractionated and 2.2% (95% CI, 1.1 to 4.3) with conventional PMRT. Acute and late toxicity rates were not statistically different.\nCONCLUSION: A 16-fraction course of hypofractionated PMRT is safe and noninferior to conventional PMRT in women undergoing breast reconstruction after mastectomy.",
+      "authors": [
+        {
+          "name": "Matthew M Poppe"
+        },
+        {
+          "name": "Jennifer J Le-Rademacher"
+        },
+        {
+          "name": "Bruce G Haffty"
+        },
+        {
+          "name": "Eric K Hansen"
+        },
+        {
+          "name": "Jayant P Agarwal"
+        },
+        {
+          "name": "Jamie L Wagner"
+        },
+        {
+          "name": "Iwa Kong"
+        },
+        {
+          "name": "Jane M Armer"
+        },
+        {
+          "name": "Doug W Arthur"
+        },
+        {
+          "name": "Timothy J Whelan"
+        },
+        {
+          "name": "Odum Kour"
+        },
+        {
+          "name": "Minji K Lee"
+        },
+        {
+          "name": "Kathryn J Ruddy"
+        },
+        {
+          "name": "Ann H Partridge"
+        },
+        {
+          "name": "Lisa A Carey"
+        },
+        {
+          "name": "Maryam Lustberg"
+        },
+        {
+          "name": "Michael B Bernstein"
+        },
+        {
+          "name": "Selina L Chow"
+        },
+        {
+          "name": "Shane R Stecklein"
+        },
+        {
+          "name": "David K Gaffney"
+        },
+        {
+          "name": "Atif J Khan"
+        }
+      ],
+      "publishedAt": "2026-11-05",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42843530",
+      "title": "Metabolically engineered chimeric probiotic-cancer vesicles orchestrate anti-tumor systemic immunity.",
+      "summary": "The paradigm shift toward patient-centric precision medicine has established personalized cancer vaccines (PCVs) as a key strategy for eliciting tumor-selective immunity. However, traditional cell-based PCVs face significant translational barriers, including manufacturing complexity and safety concerns. While tumor-derived extracellular vesicles (TDEVs) offer a promising cell-free alternative that recapitulates the parental tumor's antigenic landscape, their therapeutic efficacy is frequently antagonized by intrinsic immunosuppressive cargo. Here, we report ChimeraVax, a chimeric vesicular vaccine platform engineered by covalently conjugating TDEVs with Lactobacillus acidophilus-derived membrane vesicles (LAMVs) via bio-orthogonal, copper-free click chemistry. In this hybrid assembly, the TDEVs serve as a comprehensive antigen reservoir, while the LAMVs provide potent natural adjuvanticity that bypasses TDEV-mediated immunosuppression. In vitro, ChimeraVax facilitated the synchronized delivery of tumor antigens and immunostimulatory molecules to dendritic cells, significantly enhancing antigen uptake and pro-inflammatory signaling. In a murine model of aggressive triple-negative breast cancer, subcutaneous administration of ChimeraVax coordinated both innate and adaptive immune responses, yielding robust antitumor efficacy. Notably, ChimeraVax showed strict antigen dependence, selectively suppressing matched lesions with minimal effects on mismatched tumors, highlighting its specificity and translational potential as a modular personalized cancer vaccine platform.",
+      "authors": [
+        {
+          "name": "Van Hieu Duong"
+        },
+        {
+          "name": "Van Dat Bui"
+        },
+        {
+          "name": "Torsha Ghosh"
+        },
+        {
+          "name": "Jeongyun Kim"
+        },
+        {
+          "name": "Won Ho Jang"
+        },
+        {
+          "name": "Sol Shin"
+        },
+        {
+          "name": "Chan Ho Kim"
+        },
+        {
+          "name": "Um Wooram"
+        },
+        {
+          "name": "Sohyun Cho"
+        },
+        {
+          "name": "Chaemin Lee"
+        },
+        {
+          "name": "Chan-Hwa Chung"
+        },
+        {
+          "name": "Soyoung Son"
+        },
+        {
+          "name": "Jae Hyung Park"
+        }
+      ],
+      "publishedAt": "2026-10-30",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42398842",
+      "title": "Face/off: phase-specific modeling of lineage plasticity using near-patient models in genitourinary cancers.",
+      "summary": "Lineage plasticity has emerged as a fundamental mechanism of adaptive therapy resistance in prostate and bladder cancers, enabling malignant cells to bypass lineage-restricted dependencies through non-genetic reprogramming. However, plasticity is often studied as a terminal phenotype rather than as a dynamic process that unfolds over time. The endpoint-centered view can obscure the early and potentially reversible events that initiate identity loss, as well as the intermediate states through which resistant phenotypes emerge. In this review, we propose a phse-based framework for modeling lineage plasticity in genitourinary cancers. We conceptualize plasticity as a temporally ordered trajectory comprising three phases: priming, transition, and stabilization. We examine how commonly used near-patient experimental and computational platforms, including patient-derived organoids (PDOs), patient-derived xenografts (PDXs), genetically engineered mouse models (GEMMs), and artificial intelligence-based approaches, tend to sample different portions of this trajectory. By mapping these model systems to the phases, they are best equipped to simulate, we demonstrate how a phase-aware approach can resolve long-standing discrepancies in the literature and clarify the gene-regulatory logic underlying tumor identity shifts. Ultimately, this framework provides a roadmap for integrating cross-platform insights to identify critical \"windows of vulnerability,\" informing novel strategies for the early therapeutic interception of lineage-driven resistance before it reaches a terminal, irreversible state.",
+      "authors": [
+        {
+          "name": "Zirui Fu"
+        },
+        {
+          "name": "Longjun Li"
+        },
+        {
+          "name": "Curtis J Perry"
+        },
+        {
+          "name": "Fady Ghali"
+        },
+        {
+          "name": "Wei Shen Tan"
+        },
+        {
+          "name": "Isaac Yi Kim"
+        },
+        {
+          "name": "Ping Mu"
+        }
+      ],
+      "publishedAt": "2026-08-07",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "10.19139/soic-2310-5070-2103",
+      "title": "Mixed Emotion Recognition Through Facial Expression using Transformer-Based Model",
+      "summary": "Basic facial expressions such as Angry, Disgust, Surprised, Happy, Scared, and Sadness can express emotions. However, in conversations, compound emotions can form Mixed Facial emotions, a combination of basic emotions that is much more complex Mixed emotion recognition is a recent study that has not been researched enough, even though datasets already contain mixed emotions This research aims to implement and fine-tune Transformer-based models such as Vision Transformer, Swin Transformer v2, and ConvNet-based model such as ConvNeXt architecture to identify and recognize mixed emotions through human faces using the IMED Dataset Various configurations with fine-tuned hyperparameters are tested and vary between each model The result shows that Vision Transformer architecture outperform other models in Mixed Emotion Recognition from Facial expressions and reach up to 79.37% Testing accuracy compared to Swin Transformer v2 model with 65.36% Testing accuracy and ConvNext with 74.77% Testing accuracy.",
+      "authors": [
+        {
+          "name": "Limas Jaya Akeh"
+        },
+        {
+          "name": "Gede Putra Kusuma"
+        }
+      ],
+      "publishedAt": "2026-11-10",
+      "source": "Crossref"
+    }
+  },
+  {
+    "paper": {
+      "id": "10.1177/1948550620949730",
+      "title": "The Location of Maximum Emotion in Deceptive and Truthful Texts",
+      "summary": "Meta-analytic evidence suggests that verbal patterns of emotion betray deceit, but it is presently unclear whether the location of maximum emotion in lies and truths matters to reveal deception. We contribute to the deception literature by offering analyses at the sentence level to locate where emotion is most pronounced in deceptive versus truthful texts. Using two public data sets—news articles (Study 1) and hotel reviews (Study 2)—we found that maximum emotion occurs toward the beginning of deceptive texts while maximum emotion appears later for truthful texts. In addition to demonstrating the effect across diverse settings, we used two different measurements for emotion and separated the results by valence, replicating the maximum emotion effect each time. The predictive nature of maximum affect ranged from 54% to 56% across data sets, a rate consistent with most deception studies using 50-50 lie–truth base rates. Implications for future research and deception theory are discussed.",
+      "authors": [
+        {
+          "name": "Amir Sepehri"
+        },
+        {
+          "name": "David M. Markowitz"
+        },
+        {
+          "name": "Rod Duclos"
+        }
+      ],
+      "publishedAt": "2026-11-10",
+      "source": "Crossref"
+    }
+  },
+  {
+    "paper": {
+      "id": "10.54646/bijiam.2022.09",
+      "title": "Hybrid facial expression recognition (FER2013) modelfor real-time emotion classification and prediction",
+      "summary": "Facial expression recognition is a vital research topic in most fields ranging from artificial intelligence and gamingto human-computer interaction (HCI) and psychology. This paper proposes a hybrid model for facial expressionrecognition, which comprises a deep convolutional neural network (DCNN) and a Haar Cascade deep learningarchitecture. The objective is to classify real-time and digital facial images into one of the seven facial emotioncategories considered. The DCNN employed in this research has more convolutional layers, ReLU activationfunctions, and multiple kernels to enhance filtering depth and facial feature extraction. In addition, a HaarCascade model was also mutually used to detect facial features in real-time images and video frames. Grayscaleimages from the Kaggle repository (FER2013) and then exploited graphics processing unit (GPU) computation toexpedite the training and validation process. Pre-processing and data augmentation techniques are applied toimprove training efficiency and classification performance. The experimental results show a significantly improvedclassification performance compared to state-of-the-art (SoTA) experiments and research. Also, compared to otherconventional models, this paper validates that the proposed architecture is superior in classification performancewith an improvement of up to 6%, totaling up to 70% accuracy, and with less execution time of 2,098.8 s",
+      "authors": [
+        {
+          "name": "Ozioma Collins Oguine"
+        },
+        {
+          "name": "Kanyifeechukwu Jane Oguine"
+        },
+        {
+          "name": "Hashim Ibrahim Bisallah"
+        },
+        {
+          "name": "Daniel Ofuani"
+        }
+      ],
+      "publishedAt": "2026-11-10",
+      "source": "Crossref"
+    }
+  }
+]
