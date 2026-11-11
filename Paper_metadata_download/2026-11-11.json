@@ -1,0 +1,42 @@
+[
+  {
+    "paper": {
+      "id": "42993014",
+      "title": "Trust Modulates Speech Entrainment: Enhanced Cortical Tracking for Low-trust Speakers.",
+      "summary": "Trust is a critical component of human communication, providing a foundation for understanding, information exchange, and social coordination. Much of the research on trust in speech communication has focused on how vocal characteristics impact perceived trustworthiness. However, little is known about how trust in a speaker affects the neural processing of speech. Here, we demonstrate a two-stage experimental framework to study that question using noninvasive EEG. First, participants engage in a trust-building stage, where they play an investment game with fictional characters, each paired with a distinctive voice and trustworthiness level (i.e., frequency and magnitude of lies). Next, participants engage in a story-listening stage, in which they are presented with stories from the same characters. Data acquired from 20 young adults confirm a statistically significant correlation between the perceived and actual trustworthiness of the fictional characters. Cortical speech tracking was quantified using a temporal response function analysis on the EEG data. We found that the trustworthiness established during the trust-building stage influenced the cortical tracking of speech in the subsequent story-listening stage, with lower trustworthiness corresponding to a stronger cortical tracking of speech. Interestingly, trustworthiness selectively modulated tracking strength, with no statistically significant changes in the spatial and temporal temporal response function dynamics.",
+      "authors": [
+        {
+          "name": "Jaimy A Hannah"
+        },
+        {
+          "name": "Giovanni M Di Liberto"
+        }
+      ],
+      "publishedAt": "2026-11-06",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "10.1177/1088868317736222",
+      "title": "Exploring the East-West Divide in Prevalence of Affective Disorder: A Case for Cultural Differences in Coping With Negative Emotion",
+      "summary": "Lifetime rates of clinical depression and anxiety in the West tend to be approximately 4 to 10 times greater than rates in Asia. In this review, we explore one possible reason for this cross-cultural difference, that Asian cultures think differently about emotion than do Western cultures and that these different systems of thought help explain why negative affect does not escalate into clinical disorder at the same rate. We review research from multiple disciplines—including cross-cultural psychology, social cognition, clinical psychology, and psychiatry—to make the case that the Eastern holistic principles of contradiction (each experience is associated with its opposite), change (the world exists in a state of constant flux), and context (the interconnectedness of all things) fundamentally shape people’s experience of emotions in different cultures. We then review evidence for how these cultural differences influence how successfully people use common emotion regulation strategies such as rumination and suppression.",
+      "authors": [
+        {
+          "name": "June De Vaus"
+        },
+        {
+          "name": "Matthew J. Hornsey"
+        },
+        {
+          "name": "Peter Kuppens"
+        },
+        {
+          "name": "Brock Bastian"
+        }
+      ],
+      "publishedAt": "2026-11-11",
+      "source": "Crossref"
+    }
+  }
+]
