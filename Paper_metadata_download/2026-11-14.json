@@ -1,0 +1,94 @@
+[
+  {
+    "paper": {
+      "id": "42612661",
+      "title": "Ambient scribes as narrative technologies.",
+      "summary": "Ambient scribes, also known as artificial intelligence-powered voice-to-text technology, are widely cited as time-saving tools that reduce administrative burden for clinicians. Yet, in their current use, these tools pose substantial, often unacknowledged risks that threaten to undermine patient-centred care. We argue that ambient scribes are inherently narrative technologies whose risks-and potential benefits-cannot be fully understood without careful attention to the ways that patients tell their stories and the broader context in which those stories are told. Drawing on medical humanities scholarship, we show that current approaches to ambient scribes take a superficial approach to narrative interpretation that omits the clinically relevant aspects of patient experience. We propose three ways to integrate more robust narrative analysis that can increase the value of ambient scribes: centring patient perspectives, accounting for material and social structures that shape narrative, and reframing the clinical encounter as a node in a broader narrative system. We conclude by outlining five priorities for commissioners, administrators, clinical leaders, and practice managers to ensure that the roll-out of ambient scribes does not deepen existing harms, and could instead contribute to more humane and trustworthy care.",
+      "authors": [
+        {
+          "name": "Kirsten Ostherr"
+        },
+        {
+          "name": "Eivind Engebretsen"
+        },
+        {
+          "name": "Angela Woods"
+        }
+      ],
+      "publishedAt": "2026-11-12",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "10.11144/javeriana.upsy16-4.sadm",
+      "title": "Symptoms of Anxiety and Depression Modulate the Recognition of Facial Emotion",
+      "summary": "Previous studies have shown that depression and anxiety are associated\r\nto changes in the recognition of facial expression. In the present\r\nresearch, a non-clinical sample was evaluated with respect to trait\r\nand state anxiety and depression symptoms. In the experimental task,\r\nparticipants evaluated facial expressions of happiness, anger, sadness, and\r\nfear, presented at four intensities (25, 50, 75, and 100%), as well as the\r\nneutral face. Results showed that the trait anxiety was associated with a\r\nbetter recognition of anger, fear, and happiness. For depression, we only\r\nfound differences between groups for emotional attribution to neutral\r\nfaces, in which participants scoring high in depression were more likely\r\nto attribute fear to neutral faces. Findings indicate an improvement of\r\nthe recognition of happiness, anger, and fear in trait anxiety, whereas\r\nsymptoms of depression and state anxiety were associated to changes in\r\nthe evaluation of neutral faces in non-clinical individuals.",
+      "authors": [
+        {
+          "name": "Natália Mendes Ferrer da Rosa"
+        },
+        {
+          "name": "Vinícius Ferreira Borges"
+        },
+        {
+          "name": "Leonardo Cheffer"
+        },
+        {
+          "name": "Nelson Torro Alves"
+        },
+        {
+          "name": "Célio Estanislau"
+        }
+      ],
+      "publishedAt": "2026-11-14",
+      "source": "Crossref"
+    }
+  },
+  {
+    "paper": {
+      "id": "10.3389/fpsyg.2025.1517441",
+      "title": "Future anxiety, depression and stress among undergraduate students: psychological flexibility and emotion regulation as mediators",
+      "summary": "Introduction\n                    Mental health and wellbeing are fundamental and integral components of healthy functioning, and psychological resources significantly contribute to its maintenance and enhancement. This study aimed to investigate the mediating effects of psychological flexibility and emotion regulation in the association between future anxiety, depression, and stress.\n                  \n                  \n                    Methods\n                    \n                      A total of 528 undergraduate students participated in this study (\n                      M\n                       = 20.14,\n                      SD\n                       = 1.76).\n                    \n                  \n                  \n                    Results\n                    The findings of the study showed that future anxiety was negatively associated with psychological flexibility and cognitive reappraisal, and positively associated with expressive suppression, depression and stress. Psychological flexibility and cognitive reappraisal had negative relationships with depression and stress, and expressive suppression had a positive relationship with depression and stress. The associations between future anxiety, depression and stress were mediated by psychological flexibility, cognitive reappraisal and expressive suppression.\n                  \n                  \n                    Discussion\n                    This study deepened our understanding of the possible mechanisms of depression and stress. For individuals suffering from future anxiety, psychological flexibility and emotion regulation may be a coping strategy that leads individuals to less depression and stress. This study suggests that psychological flexibility and emotion regulation skills are fundamental aspects of psychological health.",
+      "authors": [
+        {
+          "name": "Gülçin Güler Öztekin"
+        },
+        {
+          "name": "Juan Gómez-Salgado"
+        },
+        {
+          "name": "Murat Yıldırım"
+        }
+      ],
+      "publishedAt": "2026-11-14",
+      "source": "Crossref"
+    }
+  },
+  {
+    "paper": {
+      "id": "10.1007/s12144-024-07240-6",
+      "title": "Gender, emotion regulation, and cognitive flexibility as predictors of depression, anxiety, and affect in healthy adults",
+      "summary": "Abstract\n                  Anxiety and depressive disorders are among the most prevalent mental health conditions. Consequently, identifying the factors that contribute to their development and maintenance has been a longstanding focus of interest within the scientific community. Gender differences, cognitive flexibility, and emotion regulation strategies have all been considered influential in the development of these disorders, but few works have analyzed these variables simultaneously. Our study aimed to investigate the influence of gender, cognitive flexibility and emotion regulation strategies on anxiety and depressive symptoms, as well as on positive and negative affect. Results showed that both men and women exhibited similar levels of depression and affect. However, men tended to suppress their emotions more and were more likely to place blame on themselves and others, whereas women showed a greater tendency to ruminate and reported higher perceptions of alternatives. Additionally, women exhibited higher levels of anxiety. When multiple regression analyses were performed, only emotion regulation strategies and cognitive flexibility emerged as predictors of depression, anxiety and affect. These findings suggest that gender differences in these variables may stem not only from the selection of emotion regulation strategies but also from how men and women perceive situations through cognitive flexibility. This raises the question of whether gender differences in emotional processing are primarily related to the selection of emotion regulation strategies.",
+      "authors": [
+        {
+          "name": "Marta García-Fernández"
+        },
+        {
+          "name": "Nieves Fuentes-Sánchez"
+        },
+        {
+          "name": "Miguel A. Escrig"
+        },
+        {
+          "name": "Tuomas Eerola"
+        },
+        {
+          "name": "M. Carmen Pastor"
+        }
+      ],
+      "publishedAt": "2026-11-14",
+      "source": "Crossref"
+    }
+  }
+]
