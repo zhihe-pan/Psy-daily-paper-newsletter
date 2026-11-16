@@ -1,0 +1,152 @@
+[
+  {
+    "paper": {
+      "id": "43033202",
+      "title": "Food-Grade Hyaluronidase-Driven Janus Zein Nanomotors for Targeted Curcumin Delivery in Colorectal Microenvironments.",
+      "summary": "Curcumin, a bioactive polyphenol, exhibits high therapeutic potential, but its poor solubility and bioavailability restrict its application. Furthermore, conventional nanocarriers face cumbersome fabrication, poor biocompatibility, and insufficient tumor extracellular matrix penetration. Here, we constructed a hyaluronidase-driven, curcumin-loaded food-grade Janus zein nanomotor (HAase-CZ-JNs) via Pickering emulsion templating and genipin crosslinking. Its asymmetric \"half-hydrophilic, half-hydrophobic\" topology minimizes mass transfer resistance and stabilizes the enzyme's active conformation, boosting immobilized HAase catalytic efficiency (kcat/Km) 4.01-fold over free enzyme. Driven by endogenous HA, HAase-CZ-JNs exhibit robust substrate-dependent self-propulsion (effective diffusion coefficient: 63.69 μm2/s), 8.2-fold higher than that of fully modified nanoparticles (HAase-CZ-NPs). In vitro, these nanomotors actively penetrate dense 3D spheroids, enhancing deep cytotoxicity against HT-29 cells (IC50 = 1.364 μg/mL) with a 12-h core-killing efficacy 7.9-fold greater than HAase-CZ-NPs. Utilizing biosafe natural materials, this system offers a promising nanokinetic strategy for targeted curcumin delivery in colorectal microenvironments.",
+      "authors": [
+        {
+          "name": "Zhigao Wang"
+        },
+        {
+          "name": "Ying Xu"
+        },
+        {
+          "name": "Wen Li"
+        },
+        {
+          "name": "Rong He"
+        },
+        {
+          "name": "Zhipeng Yu"
+        },
+        {
+          "name": "Xingrong Ju"
+        }
+      ],
+      "publishedAt": "2026-11-15",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "43025947",
+      "title": "A Metal-Organic Framework-on-Metal-Organic Framework Chemical Nose for Intelligent Identification of Depression-Related Biomarkers via Machine Learning.",
+      "summary": "Depression is a complex mental disorder associated with dysregulation of multiple neurotransmitter-related biomarkers, including Try, 5-HT, 5-HIAA, and 5-HTP. Herein, we report a MOF-on-MOF fluorescent sensor array, RhB@ZIF-8-on-FL@UiO-67, for simultaneous discrimination and detection of these biomarkers. Spatial separation of dyes within the hierarchical architecture effectively suppresses fluorescence crosstalk and generates multiple independent luminescent channels, enhancing signal diversity and sensing performance. The resulting multidimensional fluorescence responses enable accurate identification of Try, 5-HT, 5-HIAA, 5-HTP, and their mixtures. Both LDA and HCA achieved a classification accuracy of 100% for the tested samples. Furthermore, machine learning models, including BP, RF, DT, SVM, and KNN, confirmed the robustness of the sensing platform. This work integrates MOF-on-MOF engineering with machine learning-assisted pattern recognition, offering a sensitive and reliable strategy for multiplex biomarker analysis and providing a promising approach for intelligent diagnosis of complex diseases.",
+      "authors": [
+        {
+          "name": "Shuo Lv"
+        },
+        {
+          "name": "Yuhan Jiang"
+        },
+        {
+          "name": "Xiangli Wen"
+        },
+        {
+          "name": "Ying Zhang"
+        },
+        {
+          "name": "Lei Wang"
+        },
+        {
+          "name": "Jingwei Liu"
+        },
+        {
+          "name": "Yaguang Sun"
+        },
+        {
+          "name": "Mingchang Zhu"
+        },
+        {
+          "name": "Junqi Su"
+        },
+        {
+          "name": "Shuangyan Wu"
+        }
+      ],
+      "publishedAt": "2026-11-14",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "43023157",
+      "title": "Using Nurse-Led Psychosocial Interventions in Chronic Illness to Guide Meaning-Centered Nursing in Multiple Sclerosis Care.",
+      "summary": "BACKGROUND: People with multiple sclerosis (MS) face disruption to their sense of purpose, meaning, and identity, in addition to physical and psychological symptoms. Nurse-led psychosocial interventions have reduced distress and improved quality of life in other chronic illnesses but are rarely designed to address these outcomes in MS.\nMETHODS: This narrative review examined nurse-led psychosocial and psychotherapeutic interventions reported in chronic illness populations (2016-2025), focusing on outcomes related to well-being, coping, and meaning-making, to inform implications for MS care.\nRESULTS: Cognitive behavioral therapy, life review, approaches informed by logotherapy, and structured education have reduced distress, improved coping, and fostered empowerment across chronic conditions. However, methodological challenges, cultural variability, and limited nurse training present barriers.\nCONCLUSIONS: Nurse-led psychosocial interventions have demonstrated benefits across diverse patient populations and have the potential to help people with MS rebuild purpose, identity, and confidence in daily life.",
+      "authors": [
+        {
+          "name": "Lisa Kelly"
+        }
+      ],
+      "publishedAt": "2026-11-13",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "41362228",
+      "title": "Using a person-centred model of Lean Six Sigma to support process improvement within a paediatric primary eye care clinic.",
+      "summary": "PURPOSE: Process improvement methodologies such as Lean Six Sigma are increasingly being deployed to address inefficiencies in healthcare. Simultaneously, global policy and strategy development stress the value of person-centredness in healthcare. This paper examines the application of a Person-Centred Lean Six Sigma Model (PCLSSM) to improve processes in a paediatric eye care clinic, specifically focusing on streamlining the referral system and optimising the clinic environment.\nDESIGN/METHODOLOGY/APPROACH: A quasi-experimental, single-site, pretest-posttest study was conducted over nine months using the Lean Six Sigma define, measure, analyse, improve and control (DMAIC) framework. Data were gathered through Voice of the Customer (VOC) sessions, Gemba observations, process mapping and referral letter audits. Key stakeholders, including clinicians, administrative staff and parents, co-designed the interventions to enhance efficiency and patient experience.\nFINDINGS: The application of the PCLSSM resulted in a 46% increase in right-first-time referral accuracy, a 20% reduction in referral processing time, a 13% increase in staff confidence in the referral system, a 158% improvement in staff satisfaction with workload and a 104% rise in child and parent satisfaction with their clinic experience. The implementation of an electronic referral system and an improved clinic environment contributed to these improvements.\nORIGINALITY/VALUE: This study is the first to integrate a person-centred approach with Lean Six Sigma in paediatric ophthalmology. The findings demonstrate the potential of combining process improvement methodologies with person-centred principles to enhance operational efficiency and stakeholder satisfaction. This approach can serve as a model for similar outpatient settings seeking to improve service delivery and patient experience.",
+      "authors": [
+        {
+          "name": "Christine Bourke"
+        },
+        {
+          "name": "Aaron Mullaniff"
+        },
+        {
+          "name": "Bobby Tang"
+        },
+        {
+          "name": "Oriyomi Waya"
+        },
+        {
+          "name": "Sean Paul Teeling"
+        }
+      ],
+      "publishedAt": "2026-11-13",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "41348553",
+      "title": "Overcoming barriers to AI implementation in dentistry: a comprehensive ISM model analysis.",
+      "summary": "PURPOSE: Artificial intelligence (AI) in the present scenario stands at the forefront of innovation, offering transformative potential across all domains, including healthcare. Recognizing the need for a deeper understanding of the barriers to AI implementation in dentistry, this study aims to explore and analyse the challenges hindering its widespread adoption.\nDESIGN/METHODOLOGY/APPROACH: The study employed a mixed-method approach. First, we conducted a detailed review of past studies to identify possible barriers. About 18 experts helped in finalizing the 17 important barriers. We used Interpretive Structural Modelling (ISM) to understand how these barriers are connected. Further, Matrice d'impacts croisés multiplication appliquée à un classement (MICMAC) analysis was operationalised to group the barriers and assess their effect on other barriers.\nFINDINGS: The study found several major barriers. These include fear of biasness, technology sophistication, firm size and structure, lack of trained staff, unavailability of data, privacy and security issues. Technological hurdles and lack of accountability are found to be the linkage variables linking the driver and dependent quadrants. ISM helped show how some barriers are more powerful and affect others. MICMAC analysis grouped the barriers into four types, namely independent, dependent, linkage and driving.\nRESEARCH LIMITATIONS/IMPLICATIONS: Dentists, technology makers and policymakers can use these results to build trust in AI systems and improve dental care.\nORIGINALITY/VALUE: This is one of the initial attempts to use both ISM and MICMAC methods to study the role of AI in dentistry.",
+      "authors": [
+        {
+          "name": "Lamay Bin Sabir"
+        },
+        {
+          "name": "Fatima Mohtashim"
+        },
+        {
+          "name": "S M Fatah Uddin"
+        }
+      ],
+      "publishedAt": "2026-11-13",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "10.3233/shti240924",
+      "title": "The Application of Emotion Valence Ratios in Facial Emotion Recognition for Detecting Depression Among Older Adults in Institutional Settings",
+      "summary": "Developing evidence-based parameters to enhance the reliability of face emotion recognition (FER) systems in detecting depression among the elderly is essential. This study aims to elucidate the relationship between the ratio of each emotion valence captured by the FER system and heart rate variability (HRV) while participants watch a video in relation to their depression scores. YOLO, an open-source data analysis toolkit, was used to extract three facial emotion valence features (neutral, positive, and negative) and determine the ratio of each emotion valence over time during video viewing. Additionally, HRV was assessed, and the Geriatric Depression Scale was administered to understand the correlation between FER parameters and depression scores.",
+      "authors": [
+        {
+          "name": "Hsiu-Hsin Tsai"
+        },
+        {
+          "name": "Ji-Ru Li"
+        },
+        {
+          "name": "Wann-Yun Shieh"
+        }
+      ],
+      "publishedAt": "2026-11-16",
+      "source": "Crossref"
+    }
+  }
+]
