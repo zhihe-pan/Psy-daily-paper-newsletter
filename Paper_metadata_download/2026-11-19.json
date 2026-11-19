@@ -1,0 +1,167 @@
+[
+  {
+    "paper": {
+      "id": "43050282",
+      "title": "A Self-Management Support Intervention to Improve BP among Patients with CKD: Kidney Awareness Registry and Education Trial.",
+      "summary": "BACKGROUND: Low-income patients with chronic kidney disease (CKD) face a high burden of adverse health outcomes. We assessed the effectiveness of a community health worker (CHW)-led self-management support intervention to improve health among adults with CKD and hypertension who receive primary care in urban safety-net clinics.\nMETHODS: Randomized controlled trial [Kidney Awareness Registry and Education) in which low-income, English-, Spanish-, or Cantonese-speaking adults with CKD and systolic blood pressure (SBP) >130 mmHg recruited from two different public health care delivery systems in San Francisco, California, and Oakland, California, were randomized to participate in a 6-month self-management support intervention or usual care. The primary outcome was the between-group difference in SBP change after one year. Secondary outcomes included the between-group differences in changes of: urine albumin-creatinine ratio (UACR), patient-reported awareness of CKD, self-efficacy of chronic disease management, communication with providers, medication adherence, and quality of life at one year.\nRESULTS: Among 238 participants with mean age of 62 years, a median (interquartile range, [IQR]) SBP of 144 (134, 159) mmHg, median (IQR) eGFR of 54.2 (42.1, 76.6) ml/min/1.73 m2 and UACR of 203 mg/g (IQR: 43, 827), of whom 34.5% had limited English proficiency and 62.0% had food insecurity, 129 were randomized to the self-management support intervention and 109 were randomized to usual care. Randomization to intervention led to a statistically larger decline in SBP compared to usual care at 12 months (difference-in-differences estimate: -10.8 mmHg; 95%CI: -16.8, -4.8). Change in UACR was not statistically different by study arm. Change in CKD awareness was higher in the intervention arm compared to usual care (ratio-in-odds ratios estimate: 2.9; 1.0-8.1), but no statistically significant differences in other behavioral outcomes were noted.\nCONCLUSION: A CHW-led self-management support program improves SBP and CKD awareness among low-income patients with moderate CKD.",
+      "authors": [
+        {
+          "name": "Delphine S Tuot"
+        },
+        {
+          "name": "Jennifer L Evans"
+        },
+        {
+          "name": "Laura C Plantinga"
+        },
+        {
+          "name": "Charles E McCulloch"
+        },
+        {
+          "name": "Alexandra Velasquez"
+        },
+        {
+          "name": "Dean Schillinger"
+        },
+        {
+          "name": "Margaret A Handley"
+        },
+        {
+          "name": "Chi-Yuan Hsu"
+        },
+        {
+          "name": "Neil R Powe"
+        }
+      ],
+      "publishedAt": "2026-11-18",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "43049600",
+      "title": "Clinical Factors Associated With Response and Outcomes in Intravenous Ketamine Treatment for Depression: Insights From a Real-World Retrospective Study.",
+      "summary": "PURPOSE: This study aimed to explore the clinical factors associated with response in patients receiving ketamine, evaluating changes in suicidality in each treatment session and the side effects of ketamine infusion therapy for depression.\nMETHODS: A retrospective descriptive study was conducted using electronic medical records from 90 patients treated with subanesthetic ketamine infusions between 2019 and 2023. Depression and suicidality scores were measured by the Montgomery-Åsberg Depression Rating Scale (MADRS). Clinical response was defined as a 50% or greater reduction in MADRS score at the final treatment session. The primary outcome was clinical factors associated with response in patients treated with ketamine.\nRESULTS: Of the 90 patients, 35 were classified as responders. Logistic regression analysis identified baseline suicidality scores on MADRS (adjusted OR: 1.46, P=0.019) and comorbid anxiety disorder (adjusted OR: 4.39, P=0.048) as significantly associated with treatment response. Generalized estimating equation analysis revealed that each additional ketamine session was associated with a significant reduction in MADRS (coefficient =-1.11, P<0.001) and suicidality scores (coefficient =-0.14, P<0.001). Side effects occurred more frequently in nonresponders.\nCONCLUSIONS: These findings suggest that baseline suicidality and comorbid anxiety disorders are important factors to consider when selecting candidates for ketamine therapy. Future research should aim to further elucidate the factors contributing to the efficacy and safety of ketamine as a treatment for depression.",
+      "authors": [
+        {
+          "name": "Thornthep Vichitkunakorn"
+        },
+        {
+          "name": "Teerayuth Rungnirundorn"
+        },
+        {
+          "name": "Mayteewat Chiddaycha"
+        },
+        {
+          "name": "Chavit Tunvirachaisakul"
+        },
+        {
+          "name": "Yanin Thipakorn"
+        }
+      ],
+      "publishedAt": "2026-11-18",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "43049443",
+      "title": "The Role of Droperidol in the Management of Acute Agitation: A Comprehensive Review.",
+      "summary": "BACKGROUND: Acute behavioral disturbance accounts for ~1.7 million emergency department visits in the USA annually, with 83% involving an underlying serious mental illness. A 2001 FDA black box warning regarding QT prolongation reduced use of droperidol, a butyrophenone antipsychotic, but recent data challenge these concerns.\nMETHODS: We reviewed randomized controlled trials, systematic reviews, and observational studies from 2000 to 2025 assessing droperidol's efficacy and safety.\nRESULTS: Droperidol provides rapid, effective sedation, with onset within 3 to 10 minutes and median time to adequate sedation of 14 to 25 minutes. Sixty-four percent of patients achieved adequate sedation at 15 minutes with droperidol versus 25% to 35% with ziprasidone and 29% with lorazepam. QT prolongation occurred in 1.3% of 1009 patients, mostly those with pre-existing risk factors. Respiratory depression was less common with droperidol (12%) than with ziprasidone (36% to 39%) or lorazepam (48%). Droperidol-midazolam combinations achieved faster sedation and reduced need for rescue medications (41% vs. 62%). Droperidol-treated patients had shorter hospital stays. Large studies found negligible rates of torsades de pointes or extracardiac arrhythmias. Elderly and pediatric patients responded favorably to low-dose droperidol. The American College of Emergency Physicians now recommends droperidol as first-line treatment for severe agitation. Combined with benzodiazepines, droperidol shows synergistic effects and allows lower doses of both with fewer adverse effects.\nCONCLUSIONS: Recent evidence contradicts earlier FDA concerns, supporting droperidol as a safe, effective treatment for acute agitation. Its rapid onset, efficacy, safety profile, and operational benefits, including shorter ED stay, support its return to routine clinical practice.",
+      "authors": [
+        {
+          "name": "Srajan Gupta"
+        },
+        {
+          "name": "Malav Patel"
+        },
+        {
+          "name": "Sreshta Jeelugu"
+        },
+        {
+          "name": "Hetansh Shah"
+        },
+        {
+          "name": "Shivani Malavia"
+        },
+        {
+          "name": "Garima Yadav"
+        },
+        {
+          "name": "Zeeshan Mansuri"
+        }
+      ],
+      "publishedAt": "2026-11-18",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "43049345",
+      "title": "Topical Minoxidil for Female Pattern Hair Loss: Clinical Outcomes in Postmenopausal Women.",
+      "summary": "BACKGROUND: Female pattern hair loss (FPHL) affects up to 50% of women and becomes increasingly prevalent after menopause. Declining estrogen levels, altered hormonal balance, and follicular miniaturization contribute to disease progression, which can substantially impair quality of life (QoL).\nOBJECTIVE: The aim of this study was to review the pathophysiology and psychosocial impact of FPHL, discuss patient counseling and treatment expectations, and evaluate the benefits of topical minoxidil in postmenopausal women.\nMETHODS: Published evidence on FPHL pathophysiology, psychosocial outcomes, treatment barriers, and minoxidil efficacy and tolerability was searched for online using Google and via PubMed. Publications were reviewed for relevance based on the objectives as listed above before being selected for inclusion in our narrative. Findings from a post hoc subgroup analysis of postmenopausal women in a phase III clinical trial of once-daily 5% minoxidil topical foam (MTF) were also assessed.\nRESULTS: FPHL is influenced by genetic susceptibility, aging, and menopausal hormonal changes. Hair loss is associated with reduced self-esteem, social withdrawal, anxiety, and impaired QoL. Delayed treatment initiation is common. In a phase III study, 5% MTF significantly increased hair count versus vehicle at 24 weeks. Post hoc analyses demonstrated significant hair regrowth in postmenopausal women with both early and advanced hair loss.\nCONCLUSION: Once-daily 5% MTF is effective in postmenopausal women regardless of disease severity. Early recognition, patient education, individualized treatment selection, and psychosocial support are essential for optimal outcomes.",
+      "authors": [
+        {
+          "name": "Ramond J Waide"
+        },
+        {
+          "name": "Hsiao-Pin Liu"
+        },
+        {
+          "name": "Asha Patel Shah"
+        },
+        {
+          "name": "Payvand Kamrani"
+        },
+        {
+          "name": "Deirdre Hooper"
+        },
+        {
+          "name": "Nicole Rogers"
+        }
+      ],
+      "publishedAt": "2026-11-18",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42773781",
+      "title": "Barriers and facilitators to the diversion of prescribed medicines among people incarcerated in prison: a systematic review.",
+      "summary": "PURPOSE: The purpose of this study is to synthesise empirical evidence on the factors that enable or hinder diversion of prescribed medicines in prison populations.\nDESIGN/METHODOLOGY/APPROACH: A systematic review of primary studies published in English between January 2018 and 31 July 2025 was undertaken in MEDLINE, CINAHL and PubMed. Methodological quality was appraised with the Long-French & Brooks adaptation of CASP. Findings were integrated through narrative synthesis and mapped against Smith's Model of Addiction.\nFINDINGS: Seven studies met the criteria (six qualitative, one mixed-methods; n = 239 participants were involved in six papers; one paper stated they interviewed 11 jails rather than participants). Study samples were drawn from the UK and the USA except May et al. (2020), which was conducted in Wales. In all, 12 recurring determinants were clustered within three domains: institutional (e.g. dispensing procedures and staffing levels), social (e.g. peer hierarchies and informal economies) and individual (e.g. pain management needs and substance-use history). Some determinants acted as both barriers and facilitators depending on local configuration. The interplay of environment, behaviour and personal agency suggests that single-level interventions are unlikely to curb diversion sustainably.\nRESEARCH LIMITATIONS/IMPLICATIONS: Evidence is predominantly from US jail/prison contexts with limited demographic diversity; more UK/EU prison research is needed.\nPRACTICAL IMPLICATIONS: This study co-designed dispensing protocols, person-centred communication training and expanded access to MOUD (including diversion-resistant formulations) warrant testing.\nSOCIAL IMPLICATIONS: Medication diversion in prisons has wider social consequences beyond clinical risk. It can fuel informal trading economies, debt, intimidation and violence and can undermine trust between people in prison and health-care staff. Fear of diversion may lead to restrictive dispensing practices that reduce timely access to legitimate therapies, potentially widening health inequalities and increasing relapse and self-harm risk. Addressing diversion, therefore, supports safer prison communities, improves equitable access to care and strengthens continuity of treatment on release.\nORIGINALITY/VALUE: This study co-designed dispensing protocols, person-centred communication training and expanded access to Medication for Opioid Use Disorder (MOUD) (including diversion-resistant formulations) warrant development and testing.",
+      "authors": [
+        {
+          "name": "Noah Harwood"
+        },
+        {
+          "name": "Seilin Uhm"
+        },
+        {
+          "name": "David Wright"
+        },
+        {
+          "name": "Katherine Hunt"
+        }
+      ],
+      "publishedAt": "2026-09-23",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42473847",
+      "title": "Managing acute bromazolam intoxication in a custodial setting: a prison health case study.",
+      "summary": "PURPOSE: Synthetic benzodiazepines pose significant health risks, especially within prison settings where substance use, multi-morbidity and constrained healthcare environments intersect. As the illicit drug market continues to evolve, prisons face increasing challenges in responding to changing patterns of use. This paper aims to present a case study of a bromazolam-related drug incident in a Scottish prison to identify operational learnings that can support future approaches to meeting the health needs of those within prison settings.\nDESIGN/METHODOLOGY/APPROACH: The authors conducted a descriptive observational case study as part of a public health response and wider service evaluation to a drug-related outbreak. Approval for the analysis and inclusion of routinely collected clinical and incident data was granted by the Caldicott Guardian. Information was extracted using a standardised data collection template. The authors incorporated qualitative insights from stakeholder reflections to understand operational challenges and perceived drivers of the outbreak.\nFINDINGS: Thirty prison residents were affected, four requiring hospitalisation and three of these requiring intensive care admission. While the clinical response was timely and prevented any fatalities, the incident exposed vulnerabilities in operational preparedness, communication pathways and incident coordination.\nPRACTICAL IMPLICATIONS: This case highlights the need for strengthened preparedness for illicit substance outbreaks, particularly benzodiazepines, in prisons. This includes development and awareness of clear major incident protocols, workforce resilience planning and integrated harm-reduction approaches.\nORIGINALITY/VALUE: This paper provides practice-based insight into the management of an emerging synthetic benzodiazepine incident within a prison setting, offering practice-based learning that may support preparedness and multi-agency responses to similar incidents in prison settings.",
+      "authors": [
+        {
+          "name": "Kelly Taylor"
+        },
+        {
+          "name": "Sally Amor"
+        }
+      ],
+      "publishedAt": "2026-07-20",
+      "source": "PubMed"
+    }
+  }
+]
