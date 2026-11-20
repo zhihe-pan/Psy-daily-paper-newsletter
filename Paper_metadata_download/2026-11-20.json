@@ -1,0 +1,507 @@
+[
+  {
+    "paper": {
+      "id": "43056626",
+      "title": "Psychological distress and mental health service use among Asian New Zealanders: evidence from linked national survey and administrative data.",
+      "summary": "AIM: This study examined psychological distress and mental health service use among Asian New Zealanders, disaggregated into Chinese, Indian, and Other Asian sub-groups, compared with sole Europeans. We also assessed socio-demographic factors and unmet health needs as predictors.\nMETHODS: We used linked New Zealand Health Survey (2011/2012-2018/2019 pooled) and administrative data from the Integrated Data Infrastructure. Psychological distress was measured using the Kessler Psychological Distress Scale. Mental health service use was identified via publicly funded hospitalisations for mood and anxiety disorders and dispensing of antidepressants and anxiolytics. Weighted Poisson regression estimated relative risks (RRs) comparing Asian sub-groups with sole Europeans and examined predictors within sub-groups.\nRESULTS: There were no meaningful differences in risk of high psychological distress across groups. All Asian sub-groups were less likely to use mental health services compared with sole Europeans (adjusted RRs [aRRs] 0.32-0.59). Unmet need for primary care predicted higher psychological distress (aRRs 2.24-4.53) and greater service use across all sub-groups (aRRs 1.99-2.37). Gender and New Zealand -born patterns varied by sub-group and were obscured in aggregated analyses.\nCONCLUSION: Asian New Zealanders are not homogeneous in mental health service use. Inequities exist despite comparable psychological distress, highlighting structural and cultural barriers. Disaggregated analyses and improved access to culturally responsive primary care are critical for mental health equity.",
+      "authors": [
+        {
+          "name": "Fares A AlGhareeb"
+        },
+        {
+          "name": "Kayla van Tonder"
+        },
+        {
+          "name": "Stephanie D'Souza"
+        }
+      ],
+      "publishedAt": "2026-11-19",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "43041718",
+      "title": "Effects of chronic sucrose consumption on behavior, metabolism, and dopaminergic markers in an ADHD model.",
+      "summary": "Attention-deficit/hyperactivity disorder (ADHD) involves dopaminergic dysfunction, and excessive sugar intake has been proposed to aggravate ADHD-related traits through mesolimbic reward pathways. We gave male spontaneously hypertensive rats (SHRs), a model of ADHD, and their Wistar Kyoto (WKY) controls intermittent access to 10% sucrose for 21 days and assessed behavior, metabolism, and frontostriatal dopaminergic markers. SHRs consumed more sucrose than WKY rats on the first day of access, consistent with novelty seeking. Sucrose impaired open field habituation in both strains and recognition memory in WKY rats, and selectively increased anxiety-like behavior in the open field in SHRs. Sucrose also elevated blood glucose in both strains and triglycerides and total cholesterol in SHRs, whereas dopamine D2 receptor and dopamine transporter expression remained largely unchanged. Thus, genetic background shapes the emotional, cognitive, and metabolic responses to dietary sugar, and ADHD-like phenotypes may carry a heightened metabolic vulnerability.",
+      "authors": [
+        {
+          "name": "Samara Gumiéro Costa"
+        },
+        {
+          "name": "Daniel Bussinger de Souza Penna"
+        },
+        {
+          "name": "Andrea Tosta"
+        },
+        {
+          "name": "Julia Marinatto"
+        },
+        {
+          "name": "Karen Mello"
+        },
+        {
+          "name": "Maria Eduarda Nascimento Neves"
+        },
+        {
+          "name": "Grasielle Clotildes Kincheski"
+        },
+        {
+          "name": "Paulo Henrique S Botton"
+        },
+        {
+          "name": "Mychael V Lourenco"
+        },
+        {
+          "name": "Diogo O Gomes de Souza"
+        },
+        {
+          "name": "Lisiane O Porciúncula"
+        },
+        {
+          "name": "Pablo Pandolfo"
+        }
+      ],
+      "publishedAt": "2026-11-17",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "43034523",
+      "title": "Retinal Müller glial nestin reduction parallels behavioral impairment after blue light exposure in rats.",
+      "summary": "Blue light from light-emitting diode (LED) displays is widely encountered; however, its effects beyond the retina are poorly understood. We investigated whether short-term blue light exposure alters retinal Müller glial nestin immunoreactivity and whether these changes accompany behavioral changes. Male Wistar rats were exposed to blue light (450 nm, 4 h daily) for 7 (D-7) or 14 days and compared with controls. Passive avoidance and elevated plus maze tests showed impaired memory retention and increased anxiety-like behavior, whereas rotarod performance was reduced at 7-D but not at 14-D. Immunofluorescence showed a progressive decline in nestin signal in the inner nuclear layer, which correlated with a composite behavioral deficit score across animals. These data reveal a temporal association between changes in Müller glial markers and behavioral outcomes, identifying the glial marker nestin as a candidate indicator of light-induced stress and motivating mechanistic studies.",
+      "authors": [
+        {
+          "name": "Adithya A"
+        },
+        {
+          "name": "Simmren Bama Roy"
+        },
+        {
+          "name": "Nagarajan Theruveethi"
+        }
+      ],
+      "publishedAt": "2026-11-15",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "43022794",
+      "title": "Oleoyl-L-carnitine regulates PPM1B through BIRC6, inducing tumor concomitant cardiac fibrosis.",
+      "summary": "Cancer increases the risk of heart failure progression, and cancer survivors face elevated odds of adverse cardiovascular outcomes. Clinical observations link breast cancer severity to left ventricular diastolic dysfunction in patients undergoing surgical resection. Using metabolomic profiling of human breast cancer tissues and quantification in both patients and mouse models, we identified elevated levels of the tumor metabolite oleoyl-L-carnitine (OLcarn). Using affinity-enrichment proteomics with biotin-OLcarn in cardiac fibroblasts, we identified baculoviral IAP repeat-containing protein 6 (BIRC6) as a candidate interacting protein. Furthermore, binding of OLcarn to BIRC6 promoted ubiquitination of the protein phosphatase PPM1B and increased SMAD3 phosphorylation, thus activating pro-fibrotic signaling cascades. These results define a mechanism whereby a tumor-derived metabolite promotes cardiac fibrosis via the BIRC6/PPM1B/SMAD3 axis. This pathway reveals a key mode of tumor-heart crosstalk and may inform potential therapeutic strategies for cancer-associated cardiac fibrosis.",
+      "authors": [
+        {
+          "name": "Xin Zhao"
+        },
+        {
+          "name": "Keying Yuan"
+        },
+        {
+          "name": "Dongyu Han"
+        },
+        {
+          "name": "Nanqi Zhang"
+        },
+        {
+          "name": "Wenchuan Yao"
+        },
+        {
+          "name": "Hanqi Li"
+        },
+        {
+          "name": "Liang Ji"
+        },
+        {
+          "name": "Jing Lu"
+        },
+        {
+          "name": "Hongyan Wang"
+        },
+        {
+          "name": "Jiahao Li"
+        },
+        {
+          "name": "Siqi Sheng"
+        },
+        {
+          "name": "Haiyu Zhang"
+        },
+        {
+          "name": "Yuanqi Shi"
+        },
+        {
+          "name": "Lin Lv"
+        },
+        {
+          "name": "Bing Xu"
+        },
+        {
+          "name": "Mingming Wu"
+        },
+        {
+          "name": "Zengxiang Dong"
+        }
+      ],
+      "publishedAt": "2026-11-13",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "43022400",
+      "title": "A narrative review of advances in experimental models of bTBI and neurobehavioral outcome measures.",
+      "summary": "Blast-induced traumatic brain injury (bTBI) is a common neurological trauma in warfare and terrorist attacks. The use of improvised explosive devices raises its incidence, affecting both soldiers and civilians and bringing heavy medical and social burdens. Dominated by blast shockwaves, bTBI has complex mechanisms hindering early diagnosis. This review summarizes bTBI advances in experimental models, research techniques, primary/secondary pathological mechanisms, neurobehavioral phenotypes, and prognostic factors, differentiating animal and clinical evidence. It addresses existing limitations and proposes future directions, to support early recognition, precise diagnosis, and targeted neuroprotective therapies for bTBI.",
+      "authors": [
+        {
+          "name": "Ning Ma"
+        },
+        {
+          "name": "Liang Li"
+        },
+        {
+          "name": "Xiao Li"
+        },
+        {
+          "name": "Hui Lu"
+        },
+        {
+          "name": "Qing Lu"
+        },
+        {
+          "name": "Xiaolin Fan"
+        },
+        {
+          "name": "Boya Yu"
+        },
+        {
+          "name": "Yuhao Zhang"
+        },
+        {
+          "name": "Junhong Gao"
+        },
+        {
+          "name": "Hong Wang"
+        }
+      ],
+      "publishedAt": "2026-11-13",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "43022242",
+      "title": "Neurocognition of dance: Guidelines for using dance as model behavior and research subject in cognitive neuroscience.",
+      "summary": "Dance and movement science bridges cognitive psychology, neuroscience, cultural studies, philosophical aesthetics, and the performing arts. The field has evolved significantly, examining physical, social, psychological, and neural aspects of dance and movement execution and perception, contributing to a deeper understanding of human cognition and of dance itself. As the field expands, shared guidelines that support methodological rigor, reproducibility, and cultural relevance are of paramount importance. This paper synthesizes current research and introduces a comprehensive seven-principle research design framework for using dance in cognitive neuroscience. Key elements include the operationalization of \"dance\" in empirical sciences, the definition of who is a dancer, measures of expertise, and the importance of a culturally sensitive, holistic, and interdisciplinary approach to its investigation in the laboratory and in ecologically valid settings. This framework benefits research in dance and movement aesthetics, as well as investigations in social cognition, affective neuroscience, computer science, and artificial intelligence.",
+      "authors": [
+        {
+          "name": "Vasiliki Meletaki"
+        },
+        {
+          "name": "Julia F Christensen"
+        },
+        {
+          "name": "Kohinoor M Darda"
+        },
+        {
+          "name": "Laura Rai"
+        },
+        {
+          "name": "Andrea Orlandi"
+        }
+      ],
+      "publishedAt": "2026-11-13",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "43017108",
+      "title": "Cell-type specific modulation of dorsal raphe serotonergic neurons by ketamine.",
+      "summary": "Ketamine (KET) produces rapid and long-lasting antidepressant effects at subanesthetic doses. However, the underlying mechanisms by which KET regulates the function of dorsal raphe nucleus (DRN) serotonergic neurons, a key brain area involved in the regulation of emotional behaviors, including depression, remain largely unknown. Here, we show that KET increases the firing activity of DRN serotonergic neurons while bidirectionally modulating their excitatory inputs in a cell-type-specific manner. Retrograde circuit mapping reveals that KET preferentially potentiates glutamatergic synapses of DRN 5-HT neurons projecting to the medial prefrontal cortex while depressing glutamate synapses of those projecting to the central amygdala (CeA). Notably, KET-induced synaptic potentiation in the DRN-but not the increase in serotonergic neuronal firing-was abolished by blockade of the brain-derived neurotrophic factor (BDNF) receptor tyrosine kinase B (TrkB). These findings indicate the presence of parallel TrkB-dependent and TrkB-independent signaling pathways that regulate DRN serotonergic neuron function.",
+      "authors": [
+        {
+          "name": "C Hmaied"
+        },
+        {
+          "name": "S Oubraim"
+        },
+        {
+          "name": "S Koulchitsky"
+        },
+        {
+          "name": "I Gladwyn-Ng"
+        },
+        {
+          "name": "S Haj-Dahmane"
+        },
+        {
+          "name": "V Seutin"
+        }
+      ],
+      "publishedAt": "2026-11-12",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42999752",
+      "title": "TGF-β/activin signaling balances the activity of two major protein quality control mechanisms during growth of Drosophila larval body wall muscle.",
+      "summary": "Little is known about the mechanism for maintaining quality of the proteins in young and growing muscles despite that they likely face constant challenges to the protein quality control (PQC). Here, we explored the role(s) of TGF-β/activin pathway in the PQC of Drosophila body wall muscle that grows rapidly during larval stage. We find that the TGF-β/activin pathway positively regulates the proteasomal activity in body wall muscle by promoting the expression of proteasomal subunits. The proteasomal activity is then necessary for proper assembly of sarcomeres and for targeting glutamate receptors to the synapse. In contrast, TGF-β/activin pathway represses autophagy through the suppression of Atg1 expression. Consequently, autophagy is elevated in TGF-β/activin signaling-blocked muscle which in turn has a protective role against the threats to PQC. Together, these results demonstrate a multifaceted role for the TGF-β/activin pathway in regulating PQC of young and growing muscle in Drosophila.",
+      "authors": [
+        {
+          "name": "Myung-Jun Kim"
+        },
+        {
+          "name": "Michael B O'Connor"
+        }
+      ],
+      "publishedAt": "2026-11-08",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42964833",
+      "title": "A longitudinal study of rotenone-induced Parkinsonism in mice.",
+      "summary": "Parkinson's disease (PD) is a progressive neurodegenerative disorder characterized by the loss of dopaminergic neurons in the substantia nigra. Environmental toxins such as rotenone are widely used to model PD pathology and evaluate new drugs in PD; however, the long-term consequences of toxin exposure remain poorly understood. Here, we performed a longitudinal mouse study to examine the onset, progression, and long-term outcomes of rotenone-induced PD-like phenotypes. A 21-day regimen of rotenone (2.5 mg/kg/day, intraperitoneal) produced robust Parkinsonism-like phenotypes by week 4, including impaired locomotion, anxiety-like behaviors, and deficits in motor coordination and learning, accompanied by reduced tyrosine hydroxylase (TH) expression and loss of TH+ neurons in the substantia nigra pars compacta. Unexpectedly, these behavioral and neuropathological deficits gradually resolved over time. After 12 months of toxin cessation, rotenone-treated mice exhibited behavioral performance and TH expression levels comparable to untreated controls. These findings reveal a previously underappreciated capacity for adaptive resilience within the nigrostriatal dopaminergic system following toxic injury.",
+      "authors": [
+        {
+          "name": "Prince Joshi"
+        },
+        {
+          "name": "Fan Fan"
+        },
+        {
+          "name": "Xuelin Lou"
+        }
+      ],
+      "publishedAt": "2026-10-31",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42960126",
+      "title": "Greenery or fear: Site use of Himalayan ibex in a predator-dominant landscape.",
+      "summary": "The Himalayan ibex (Capra sibirica), a prized trophy and crucial prey species of the snow leopard (Panthera uncia), has increased in abundance alongside snow leopard populations due to ongoing conservation efforts. However, the behavioral strategies that enable ibex to persist in the predator-rich mountain ecosystems of Pakistan remain poorly understood. To address this gap, we investigated habitat use and co-occurrence patterns of Himalayan ibex and snow leopards by using occupancy modeling. Ibex occupancy was positively associated with rugged terrain and higher elevations and negatively associated with distance from roads. Snow leopards showed a preference for rugged habitats. The co-occurrence of these species was mediated by roads. Ibex avoided snow leopard abundant areas by shifting toward more remote locations to reduce predation risk, whereas snow leopards adaptively track these prey movements. This study suggests that protecting remote, heterogeneous landscapes is essential for sustaining mountain ecosystems and predator-prey dynamics in northern Pakistan.",
+      "authors": [
+        {
+          "name": "Hussain Ali"
+        },
+        {
+          "name": "Chris Sutherland"
+        },
+        {
+          "name": "Jaffar Ud Din"
+        },
+        {
+          "name": "Muhammad Ali Nawaz"
+        }
+      ],
+      "publishedAt": "2026-10-30",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42920979",
+      "title": "Avoiding spiders: Affective context shapes tactile sensitivity during movement.",
+      "summary": "Tactile sensitivity is typically reduced during voluntary movements, a phenomenon known as tactile suppression. While affective context is known to modulate tactile processing, it remains unclear how it influences tactile suppression. In a virtual reality (VR) environment, we investigated tactile sensitivity during movements to avoid threatening (spider) or approach non-threatening (rabbit) stimulus, involving arm flexion or extension and during the limb at rest (baseline). Tactile sensitivity was measured using brief vibrations delivered through the VR controller. Detection thresholds were higher during movement than at baseline, confirming tactile suppression. Both affective context and movement type modulated suppression: avoiding threatening stimulus and extending the arm, each increased suppression. A control experiment using neutral, geometric objects showed similar tactile sensitivity for arm extension and flexion. These findings demonstrate that affective context shapes tactile suppression during movement.",
+      "authors": [
+        {
+          "name": "Belkis Ezgi Arikan"
+        },
+        {
+          "name": "Meaghan McManus"
+        },
+        {
+          "name": "Katja Fiehler"
+        }
+      ],
+      "publishedAt": "2026-10-25",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42920898",
+      "title": "Distinct electrophysiological correlates of low- and high-level visual consciousness with minimized post-perceptual processing.",
+      "summary": "Conscious visual phenomenology comprises multiple representational levels, from basic features to integrated percepts, raising the question of how the neural correlates of consciousness (NCC) differentiate accordingly. Event-related potential (ERP) studies identified early occipitotemporal negativities as reliable NCC; yet, it remains unclear whether these capture conscious content beyond low-level features and extend to higher-order representations. Moreover, whether later ERP components index higher-level conscious percepts independent of task-related processing remains contested. The present study addresses this question using an inattentional blindness (IB) paradigm that isolates three representational levels of conscious perception (no, low- or high-level awareness) for an identical stimulus under minimized post-perceptual processing. Across 85 healthy participants, low-level line perception was indexed by an enhanced early occipital negativity, whereas high-level face perception additionally recruited a right-lateralized occipitotemporal negativity, followed by medial posterior positivities. These findings reveal systematic spatiotemporal differentiation of awareness-related potentials across representational levels of consciousness under task-irrelevant conditions.",
+      "authors": [
+        {
+          "name": "Annika Hense"
+        },
+        {
+          "name": "Antje Peters"
+        },
+        {
+          "name": "Torge Dellert"
+        },
+        {
+          "name": "Maximilian Bruchmann"
+        },
+        {
+          "name": "Thomas Straube"
+        }
+      ],
+      "publishedAt": "2026-10-25",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42920890",
+      "title": "Distinct neural oscillatory patterns underlying music-evoked emotions: Evidence from MEG and subjective reports.",
+      "summary": "Music has a powerful capacity to evoke emotional responses. This study explored the neural and subjective correlates of pleasant and unpleasant emotions elicited by music. 30 volunteers (15 women) listened to 60 film musical excerpts (30 unpleasant and 30 pleasant) from the Film Music Stimulus Set (FMSS) while their neural activity was recorded using magnetoencephalography (MEG). Participants gave self-reports of hedonic valence, emotional arousal, happiness, fear, and musical preference on nine-point Likert scales. Results showed that pleasant music was evaluated as more pleasant, happier, and preferred compared to unpleasant music, which was rated as more arousing and as evoking higher levels of fear. Neural activity revealed greater source-level oscillatory power for pleasant music in theta and beta frequency bands, with distinct regional patterns in the brain. These findings enhance understanding of music-induced emotions and suggest potential clinical applications for treating mood disorders and emotional dysregulation.",
+      "authors": [
+        {
+          "name": "Alejandro Espino-Payá"
+        },
+        {
+          "name": "Sabine Prantner"
+        },
+        {
+          "name": "Nikos Chalas"
+        },
+        {
+          "name": "Andreas Wollbrink"
+        },
+        {
+          "name": "Joachim Gross"
+        },
+        {
+          "name": "M Carmen Pastor"
+        },
+        {
+          "name": "Nieves Fuentes-Sánchez"
+        },
+        {
+          "name": "Markus Junghöfer"
+        }
+      ],
+      "publishedAt": "2026-10-25",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42909240",
+      "title": "Phototrophs trade growth for defense through graded regulatory states under escalating oxidative stress.",
+      "summary": "Oxygenic phototrophs face a paradox: the reactions powering growth generate oxidative stress, whose damage or costly defense reduces fitness. In Synechococcus elongatus PCC 7942, we profiled steady-state growth, photophysiology, and transcription across a dissolved oxygen gradient (0-374% air saturation). Independent component analysis of these transcriptomes within a 407-sample compendium resolved 78 regulatory modules (iModulons) explaining 72.3% of variance. Growth rate followed a graded, sigmoidal dose-response, which we divide into low, moderate, and severe stress regimes (14% and 47% decline, then arrest). Stress-responsive module activities shifted across these regimes: low stress activated SufR and PerR at minimal growth cost; moderate stress modulated three RpaB states, then ManR, CopR, and Rre1; and severe stress triggered a dual-control checkpoint with a fourth RpaB state linking redox sensing to the stringent response and growth arrest. Protein oxidation, pigments, and energy transfer tracked these transitions, suggesting cells trade growth for defense through discrete regulatory states.",
+      "authors": [
+        {
+          "name": "Zachary Johnson"
+        },
+        {
+          "name": "Natalie C Sadler"
+        },
+        {
+          "name": "Marci Garcia"
+        },
+        {
+          "name": "Ashley Gilliam"
+        },
+        {
+          "name": "Eric Allen Hill"
+        },
+        {
+          "name": "Xiaolu Li"
+        },
+        {
+          "name": "Jesse B Trejo"
+        },
+        {
+          "name": "Wei-Jun Qian"
+        },
+        {
+          "name": "Margaret S Cheung"
+        },
+        {
+          "name": "Pavlo Bohutskyi"
+        }
+      ],
+      "publishedAt": "2026-10-23",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42894637",
+      "title": "Volume electron microscopy reveals oligodendrocyte axon selection patterns and spatial assembly of myelin and nodes.",
+      "summary": "Oligodendrocytes myelinate multiple axons, requiring single cells to coordinate target selection, sheath growth, and node formation across complex cortical geometry. We combined serial block-face electron microscopy, complete segmentation, and three-dimensional reconstruction to analyze early-myelinating oligodendrocytes in the somatosensory cortex of a postnatal day 14 rat at single-cell and nanoscale resolution. Individual oligodendrocytes initiated myelination across all contacted axons, while early ensheathment decreased with increasing process distance from the soma. Each oligodendrocyte also contacted axons within a restricted caliber range, independently of wrapping progression. At prospective nodes of Ranvier, transient cytoplasmic projections extended into axonal domains from adjacent oligodendrocytes and converged near presumptive paranodes. These observations support a structural model in which oligodendrocyte geometry, cell-specific axon selection, and intercellular interactions jointly organize early cortical myelination and nodal assembly, providing testable hypotheses for developmental myelination and repair after demyelination.",
+      "authors": [
+        {
+          "name": "Martina Monaco"
+        },
+        {
+          "name": "Vanessa Chiappini"
+        },
+        {
+          "name": "Maria Fernanda Veloz Castillo"
+        },
+        {
+          "name": "Kalpana Kare"
+        },
+        {
+          "name": "Marinella Clerico"
+        },
+        {
+          "name": "Luca Bartesaghi"
+        },
+        {
+          "name": "Corrado Calì"
+        }
+      ],
+      "publishedAt": "2026-10-19",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "10.1371/journal.pone.0329920",
+      "title": "Examining the role of emotion regulation, anger, and anxiety in misophonia: A network model",
+      "summary": "Background\nMisophonia, characterized by intense negative reactions to specific sounds, is associated with significant emotional distress. The connections among misophonia severity and factors like emotion regulation, anxiety, and anger remain unclear. This study uses network analysis to clarify these relationships in adults with self-reported misophonia symptoms, identifying key intervention targets and processes driving symptom severity.\n\n\nMethods\nA community sample of adults with misophonia symptoms and impairment (N = 205) completed psychometrically validated self-report measures, including the Duke Misophonia Questionnaire (DMQ), Misophonia Questionnaire (MQ), and assessments of emotion regulation, anxiety, and anger. Network analysis was conducted to identify associations among misophonia severity, anxiety, anger, and emotion regulation components. Centrality indices were used to evaluate the most influential factors in the network, and community detection was employed to explore underlying clusters.\n\n\nResults\nMisophonia severity was most strongly associated with emotional awareness, nonacceptance, anxiety, and anger. The network analysis revealed that nodes representing emotion regulation strategies, nonacceptance, and impulsivity had the highest centrality and expected influence values, indicating their significant role in the overall network. Community detection identified two distinct clusters: one reflecting emotion dysregulation and misophonia, and the other related to emotional clarity and awareness.\n\n\nConclusions\nThis study highlights the importance of nonacceptance, emotional awareness, anger, and anxiety in understanding misophonia severity. Interventions targeting anger, anxiety, and nonacceptance may be most effective in managing misophonia symptoms. Future research should explore these relationships longitudinally to better inform treatment approaches.",
+      "authors": [
+        {
+          "name": "Matthew R. Hanna"
+        },
+        {
+          "name": "Amanda C. Collins"
+        },
+        {
+          "name": "Yanyan Shan"
+        },
+        {
+          "name": "Bill Chen"
+        },
+        {
+          "name": "Siyuan Wang"
+        },
+        {
+          "name": "M. Zachary Rosenthal"
+        }
+      ],
+      "publishedAt": "2026-11-20",
+      "source": "Crossref"
+    }
+  },
+  {
+    "paper": {
+      "id": "10.1111/j.1467-9280.2009.02427.x",
+      "title": "Smile Through Your Fear and Sadness",
+      "summary": "It is well established that animal communication signals have adapted to the evolutionary pressures of their environment. For example, the low-frequency vocalizations of the elephant are tailored to long-range communications, whereas the high-frequency trills of birds are adapted to their more localized acoustic niche. Like the voice, the human face transmits social signals about the internal emotional state of the transmitter. Here, we address two main issues: First, we characterized the spectral composition of the facial features signaling each of the six universal expressions of emotion (happiness, sadness, fear, disgust, anger, and surprise). From these analyses, we then predicted and tested the effectiveness of the transmission of emotion signals over different viewing distances. We reveal a gradient of recognition over viewing distances constraining the relative adaptive usefulness of facial expressions of emotion (distal expressions are good signals over a wide range of viewing distances; proximal expressions are suited to closer-range communication).",
+      "authors": [
+        {
+          "name": "Fraser W. Smith"
+        },
+        {
+          "name": "Philippe G. Schyns"
+        }
+      ],
+      "publishedAt": "2026-11-20",
+      "source": "Crossref"
+    }
+  }
+]
