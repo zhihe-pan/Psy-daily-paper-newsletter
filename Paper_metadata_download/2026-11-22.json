@@ -1,0 +1,31 @@
+[
+  {
+    "paper": {
+      "id": "42887968",
+      "title": "Photoactivated tetrahedral DNA nanostructure for intracellular imaging of ATP.",
+      "summary": "BACKGROUND: Adenosine triphosphate (ATP) is not only the most direct energy source in living organisms, but also acts as a signaling molecule to regulate various biological pathways. Thus, accurate detection and intracellular imaging of ATP are of great significance for disease diagnosis. However, existing ATP detection and imaging methods generally face challenges of relatively low sensitivity and limited spatiotemporal accuracy. In this work, a photoactivated tetrahedral DNA nanostructure (PTDN) was developed for sensitive detection and precise intracellular imaging of ATP.\nRESULTS: After PTDN was delivered into cells, ultraviolet (UV) irradiation cleaved the photocleavable linker on H1, activating PTDN. The ATP in the cells bonded to its adapter on S4, releasing T strand and triggering catalytic hairpin assembly (CHA) among H1, H2 and H3, restoring fluorescence signal. The T strand released from this process continuously triggered CHA reactions, forming TDN-mediated DNA nanonetwork. The developed PTDN system achieved significant signal amplification through spatial confinement effects for ATP detection with a limit of detection (LOD) as low as 0.41 nM. Combined with the exogenous light activation strategy, precise intracellular imaging of MCF-7 and HeLa cells was achieved. Moreover, this system exhibited excellent selectivity for ATP and has been successfully applied to the actual sample testing of cell lysates.\nSIGNIFICANCE: This work simultaneously overcomes the challenges of low sensitivity and limited spatiotemporal accuracy in ATP detection and in situ cell imaging. This externally light-activated DNA nanonetwork provides a promising fluorescence platform for the sensitive and accurate monitoring and imaging of biomarkers, and is expected to be extended for the detection of other signaling molecules.",
+      "authors": [
+        {
+          "name": "Shiyu He"
+        },
+        {
+          "name": "Haiping Tan"
+        },
+        {
+          "name": "Jinwen Zhao"
+        },
+        {
+          "name": "Ruo Yuan"
+        },
+        {
+          "name": "Yifan Ruan"
+        },
+        {
+          "name": "Shihong Chen"
+        }
+      ],
+      "publishedAt": "2026-10-16",
+      "source": "PubMed"
+    }
+  }
+]
