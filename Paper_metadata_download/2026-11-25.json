@@ -1,0 +1,229 @@
+[
+  {
+    "paper": {
+      "id": "42994331",
+      "title": "Rhein suppresses prostate cancer growth in vitro and in vivo by inducing apoptosis and ferroptosis.",
+      "summary": "BACKGROUND: Prostate cancer (PCa) is one of the most common malignancies in men worldwide. Conventional treatments face limitations including drug resistance, metastasis, and adverse effects. Rhein, an 1,8-dihydroxyanthraquinone derived from Rheum palmatum, exhibits anti-inflammatory and anti-tumor activities. However, its therapeutic potential against PCa and its ability to simultaneously induce multiple programmed cell death pathways remain unclear.\nOBJECTIVE: To systematically investigate the anti-tumor effects of rhein on PCa cells in vitro and in vivo, and elucidate the molecular mechanisms, with a focus on whether rhein induces both apoptosis and ferroptosis.\nMETHODS: The anti-proliferative effects of rhein on PCa cells (PC-3 and DU-145) were assessed using CCK-8, EdU incorporation, colony formation, and live/dead staining. Cell migration and EMT-related proteins were evaluated by wound healing, Transwell, and Western blot. Network pharmacology and transcriptomics were used to predict the potential mechanisms. Flow cytometry served to determine cell cycle distribution and apoptosis rate. Ferroptosis was evaluated by measuring ROS, Fe2+, MDA levels, along with C11-BODIPY staining, GSH quantification, and transmission electron microscopy (TEM) analysis, with rescue experiments using ferroptosis inhibitors. Pathway involvement was validated through MAPK agonist/inhibitor assays and p53 siRNA knockdown targeting the SLC7A11/GPX4 pathway. A DU-145 xenograft model was established to assess the in vivo anti-tumor activity and systemic toxicity of rhein.\nRESULTS: Rhein inhibited PCa cell proliferation, migration, and EMT, arrested the cell cycle at S phase, and significantly induced apoptosis. Rhein treatment increased ROS, Fe2+, and MDA levels, depleted GSH, and induced lipid peroxidation and mitochondrial morphological changes typical of ferroptosis, the biochemical markers of ferroptosis were reversed by ferroptosis inhibitor, confirming the specificity of rhein-induced ferroptosis. Mechanistically, MAPK pathway agonists reversed rhein-induced apoptosis, while p53 knockdown attenuated rhein-induced SLC7A11/GPX4 downregulation, confirming that rhein acts through MAPK suppression and the p53/SLC7A11/GPX4 axis. In vivo, rhein significantly inhibited DU-145 xenograft growth, reduced the expression of GPX4, SLC7A11, and Ki-67 in tumor tissues, and showed no significant toxicity to the liver and kidney.\nCONCLUSION: Rhein effectively inhibits PCa growth in vitro and in vivo by inducing S-phase arrest, promoting apoptosis (via MAPK pathway), and inducing ferroptosis (via p53/SLC7A11/GPX4 pathway), with low systemic toxicity. Unlike previous studies focusing on a single death pathway, this work demonstrates that rhein simultaneously induces apoptosis and ferroptosis in PCa via complementary MAPK and p53/SLC7A11/GPX4 mechanisms, supporting natural product-based multi-mechanistic strategies for cancer therapy.",
+      "authors": [
+        {
+          "name": "Tingting Yang"
+        },
+        {
+          "name": "Limei Yang"
+        },
+        {
+          "name": "Zhihong Zhou"
+        },
+        {
+          "name": "Mulan Li"
+        },
+        {
+          "name": "Mingyu Ji"
+        },
+        {
+          "name": "Zhixing Li"
+        },
+        {
+          "name": "Zhiyi Luo"
+        },
+        {
+          "name": "Peilin Yang"
+        }
+      ],
+      "publishedAt": "2026-11-17",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42829813",
+      "title": "Autoimmune adrenalitis in adolescents in Germany: a series of 4 cases.",
+      "summary": "OBJECTIVES: This case report summarises clinical findings in four adolescents (aged 14-17 years) diagnosed with autoimmune adrenalitis at a German University Children's Hospital between 2019 and 2025.\nCASE PRESENTATION: Clinical presentation varied and included fatigue, arterial hypotension, depressive symptoms, hyperpigmentation of the skin, and in one case acute kidney failure associated with acute viral infection. All patients showed hyponatraemia, reduced cortisol levels in serum and elevated adrenocorticotropic hormone concentrations at diagnosis. Autoimmune adrenalitis was confirmed in all patients by the presence of autoantibodies against the adrenal cortex. Interestingly, three of the four cases were diagnosed within a period of only 18 months.\nCONCLUSIONS: Our case series of autoimmune adrenalitis may suggest a potential increase  in the annual incidence among adolescents. The clinical diversity of symptoms at diagnosis ranging from depression to acute kidney failure was striking. Since delayed diagnosis may lead to life-threatening complications, awareness of clinical variability is essential for physicians to achieve timely diagnosis. Cortisol levels should be routinely measured in patients with unclear fatigue and hyponatraemia.",
+      "authors": [
+        {
+          "name": "Luise Pudig"
+        },
+        {
+          "name": "Lorenz Greifoner"
+        },
+        {
+          "name": "Marlene Dieke"
+        },
+        {
+          "name": "Constanze Vilser"
+        },
+        {
+          "name": "Simone Hettmer"
+        },
+        {
+          "name": "Susann Weihrauch-Blüher"
+        }
+      ],
+      "publishedAt": "2026-11-06",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42753475",
+      "title": "Exploring the potential benefits of combining cannabidiol and beta-caryophyllene for neuropathic and inflammatory pain: A systematic review.",
+      "summary": "PURPOSE: In this review, we examined the analgesic effect of the combination of cannabidiol (CBD) and beta-caryophyllene (BCP) in different pain conditions.\nMETHODS: A systematic review was conducted in accordance with the Preferred Reporting Items for Systematic Reviews and Meta-Analyses guidelines. Literature searches were performed across major academic databases (Google Scholar, Web of Science, and PubMed) from 2009 to 2026 to identify studies investigating the analgesic effect of the combination of CBD and BCP.\nRESULTS: The search identified 31 records. Ten reports were screened and assessed for eligibility, and five studies met the inclusion and exclusion criteria. Findings consistently demonstrate that the combination of CBD and BCP reduces neuropathic and inflammatory pain in rodent models. This effect does not result in adverse outcomes associated with cannabinoid receptor 1 (CB1). This review discusses potential mechanisms by which this combination produces synergistic analgesic effects.\nCONCLUSION: The literature discussed in this review suggests that the combination of CBD and BCP can work in synergy in chronic pain without cannabinoid receptor 1 central side effects. These preclinical findings provide the rationale for future preclinical and clinical studies.",
+      "authors": [
+        {
+          "name": "Khalid Benamar"
+        }
+      ],
+      "publishedAt": "2026-11-17",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42559968",
+      "title": "Sustainability comparison of three clinical laboratory analytical systems in Spain.",
+      "summary": "OBJECTIVES: Clinical laboratories face growing demands to balance healthcare needs with cost and resource efficiency. Solutions that optimise space, cut costs, and minimise water use and waste offer a competitive edge. This study compares water consumption, waste generation, and reagent efficiency across three analytical systems.\nMETHODS: Analytical solutions from Roche Diagnostics, S.L., Ortho Clinical Diagnostics, and Siemens Healthineers were compared in seven regional hospital laboratories in the provinces of Córdoba and Jaén from 2013 to 2019. The activity of each laboratory, water consumption, amount of solid and liquid waste produced, and reagent efficiency were calculated with the associated costs during these periods.\nRESULTS: Centre activity levels were stable, with yearly changes usually below 7 %. There was no environmental impact from water consumption from 2016 to 2017 with Ortho analysers. The average annual water consumption using conventional analytical solutions was 2,100 m3. The solid waste management costs of all the laboratories showed no significant variations over time, with an average annual expenditure of approximately €16,000. By contrast, a marked reduction in liquid waste was observed between 2015 and 2018, with liquid waste management costs across the public healthcare network decreasing by an average of €41,278 annually (-85 %). Reagent efficiency depended on hospital structure, complexity, and the quantity of reagent presentations per test. Dry chemistry methods overall demonstrated the highest level of efficiency.\nCONCLUSIONS: The implementation of dry chemistry analytical platforms resulted in significant savings in reagents, liquid waste, water consumption, and related consumables.",
+      "authors": [
+        {
+          "name": "Antonio Fernández Suárez"
+        },
+        {
+          "name": "Carlos Granda Bello"
+        }
+      ],
+      "publishedAt": "2026-11-02",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42319994",
+      "title": "A realistic and sustainable clinical laboratory waste management: challenges and opportunities in resource - limited settings.",
+      "summary": "INTRODUCTION: Laboratory medicine remains the cornerstone of disease detection, clinical management, monitoring, and public health surveillance. Increasing population needs and rising disease burdens, particularly in low- and middle-income countries (LMICs), continue to expand the volume of diagnostic testing, resulting in substantial generation of biomedical waste. Effective laboratory waste management is therefore essential for protecting personnel, maintaining high-quality service delivery, and minimizing environmental harm. However, many LMICs face persistent challenges due to inadequate infrastructure, insufficient training, limited financial resources, and weak regulatory enforcement - that compromise safe and efficient waste handling.\nCONTENT: This review explores affordable, scalable and sustainable measures to strengthen laboratory waste management in resource-constrained settings. It categorizes the main types of laboratory waste - infectious/biological, chemical, sharps, and general waste - and examines common barriers to appropriate disposal. Guided by various international standards including International Organization for Standardization (ISO) 15189 and 14001, Eco-Management and Audit Scheme (EMAS) and World Health Organization (WHO) recommendations, and drawing on experiences from other LMICs, the review discusses practical, low-cost interventions such as improved test utilization, workflow optimisation, Artificial Intelligence (AI)-supported waste classification and digital tracking systems. The importance of workforce training, government engagement, public-private partnerships, and involvement of non-governmental organisations is also emphasised. To foster a culture of responsible waste management, the review proposes behavioural and accountability mechanisms including linking efficiency to key performance indicators, providing institutional recognition, documenting non-conformances, and applying consequence management where necessary.\nSUMMARY AND OUTLOOK: Sustainable and cost-effective waste management is achievable in resource-limited settings when supported by committed leadership, coordinated stakeholder action, and continuous quality improvement. Corporate bodies can play a pivotal role by providing strategic leadership, mobilising resources and strengthening workforce capacity.",
+      "authors": [
+        {
+          "name": "Bettina Chale-Matsau"
+        },
+        {
+          "name": "John I Anetor"
+        }
+      ],
+      "publishedAt": "2026-11-02",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "42103323",
+      "title": "Cysteine cathepsin proteases in apicomplexan parasites.",
+      "summary": "Cysteine cathepsins are papain-like proteases which play key roles in a large range of organisms, including apicomplexan parasites. These obligate endoparasites are responsible for many devastating diseases in human and/or animal hosts, for which available treatments are limited or face the emergence of resistance. This review presents the cysteine cathepsins expressed by five major Apicomplexa (Plasmodium falciparum, Cryptosporidium parvum, Toxoplasma gondii, Eimeria tenella and Babesia bovis), highlighting available data on their structures, specific or common features, and biological functions in the parasite biology and host-parasite interactions. Although they belong to the same phylum, apicomplexan parasites have very distinct life cycles and biology, which are well adapted to the hosts they infect and to the tissues within which they develop. Accordingly, apicomplexan cysteine cathepsins display a wide variety of functions, associated with shared (e.g., invasion of and egress from host cells) or unique (e.g., degradation of haemoglobin in P. falciparum) biological pathways. Through their crucial functions and involvement in multiple parasite stages, these parasitic proteases represent assumed therapeutic targets. The description of apicomplexan cysteine cathepsins also appears uneven within the phylum, and further exploration of their biology and role is needed to drive novel preventive or curative intervention strategies.",
+      "authors": [
+        {
+          "name": "Antoine Mayté"
+        },
+        {
+          "name": "Anne Silvestre"
+        },
+        {
+          "name": "Florian Veillard"
+        },
+        {
+          "name": "Sonia Lacroix-Lamandé"
+        },
+        {
+          "name": "Gilles Lalmanach"
+        },
+        {
+          "name": "Julie Tottey"
+        }
+      ],
+      "publishedAt": "2026-11-11",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "10.1007/s00429-026-03215-4",
+      "title": "Facial emotion recognition of sadness relates to superior parietal gray matter volume in mild cognitive impairment",
+      "summary": "Abstract\n                  Mild cognitive impairment (MCI) is associated with early, regionally selective neurodegenerative changes that may affect socioemotional functioning before atrophy becomes widespread. This study examined whether structural brain alterations in MCI relate to facial emotion recognition performance. Sixty adults (30 MCI, 30 healthy controls), aged 50–86 years, completed neuropsychological testing, the Facial emotion composite Task, and structural MRI. Whole-brain voxel-based morphometry revealed no significant gray matter volume differences between groups. However, targeted region-of-interest ROI analyses demonstrated lower right amygdala and bilateral hippocampal volumes in patients with MCI. Cortical thickness analyses identified two regions with lower thickness in MCI: the right superior parietal lobule and the left posterior insula. A significant Group × Sadness interaction indicated that the association between left superior parietal gray matter volume and sadness recognition differed between groups. Follow-up analyses of the extracted values showed a positive association in MCI, although this within-group association did not reach statistical significance, and a significant inverse association in HCs. These findings suggest that early MCI involves selective thinning in association cortices supporting attention and salience processing. The sadness-specific interaction indicates that patients with MCI may rely on preserved superior parietal structure during sadness recognition, a pattern that is consistent with structural reserve accounts, although this interpretation remains speculative given the cross-sectional design.",
+      "authors": [
+        {
+          "name": "Rachana Mahadevan"
+        },
+        {
+          "name": "Naomi Kristin Giesers"
+        },
+        {
+          "name": "Thomas Liman"
+        },
+        {
+          "name": "Karsten Witt"
+        },
+        {
+          "name": "Andrea Hildebrandt"
+        },
+        {
+          "name": "Mandy Roheger"
+        },
+        {
+          "name": "Stephanie Rosemann"
+        }
+      ],
+      "publishedAt": "2026-11-25",
+      "source": "Crossref"
+    }
+  },
+  {
+    "paper": {
+      "id": "10.1093/scan/nsag028",
+      "title": "Sensory encoding of emotion conveyed by the face and visual context",
+      "summary": "Abstract\n                  Humans rapidly detect and interpret sensory signals that have emotional meaning. The posterior superior temporal sulcus (pSTS) and amygdala are known to be critical for this ability, but their precise contributions remain contentious. Here we investigate how these structures process visual emotional cues using artificial neural networks (ANNs) to model fMRI signal acquired as human participants view complex, naturalistic stimuli. Characterizing data from two archival studies (Ns = 20, 45), we evaluated whether representations from ANNs optimized to recognize emotion from facial expressions alone or the broader visual scene differ in their ability to predict brain responses. We found that abstract representations of facial expressions were more strongly encoded in pSTS than the amygdala, whereas representations of the broader emotional scene were robustly encoded in both regions. These findings demonstrate how the pSTS operates on abstract representations of facial expressions to a greater extent than the amygdala, which more strongly encodes the broader emotional significance of visual information, depending on the context.",
+      "authors": [
+        {
+          "name": "Katherine M Soderberg"
+        },
+        {
+          "name": "Grace Jang"
+        },
+        {
+          "name": "Philip A Kragel"
+        }
+      ],
+      "publishedAt": "2026-11-25",
+      "source": "Crossref"
+    }
+  },
+  {
+    "paper": {
+      "id": "10.1177/1088868315586325",
+      "title": "Why Do People Regulate Their Emotions? A Taxonomy of Motives in Emotion Regulation",
+      "summary": "Emotion regulation involves the pursuit of desired emotional states (i.e., emotion goals) in the service of superordinate motives. The nature and consequences of emotion regulation, therefore, are likely to depend on the motives it is intended to serve. Nonetheless, limited attention has been devoted to studying what motivates emotion regulation. By mapping the potential benefits of emotion to key human motives, this review identifies key classes of motives in emotion regulation. The proposed taxonomy distinguishes between hedonic motives that target the immediate phenomenology of emotions, and instrumental motives that target other potential benefits of emotions. Instrumental motives include behavioral, epistemic, social, and eudaimonic motives. The proposed taxonomy offers important implications for understanding the mechanism of emotion regulation, variation across individuals and contexts, and psychological function and dysfunction, and points to novel research directions.",
+      "authors": [
+        {
+          "name": "Maya Tamir"
+        }
+      ],
+      "publishedAt": "2026-11-25",
+      "source": "Crossref"
+    }
+  },
+  {
+    "paper": {
+      "id": "10.26417/ejser.v5i2.p84-92",
+      "title": "A Case Study in Neuromarketing: Analysis of the Influence of Music on Advertising Effectivenes through Eye-Tracking, Facial Emotion and GSR",
+      "summary": "Music plays an important role in advertising. It exerts strong influence on the cognitive processes of attention and on the emotional processes of evaluation and, subsequently, in the attributes of the product. The goal of this work was to investigate these mechanisms using eye-tracking, facial expression and galvanic skin response (GSR).Nineteen university women were exposed to the same TV ad of a perfume in our Laboratory (https://neurolabcenter.com/). Nine of them were randomly assigned to the music version and ten to the silent version. During viewing, the visual areas of interest, the fixation time, the facial emotions and the GSR were recorded. Before and after viewing the subjects completed a questionnaire. Results: 1) The commercial with music caused a GSR level higher than without music. The GSR evaluates the degree of arousal (emotion)., 2) The facial expression indicated that the variable \"enjoy\" and \"engagement\" were significantly higher in the version with music. The positive valence (liking) presented higher values in the musical version, 3) However, the evaluation of the variable \"attention\", measured through facial expression, did not show differences between the groups. There were also no differences in the heat maps of areas of interest. 4) The attributes evaluation of the product, measured with the pre-post questionnaire, showed greater increases after exposure to the musical version, but only in specific product’s attributes, such as \"power\" but not on other attributes, such as \"status\". These results are interpreted within the framework of the recent theories of advertising and music (Oakes, 2007).",
+      "authors": [
+        {
+          "name": "Ubaldo Cuesta"
+        },
+        {
+          "name": "Luz Martínez-Martínez"
+        },
+        {
+          "name": "Jose Ignacio Niño"
+        }
+      ],
+      "publishedAt": "2026-11-25",
+      "source": "Crossref"
+    }
+  }
+]
