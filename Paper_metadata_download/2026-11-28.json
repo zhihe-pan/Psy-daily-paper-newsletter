@@ -1,0 +1,71 @@
+[
+  {
+    "paper": {
+      "id": "42759803",
+      "title": "Frequency-specific QEEG spectral power correlates of positive and negative symptom severity in recent-onset schizophrenia.",
+      "summary": "Disruptions to cortical oscillatory activity are characteristic of schizophrenia spectrum disorders (SSD). The objective of this preliminary study was to explore the dimensional relationships between QEEG frequency bands and symptom domains in a Middle Eastern sample of patients with early-stage SSD. This cross-sectional study included 18 patients of Azeri ethnicity with recent-onset SSD (illness duration < 5 years) in Tabriz, Iran. Resting-state EEG was recorded with eyes-open using a 19-channel 10-20 system. Spectral power was estimated using the multitaper method across 10 frequency bands (delta to gamma 2). Spearman correlations (FDR-corrected) were performed between regional power values and the Positive and Negative Syndrome Scale item scores. Distinct frequency- and region-specific associations emerged. Higher delta power in frontal, central, and temporal regions correlated positively with positive symptom severity, particularly hallucinations and delusions. Elevated theta and gamma power in central-parietal regions were associated with greater negative symptoms (e.g., emotional withdrawal, lack of spontaneity) and general psychopathology (e.g., depression, poor attention). Conversely, lower theta, alpha, and beta power were linked to suspiciousness and grandiosity. These findings suggest that frequency- and region-specific QEEG patterns may represent preliminary electrophysiological correlates of symptom dimensions in SSD. Studying underrepresented populations is important for improving the cultural relevance and generalizability of future schizophrenia research.",
+      "authors": [
+        {
+          "name": "Parinaz Vahid-Vahdat"
+        },
+        {
+          "name": "Reza Naghdi Sadeh"
+        },
+        {
+          "name": "Nasser Samadzadehaghdam"
+        },
+        {
+          "name": "Abbas Ebrahimi-Kalan"
+        },
+        {
+          "name": "Sara Farhang"
+        }
+      ],
+      "publishedAt": "2026-10-29",
+      "source": "PubMed"
+    }
+  },
+  {
+    "paper": {
+      "id": "10.1177/1754073914544408",
+      "title": "Gender and Emotion Expression: A Developmental Contextual Perspective",
+      "summary": "Small but significant gender differences in emotion expressions have been reported for adults, with women showing greater emotional expressivity, especially for positive emotions and internalizing negative emotions such as sadness. But when, developmentally, do these gender differences emerge? And what developmental and contextual factors influence their emergence? This article describes a developmental bio-psycho-social model of gender differences in emotion expression in childhood. Prior empirical research supporting the model, at least with mostly White middle-class U.S. samples of youth, is presented. Limitations to the extant literature and future directions for research on gender and child emotion are suggested.",
+      "authors": [
+        {
+          "name": "Tara M. Chaplin"
+        }
+      ],
+      "publishedAt": "2026-11-28",
+      "source": "Crossref"
+    }
+  },
+  {
+    "paper": {
+      "id": "10.1111/jopy.12523",
+      "title": "Attachment, emotion regulation, and well‐being in couples: Intrapersonal and interpersonal associations",
+      "summary": "Abstract\n                  \n                    Objective\n                    There is a well‐established link in the literature between secure romantic attachment orientation and psychological well‐being. The underlying processes of this link and the couple interplay between attachment and well‐being are notably less explored. Using a dyadic framework, this study examines both couple members' emotion regulation strategies as potential mediators of this link.\n                  \n                  \n                    Method\n                    One hundred and nineteen heterosexual couples completed self‐report measures on attachment style, psychological well‐being, tendency to suppress emotions, and emotion expression. Analyses were performed using the actor–partner interdependence mediation model that distinguishes between intrapersonal and interpersonal influences.\n                  \n                  \n                    Results\n                    Results showed that controlling for relationship length, there was an intrapersonal indirect effect of attachment avoidance on psychological well‐being through emotion suppression. Moreover, interpersonal indirect effects were found (a) with individual attachment avoidance being associated with partner's psychological well‐being through own emotion expression and (b) individual's attachment anxiety being associated with partner's psychological well‐being through both own's emotion expression and partner's emotion suppression.\n                  \n                  \n                    Conclusions\n                    These findings highlight the complex associations among attachment, emotion regulation, and well‐being and point out the role of emotion regulation as a potential underlying pathway explaining these associations. The results suggest the importance of considering the relational nature of emotional and attachment dynamics in couples.",
+      "authors": [
+        {
+          "name": "Tânia Brandão"
+        },
+        {
+          "name": "Marisa Matias"
+        },
+        {
+          "name": "Tiago Ferreira"
+        },
+        {
+          "name": "Joana Vieira"
+        },
+        {
+          "name": "Marc S. Schulz"
+        },
+        {
+          "name": "Paula Mena Matos"
+        }
+      ],
+      "publishedAt": "2026-11-28",
+      "source": "Crossref"
+    }
+  }
+]
